@@ -1,0 +1,18 @@
+{
+    // Editor
+    "editor.fontFamily": "Source Code Pro",
+    "editor.fontWeight": "500",
+    "editor.fontSize": 15,
+    "editor.cursorBlinking": "phase",
+
+    // HTML
+    "html.format.wrapLineLength": 0,
+    "html.suggest.angular1": false,
+    "html.suggest.ionic": false,
+
+    // External Terminal
+    "terminal.external.osxExec": "HyperTerm.app",
+
+    // Beautify config
+    "beautify.onSave": true
+}

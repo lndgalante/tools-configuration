@@ -1,0 +1,7 @@
+{
+    "ip-private": "DHCP",
+    "dns-primary-ipv4": "8.8.8.8",
+    "dns-secondary-ipv4": "8.8.4.4",
+    "dns-primary-ipv6": "2001:4860:4860::8888",
+    "dns-secondary-ipv6": "2001:4860:4860::8844"
+}

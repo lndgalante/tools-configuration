@@ -1,0 +1,73 @@
+{
+    "operative-system": {
+        "name": "MacOS Sierra",
+        "version": "10.12"
+    },
+    "terminal": {
+        "name": "HyperTerm",
+        "ver": "0.7.1"
+    },
+    "web-browser": {
+        "name": "Google Chrome",
+        "ver": "53.0.2785.143",
+        "extensions": ["Wappalyzer", "Adblock Plus", "Momentum", "PageRuler"]
+    },
+    "code-editor": {
+        "name": "Visual Studio Code",
+        "ver": "1.5.3",
+        "extensions": ["Beautify", "Bootstrap 3 Snippets"]
+    },
+    "developer-tools": [{
+        "name": "Node.js",
+        "ver": "6.7.0"
+    }, {
+        "name": "Git",
+        "ver": "2.10.0"
+    }],
+    "npm-packages": [{
+        "name": "live-server",
+        "ver": "1.1.0"
+    }, {
+        "name": "nodemon",
+        "ver": "1.10.2"
+    }, {
+        "name": "gulp",
+        "ver": "3.9.1"
+    }],
+    "design-tools": [{
+        "name": "Adobe Photoshop CC",
+        "ver": "2015.5 17"
+    }, {
+        "name": "Adobe Illustrator CC",
+        "ver": "2015.3 20"
+    }],
+    "office-suite": {
+        "name": "Microsoft Office",
+        "ver": "15.26.1"
+    },
+    "multimedia-player": {
+        "name": "VLC",
+        "ver": "2.2.4"
+    },
+    "torrent-manager": {
+        "name": "Transmission",
+        "ver": "2.92"
+    },
+    "chat-application": {
+        "name": "Slack",
+        "ver": "2.0.3"
+    },
+    "utilities": [{
+        "name": "The Unrarchiver",
+        "ver": "3.11.1"
+    }, {
+        "name": "Ccleaner",
+        "ver": "1.13.451"
+    }, {
+        "name": "Fuse macOS",
+        "ver": "3.5.2"
+    }, {
+        "name": "NTFS 3G",
+        "ver": "2016.2.22"
+    }]
+}

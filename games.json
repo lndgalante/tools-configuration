@@ -1,0 +1,9 @@
+{
+    "games": [{
+        "name": "Diablo 2",
+        "ver": "1.14d"
+    }, {
+        "name": "Diablo 3",
+        "ver": ""
+    }]
+}
