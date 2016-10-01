@@ -10,7 +10,7 @@
     "web-browser": {
         "name": "Google Chrome",
         "ver": "53.0.2785.143",
-        "extensions": ["Wappalyzer", "Adblock Plus", "Momentum", "PageRuler"]
+        "extensions": ["Adblock Plus", "Wappalyzer", "JSON Viewer", "Momentum", "PageRuler"]
     },
     "code-editor": {
         "name": "Visual Studio Code",
