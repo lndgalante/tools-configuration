@@ -15,7 +15,8 @@
     "code-editor": {
         "name": "Visual Studio Code",
         "ver": "1.5.3",
-        "extensions": ["Beautify", "Bootstrap 3 Snippets"]
+        "extensions": ["Beautify", "Bootstrap 3 Snippets"],
+        "themes": ["Seti Icon Theme (Native)", "Material Theme"]
     },
     "developer-tools": [{
         "name": "Node.js",
