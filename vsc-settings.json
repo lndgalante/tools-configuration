@@ -11,7 +11,7 @@
     "html.suggest.ionic": false,
 
     // External Terminal
-    "terminal.external.osxExec": "HyperTerm.app",
+    "terminal.external.osxExec": "Hyper.app",
 
     // Beautify config
     "beautify.onSave": true

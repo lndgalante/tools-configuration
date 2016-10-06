@@ -4,8 +4,8 @@
         "version": "10.12"
     },
     "terminal": {
-        "name": "HyperTerm",
-        "ver": "0.7.1"
+        "name": "Hyper.app",
+        "ver": "0.8.1"
     },
     "web-browser": {
         "name": "Google Chrome",
@@ -16,14 +16,14 @@
         "name": "Visual Studio Code",
         "ver": "1.5.3",
         "extensions": ["Beautify", "Bootstrap 3 Snippets", "jQuery Code Snippets"],
-        "themes": ["Seti Icon Theme (Native)", "Material Theme"]
+        "themes": ["Seti Icon Theme", "Material Theme"]
     },
     "developer-tools": [{
         "name": "Node.js",
         "ver": "6.7.0"
     }, {
         "name": "Git",
-        "ver": "2.10.0"
+        "ver": "2.10.1"
     }],
     "npm-packages": [{
         "name": "express",
@@ -66,12 +66,9 @@
         "ver": "3.11.1"
     }, {
         "name": "Ccleaner",
-        "ver": "1.13.451"
+        "ver": "1.14.451"
     }, {
-        "name": "Fuse macOS",
-        "ver": "3.5.2"
-    }, {
-        "name": "NTFS 3G",
-        "ver": "2016.2.22"
+        "name": "Tuxera NTFS",
+        "ver": "2016"
     }]
 }
