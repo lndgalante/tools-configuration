@@ -15,7 +15,7 @@
     "code-editor": {
         "name": "Visual Studio Code",
         "ver": "1.5.3",
-        "extensions": ["Beautify", "Bootstrap 3 Snippets", "jQuery Code Snippets"],
+        "extensions": ["Beautify", "Path Intellisense", "Bootstrap 3 Snippets", "jQuery Code Snippets"],
         "themes": ["Seti Icon Theme", "Material Theme"]
     },
     "developer-tools": [{
