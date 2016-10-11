@@ -11,6 +11,6 @@
     "html.suggest.ionic": false,
     // External Terminal
     "terminal.external.osxExec": "Hyper.app",
-    // Beautify config
-    "beautify.onSave": true
+    // Extensions config
+    "extensions.autoUpdate": true
 }
