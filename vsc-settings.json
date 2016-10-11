@@ -4,13 +4,12 @@
     "editor.fontWeight": "500",
     "editor.fontSize": 15,
     "editor.cursorBlinking": "phase",
-    "editor.formatOnSave": true,
     // HTML
     "html.format.wrapLineLength": 0,
     "html.suggest.angular1": false,
     "html.suggest.ionic": false,
     // External Terminal
     "terminal.external.osxExec": "Hyper.app",
-    // Extensions config
-    "extensions.autoUpdate": true
+    // Beautify config
+    "beautify.onSave": true
 }
