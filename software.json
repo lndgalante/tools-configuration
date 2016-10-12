@@ -9,7 +9,7 @@
     },
     "web-browser": {
         "name": "Google Chrome",
-        "ver": "53.0.2785.143",
+        "ver": "54.0.2840.59",
         "extensions": [
             "Adblock Plus",
             "Wappalyzer",
@@ -34,7 +34,7 @@
     },
     "developer-tools": [{
         "name": "Node.js",
-        "ver": "6.7.0"
+        "ver": "6.8.0"
     }, {
         "name": "Git",
         "ver": "2.10.1"
@@ -47,7 +47,7 @@
         "ver": "1.1.0"
     }, {
         "name": "nodemon",
-        "ver": "1.10.2"
+        "ver": "1.11.0"
     }, {
         "name": "gulp",
         "ver": "3.9.1"
