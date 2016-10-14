@@ -20,12 +20,13 @@
     },
     "code-editor": {
         "name": "Visual Studio Code",
-        "ver": "1.6.0",
+        "ver": "1.6.1",
         "extensions": [
             "Beautify",
             "Path Intellisense",
-            "Bootstrap 3 Snippets",
-            "jQuery Code Snippets"
+            "HTML CSS Support",
+            "jQuery Code Snippets",
+            "Bootstrap 3 Snippets"
         ],
         "themes": [
             "Seti Icon Theme",
