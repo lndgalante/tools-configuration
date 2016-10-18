@@ -5,7 +5,7 @@
     },
     "terminal": {
         "name": "Hyper.app",
-        "ver": "0.8.2"
+        "ver": "0.8.3"
     },
     "web-browser": {
         "name": "Google Chrome",
@@ -35,7 +35,7 @@
     },
     "developer-tools": [{
         "name": "Node.js",
-        "ver": "6.8.1"
+        "ver": "6.9.0"
     }, {
         "name": "Git",
         "ver": "2.10.1"
@@ -58,6 +58,9 @@
     }, {
         "name": "gulp",
         "ver": "3.9.1"
+    }, {
+        "name": "n",
+        "ver": "2.1.4"
     }],
     "design-tools": [{
         "name": "Adobe Photoshop CC",
