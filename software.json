@@ -58,16 +58,13 @@
     }, {
         "name": "gulp",
         "ver": "3.9.1"
-    }, {
-        "name": "n",
-        "ver": "2.1.4"
     }],
     "design-tools": [{
         "name": "Adobe Photoshop CC",
-        "ver": "2015.5 17"
+        "ver": "2015.5 17.0.1"
     }, {
         "name": "Adobe Illustrator CC",
-        "ver": "2015.3 20"
+        "ver": "2015.3 20.0.0"
     }],
     "office-suite": {
         "name": "Microsoft Office",
@@ -83,7 +80,7 @@
     },
     "chat-application": {
         "name": "Slack",
-        "ver": "2.0.3"
+        "ver": "2.2.8"
     },
     "utilities": [{
         "name": "The Unrarchiver",
