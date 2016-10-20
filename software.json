@@ -36,7 +36,7 @@
     },
     "developer-tools": [{
         "name": "Node.js",
-        "ver": "6.9.0"
+        "ver": "6.9.1"
     }, {
         "name": "Git",
         "ver": "2.10.1"
