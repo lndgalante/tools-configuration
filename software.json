@@ -9,7 +9,7 @@
     },
     "web-browser": {
         "name": "Google Chrome",
-        "ver": "54.0.2840.59",
+        "ver": "54.0.2840.71",
         "extensions": [
             "Adblock Plus",
             "Postman",
@@ -81,7 +81,7 @@
     },
     "chat-application": {
         "name": "Slack",
-        "ver": "2.2.8"
+        "ver": "2.2.8-beta2"
     },
     "utilities": [{
         "name": "The Unrarchiver",
