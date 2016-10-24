@@ -1,7 +1,7 @@
 {
     "operative-system": {
         "name": "MacOS Sierra",
-        "version": "10.12"
+        "version": "10.12.1"
     },
     "terminal": {
         "name": "Hyper.app",
@@ -81,7 +81,7 @@
     },
     "chat-application": {
         "name": "Slack",
-        "ver": "2.2.8-beta2"
+        "ver": "2.3.0"
     },
     "utilities": [{
         "name": "The Unrarchiver",
