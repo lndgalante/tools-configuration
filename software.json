@@ -92,5 +92,8 @@
     }, {
         "name": "Tuxera NTFS",
         "ver": "2016"
+    }, {
+        "name": "OnScreen Control",
+        "ver": "1.36"
     }]
 }
