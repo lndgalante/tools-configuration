@@ -3,6 +3,10 @@
         "name": "MacOS Sierra",
         "version": "10.12.1"
     },
+    "package-manager": {
+        "name": "HomeBrew",
+        "version": "1.0.8"
+    },
     "terminal": {
         "name": "Hyper.app",
         "ver": "0.8.3"
