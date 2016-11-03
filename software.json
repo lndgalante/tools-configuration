@@ -5,7 +5,7 @@
     },
     "package-manager": {
         "name": "HomeBrew",
-        "version": "1.0.8"
+        "version": "1.0.9"
     },
     "terminal": {
         "name": "Hyper.app",
@@ -13,7 +13,7 @@
     },
     "web-browser": {
         "name": "Google Chrome",
-        "ver": "54.0.2840.71",
+        "ver": "54.0.2840.87",
         "extensions": [
             "Adblock Plus",
             "Postman",
@@ -25,9 +25,8 @@
     },
     "code-editor": {
         "name": "Visual Studio Code",
-        "ver": "1.6.1",
+        "ver": "1.7.0",
         "extensions": [
-            "Beautify",
             "Path Intellisense",
             "HTML CSS Support",
             "jQuery Code Snippets",
@@ -38,39 +37,52 @@
             "Material Theme"
         ]
     },
-    "developer-tools": [{
-        "name": "Node.js",
-        "ver": "7.0.0"
-    }, {
-        "name": "Git",
-        "ver": "2.10.1"
-    }],
-    "npm-packages": [{
-        "name": "express",
-        "ver": "4.14.0"
-    }, {
-        "name": "request",
-        "ver": "2.75.0"
-    }, {
-        "name": "cors",
-        "ver": "2.8.1"
-    }, {
-        "name": "live-server",
-        "ver": "1.1.0"
-    }, {
-        "name": "nodemon",
-        "ver": "1.11.0"
-    }, {
-        "name": "gulp",
-        "ver": "3.9.1"
-    }],
-    "design-tools": [{
-        "name": "Adobe Photoshop CC",
-        "ver": "2015.5 17.0.1"
-    }, {
-        "name": "Adobe Illustrator CC",
-        "ver": "2015.3 20.0.0"
-    }],
+    "developer-tools": [
+        {
+            "name": "Node.js",
+            "ver": "7.0.0"
+        },
+        {
+            "name": "Git",
+            "ver": "2.10.2"
+        }
+    ],
+    "npm-packages": [
+        {
+            "name": "express",
+            "ver": "4.14.0"
+        },
+        {
+            "name": "request",
+            "ver": "2.76.0"
+        },
+        {
+            "name": "cors",
+            "ver": "2.8.1"
+        },
+        {
+            "name": "live-server",
+            "ver": "1.1.0"
+        },
+        {
+            "name": "nodemon",
+            "ver": "1.11.0"
+        },
+        {
+            "name": "gulp",
+            "ver": "3.9.1"
+        }
+    ],
+    "design-tools": [
+        {
+            "name": "Adobe Photoshop CC",
+            "ver": "2015.5 17.0.1"
+        },
+        {
+            "name": "Adobe Illustrator CC",
+            "ver": "2015.3 20.0.0"
+        }
+    ],
     "office-suite": {
         "name": "Microsoft Office",
         "ver": "15.27"
@@ -87,17 +99,22 @@
         "name": "Slack",
         "ver": "2.3.0"
     },
-    "utilities": [{
-        "name": "The Unrarchiver",
-        "ver": "3.11.1"
-    }, {
-        "name": "Ccleaner",
-        "ver": "1.14.451"
-    }, {
-        "name": "Tuxera NTFS",
-        "ver": "2016"
-    }, {
-        "name": "OnScreen Control",
-        "ver": "1.36"
-    }]
+    "utilities": [
+        {
+            "name": "The Unrarchiver",
+            "ver": "3.11.1"
+        },
+        {
+            "name": "Ccleaner",
+            "ver": "1.14.451"
+        },
+        {
+            "name": "Tuxera NTFS",
+            "ver": "2016"
+        },
+        {
+            "name": "OnScreen Control",
+            "ver": "1.36"
+        }
+    ]
 }

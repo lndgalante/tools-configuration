@@ -10,6 +10,9 @@
     "html.suggest.ionic": false,
     // External Terminal
     "terminal.external.osxExec": "Hyper.app",
-    // Beautify config
-    "beautify.onSave": true
+    // Formatting config
+    "editor.formatOnSave": true,
+    // TypeScript config
+    "typescript.useCodeSnippetsOnMethodSuggest": false,
+    "typescript.format.enable": false
 }
