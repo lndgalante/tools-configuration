@@ -54,6 +54,10 @@
             "ver": "4.14.0"
         },
         {
+            "name": "passport",
+            "ver": "0.3.2"
+        },
+        {
             "name": "request",
             "ver": "2.76.0"
         },
