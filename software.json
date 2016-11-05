@@ -38,56 +38,42 @@
             "Material Theme"
         ]
     },
-    "developer-tools": [
-        {
-            "name": "Node.js",
-            "ver": "7.0.0"
-        },
-        {
-            "name": "Git",
-            "ver": "2.10.2"
-        }
-    ],
-    "npm-packages": [
-        {
-            "name": "express",
-            "ver": "4.14.0"
-        },
-        {
-            "name": "passport",
-            "ver": "0.3.2"
-        },
-        {
-            "name": "request",
-            "ver": "2.76.0"
-        },
-        {
-            "name": "cors",
-            "ver": "2.8.1"
-        },
-        {
-            "name": "live-server",
-            "ver": "1.1.0"
-        },
-        {
-            "name": "nodemon",
-            "ver": "1.11.0"
-        },
-        {
-            "name": "gulp",
-            "ver": "3.9.1"
-        }
-    ],
-    "design-tools": [
-        {
-            "name": "Adobe Photoshop CC",
-            "ver": "2015.5 18.0.0"
-        },
-        {
-            "name": "Adobe Illustrator CC",
-            "ver": "2015.3 20.0.0"
-        }
-    ],
+    "developer-tools": [{
+        "name": "Node.js",
+        "ver": "7.0.0"
+    }, {
+        "name": "Git",
+        "ver": "2.10.2"
+    }],
+    "npm-packages": [{
+        "name": "express",
+        "ver": "4.14.0"
+    }, {
+        "name": "passport",
+        "ver": "0.3.2"
+    }, {
+        "name": "request",
+        "ver": "2.76.0"
+    }, {
+        "name": "cors",
+        "ver": "2.8.1"
+    }, {
+        "name": "live-server",
+        "ver": "1.1.0"
+    }, {
+        "name": "nodemon",
+        "ver": "1.11.0"
+    }, {
+        "name": "gulp",
+        "ver": "3.9.1"
+    }],
+    "design-tools": [{
+        "name": "Adobe Photoshop CC",
+        "ver": "2017 18.0.0"
+    }, {
+        "name": "Adobe Illustrator CC",
+        "ver": "2017 21.0.0"
+    }],
     "office-suite": {
         "name": "Microsoft Office",
         "ver": "15.27"
@@ -104,22 +90,17 @@
         "name": "Slack",
         "ver": "2.3.0"
     },
-    "utilities": [
-        {
-            "name": "The Unrarchiver",
-            "ver": "3.11.1"
-        },
-        {
-            "name": "Ccleaner",
-            "ver": "1.14.451"
-        },
-        {
-            "name": "Tuxera NTFS",
-            "ver": "2016"
-        },
-        {
-            "name": "OnScreen Control",
-            "ver": "1.36"
-        }
-    ]
+    "utilities": [{
+        "name": "The Unrarchiver",
+        "ver": "3.11.1"
+    }, {
+        "name": "Ccleaner",
+        "ver": "1.14.451"
+    }, {
+        "name": "Tuxera NTFS",
+        "ver": "2016"
+    }, {
+        "name": "OnScreen Control",
+        "ver": "1.36"
+    }]
 }
