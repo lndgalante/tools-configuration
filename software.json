@@ -31,7 +31,8 @@
             "HTML CSS Support",
             "jQuery Code Snippets",
             "Bootstrap 3 Snippets",
-            "react-beautify"
+            "react-beautify",
+            "beautify"
         ],
         "themes": [
             "Seti Icon Theme",

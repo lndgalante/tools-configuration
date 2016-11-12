@@ -11,7 +11,8 @@
     // External Terminal
     "terminal.external.osxExec": "Hyper.app",
     // Formatting config
-    "editor.formatOnSave": true,
+    "editor.formatOnSave": false,
+    "beautify.onSave": true,
     // TypeScript config
     "typescript.useCodeSnippetsOnMethodSuggest": false,
     "typescript.format.enable": false
