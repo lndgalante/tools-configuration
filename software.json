@@ -35,8 +35,8 @@
             "beautify"
         ],
         "themes": [
-            "Seti Icon Theme",
-            "Material Theme"
+            "Material Icon Theme",
+            "1337 Theme"
         ]
     },
     "developer-tools": [{
@@ -89,7 +89,7 @@
     },
     "chat-application": {
         "name": "Slack",
-        "ver": "2.3.0"
+        "ver": "2.3.2"
     },
     "utilities": [{
         "name": "The Unrarchiver",

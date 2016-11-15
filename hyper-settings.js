@@ -54,8 +54,8 @@ module.exports = {
         bell: 'SOUND',
         // if true, selected text will automatically be copied to the clipboard
         copyOnSelect: false
-        // URL to custom bell bellSoundURL: 'http://example.com/bell.mp3', for advanced
-        // config flags please refer to https://hyper.is/#cfg
+            // URL to custom bell bellSoundURL: 'http://example.com/bell.mp3', for advanced
+            // config flags please refer to https://hyper.is/#cfg
     },
     // a list of plugins to fetch and install from npm format:
     // [@org/]project[#version] examples:   `hyperpower`   `@company/project`

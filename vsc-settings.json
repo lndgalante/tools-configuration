@@ -2,8 +2,9 @@
     // Editor
     "editor.fontFamily": "Source Code Pro",
     "editor.fontWeight": "500",
-    "editor.fontSize": 15,
+    "editor.fontSize": 14,
     "editor.cursorBlinking": "phase",
+    "editor.wordWrap": true,
     // HTML
     "html.format.wrapLineLength": 0,
     "html.suggest.angular1": false,
@@ -15,5 +16,7 @@
     "beautify.onSave": true,
     // TypeScript config
     "typescript.useCodeSnippetsOnMethodSuggest": false,
-    "typescript.format.enable": false
+    "typescript.check.tscVersion": false,
+    "typescript.format.enable": false,
+    "window.zoomLevel": 1
 }
