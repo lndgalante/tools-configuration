@@ -1,3 +1,4 @@
 {
-    "dock": "defaults write com.apple.dock autohide-time-modifier -int 0"
+    "dock": "defaults write com.apple.dock autohide-time-modifier -int 0",
+    "itunes": "sudo chmod -x /Applications/iTunes.app"
 }
