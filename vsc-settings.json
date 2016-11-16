@@ -18,5 +18,8 @@
     "typescript.useCodeSnippetsOnMethodSuggest": false,
     "typescript.check.tscVersion": false,
     "typescript.format.enable": false,
+    // Npm config
+    "npm-intellisense.scanDevDependencies": true,
+    // Window config
     "window.zoomLevel": 1
 }
