@@ -8,7 +8,7 @@ module.exports = {
         // cmyk)
         cursorColor: 'rgba(82,139, 255, 0.8)',
         // `BEAM` for |, `UNDERLINE` for _, `BLOCK` for █
-        cursorShape: 'BLOCK',
+        cursorShape: 'BEAM',
         // color of the text
         foregroundColor: '#abb2be',
         // terminal background color
@@ -20,7 +20,7 @@ module.exports = {
         // custom css to embed in the terminal window
         termCSS: '',
         // custom padding (css format, i.e.: `top right bottom left`)
-        padding: '12px14px',
+        padding: '12px 14px',
         // the full list. if you're going to provide the full color palette, including
         // the 6 x 6 color cubes and the grayscale map, just provide an array here
         // instead of a color map object
