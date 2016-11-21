@@ -11,7 +11,7 @@
         "name": "Hyper.app",
         "ver": "0.8.3"
     },
-    "web-browser": {
+    "primary-web-browser": {
         "name": "Google Chrome",
         "ver": "54.0.2840.98",
         "extensions": [
@@ -21,6 +21,13 @@
             "JSON Viewer",
             "Momentum",
             "PageRuler"
+        ]
+    },
+    "secondary-web-browser": {
+        "name": "Mozilla Firefox",
+        "ver": "50",
+        "extensions": [
+            "Adblock Plus"
         ]
     },
     "code-editor": {
