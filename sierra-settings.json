@@ -1,4 +1,6 @@
 {
     "dock": "defaults write com.apple.dock autohide-time-modifier -int 0",
-    "itunes": "sudo chmod -x /Applications/iTunes.app"
+    "itunes": "sudo chmod -x /Applications/iTunes.app",
+    "bashFile": ".bash_profile",
+    "bashConf": "PS1='> '"
 }
