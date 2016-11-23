@@ -32,7 +32,7 @@
     },
     "code-editor": {
         "name": "Visual Studio Code",
-        "ver": "1.7.1",
+        "ver": "1.7.2",
         "extensions": [
             "Path Intellisense",
             "HTML CSS Support",
