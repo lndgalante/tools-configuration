@@ -50,7 +50,7 @@
     },
     "developer-tools": [{
         "name": "Node.js",
-        "ver": "7.1.0"
+        "ver": "7.2.0"
     }, {
         "name": "Git",
         "ver": "2.10.2"
