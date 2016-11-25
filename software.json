@@ -23,13 +23,6 @@
             "PageRuler"
         ]
     },
-    "secondary-web-browser": {
-        "name": "Mozilla Firefox",
-        "ver": "50",
-        "extensions": [
-            "Adblock Plus"
-        ]
-    },
     "code-editor": {
         "name": "Visual Studio Code",
         "ver": "1.7.2",
@@ -71,7 +64,7 @@
         "ver": "0.3.2"
     }, {
         "name": "request",
-        "ver": "2.78.1"
+        "ver": "2.79.1"
     }, {
         "name": "cors",
         "ver": "2.8.1"
@@ -94,7 +87,7 @@
     }],
     "office-suite": {
         "name": "Microsoft Office",
-        "ver": "15.28"
+        "ver": "15.28.1"
     },
     "multimedia-player": {
         "name": "VLC",
