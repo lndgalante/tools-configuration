@@ -16,6 +16,7 @@
         "ver": "54.0.2840.98",
         "extensions": [
             "Adblock Plus",
+            "React Developer Tools",
             "Postman",
             "Wappalyzer",
             "JSON Viewer",
