@@ -23,5 +23,6 @@
     // Window config
     "window.zoomLevel": 1,
     // Standard Config
-    "standard.run": "onSave"
+    "standard.run": "onSave",
+    "terminal.integrated.setLocaleVariables": false
 }
