@@ -11,18 +11,17 @@
     "html.suggest.ionic": false,
     // External Terminal
     "terminal.external.osxExec": "Hyper.app",
-    // Formatting config
+    // Formatting
     "editor.formatOnSave": true,
     "beautify.onSave": ["html", "css"],
-    // TypeScript config
+    // TypeScript
     "typescript.useCodeSnippetsOnMethodSuggest": false,
     "typescript.check.tscVersion": false,
     "typescript.format.enable": false,
-    // Npm config
+    // Npm
     "npm-intellisense.scanDevDependencies": true,
-    // Window config
+    // Window
     "window.zoomLevel": 1,
-    // Standard Config
-    "standard.run": "onSave",
-    "terminal.integrated.setLocaleVariables": false
+    // Standard
+    "standard.run": "onSave"
 }
