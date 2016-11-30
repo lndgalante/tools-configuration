@@ -55,7 +55,7 @@
         "ver": "7.2.0"
     }, {
         "name": "Git",
-        "ver": "2.10.2"
+        "ver": "2.11"
     }],
     "npm-packages": [{
         "name": "express",
