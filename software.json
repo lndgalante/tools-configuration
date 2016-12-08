@@ -13,7 +13,7 @@
     },
     "primary-web-browser": {
         "name": "Google Chrome",
-        "ver": "54.0.2840.98",
+        "ver": "55.0.2883.75",
         "extensions": [
             "Adblock Plus",
             "React Developer Tools",
@@ -52,10 +52,10 @@
     },
     "developer-tools": [{
         "name": "Node.js",
-        "ver": "7.2.0"
+        "ver": "7.2.1"
     }, {
         "name": "Git",
-        "ver": "2.11"
+        "ver": "2.11.0"
     }],
     "npm-packages": [{
         "name": "express",
@@ -100,7 +100,7 @@
     },
     "chat-application": {
         "name": "Slack",
-        "ver": "2.3.2"
+        "ver": "2.3.3"
     },
     "utilities": [{
         "name": "The Unrarchiver",
