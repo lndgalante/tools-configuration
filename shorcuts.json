@@ -1,0 +1,10 @@
+{
+    "vscode": {
+        "command-palette": "cmd + shift + p",
+        "new-window": "cmd + shift + n",
+        "integrated-terminal": "cmd + j",
+        "side-bar": "cmd + b",
+        "search": "cmd + f",
+        "save": "cmd + s"
+    }
+}
