@@ -13,7 +13,7 @@
     },
     "primary-web-browser": {
         "name": "Google Chrome",
-        "ver": "55.0.2883.75",
+        "ver": "55.0.2883.87",
         "extensions": [
             "Adblock Plus",
             "React Developer Tools",
