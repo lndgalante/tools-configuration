@@ -1,7 +1,6 @@
 {
     "dock": "defaults write com.apple.dock autohide-time-modifier -int 0",
     "screenshots": "defaults write com.apple.screencapture location ~/folder-for-screenshots",
-    "itunes": "sudo chmod -x /Applications/iTunes.app",
     "vsc-fix": "code --force-gpu-rasterization",
     "bashFile": ".bash_profile",
     "git-username": "git config --global user.name Fenwil",

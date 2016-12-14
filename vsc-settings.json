@@ -13,7 +13,6 @@
     "terminal.external.osxExec": "Hyper.app",
     // Formatting
     "editor.formatOnSave": true,
-    "beautify.onSave": ["html", "css"],
     // TypeScript
     "typescript.useCodeSnippetsOnMethodSuggest": false,
     "typescript.check.tscVersion": false,
