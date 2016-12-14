@@ -5,6 +5,7 @@
         "integrated-terminal": "cmd + j",
         "side-bar": "cmd + b",
         "search": "cmd + f",
-        "save": "cmd + s"
+        "save": "cmd + s",
+        "zen-mode": "cmd + k + z"
     }
 }
