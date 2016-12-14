@@ -23,5 +23,8 @@
     // Window
     "window.zoomLevel": 1,
     // Standard
-    "standard.run": "onSave"
+    "standard.run": "onSave",
+    // Telemetry
+    "telemetry.enableTelemetry": false,
+    "telemetry.enableCrashReporter": false
 }

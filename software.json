@@ -1,39 +1,44 @@
 {
     "operative-system": {
         "name": "MacOS Sierra",
-        "version": "10.12.1"
+        "version": "10.12.2"
     },
     "package-manager": {
         "name": "HomeBrew",
-        "version": "1.1.2"
+        "version": "1.1.4"
     },
     "terminal": {
         "name": "Hyper.app",
-        "ver": "1.0.0"
+        "ver": "1.0.0",
+        "plugins": [
+            "hpm-cli",
+            "hyper-simple-vibrancy",
+            "hyperpower"
+        ]
     },
-    "primary-web-browser": {
+    "web-browser": {
         "name": "Google Chrome",
-        "ver": "55.0.2883.87",
+        "ver": "55.0.2883.95",
         "extensions": [
-            "Adblock Plus",
             "React Developer Tools",
-            "Postman",
-            "Wappalyzer",
+            "Adblock Plus",
             "JSON Viewer",
+            "Wappalyzer",
+            "PageRuler",
             "Momentum",
-            "PageRuler"
+            "Postman"
         ]
     },
     "code-editor": {
         "name": "Visual Studio Code",
         "ver": "1.7.2",
         "extensions": [
-            "Path Intellisense",
-            "HTML CSS Support",
+            "JavaScript Standard Format",
             "jQuery Code Snippets",
             "Bootstrap 3 Snippets",
+            "Path Intellisense",
+            "HTML CSS Support",
             "npm Intellisense",
-            "JavaScript Standard Format",
             "beautify",
             "jsx"
         ],
@@ -53,23 +58,20 @@
         "name": "express",
         "ver": "4.14.0"
     }, {
+        "name": "cors",
+        "ver": "2.8.1"
+    }, {
         "name": "passport",
         "ver": "0.3.2"
     }, {
         "name": "request",
         "ver": "2.79.1"
     }, {
-        "name": "cors",
-        "ver": "2.8.1"
-    }, {
         "name": "live-server",
         "ver": "1.1.0"
     }, {
         "name": "nodemon",
         "ver": "1.11.0"
-    }, {
-        "name": "gulp",
-        "ver": "3.9.1"
     }],
     "design-tools": [{
         "name": "Adobe Photoshop CC",
@@ -80,7 +82,7 @@
     }],
     "office-suite": {
         "name": "Microsoft Office",
-        "ver": "15.28.1"
+        "ver": "15.29.1"
     },
     "multimedia-player": {
         "name": "VLC",
@@ -90,7 +92,7 @@
         "name": "Transmission",
         "ver": "2.92"
     },
-    "chat-application": {
+    "chat-app": {
         "name": "Slack",
         "ver": "2.3.3"
     },
