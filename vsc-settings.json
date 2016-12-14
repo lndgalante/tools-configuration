@@ -13,6 +13,7 @@
     "terminal.external.osxExec": "Hyper.app",
     // Formatting
     "editor.formatOnSave": true,
+    "beautify.onSave": ["html", "css"],
     // TypeScript
     "typescript.useCodeSnippetsOnMethodSuggest": false,
     "typescript.check.tscVersion": false,
@@ -22,7 +23,7 @@
     // Window
     "window.zoomLevel": 1,
     // Standard
-    "standard.run": "onSave",
+    "standardFormat.formatOnSave": true,
     // Telemetry
     "telemetry.enableTelemetry": false,
     "telemetry.enableCrashReporter": false
