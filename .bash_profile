@@ -1,2 +1,2 @@
-PS1='> '
+PS1='➤ '
 cd /Users/leo/Downloads/
