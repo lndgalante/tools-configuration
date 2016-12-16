@@ -23,7 +23,8 @@
     // Window
     "window.zoomLevel": 1,
     // Standard
-    "standardFormat.formatOnSave": true,
+    "standard.enable": true,
+    "standard.autoFixOnSave": true,
     // Telemetry
     "telemetry.enableTelemetry": false,
     "telemetry.enableCrashReporter": false
