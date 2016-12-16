@@ -33,7 +33,7 @@
         "name": "Visual Studio Code",
         "ver": "1.8.0",
         "extensions": [
-            "JavaScript Standard Format",
+            "JavaScript Standard Style",
             "jQuery Code Snippets",
             "Bootstrap 3 Snippets",
             "Path Intellisense",
@@ -67,10 +67,13 @@
         "name": "request",
         "ver": "2.79.1"
     }, {
-        "name": "live-server",
+        "name": "live-server -g",
         "ver": "1.1.0"
     }, {
-        "name": "nodemon",
+        "name": "nodemon -g",
+        "ver": "1.11.0"
+    }, {
+        "name": "standard -g",
         "ver": "1.11.0"
     }],
     "design-tools": [{
