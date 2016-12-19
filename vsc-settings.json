@@ -1,18 +1,19 @@
 {
     // Editor
     "editor.fontFamily": "Source Code Pro",
-    "editor.fontWeight": "500",
-    "editor.fontSize": 14,
     "editor.cursorBlinking": "phase",
+    "editor.fontWeight": "500",
     "editor.wordWrap": true,
+    "editor.fontSize": 18,
+    "editor.tabSize": 2,
     // HTML
-    "html.format.wrapLineLength": 0,
     "html.suggest.angular1": false,
     "html.suggest.ionic": false,
     // External Terminal
     "terminal.external.osxExec": "Hyper.app",
     // Formatting
-    "editor.formatOnSave": true,
+    "editor.formatOnSave": false,
+    // Beautify
     "beautify.onSave": ["html", "css"],
     // TypeScript
     "typescript.useCodeSnippetsOnMethodSuggest": false,
@@ -21,11 +22,14 @@
     // Npm
     "npm-intellisense.scanDevDependencies": true,
     // Window
-    "window.zoomLevel": 1,
+    "window.zoomLevel": -0.5,
+    // Terminal
+    "terminal.integrated.fontFamily": "Source Code Pro",
+    "terminal.integrated.fontSize": 16,
     // Standard
-    "standard.enable": true,
     "standard.autoFixOnSave": true,
+    "standard.enable": true,
     // Telemetry
-    "telemetry.enableTelemetry": false,
-    "telemetry.enableCrashReporter": false
+    "telemetry.enableCrashReporter": false,
+    "telemetry.enableTelemetry": false
 }
