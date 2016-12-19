@@ -12,9 +12,11 @@
     // External Terminal
     "terminal.external.osxExec": "Hyper.app",
     // Formatting
-    "editor.formatOnSave": false,
+    "editor.formatOnSave": true,
     // Beautify
     "beautify.onSave": ["html", "css"],
+    // JavaScript
+    "javascript.format.enable": false,
     // TypeScript
     "typescript.useCodeSnippetsOnMethodSuggest": false,
     "typescript.check.tscVersion": false,
