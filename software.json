@@ -12,7 +12,8 @@
         "ver": "1.0.0",
         "plugins": [
             "hpm-cli",
-            "hyper-simple-vibrancy",
+            "hyperterm-chesterish",
+            "hyper-statusline",
             "hyperpower"
         ]
     },
@@ -39,8 +40,7 @@
             "Path Intellisense",
             "HTML CSS Support",
             "npm Intellisense",
-            "beautify",
-            "jsx"
+            "beautify"
         ],
         "themes": [
             "Material Icon Theme",

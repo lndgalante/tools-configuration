@@ -1,8 +1,7 @@
 {
-    "dock": "defaults write com.apple.dock autohide-time-modifier -int 0",
     "screenshots": "defaults write com.apple.screencapture location ~/folder-for-screenshots",
-    "vsc-fix": "code --force-gpu-rasterization",
-    "bashFile": ".bash_profile",
+    "dock": "defaults write com.apple.dock autohide-time-modifier -int 0",
+    "git-email": "git config --global user.email lndgalante@gmail.com",
     "git-username": "git config --global user.name Fenwil",
-    "git-email": "git config --global user.email lndgalante@gmail.com"
+    "bashFile": ".bash_profile"
 }

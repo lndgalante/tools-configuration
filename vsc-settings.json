@@ -4,7 +4,7 @@
     "editor.cursorBlinking": "phase",
     "editor.fontWeight": "500",
     "editor.wordWrap": true,
-    "editor.fontSize": 18,
+    "editor.fontSize": 17,
     "editor.tabSize": 2,
     // HTML
     "html.suggest.angular1": false,
