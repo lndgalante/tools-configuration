@@ -1,2 +1,3 @@
-PS1='➤ '
+PS1='▶ '
 cd /Users/leo/Downloads/
+alias ll="ls -l"
