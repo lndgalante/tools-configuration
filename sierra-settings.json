@@ -3,5 +3,6 @@
     "dock": "defaults write com.apple.dock autohide-time-modifier -int 0",
     "git-email": "git config --global user.email lndgalante@gmail.com",
     "git-username": "git config --global user.name Fenwil",
-    "bashFile": "~/.bash_profile"
+    "bashFile": "~/.bash_profile",
+    "hyperFile": "~/.hyper.js"
 }
