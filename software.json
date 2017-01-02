@@ -12,8 +12,6 @@
         "ver": "1.0.1",
         "plugins": [
             "hpm-cli",
-            "hyperterm-chesterish",
-            "hyper-statusline",
             "hyperpower"
         ]
     },
@@ -32,7 +30,7 @@
     },
     "code-editor": {
         "name": "Visual Studio Code",
-        "ver": "1.9.0",
+        "ver": "1.8.0",
         "extensions": [
             "JavaScript Standard Style",
             "jQuery Code Snippets",
@@ -77,7 +75,7 @@
         "ver": "1.11.0"
     }, {
         "name": "standard -g",
-        "ver": "1.11.0"
+        "ver": "8.6.0"
     }],
     "design-tools": [{
         "name": "Adobe Photoshop CC",
@@ -95,8 +93,8 @@
         "ver": "2.2.4"
     },
     "torrent-manager": {
-        "name": "Transmission",
-        "ver": "2.92"
+        "name": "WebTorrent",
+        "ver": "0.17.2"
     },
     "chat-app": {
         "name": "Slack",
@@ -112,7 +110,7 @@
         "name": "Ccleaner",
         "ver": "1.14.451"
     }, {
-        "name": "Tuxera NTFS",
+        "name": "Mounty",
         "ver": "2016"
     }, {
         "name": "Google Featured Photos Screensaver",
