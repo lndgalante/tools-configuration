@@ -1,7 +1,7 @@
 module.exports = {
   config: {
     // default font size in pixels for all tabs
-    fontSize: 15,
+    fontSize: 14,
 
     // font family with optional fallbacks
     fontFamily: '"Source Code Pro", monospace',
@@ -16,7 +16,7 @@ module.exports = {
     foregroundColor: '#fff',
 
     // terminal background color
-    backgroundColor: 'rgba(0,0,0,0.1)',
+    backgroundColor: '#000',
 
     // border color (window, tabs)
     borderColor: '#333',
@@ -64,7 +64,7 @@ module.exports = {
 
     // the shell to run when spawning a new session (i.e. /usr/local/bin/fish)
     // if left empty, your system's login shell will be used by default
-    shell: '',
+    shell: '/bin/zsh',
 
     // for setting shell arguments (i.e. for using interactive shellArgs: ['-i'])
     // by default ['--login'] will be used
@@ -82,7 +82,7 @@ module.exports = {
     // URL to custom bell
     // bellSoundURL: 'http://example.com/bell.mp3',
 
-  // for advanced config flags please refer to https://hyper.is/#cfg
+    // for advanced config flags please refer to https://hyper.is/#cfg
   },
 
   // a list of plugins to fetch and install from npm
@@ -91,7 +91,7 @@ module.exports = {
   //   `hyperpower`
   //   `@company/project`
   //   `project#1.0.1`
-  plugins: [],
+  plugins: ['hyperpower', 'hyperterm-panda', 'hyperterm-material'],
 
   // in development, you can create a directory under
   // `~/.hyper_plugins/local/` and include it here
