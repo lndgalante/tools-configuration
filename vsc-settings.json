@@ -11,6 +11,7 @@
     "html.suggest.ionic": false,
     // External Terminal
     "terminal.external.osxExec": "Hyper.app",
+    "terminal.integrated.shell.osx": "/bin/zsh",
     // Formatting
     "editor.formatOnSave": true,
     // Beautify
