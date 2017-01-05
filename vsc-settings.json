@@ -11,13 +11,10 @@
     "html.suggest.ionic": false,
     // External Terminal
     "terminal.external.osxExec": "Hyper.app",
-    "terminal.integrated.shell.osx": "/bin/zsh",
     // Formatting
     "editor.formatOnSave": true,
-    // Beautify
-    "beautify.onSave": ["html", "css"],
     // JavaScript
-    "javascript.format.enable": false,
+    "javascript.format.enable": true,
     // TypeScript
     "typescript.useCodeSnippetsOnMethodSuggest": false,
     "typescript.check.tscVersion": false,
