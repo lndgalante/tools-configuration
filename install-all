@@ -45,6 +45,9 @@ brew cask install visual-studio-code
 
 -------------------------------- NPM PACKAGES --------------------------------
 // Install live-server
+npm install -g create-react-app
+
+// Install live-server
 npm install -g live-server
 
 // Install nodemon
