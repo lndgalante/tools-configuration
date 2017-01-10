@@ -5,11 +5,11 @@
     },
     "package-manager": {
         "name": "HomeBrew",
-        "version": "1.1.5"
+        "version": "1.1.6"
     },
     "terminal": {
-        "name": "Hyper.app",
-        "ver": "1.0.1",
+        "name": "Hyper",
+        "ver": "1.1.0",
         "plugins": [
             "oh-my-zsh",
             "pure",
@@ -32,7 +32,7 @@
     },
     "code-editor": {
         "name": "Visual Studio Code",
-        "ver": "1.8.0",
+        "ver": "1.8.1",
         "extensions": [
             "JavaScript Standard Style",
             "jQuery Code Snippets",
