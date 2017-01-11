@@ -34,7 +34,7 @@
         "name": "Visual Studio Code",
         "ver": "1.8.1",
         "extensions": [
-            "JavaScript Standard Style",
+            "Prettier - JavaScript Formatter",
             "jQuery Code Snippets",
             "Bootstrap 3 Snippets",
             "Path Intellisense",
@@ -84,9 +84,6 @@
     }, {
         "name": "nodemon -g",
         "ver": "1.11.0"
-    }, {
-        "name": "standard -g",
-        "ver": "8.6.0"
     }],
     "design-tools": [{
         "name": "Adobe Photoshop CC",
