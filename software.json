@@ -71,16 +71,16 @@
         "ver": "1.6.3"
     }, {
         "name": "react-native-cli -g",
-        "ver": "1.1.0"
+        "ver": "2.0.1"
     }, {
         "name": "create-react-app -g",
-        "ver": "1.1.0"
+        "ver": "0.8.5"
     }, {
         "name": "now -g",
         "ver": "0.25.1"
     }, {
         "name": "live-server -g",
-        "ver": "1.1.0"
+        "ver": "1.2.0"
     }, {
         "name": "nodemon -g",
         "ver": "1.11.0"
