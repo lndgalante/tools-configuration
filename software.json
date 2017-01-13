@@ -5,7 +5,7 @@
     },
     "package-manager": {
         "name": "HomeBrew",
-        "version": "1.1.6"
+        "version": "1.1.7"
     },
     "terminal": {
         "name": "Hyper",
@@ -77,7 +77,7 @@
         "ver": "0.8.5"
     }, {
         "name": "now -g",
-        "ver": "0.25.1"
+        "ver": "2.0.3"
     }, {
         "name": "live-server -g",
         "ver": "1.2.0"
@@ -94,7 +94,7 @@
     }],
     "office-suite": {
         "name": "Microsoft Office",
-        "ver": "15.29.1"
+        "ver": "15.30"
     },
     "multimedia-player": {
         "name": "VLC",
