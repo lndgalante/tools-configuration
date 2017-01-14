@@ -34,7 +34,7 @@
         "name": "Visual Studio Code",
         "ver": "1.8.1",
         "extensions": [
-            "Prettier - JavaScript Formatter",
+            "JavaScript Standard Style",
             "jQuery Code Snippets",
             "Bootstrap 3 Snippets",
             "Path Intellisense",
