@@ -26,8 +26,8 @@
     // Terminal
     "terminal.integrated.fontFamily": "Source Code Pro",
     "terminal.integrated.fontSize": 16,
-    // PrettierJS
-    "prettier.formatOnSave": true,
+    // Standard Style
+    "standard.autoFixOnSave": true,
     // Telemetry
     "telemetry.enableCrashReporter": false,
     "telemetry.enableTelemetry": false,

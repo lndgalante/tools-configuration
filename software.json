@@ -70,6 +70,9 @@
         "name": "node-fetch",
         "ver": "1.6.3"
     }, {
+        "name": "yarn -g",
+        "ver": "0.18.1"
+    }, {
         "name": "react-native-cli -g",
         "ver": "2.0.1"
     }, {

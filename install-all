@@ -19,6 +19,9 @@ brew install node
 // Install Git
 brew cask install git
 
+-------------------------------- YARN --------------------------------
+npm install -g yarn
+
 -------------------------------- TERMINAL --------------------------------
 // Install Hyper
 brew cask install hyper
