@@ -109,7 +109,7 @@
     },
     "chat-app": {
         "name": "Slack",
-        "ver": "2.3.4"
+        "ver": "2.4.1"
     },
     "utilities": [{
         "name": "The Unrarchiver",
