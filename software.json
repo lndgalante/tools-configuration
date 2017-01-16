@@ -71,6 +71,9 @@
         "name": "node-fetch",
         "ver": "1.6.3"
     }, {
+        "name": "jest -g",
+        "ver": "17.0.3"
+    }, {
         "name": "yarn -g",
         "ver": "0.18.1"
     }, {
