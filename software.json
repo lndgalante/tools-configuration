@@ -22,7 +22,7 @@
         "ver": "55.0.2883.95",
         "extensions": [
             "React Developer Tools",
-            "Adblock Plus",
+            "uBlock Origin",
             "JSON Viewer",
             "Wappalyzer",
             "PageRuler",
