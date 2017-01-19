@@ -14,7 +14,12 @@
     // Formatting
     "editor.formatOnSave": true,
     // JavaScript
-    "javascript.format.enable": true,
+    "javascript.format.enable": false,
+    // Beautify
+    "beautify.language": {
+        "css": ["css", "scss"],
+        "html": ["htm", "html"]
+    },
     // TypeScript
     "typescript.useCodeSnippetsOnMethodSuggest": false,
     "typescript.check.tscVersion": false,
