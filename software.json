@@ -22,6 +22,7 @@
         "ver": "55.0.2883.95",
         "extensions": [
             "React Developer Tools",
+            "Redux Developer Tools",
             "uBlock Origin",
             "JSON Viewer",
             "Wappalyzer",
