@@ -14,7 +14,7 @@
     // Formatting
     "editor.formatOnSave": true,
     // JavaScript
-    "javascript.format.enable": false,
+    "javascript.format.enable": true,
     // Beautify
     "beautify.language": {
         "css": ["css", "scss"],
@@ -33,6 +33,12 @@
     "terminal.integrated.fontSize": 16,
     // Standard Style
     "standard.autoFixOnSave": true,
+    "standard.options": {
+        "enable": true,
+        "globals": [
+            "fetch"
+        ]
+    },
     // Telemetry
     "telemetry.enableCrashReporter": false,
     "telemetry.enableTelemetry": false,
