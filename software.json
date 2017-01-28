@@ -17,9 +17,9 @@
             "hyperpower"
         ]
     },
-    "web-browser": {
+    "primary-web-browser": {
         "name": "Google Chrome",
-        "ver": "55.0.2883.95",
+        "ver": "56.0.2924.76",
         "extensions": [
             "React Developer Tools",
             "Redux Developer Tools",
@@ -30,6 +30,10 @@
             "Momentum",
             "Postman"
         ]
+    },
+    "secondary-web-browser": {
+        "name": "Mozilla Firefox",
+        "ver": "51.0.1"
     },
     "code-editor": {
         "name": "Visual Studio Code",
