@@ -11,8 +11,6 @@
         "name": "Hyper",
         "ver": "1.1.0",
         "plugins": [
-            "oh-my-zsh",
-            "pure",
             "hpm-cli",
             "hyperpower"
         ]
@@ -60,7 +58,7 @@
         },
         {
             "name": "Git",
-            "ver": "2.11.0"
+            "ver": "2.10.1"
         }
     ],
     "npm-packages": [
