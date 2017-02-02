@@ -5,7 +5,7 @@
     },
     "package-manager": {
         "name": "HomeBrew & Cask",
-        "version": "1.1.8"
+        "version": "1.1.9"
     },
     "terminal": {
         "name": "Hyper",
@@ -19,7 +19,7 @@
     },
     "primary-web-browser": {
         "name": "Google Chrome",
-        "ver": "56.0.2924.76",
+        "ver": "56.0.2924.87",
         "extensions": [
             "React Developer Tools",
             "Redux Developer Tools",
