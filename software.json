@@ -4,7 +4,7 @@
         "version": "10.12.3"
     },
     "package-manager": {
-        "name": "HomeBrew",
+        "name": "HomeBrew & Cask",
         "version": "1.1.8"
     },
     "terminal": {
@@ -54,57 +54,76 @@
             "Material-theme"
         ]
     },
-    "developer-tools": [{
-        "name": "Node.js",
-        "ver": "7.4.0"
-    }, {
-        "name": "Git",
-        "ver": "2.11.0"
-    }],
-    "npm-packages": [{
-        "name": "express",
-        "ver": "4.14.0"
-    }, {
-        "name": "cors",
-        "ver": "2.8.1"
-    }, {
-        "name": "passport",
-        "ver": "0.3.2"
-    }, {
-        "name": "request",
-        "ver": "2.79.1"
-    }, {
-        "name": "node-fetch",
-        "ver": "1.6.3"
-    }, {
-        "name": "jest -g",
-        "ver": "17.0.3"
-    }, {
-        "name": "yarn -g",
-        "ver": "0.18.1"
-    }, {
-        "name": "react-native-cli -g",
-        "ver": "2.0.1"
-    }, {
-        "name": "create-react-app -g",
-        "ver": "0.8.5"
-    }, {
-        "name": "now -g",
-        "ver": "3.0.1"
-    }, {
-        "name": "live-server -g",
-        "ver": "1.2.0"
-    }, {
-        "name": "nodemon -g",
-        "ver": "1.11.0"
-    }],
-    "design-tools": [{
-        "name": "Adobe Photoshop CC",
-        "ver": "2017 18.0.0"
-    }, {
-        "name": "Adobe Illustrator CC",
-        "ver": "2017 21.0.0"
-    }],
+    "developer-tools": [
+        {
+            "name": "Node.js",
+            "ver": "7.4.0"
+        },
+        {
+            "name": "Git",
+            "ver": "2.11.0"
+        }
+    ],
+    "npm-packages": [
+        {
+            "name": "express",
+            "ver": "4.14.0"
+        },
+        {
+            "name": "cors",
+            "ver": "2.8.1"
+        },
+        {
+            "name": "passport",
+            "ver": "0.3.2"
+        },
+        {
+            "name": "request",
+            "ver": "2.79.1"
+        },
+        {
+            "name": "node-fetch",
+            "ver": "1.6.3"
+        },
+        {
+            "name": "jest -g",
+            "ver": "17.0.3"
+        },
+        {
+            "name": "yarn -g",
+            "ver": "0.18.1"
+        },
+        {
+            "name": "react-native-cli -g",
+            "ver": "2.0.1"
+        },
+        {
+            "name": "create-react-app -g",
+            "ver": "0.8.5"
+        },
+        {
+            "name": "now -g",
+            "ver": "3.0.1"
+        },
+        {
+            "name": "live-server -g",
+            "ver": "1.2.0"
+        },
+        {
+            "name": "nodemon -g",
+            "ver": "1.11.0"
+        }
+    ],
+    "design-tools": [
+        {
+            "name": "Adobe Photoshop CC",
+            "ver": "2017 18.0.0"
+        },
+        {
+            "name": "Adobe Illustrator CC",
+            "ver": "2017 21.0.0"
+        }
+    ],
     "office-suite": {
         "name": "Microsoft Office",
         "ver": "15.30"
@@ -121,20 +140,26 @@
         "name": "Slack",
         "ver": "2.4.1"
     },
-    "utilities": [{
-        "name": "The Unrarchiver",
-        "ver": "3.11.1"
-    }, {
-        "name": "Kap",
-        "ver": "1.0.134"
-    }, {
-        "name": "Ccleaner",
-        "ver": "1.14.451"
-    }, {
-        "name": "Mounty",
-        "ver": "2016"
-    }, {
-        "name": "Google Featured Photos Screensaver",
-        "ver": "1.0.0.152"
-    }]
+    "utilities": [
+        {
+            "name": "The Unrarchiver",
+            "ver": "3.11.1"
+        },
+        {
+            "name": "Kap",
+            "ver": "1.0.134"
+        },
+        {
+            "name": "Ccleaner",
+            "ver": "1.14.451"
+        },
+        {
+            "name": "Mounty",
+            "ver": "2016"
+        },
+        {
+            "name": "Google Featured Photos Screensaver",
+            "ver": "1.0.0.152"
+        }
+    ]
 }
