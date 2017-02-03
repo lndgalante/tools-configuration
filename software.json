@@ -12,6 +12,7 @@
         "ver": "1.1.0",
         "plugins": [
             "hpm-cli",
+            "oh my zsh",
             "hyperpower"
         ]
     },
