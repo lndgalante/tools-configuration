@@ -6,6 +6,8 @@
         "side-bar": "cmd + b",
         "search": "cmd + f",
         "save": "cmd + s",
-        "zen-mode": "cmd + k + z"
+        "zen-mode": "cmd + k + z",
+        "intellisense": "ctrl + space",
+        "copy-line": "shift + alt + ↕"
     }
 }
