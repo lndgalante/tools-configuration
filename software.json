@@ -92,6 +92,10 @@
             "ver": "0.19.1"
         },
         {
+            "name": "standard -g",
+            "ver": "8.6.0"
+        },
+        {
             "name": "react-native-cli -g",
             "ver": "2.0.1"
         },
