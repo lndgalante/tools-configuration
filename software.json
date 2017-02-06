@@ -130,9 +130,13 @@
         "name": "Microsoft Office",
         "ver": "15.30"
     },
-    "multimedia-player": {
+    "video-player": {
         "name": "VLC",
         "ver": "2.2.4"
+    },
+    "music-player": {
+        "name": "VOX",
+        "ver": "2.8.18"
     },
     "torrent-manager": {
         "name": "WebTorrent",
