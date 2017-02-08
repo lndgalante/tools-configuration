@@ -68,6 +68,10 @@
         {
             "name": "Genymotion",
             "ver": "2.8.1"
+        },
+        {
+            "name": "MongoDB",
+            "ver": "3.4.2"
         }
     ],
     "npm-packages": [
