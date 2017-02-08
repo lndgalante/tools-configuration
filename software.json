@@ -148,7 +148,7 @@
     },
     "torrent-manager": {
         "name": "WebTorrent",
-        "ver": "0.17.2"
+        "ver": "0.18.0"
     },
     "chat-app": {
         "name": "Slack",
