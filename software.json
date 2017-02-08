@@ -60,6 +60,14 @@
         {
             "name": "Git",
             "ver": "2.11.0"
+        },
+        {
+            "name": "VirtualBox",
+            "ver": "5.1.14"
+        },
+        {
+            "name": "Genymotion",
+            "ver": "2.8.1"
         }
     ],
     "npm-packages": [
