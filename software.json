@@ -32,11 +32,11 @@
     },
     "secondary-web-browser": {
         "name": "Mozilla Firefox",
-        "ver": "51.0.1"
+        "ver": "51.0.2"
     },
     "code-editor": {
         "name": "Visual Studio Code",
-        "ver": "1.9.0",
+        "ver": "1.9.1",
         "extensions": [
             "JavaScript Standard Style",
             "jQuery Code Snippets",
