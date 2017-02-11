@@ -50,6 +50,10 @@
         "themes": [
             "Material Icon Theme",
             "Material-theme"
+        ],
+        "fonts": [
+            "Source Code Pro",
+            "Operator Mono"
         ]
     },
     "developer-tools": [
