@@ -1,14 +1,15 @@
 {
     // Editor
-    "editor.fontFamily": "Source Code Pro",
+    "editor.fontFamily": "Operator Mono",
     "editor.cursorBlinking": "phase",
     "editor.fontWeight": "500",
     "editor.wordWrap": true,
-    "editor.fontSize": 17,
+    "editor.fontSize": 18,
     "editor.tabSize": 2,
-    // HTML
+    // Suggestions
     "html.suggest.angular1": false,
     "html.suggest.ionic": false,
+    "php.suggest.basic": false,
     // External Terminal
     "terminal.external.osxExec": "Hyper.app",
     // Formatting
@@ -19,6 +20,8 @@
     "emmet.syntaxProfiles": {
         "javascript": "html"
     },
+    // ESLint 
+    "eslint.autoFixOnSave": true,
     // Beautify
     // "beautify.language": {
     //     "css": [
@@ -43,12 +46,12 @@
     "terminal.integrated.fontSize": 16,
     // Standard Style
     "standard.autoFixOnSave": true,
-    "standard.options": {
-        "enable": true,
-        "globals": [
-            "fetch"
-        ]
-    },
+    // "standard.options": {
+    //     "enable": true,
+    //     "globals": [
+    //         "fetch"
+    //     ]
+    // },
     // Telemetry
     "telemetry.enableCrashReporter": false,
     "telemetry.enableTelemetry": false,
