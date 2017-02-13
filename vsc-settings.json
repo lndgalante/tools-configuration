@@ -2,7 +2,8 @@
     // Editor
     "editor.fontFamily": "Operator Mono",
     "editor.cursorBlinking": "phase",
-    "editor.fontWeight": "500",
+    "editor.fontLigatures": true,
+    "editor.fontWeight": "300",
     "editor.wordWrap": true,
     "editor.fontSize": 18,
     "editor.tabSize": 2,
@@ -16,10 +17,6 @@
     "editor.formatOnSave": true,
     // JavaScript
     "javascript.format.enable": true,
-    //Emmet
-    "emmet.syntaxProfiles": {
-        "javascript": "html"
-    },
     // ESLint 
     "eslint.autoFixOnSave": true,
     // Beautify

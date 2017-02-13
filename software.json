@@ -39,17 +39,16 @@
         "ver": "1.9.1",
         "extensions": [
             "JavaScript Standard Style",
-            "jQuery Code Snippets",
-            "Bootstrap 3 Snippets",
             "React Native Tools",
             "Path Intellisense",
             "HTML CSS Support",
             "npm Intellisense",
-            "beautify"
+            "beautify",
+            "ESLint"
         ],
         "themes": [
-            "Material Icon Theme",
-            "Material-theme"
+            "vsc-material-theme",
+            "Materia Theme Icons"
         ],
         "fonts": [
             "Source Code Pro",
