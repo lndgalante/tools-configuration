@@ -1,13 +1,19 @@
 {
     "vscode": {
         "command-palette": "cmd + shift + p",
+        "go-to-definition": "F12",
+        "intellisense": "ctrl + space",
         "new-window": "cmd + shift + n",
-        "integrated-terminal": "cmd + j",
+        "integrated-terminal": "cmd + `",
         "side-bar": "cmd + b",
         "search": "cmd + f",
         "save": "cmd + s",
         "zen-mode": "cmd + k + z",
         "intellisense": "ctrl + space",
-        "copy-line": "shift + alt + ↕"
+        "copy-line": "shift + opt + up/down",
+        "create-and-open-file": "cmd + click",
+        "move-entire-line": "opt + up/down",
+        "select-current-line": "cmd + i",
+        "multi-cursor-selection": "opt + cmd + up/down"
     }
 }
