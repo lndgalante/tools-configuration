@@ -9,7 +9,6 @@
         "search": "cmd + f",
         "save": "cmd + s",
         "zen-mode": "cmd + k + z",
-        "intellisense": "ctrl + space",
         "copy-line": "shift + opt + up/down",
         "create-and-open-file": "cmd + click",
         "move-entire-line": "opt + up/down",

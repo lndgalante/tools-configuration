@@ -45,11 +45,12 @@
         "name": "Visual Studio Code",
         "ver": "1.9.1",
         "extensions": [
-            "JavaScript Standard Style",
             "React Native Tools",
             "Path Intellisense",
             "HTML CSS Support",
             "npm Intellisense",
+            "EditorConfig",
+            "Prettier",
             "beautify",
             "ESLint"
         ],
