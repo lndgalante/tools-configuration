@@ -51,8 +51,7 @@
             "npm Intellisense",
             "EditorConfig",
             "Prettier",
-            "beautify",
-            "ESLint"
+            "beautify"
         ],
         "themes": [
             "vsc-material-theme",
