@@ -18,8 +18,8 @@
     "shell": {
         "name": "oh-my-zsh",
         "plugins": [
-            "git",
-            "react-native"
+            "react-native",
+            "git"
         ]
     },
     "primary-web-browser": {
@@ -98,10 +98,6 @@
             "ver": "0.3.2"
         },
         {
-            "name": "request",
-            "ver": "2.79.1"
-        },
-        {
             "name": "axios",
             "ver": "0.15.3"
         },
@@ -114,10 +110,6 @@
             "ver": "0.20.3"
         },
         {
-            "name": "standard -g",
-            "ver": "8.6.0"
-        },
-        {
             "name": "react-native-cli -g",
             "ver": "2.0.1"
         },
@@ -127,7 +119,7 @@
         },
         {
             "name": "now -g",
-            "ver": "4.5.3"
+            "ver": "4.5.6"
         },
         {
             "name": "serve -g",
