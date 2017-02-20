@@ -14,5 +14,8 @@
         "move-entire-line": "opt + up/down",
         "select-current-line": "cmd + i",
         "multi-cursor-selection": "opt + cmd + up/down"
+    },
+    "macos": {
+        "open-finder": "open [directory]"
     }
 }

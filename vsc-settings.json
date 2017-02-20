@@ -15,25 +15,6 @@
     "terminal.external.osxExec": "Hyper.app",
     // Formatting
     "editor.formatOnSave": true,
-    // JavaScript
-    "javascript.format.enable": true,
-    // ESLint 
-    "eslint.autoFixOnSave": true,
-    // Beautify
-    // "beautify.language": {
-    //     "css": [
-    //         "css",
-    //         "scss"
-    //     ],
-    //     "html": [
-    //         "htm",
-    //         "html"
-    //     ]
-    // },
-    // TypeScript
-    "typescript.useCodeSnippetsOnMethodSuggest": false,
-    "typescript.check.tscVersion": false,
-    "typescript.format.enable": false,
     // Npm
     "npm-intellisense.scanDevDependencies": true,
     // Window
@@ -41,16 +22,14 @@
     // Terminal
     "terminal.integrated.fontFamily": "Source Code Pro",
     "terminal.integrated.fontSize": 16,
-    // Standard Style
-    "standard.autoFixOnSave": true,
-    // "standard.options": {
-    //     "enable": true,
-    //     "globals": [
-    //         "fetch"
-    //     ]
-    // },
     // Telemetry
     "telemetry.enableCrashReporter": false,
     "telemetry.enableTelemetry": false,
-    "git.confirmSync": false
+    // Prettier
+    "prettier.printWidth": 120,
+    "prettier.tabWidth": 2,
+    "prettier.singleQuote": true,
+    "prettier.trailingComma": true,
+    "prettier.bracketSpacing": true,
+    "prettier.parser": "babylon"
 }
