@@ -122,8 +122,8 @@
             "ver": "4.5.6"
         },
         {
-            "name": "serve -g",
-            "ver": "3.3.1"
+            "name": "live-server -g",
+            "ver": "1.2.0"
         },
         {
             "name": "nodemon -g",
