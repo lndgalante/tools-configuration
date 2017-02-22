@@ -1,0 +1,38 @@
+{
+    "vscode": {
+        "command-palette": "cmd + shift + p",
+        "go-to-definition": "F12",
+        "intellisense": "ctrl + space",
+        "new-window": "cmd + shift + n",
+        "integrated-terminal": "cmd + `",
+        "side-bar": "cmd + b",
+        "search": "cmd + f",
+        "save": "cmd + s",
+        "zen-mode": "cmd + k + z",
+        "copy-line": "shift + opt + up/down",
+        "create-and-open-file": "cmd + click",
+        "move-entire-line": "opt + up/down",
+        "select-current-line": "cmd + i",
+        "multi-cursor-selection": "opt + cmd + up/down"
+    },
+    "macos": {
+        "open": "open [directory]"
+    },
+    "maintenance": {
+        "screenshots": "defaults write com.apple.screencapture location ~/folder-for-screenshots",
+        "dock": "defaults write com.apple.dock autohide-time-modifier -int 0",
+        "git-email": "git config --global user.email lndgalante@gmail.com",
+        "git-username": "git config --global user.name Fenwil",
+        "bashFile": "~/.bash_profile",
+        "hyperFile": "~/.hyper.js",
+        "brew": "brew update && brew upgrade",
+        "npm": "npm update -g"
+    },
+    "network": {
+        "ip-private": "DHCP",
+        "dns-primary-ipv4": "8.8.8.8",
+        "dns-secondary-ipv4": "8.8.4.4",
+        "dns-primary-ipv6": "2001:4860:4860::8888",
+        "dns-secondary-ipv6": "2001:4860:4860::8844"
+    }
+}

@@ -20,7 +20,7 @@
     // Window
     "window.zoomLevel": -0.5,
     // Terminal
-    "terminal.integrated.fontFamily": "Source Code Pro",
+    "terminal.integrated.fontFamily": "Operator Mono",
     "terminal.integrated.fontSize": 16,
     // Telemetry
     "telemetry.enableCrashReporter": false,
@@ -29,7 +29,7 @@
     "prettier.printWidth": 120,
     "prettier.tabWidth": 2,
     "prettier.singleQuote": true,
-    "prettier.trailingComma": true,
+    "prettier.trailingComma": false,
     "prettier.bracketSpacing": true,
     "prettier.parser": "babylon"
 }

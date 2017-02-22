@@ -1,6 +1,6 @@
 export ZSH=/Users/leo/.oh-my-zsh
 
-plugins=(git)
+plugins=(git react-native)
 
 source $ZSH/oh-my-zsh.sh
 

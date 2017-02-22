@@ -4,7 +4,7 @@ module.exports = {
     fontSize: 14,
 
     // font family with optional fallbacks
-    fontFamily: '"Source Code Pro", monospace',
+    fontFamily: '"Operator Mono", monospace',
 
     // terminal cursor background color and opacity (hex, rgb, hsl, hsv, hwb or cmyk)
     cursorColor: 'rgba(248,28,229,0.8)',
@@ -78,10 +78,8 @@ module.exports = {
 
     // if true, selected text will automatically be copied to the clipboard
     copyOnSelect: false
-
     // URL to custom bell
     // bellSoundURL: 'http://example.com/bell.mp3',
-
     // for advanced config flags please refer to https://hyper.is/#cfg
   },
 
@@ -97,4 +95,4 @@ module.exports = {
   // `~/.hyper_plugins/local/` and include it here
   // to load it and avoid it being `npm install`ed
   localPlugins: []
-}
+};
