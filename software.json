@@ -53,23 +53,18 @@
             "Prettier",
             "beautify"
         ],
-        "themes": [
-            "vsc-material-theme",
-            "Materia Theme Icons"
-        ],
-        "fonts": [
-            "Source Code Pro",
-            "Operator Mono"
-        ]
+        "color-theme": "vsc-material-theme",
+        "icon-theme": "Material Theme Icons",
+        "font": "Operator Mono"
     },
     "developer-tools": [
         {
             "name": "Node.js",
-            "ver": "7.6.0"
+            "ver": "7.7.0"
         },
         {
             "name": "Git",
-            "ver": "2.11.1"
+            "ver": "2.12.0"
         },
         {
             "name": "VirtualBox",
@@ -90,10 +85,6 @@
             "ver": "4.14.1"
         },
         {
-            "name": "cors",
-            "ver": "2.8.1"
-        },
-        {
             "name": "passport",
             "ver": "0.3.2"
         },
@@ -103,11 +94,11 @@
         },
         {
             "name": "jest -g",
-            "ver": "18.1.0"
+            "ver": "19.0.2"
         },
         {
             "name": "yarn -g",
-            "ver": "0.20.3"
+            "ver": "0.21.3"
         },
         {
             "name": "react-native-cli -g",
@@ -119,7 +110,7 @@
         },
         {
             "name": "now -g",
-            "ver": "4.5.8"
+            "ver": "4.6.1"
         },
         {
             "name": "live-server -g",
@@ -144,13 +135,9 @@
         "name": "Microsoft Office",
         "ver": "15.31"
     },
-    "video-player": {
+    "multimedia-player": {
         "name": "VLC",
         "ver": "2.2.4"
-    },
-    "music-player": {
-        "name": "VOX",
-        "ver": "2.8.18"
     },
     "torrent-manager": {
         "name": "WebTorrent",
@@ -158,7 +145,7 @@
     },
     "chat-app": {
         "name": "Slack",
-        "ver": "2.4.1"
+        "ver": "2.5.1"
     },
     "utilities": [
         {
