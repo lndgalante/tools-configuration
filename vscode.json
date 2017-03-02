@@ -1,12 +1,16 @@
 {
+    // Themes
+    "workbench.colorTheme": "Material Theme Darker",
+    "workbench.iconTheme": "material-theme-icons",
     // Editor
     "editor.fontFamily": "Operator Mono",
     "editor.cursorBlinking": "phase",
     "editor.fontLigatures": true,
     "editor.fontWeight": "300",
-    "editor.wordWrap": true,
+    "editor.wordWrap": "on",
     "editor.fontSize": 18,
     "editor.tabSize": 2,
+    "editor.dragAndDrop": false,
     // Suggestions
     "html.suggest.angular1": false,
     "html.suggest.ionic": false,
@@ -15,6 +19,10 @@
     "terminal.external.osxExec": "Hyper.app",
     // Formatting
     "editor.formatOnSave": true,
+    // Emmet
+    "emmet.syntaxProfiles": {
+        "javascript": "jsx"
+    },
     // Npm
     "npm-intellisense.scanDevDependencies": true,
     // Window
@@ -26,10 +34,10 @@
     "telemetry.enableCrashReporter": false,
     "telemetry.enableTelemetry": false,
     // Prettier
-    "prettier.printWidth": 120,
+    "prettier.printWidth": 80,
     "prettier.tabWidth": 2,
     "prettier.singleQuote": true,
-    "prettier.trailingComma": false,
+    "prettier.trailingComma": true,
     "prettier.bracketSpacing": true,
-    "prettier.parser": "babylon"
+    "prettier.parser": "babylon",
 }

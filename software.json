@@ -43,7 +43,7 @@
     },
     "code-editor": {
         "name": "Visual Studio Code",
-        "ver": "1.9.1",
+        "ver": "1.10.1",
         "extensions": [
             "React Native Tools",
             "Path Intellisense",
@@ -60,7 +60,7 @@
     "developer-tools": [
         {
             "name": "Node.js",
-            "ver": "7.7.0"
+            "ver": "7.7.1"
         },
         {
             "name": "Git",
@@ -82,7 +82,7 @@
     "npm-packages": [
         {
             "name": "express",
-            "ver": "4.14.1"
+            "ver": "4.15.0"
         },
         {
             "name": "passport",
