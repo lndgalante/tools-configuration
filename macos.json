@@ -16,7 +16,8 @@
         "multi-cursor-selection": "opt + cmd + up/down"
     },
     "macos": {
-        "open": "open [directory]"
+        "open": "open [directory]",
+        "toggle-windows-same-app": "cmd + `"
     },
     "maintenance": {
         "screenshots": "defaults write com.apple.screencapture location ~/folder-for-screenshots",
