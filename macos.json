@@ -27,7 +27,7 @@
         "bashFile": "~/.bash_profile",
         "hyperFile": "~/.hyper.js",
         "brew": "brew update && brew upgrade",
-        "npm": "npm update -g"
+        "npm": "npm update -g && npm upgrade -g"
     },
     "network": {
         "ip-private": "DHCP",
