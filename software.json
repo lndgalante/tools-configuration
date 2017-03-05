@@ -77,6 +77,10 @@
         {
             "name": "MongoDB",
             "ver": "3.5.3"
+        },
+        {
+            "name": "Mongoose",
+            "ver": "4.8.5"
         }
     ],
     "npm-packages": [
