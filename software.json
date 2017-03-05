@@ -129,6 +129,10 @@
         {
             "name": "Adobe Illustrator CC",
             "ver": "2017 21.0.0"
+        },
+        {
+            "name": "Adobe XD",
+            "ver": "2017 0.6"
         }
     ],
     "office-suite": {
