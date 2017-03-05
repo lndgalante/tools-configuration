@@ -1,6 +1,6 @@
 {
     "operative-system": {
-        "name": "MacOS Sierra",
+        "name": "macOS Sierra",
         "version": "10.12.3"
     },
     "package-manager": {
