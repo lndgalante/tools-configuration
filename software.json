@@ -43,7 +43,7 @@
     },
     "code-editor": {
         "name": "Visual Studio Code",
-        "ver": "1.10.1",
+        "ver": "1.10.2",
         "extensions": [
             "React Native Tools",
             "Path Intellisense",
