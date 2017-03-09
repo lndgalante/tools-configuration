@@ -5,7 +5,7 @@
     },
     "package-manager": {
         "name": "Homebrew & Cask",
-        "version": "1.1.10"
+        "version": "1.1.11"
     },
     "terminal": {
         "name": "Hyper",
@@ -60,7 +60,7 @@
     "developer-tools": [
         {
             "name": "Node.js",
-            "ver": "7.7.1"
+            "ver": "7.7.2"
         },
         {
             "name": "Git",
@@ -68,7 +68,7 @@
         },
         {
             "name": "VirtualBox",
-            "ver": "5.1.14"
+            "ver": "5.1.16"
         },
         {
             "name": "Genymotion",
@@ -76,28 +76,24 @@
         },
         {
             "name": "MongoDB",
-            "ver": "3.5.3"
+            "ver": "3.5.4"
         },
         {
             "name": "Mongoose",
-            "ver": "4.8.5"
+            "ver": "4.8.6"
         }
     ],
     "npm-packages": [
         {
             "name": "express",
-            "ver": "4.15.0"
+            "ver": "4.15.2"
         },
         {
             "name": "passport",
             "ver": "0.3.2"
         },
         {
-            "name": "axios",
-            "ver": "0.15.3"
-        },
-        {
-            "name": "jest -g",
+            "name": "jest",
             "ver": "19.0.2"
         },
         {
@@ -110,11 +106,11 @@
         },
         {
             "name": "create-react-app -g",
-            "ver": "1.0.3"
+            "ver": "0.9.4"
         },
         {
             "name": "now -g",
-            "ver": "4.6.1"
+            "ver": "4.7.1"
         },
         {
             "name": "live-server -g",
