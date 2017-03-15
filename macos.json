@@ -18,7 +18,9 @@
     "macos": {
         "open": "open [directory]",
         "toggle-windows-same-app": "cmd + `",
-        "screenshot-single-window": "cmd + shift + 4 + space"
+        "screenshot-single-window": "cmd + shift + 4 + space",
+        "key-repeat": "fast",
+        "delay-until-repeat": "short"
     },
     "maintenance": {
         "screenshots": "defaults write com.apple.screencapture location ~/folder-for-screenshots",
