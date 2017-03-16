@@ -61,7 +61,7 @@
     "developer-tools": [
         {
             "name": "Node.js",
-            "ver": "7.7.2"
+            "ver": "7.7.3"
         },
         {
             "name": "Git",
@@ -69,7 +69,7 @@
         },
         {
             "name": "VirtualBox",
-            "ver": "5.1.16"
+            "ver": "5.1.18"
         },
         {
             "name": "Genymotion",
@@ -81,7 +81,7 @@
         },
         {
             "name": "Mongoose",
-            "ver": "4.8.7"
+            "ver": "4.9.0"
         }
     ],
     "npm-packages": [
@@ -107,7 +107,7 @@
         },
         {
             "name": "now -g",
-            "ver": "4.8.0"
+            "ver": "4.9.0"
         },
         {
             "name": "live-server -g",
@@ -134,7 +134,7 @@
     ],
     "office-suite": {
         "name": "Microsoft Office",
-        "ver": "15.31"
+        "ver": "15.32"
     },
     "multimedia-player": {
         "name": "VLC",
@@ -146,7 +146,7 @@
     },
     "chat-app": {
         "name": "Slack",
-        "ver": "2.5.1"
+        "ver": "2.5.2"
     },
     "utilities": [
         {
@@ -154,7 +154,7 @@
             "ver": "3.11.1"
         },
         {
-            "name": "Kap",
+            "name": "RecordIt",
             "ver": "1.0.134"
         },
         {
