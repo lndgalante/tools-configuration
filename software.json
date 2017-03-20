@@ -24,7 +24,7 @@
     },
     "primary-web-browser": {
         "name": "Google Chrome",
-        "ver": "57.0.2987.98",
+        "ver": "57.0.2987.110",
         "extensions": [
             "React Developer Tools",
             "Redux Developer Tools",
@@ -81,7 +81,7 @@
         },
         {
             "name": "Mongoose",
-            "ver": "4.9.0"
+            "ver": "4.9.1"
         }
     ],
     "npm-packages": [
@@ -107,7 +107,7 @@
         },
         {
             "name": "now -g",
-            "ver": "4.9.0"
+            "ver": "4.10.0"
         },
         {
             "name": "live-server -g",
