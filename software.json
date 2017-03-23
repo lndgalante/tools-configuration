@@ -61,7 +61,7 @@
     "developer-tools": [
         {
             "name": "Node.js",
-            "ver": "7.7.3"
+            "ver": "7.7.4"
         },
         {
             "name": "Git",
@@ -107,7 +107,7 @@
         },
         {
             "name": "now -g",
-            "ver": "4.10.0"
+            "ver": "4.10.2"
         },
         {
             "name": "live-server -g",
