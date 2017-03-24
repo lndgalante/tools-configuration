@@ -148,30 +148,24 @@
         "name": "Slack",
         "ver": "2.5.2"
     },
-    "utilities": [
-        {
-            "name": "The Unrarchiver",
-            "ver": "3.11.1"
-        },
-        {
-            "name": "RecordIt",
-            "ver": "1.0.134"
-        },
-        {
-            "name": "Ccleaner",
-            "ver": "1.14.451"
-        },
-        {
-            "name": "Mounty",
-            "ver": "2016"
-        },
-        {
-            "name": "Google Featured Photos Screensaver",
-            "ver": "1.0.0.152"
-        },
-        {
-            "name": "Spectacle",
-            "ver": "1.2"
-        }
-    ]
+    "cleaner": {
+        "name": "Ccleaner",
+        "ver": "1.14.451"
+    },
+    "ntfs": {
+        "name": "Mounty",
+        "ver": "2016"
+    },
+    "decompress": {
+        "name": "The Unrarchiver",
+        "ver": "3.11.1"
+    },
+    "gif-recorder": {
+        "name": "RecordIt",
+        "ver": "1.0.134"
+    },
+    "window-position": {
+        "name": "BetterSnapTool",
+        "ver": "1.7"
+    }
 }
