@@ -1,6 +1,8 @@
 {
     "vscode": {
         "command-palette": "cmd + shift + p",
+        "open-file": "cmd + p",
+        "search-symbol": "cmd + t",
         "go-to-definition": "F12",
         "intellisense": "ctrl + space",
         "new-window": "cmd + shift + n",
