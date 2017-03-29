@@ -1,7 +1,7 @@
 {
     "operative-system": {
         "name": "macOS Sierra",
-        "version": "10.12.3"
+        "version": "10.12.4"
     },
     "package-manager": {
         "name": "Homebrew & Cask",
@@ -61,11 +61,11 @@
     "developer-tools": [
         {
             "name": "Node.js",
-            "ver": "7.7.4"
+            "ver": "7.8.0"
         },
         {
             "name": "Git",
-            "ver": "2.12.1"
+            "ver": "2.12.2"
         },
         {
             "name": "VirtualBox",
@@ -81,7 +81,7 @@
         },
         {
             "name": "Mongoose",
-            "ver": "4.9.1"
+            "ver": "4.9.2"
         }
     ],
     "npm-packages": [
@@ -92,6 +92,10 @@
         {
             "name": "passport",
             "ver": "0.3.2"
+        },
+        {
+            "name": "next",
+            "ver": "2.0.0"
         },
         {
             "name": "yarn -g",
