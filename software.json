@@ -24,7 +24,7 @@
     },
     "primary-web-browser": {
         "name": "Google Chrome",
-        "ver": "57.0.2987.110",
+        "ver": "57.0.2987.133",
         "extensions": [
             "React Developer Tools",
             "Redux Developer Tools",
@@ -44,7 +44,7 @@
     },
     "code-editor": {
         "name": "Visual Studio Code",
-        "ver": "1.10.2",
+        "ver": "1.11.0",
         "extensions": [
             "React Native Tools",
             "Path Intellisense",
@@ -97,6 +97,10 @@
         {
             "name": "next",
             "ver": "2.0.0"
+        },
+        {
+            "name": "micro",
+            "ver": "7.3.0"
         },
         {
             "name": "yarn -g",
