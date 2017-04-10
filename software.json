@@ -44,7 +44,7 @@
     },
     "code-editor": {
         "name": "Visual Studio Code",
-        "ver": "1.11.0",
+        "ver": "1.11.1",
         "extensions": [
             "React Native Tools",
             "Path Intellisense",
@@ -82,7 +82,7 @@
         },
         {
             "name": "Mongoose",
-            "ver": "4.9.3"
+            "ver": "4.9.4"
         }
     ],
     "npm-packages": [
@@ -96,11 +96,15 @@
         },
         {
             "name": "next",
-            "ver": "2.0.0"
+            "ver": "2.1.1"
         },
         {
             "name": "micro",
             "ver": "7.3.0"
+        },
+        {
+            "name": "now -g",
+            "ver": "4.11.0"
         },
         {
             "name": "yarn -g",
@@ -111,12 +115,12 @@
             "ver": "2.0.1"
         },
         {
-            "name": "create-react-app -g",
-            "ver": "0.9.5"
+            "name": "code-push -g",
+            "ver": "2.0.1"
         },
         {
-            "name": "now -g",
-            "ver": "4.10.3"
+            "name": "create-react-app -g",
+            "ver": "0.9.5"
         },
         {
             "name": "live-server -g",
