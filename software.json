@@ -59,10 +59,9 @@
         "icon-theme": "Material Theme Icons",
         "font": "Operator Mono"
     },
-    "developer-tools": [
-        {
+    "developer-tools": [{
             "name": "Node.js",
-            "ver": "7.8.0"
+            "ver": "7.9.0"
         },
         {
             "name": "Git",
@@ -85,8 +84,7 @@
             "ver": "4.9.4"
         }
     ],
-    "npm-packages": [
-        {
+    "npm-packages": [{
             "name": "express",
             "ver": "4.15.2"
         },
@@ -100,11 +98,11 @@
         },
         {
             "name": "micro",
-            "ver": "7.3.0"
+            "ver": "7.3.1"
         },
         {
             "name": "now -g",
-            "ver": "4.11.0"
+            "ver": "4.11.1"
         },
         {
             "name": "yarn -g",
@@ -131,8 +129,7 @@
             "ver": "1.11.0"
         }
     ],
-    "design-tools": [
-        {
+    "design-tools": [{
             "name": "Adobe Photoshop CC",
             "ver": "2017 18.0.0"
         },
