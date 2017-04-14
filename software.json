@@ -38,13 +38,9 @@
             "Postman"
         ]
     },
-    "secondary-web-browser": {
-        "name": "Mozilla Firefox",
-        "ver": "51.0.2"
-    },
     "code-editor": {
         "name": "Visual Studio Code",
-        "ver": "1.11.1",
+        "ver": "1.11.2",
         "extensions": [
             "React Native Tools",
             "Path Intellisense",
@@ -73,7 +69,7 @@
         },
         {
             "name": "Genymotion",
-            "ver": "2.8.1"
+            "ver": "2.9.0"
         },
         {
             "name": "MongoDB",
@@ -98,7 +94,7 @@
         },
         {
             "name": "micro",
-            "ver": "7.3.1"
+            "ver": "7.3.2"
         },
         {
             "name": "now -g",
@@ -106,7 +102,7 @@
         },
         {
             "name": "yarn -g",
-            "ver": "0.21.3"
+            "ver": "0.23.2"
         },
         {
             "name": "react-native-cli -g",
@@ -144,7 +140,7 @@
     ],
     "office-suite": {
         "name": "Microsoft Office",
-        "ver": "15.32"
+        "ver": "15.33"
     },
     "multimedia-player": {
         "name": "VLC",
