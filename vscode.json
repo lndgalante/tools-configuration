@@ -5,12 +5,12 @@
     // Editor
     "editor.fontFamily": "Operator Mono",
     "editor.cursorBlinking": "phase",
+    "editor.dragAndDrop": false,
     "editor.fontLigatures": true,
     "editor.fontWeight": "300",
     "editor.wordWrap": "on",
     "editor.fontSize": 18,
     "editor.tabSize": 2,
-    "editor.dragAndDrop": false,
     // Suggestions
     "html.suggest.angular1": false,
     "html.suggest.ionic": false,
@@ -21,12 +21,14 @@
     "editor.formatOnSave": true,
     // Emmet
     "emmet.syntaxProfiles": {
-        "javascript": "jsx"
+        "javascript": "js"
     },
+    // JSON
+    "json.format.enable": true,
     // Npm
     "npm-intellisense.scanDevDependencies": true,
     // Window
-    "window.zoomLevel": -0.5,
+    "window.zoomLevel": 0,
     // Terminal
     "terminal.integrated.fontFamily": "Operator Mono",
     "terminal.integrated.fontSize": 16,
@@ -34,10 +36,14 @@
     "telemetry.enableCrashReporter": false,
     "telemetry.enableTelemetry": false,
     // Prettier
-    "prettier.printWidth": 80,
+    "prettier.printWidth": 120,
     "prettier.tabWidth": 2,
     "prettier.singleQuote": true,
-    "prettier.trailingComma": true,
+    "prettier.trailingComma": "none",
     "prettier.bracketSpacing": true,
+    "prettier.jsxBracketSameLine": false,
     "prettier.parser": "babylon",
+    "prettier.useFlowParser": false,
+    "prettier.semi": false,
+    "prettier.useTabs": false
 }
