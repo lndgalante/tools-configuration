@@ -22,7 +22,12 @@
         "toggle-windows-same-app": "cmd + `",
         "screenshot-single-window": "cmd + shift + 4 + space",
         "key-repeat": "fast",
-        "delay-until-repeat": "short"
+        "delay-until-repeat": "short",
+        "do-not-remove-from-startup": [
+            "watchman",
+            "haxm",
+            "virtualbox"
+        ]
     },
     "maintenance": {
         "screenshots": "defaults write com.apple.screencapture location ~/folder-for-screenshots",
