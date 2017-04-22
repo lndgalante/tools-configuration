@@ -9,6 +9,8 @@
     },
     "shell": {
         "name": "oh-my-zsh",
+        "prompt": "pure-prompt",
+        "theme": "snazzy",
         "plugins": [
             "react-native",
             "git"

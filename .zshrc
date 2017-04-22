@@ -6,6 +6,9 @@ plugins=(git react-native)
 
 source $ZSH/oh-my-zsh.sh
 
+autoload -U promptinit; promptinit
+prompt pure
+
 cd /Users/fenwil/Downloads/repos/
 
 export ANDROID_HOME=~/Library/Android/sdk
