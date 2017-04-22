@@ -1,10 +1,12 @@
-export ZSH=/Users/leo/.oh-my-zsh
+export ZSH=/Users/fenwil/.oh-my-zsh
+
+ZSH_THEME="robbyrussell"
 
 plugins=(git react-native)
 
 source $ZSH/oh-my-zsh.sh
 
-cd /Users/leo/Downloads/repos/
+cd /Users/fenwil/Downloads/repos/
 
 export ANDROID_HOME=~/Library/Android/sdk
 export PATH=${PATH}:${ANDROID_HOME}/tools
