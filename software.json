@@ -59,12 +59,16 @@
             "ver": "2.12.2"
         },
         {
-            "name": "VirtualBox",
-            "ver": "5.1.20"
+            "name": "Android Studio",
+            "ver": "2.3.1"
         },
         {
             "name": "Genymotion",
             "ver": "2.9.0"
+        },
+        {
+            "name": "VirtualBox",
+            "ver": "5.1.20"
         },
         {
             "name": "MongoDB",
