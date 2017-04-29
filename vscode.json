@@ -35,15 +35,38 @@
     // Telemetry
     "telemetry.enableCrashReporter": false,
     "telemetry.enableTelemetry": false,
+    // Beautify
+    "beautify.config": {
+        "indent_size": 4,
+        "html": {
+            "end_with_newline": true,
+            "css": {
+                "indent_size": 2
+            }
+        },
+        "css": {
+            "indent_size": 2
+        }
+    },
+    "beautify.language": {
+        "html": [
+            "htm",
+            "html"
+        ],
+        "css": [
+            "css",
+            "scss"
+        ]
+    },
     // Prettier
     "prettier.printWidth": 120,
     "prettier.tabWidth": 2,
     "prettier.singleQuote": true,
-    "prettier.trailingComma": "none",
+    "prettier.trailingComma": "all",
     "prettier.bracketSpacing": true,
     "prettier.jsxBracketSameLine": false,
     "prettier.parser": "babylon",
     "prettier.useFlowParser": false,
-    "prettier.semi": false,
+    "prettier.semi": true,
     "prettier.useTabs": false
 }
