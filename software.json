@@ -5,7 +5,7 @@
     },
     "package-manager": {
         "name": "Homebrew & Cask",
-        "version": "1.1.13"
+        "version": "1.2.0"
     },
     "terminal": {
         "shell": "oh-my-zsh",
@@ -45,7 +45,7 @@
             "Prettier",
             "beautify"
         ],
-        "color-theme": "vsc-material-theme",
+        "color-theme": "Material Theme (vsc-material-theme)",
         "icon-theme": "Material Theme Icons",
         "font": "Operator Mono"
     },
@@ -68,7 +68,7 @@
         },
         {
             "name": "VirtualBox",
-            "ver": "5.1.20"
+            "ver": "5.1.22"
         },
         {
             "name": "MongoDB",
@@ -76,7 +76,7 @@
         },
         {
             "name": "Mongoose",
-            "ver": "4.9.5"
+            "ver": "4.9.7"
         }
     ],
     "npm-packages": [
@@ -102,7 +102,7 @@
         },
         {
             "name": "next",
-            "ver": "2.2.0"
+            "ver": "2.3.0"
         },
         {
             "name": "micro",
