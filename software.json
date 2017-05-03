@@ -18,7 +18,7 @@
     },
     "primary-web-browser": {
         "name": "Google Chrome",
-        "ver": "58.0.3029.81",
+        "ver": "58.0.3029.96",
         "extensions": [
             "React Developer Tools",
             "Redux Developer Tools",
@@ -52,7 +52,7 @@
     "developer-tools": [
         {
             "name": "Node.js",
-            "ver": "7.9.0"
+            "ver": "7.10.0"
         },
         {
             "name": "Git",
@@ -110,11 +110,11 @@
         },
         {
             "name": "now -g",
-            "ver": "5.0.0"
+            "ver": "5.1.2"
         },
         {
             "name": "yarn -g",
-            "ver": "0.23.3"
+            "ver": "0.23.4"
         },
         {
             "name": "react-native-cli -g",
