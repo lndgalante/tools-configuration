@@ -109,6 +109,10 @@
             "ver": "7.3.2"
         },
         {
+            "name": "typings -g",
+            "ver": "2.1.1"
+        },
+        {
             "name": "react-devtools -g",
             "ver": "2.1.7"
         },
