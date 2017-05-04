@@ -43,7 +43,8 @@
             "EditorConfig",
             "Better Merge",
             "Prettier",
-            "beautify"
+            "Beautify",
+            "ESLint"
         ],
         "color-theme": "Material Theme (vsc-material-theme)",
         "icon-theme": "Material Theme Icons",
