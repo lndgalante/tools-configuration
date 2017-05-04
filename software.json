@@ -109,6 +109,10 @@
             "ver": "7.3.2"
         },
         {
+            "name": "react-devtools -g",
+            "ver": "2.1.7"
+        },
+        {
             "name": "now -g",
             "ver": "5.1.2"
         },
