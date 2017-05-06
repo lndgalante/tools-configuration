@@ -15,13 +15,11 @@
     "html.suggest.angular1": false,
     "html.suggest.ionic": false,
     "php.suggest.basic": false,
-    // External Terminal
-    "terminal.external.osxExec": "Hyper.app",
     // Formatting
     "editor.formatOnSave": true,
     // Emmet
     "emmet.syntaxProfiles": {
-        "javascript": "js"
+        "javascript": "jsx"
     },
     // JSON
     "json.format.enable": true,
@@ -44,6 +42,6 @@
     "prettier.jsxBracketSameLine": false,
     "prettier.parser": "babylon",
     "prettier.useFlowParser": false,
-    "prettier.semi": true,
+    "prettier.semi": false,
     "prettier.useTabs": false
 }
