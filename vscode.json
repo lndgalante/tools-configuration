@@ -25,6 +25,9 @@
     "json.format.enable": true,
     // Npm
     "npm-intellisense.scanDevDependencies": true,
+    // JavaScript
+    "javascript.format.enable": false,
+    "javascript.validate.enable": false,
     // Window
     "window.zoomLevel": 0,
     // Terminal
