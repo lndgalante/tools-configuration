@@ -34,7 +34,7 @@
     },
     "code-editor": {
         "name": "Visual Studio Code",
-        "ver": "1.11.2",
+        "ver": "1.12.1",
         "extensions": [
             "React Native Tools",
             "Path Intellisense",
@@ -88,6 +88,10 @@
         {
             "name": "passport",
             "ver": "0.3.2"
+        },
+        {
+            "name": "moment",
+            "ver": "2.18.1"
         },
         {
             "name": "lodash",
