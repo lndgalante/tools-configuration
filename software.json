@@ -1,7 +1,7 @@
 {
     "operative-system": {
         "name": "macOS Sierra",
-        "version": "10.12.4"
+        "version": "10.12.5"
     },
     "package-manager": {
         "name": "Homebrew & Cask",
@@ -34,7 +34,7 @@
     },
     "code-editor": {
         "name": "Visual Studio Code",
-        "ver": "1.12.1",
+        "ver": "1.12.2",
         "extensions": [
             "React Native Tools",
             "Path Intellisense",
