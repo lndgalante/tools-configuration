@@ -1,0 +1,116 @@
+{
+  "developer-tools": [
+    {
+      "name": "Node.js",
+      "ver": "7.10.0"
+    },
+    {
+      "name": "Git",
+      "ver": "2.13.0"
+    },
+    {
+      "name": "Android Studio",
+      "ver": "2.3.1"
+    },
+    {
+      "name": "Genymotion",
+      "ver": "2.9.0"
+    },
+    {
+      "name": "VirtualBox",
+      "ver": "5.1.22"
+    },
+    {
+      "name": "MongoDB",
+      "ver": "3.5.7"
+    },
+    {
+      "name": "Mongoose",
+      "ver": "4.9.9"
+    }
+  ],
+  "npm-packages": [
+    {
+      "name": "express",
+      "ver": "4.15.2"
+    },
+    {
+      "name": "passport",
+      "ver": "0.3.2"
+    },
+    {
+      "name": "moment",
+      "ver": "2.18.1"
+    },
+    {
+      "name": "lodash",
+      "ver": "4.17.4"
+    },
+    {
+      "name": "x-ray",
+      "ver": "2.1.0"
+    },
+    {
+      "name": "code-push",
+      "ver": "2.0.1"
+    },
+    {
+      "name": "next",
+      "ver": "2.3.1"
+    },
+    {
+      "name": "micro",
+      "ver": "7.3.3"
+    },
+    {
+      "name": "lint-staged",
+      "ver": "3.4.2"
+    },
+    {
+      "name": "typings -g",
+      "ver": "2.1.1"
+    },
+    {
+      "name": "react-devtools -g",
+      "ver": "2.1.7"
+    },
+    {
+      "name": "now -g",
+      "ver": "5.2.3"
+    },
+    {
+      "name": "yarn -g",
+      "ver": "0.24.5"
+    },
+    {
+      "name": "react-native-cli -g",
+      "ver": "2.0.1"
+    },
+    {
+      "name": "create-react-app -g",
+      "ver": "0.9.5"
+    },
+    {
+      "name": "live-server -g",
+      "ver": "1.2.0"
+    },
+    {
+      "name": "nodemon -g",
+      "ver": "1.11.0"
+    }
+  ],
+  "design-tools": [
+    {
+      "name": "Adobe Photoshop CC",
+      "ver": "2017 18.0.0"
+    },
+    {
+      "name": "Adobe Illustrator CC",
+      "ver": "2017 21.0.0"
+    },
+    {
+      "name": "Adobe Experience Design CC",
+      "ver": "2017 0.6"
+    }
+  ]
+}
