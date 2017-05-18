@@ -40,7 +40,7 @@
     "prettier.printWidth": 120,
     "prettier.tabWidth": 2,
     "prettier.singleQuote": true,
-    "prettier.trailingComma": "all",
+    "prettier.trailingComma": "es5",
     "prettier.bracketSpacing": true,
     "prettier.jsxBracketSameLine": false,
     "prettier.parser": "babylon",
