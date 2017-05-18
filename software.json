@@ -36,6 +36,7 @@
         "name": "Visual Studio Code",
         "ver": "1.12.2",
         "extensions": [
+            "ReactJS Code Snippets",
             "React Native Tools",
             "Path Intellisense",
             "HTML CSS Support",
