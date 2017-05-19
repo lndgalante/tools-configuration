@@ -11,9 +11,9 @@ prompt pure
 
 cd /Users/fenwil/Downloads/repos/
 
+alias adb-shake="adb shell input keyevent 82"
+
 export ANDROID_HOME=~/Library/Android/sdk
-export GOPATH=~/go
-export PATH=${PATH}:${GOPATH}/bin
 export PATH=${PATH}:${ANDROID_HOME}/tools
 export PATH=${PATH}:${ANDROID_HOME}/platform-tools
 export PATH="$HOME/.fastlane/bin:$PATH"
