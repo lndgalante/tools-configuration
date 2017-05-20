@@ -23,7 +23,7 @@
     {
       "name": "VirtualBox",
       "ver": "5.1.22"
-    },
+    }
   ],
   "npm-packages": [
     {
@@ -65,6 +65,10 @@
     {
       "name": "lint-staged",
       "ver": "3.4.2"
+    },
+    {
+      "name": "eslint -g",
+      "ver": "3.19.0"
     },
     {
       "name": "typings -g",
