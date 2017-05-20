@@ -1,4 +1,8 @@
 {
+  "design-tool": {
+    "name": "Sketch",
+    "ver": "43.1"
+  },
   "developer-tools": [
     {
       "name": "Node.js",
@@ -10,7 +14,7 @@
     },
     {
       "name": "Android Studio",
-      "ver": "2.3.1"
+      "ver": "2.3.2"
     },
     {
       "name": "Genymotion",
@@ -20,19 +24,11 @@
       "name": "VirtualBox",
       "ver": "5.1.22"
     },
-    {
-      "name": "MongoDB",
-      "ver": "3.5.7"
-    },
-    {
-      "name": "Mongoose",
-      "ver": "4.9.9"
-    }
   ],
   "npm-packages": [
     {
       "name": "express",
-      "ver": "4.15.2"
+      "ver": "4.15.3"
     },
     {
       "name": "passport",
@@ -55,8 +51,12 @@
       "ver": "2.0.1"
     },
     {
+      "name": "now -g",
+      "ver": "5.3.2"
+    },
+    {
       "name": "next",
-      "ver": "2.3.1"
+      "ver": "2.4.0"
     },
     {
       "name": "micro",
@@ -75,10 +75,6 @@
       "ver": "2.1.7"
     },
     {
-      "name": "now -g",
-      "ver": "5.2.3"
-    },
-    {
       "name": "yarn -g",
       "ver": "0.24.5"
     },
@@ -88,7 +84,15 @@
     },
     {
       "name": "create-react-app -g",
-      "ver": "0.9.5"
+      "ver": "1.0.2"
+    },
+    {
+      "name": "mongo",
+      "ver": "3.5.7"
+    },
+    {
+      "name": "mongoose",
+      "ver": "4.10.0"
     },
     {
       "name": "live-server -g",
@@ -97,20 +101,6 @@
     {
       "name": "nodemon -g",
       "ver": "1.11.0"
-    }
-  ],
-  "design-tools": [
-    {
-      "name": "Adobe Photoshop CC",
-      "ver": "2017 18.0.0"
-    },
-    {
-      "name": "Adobe Illustrator CC",
-      "ver": "2017 21.0.0"
-    },
-    {
-      "name": "Adobe Experience Design CC",
-      "ver": "2017 0.6"
     }
   ]
 }

@@ -3,9 +3,9 @@
         "name": "macOS Sierra",
         "version": "10.12.5"
     },
-    "package-manager": {
+    "package-managers": {
         "name": "Homebrew & Cask",
-        "version": "1.2.0"
+        "version": "1.2.1"
     },
     "terminal": {
         "shell": "oh-my-zsh",
