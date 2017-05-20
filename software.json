@@ -63,6 +63,10 @@
         "name": "WebTorrent",
         "ver": "0.18.0"
     },
+    "productivity": {
+        "name": "Tomato One",
+        "version": "1.0.6"
+    },
     "chat-app": {
         "name": "Slack",
         "ver": "2.6.1"
