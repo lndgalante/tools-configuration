@@ -4,6 +4,7 @@
     "workbench.iconTheme": "material-theme-icons",
     // Editor
     "editor.fontFamily": "Operator Mono",
+    "editor.renderIndentGuides": true,
     "editor.cursorBlinking": "phase",
     "editor.dragAndDrop": false,
     "editor.fontLigatures": true,
