@@ -8,8 +8,9 @@
         "version": "1.2.1"
     },
     "terminal": {
-        "shell": "oh-my-zsh",
         "prompt": "pure-prompt",
+        "shell": "oh-my-zsh",
+        "info": "neofetch",
         "theme": "snazzy",
         "plugins": [
             "react-native",
