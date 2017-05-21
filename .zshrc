@@ -2,7 +2,7 @@ export ZSH=/Users/fenwil/.oh-my-zsh
 
 ZSH_THEME="robbyrussell"
 
-plugins=(git react-native)
+plugins=(git react-native zsh-syntax-highlighting)
 
 source $ZSH/oh-my-zsh.sh
 
