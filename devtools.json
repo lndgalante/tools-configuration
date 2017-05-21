@@ -71,6 +71,10 @@
       "ver": "3.19.0"
     },
     {
+      "name": "typescript -g",
+      "ver": "2.3.2"
+    },
+    {
       "name": "typings -g",
       "ver": "2.1.1"
     },
