@@ -37,6 +37,15 @@
     // Telemetry
     "telemetry.enableCrashReporter": false,
     "telemetry.enableTelemetry": false,
+    // Search
+    "search.exclude": {
+        "**/.git": true,
+        "**/node_modules": true,
+        "**/bower_components": true,
+        "**/tmp": true,
+        "**/ios": true,
+        "**/android": true
+    },
     // Prettier
     "prettier.printWidth": 120,
     "prettier.tabWidth": 2,
