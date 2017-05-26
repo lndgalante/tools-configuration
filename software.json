@@ -59,7 +59,7 @@
     },
     "multimedia-player": {
         "name": "VLC",
-        "ver": "2.2.4"
+        "ver": "2.2.5"
     },
     "torrent-manager": {
         "name": "WebTorrent",
@@ -71,7 +71,7 @@
     },
     "chat-app": {
         "name": "Slack",
-        "ver": "2.6.1"
+        "ver": "2.6.2"
     },
     "cleaner": {
         "name": "Ccleaner",
