@@ -1,12 +1,12 @@
 {
   "design-tool": {
     "name": "Sketch",
-    "ver": "43.1"
+    "ver": "44.1"
   },
   "developer-tools": [
     {
       "name": "Node.js",
-      "ver": "7.10.0"
+      "ver": "8.0.0"
     },
     {
       "name": "Git",
@@ -56,11 +56,11 @@
     },
     {
       "name": "now -g",
-      "ver": "6.1.1"
+      "ver": "6.3.1"
     },
     {
       "name": "next",
-      "ver": "2.4.0"
+      "ver": "2.4.1"
     },
     {
       "name": "micro",
@@ -104,7 +104,7 @@
     },
     {
       "name": "mongoose",
-      "ver": "4.10.2"
+      "ver": "4.10.4"
     },
     {
       "name": "live-server -g",
