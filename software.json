@@ -38,6 +38,7 @@
         "name": "Visual Studio Code",
         "ver": "1.12.2",
         "extensions": [
+            "Language Support for Java by Red Hat",
             "ReactJS Code Snippets",
             "React Native Tools",
             "Path Intellisense",
@@ -47,7 +48,8 @@
             "Better Merge",
             "Prettier",
             "Beautify",
-            "ESLint"
+            "ESLint",
+            "Go"
         ],
         "color-theme": "Material Theme (vsc-material-theme)",
         "icon-theme": "Material Theme Icons",
