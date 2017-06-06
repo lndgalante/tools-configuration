@@ -18,7 +18,7 @@
     },
     {
       "name": "Xcode",
-      "ver": "8.3.2"
+      "ver": "8.3.3"
     },
     {
       "name": "Genymotion",
@@ -48,7 +48,7 @@
     },
     {
       "name": "x-ray",
-      "ver": "2.1.0"
+      "ver": "2.3.2"
     },
     {
       "name": "code-push",
@@ -60,7 +60,7 @@
     },
     {
       "name": "next",
-      "ver": "2.4.1"
+      "ver": "2.4.2"
     },
     {
       "name": "micro",
@@ -76,7 +76,7 @@
     },
     {
       "name": "typescript -g",
-      "ver": "2.3.2"
+      "ver": "2.3.4"
     },
     {
       "name": "typings -g",
@@ -96,11 +96,11 @@
     },
     {
       "name": "create-react-app -g",
-      "ver": "1.0.2"
+      "ver": "1.0.7"
     },
     {
       "name": "mongo",
-      "ver": "3.5.7"
+      "ver": "3.5.8"
     },
     {
       "name": "mongoose",
