@@ -50,11 +50,21 @@
     "prettier.printWidth": 120,
     "prettier.tabWidth": 2,
     "prettier.singleQuote": true,
-    "prettier.trailingComma": "es5",
+    "prettier.trailingComma": "all",
     "prettier.bracketSpacing": true,
     "prettier.jsxBracketSameLine": false,
     "prettier.parser": "babylon",
     "prettier.useFlowParser": false,
     "prettier.semi": false,
-    "prettier.useTabs": false
+    "prettier.useTabs": false,
+    "prettier.cssEnable": [
+        "css",
+        "less",
+        "sass"
+    ],
+    "prettier.javascriptEnable": [
+        "javascript",
+        "javascriptreact"
+    ],
+    "java.errors.incompleteClasspath.severity": "ignore"
 }
