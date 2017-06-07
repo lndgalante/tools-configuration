@@ -52,7 +52,7 @@
     },
     {
       "name": "code-push",
-      "ver": "2.0.3"
+      "ver": "2.1.0"
     },
     {
       "name": "now -g",
@@ -60,7 +60,7 @@
     },
     {
       "name": "next",
-      "ver": "2.4.2"
+      "ver": "2.4.3"
     },
     {
       "name": "micro",
@@ -68,7 +68,7 @@
     },
     {
       "name": "lint-staged",
-      "ver": "3.5.0"
+      "ver": "3.6.0"
     },
     {
       "name": "eslint -g",
@@ -108,7 +108,7 @@
     },
     {
       "name": "mongoose",
-      "ver": "4.10.4"
+      "ver": "4.10.5"
     },
     {
       "name": "live-server -g",
