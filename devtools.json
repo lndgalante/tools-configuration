@@ -6,7 +6,7 @@
   "developer-tools": [
     {
       "name": "Node.js",
-      "ver": "8.0.0"
+      "ver": "8.1.0"
     },
     {
       "name": "Git",
@@ -29,46 +29,14 @@
       "ver": "5.1.22"
     }
   ],
-  "npm-packages": [
+  "global-npm-packages": [
     {
-      "name": "express",
-      "ver": "4.15.3"
-    },
-    {
-      "name": "passport",
-      "ver": "0.3.2"
-    },
-    {
-      "name": "moment",
-      "ver": "2.18.1"
-    },
-    {
-      "name": "lodash",
-      "ver": "4.17.4"
-    },
-    {
-      "name": "x-ray",
-      "ver": "2.3.2"
-    },
-    {
-      "name": "code-push",
-      "ver": "2.1.0"
+      "name": "nvm -g",
+      "ver": "0.33.2"
     },
     {
       "name": "now -g",
       "ver": "6.3.1"
-    },
-    {
-      "name": "next",
-      "ver": "2.4.3"
-    },
-    {
-      "name": "micro",
-      "ver": "7.3.3"
-    },
-    {
-      "name": "lint-staged",
-      "ver": "3.6.0"
     },
     {
       "name": "eslint -g",
@@ -103,20 +71,58 @@
       "ver": "1.0.7"
     },
     {
-      "name": "mongo",
-      "ver": "3.5.8"
-    },
-    {
-      "name": "mongoose",
-      "ver": "4.10.5"
-    },
-    {
       "name": "live-server -g",
       "ver": "1.2.0"
     },
     {
       "name": "nodemon -g",
       "ver": "1.11.0"
+    }
+  ],
+  "local-npm-packages": [
+    {
+      "name": "express",
+      "ver": "4.15.3"
+    },
+    {
+      "name": "passport",
+      "ver": "0.3.2"
+    },
+    {
+      "name": "moment",
+      "ver": "2.18.1"
+    },
+    {
+      "name": "lodash",
+      "ver": "4.17.4"
+    },
+    {
+      "name": "x-ray",
+      "ver": "2.3.2"
+    },
+    {
+      "name": "code-push",
+      "ver": "2.1.0"
+    },
+    {
+      "name": "next",
+      "ver": "2.4.3"
+    },
+    {
+      "name": "micro",
+      "ver": "7.3.3"
+    },
+    {
+      "name": "lint-staged",
+      "ver": "3.6.0"
+    },
+    {
+      "name": "mongo",
+      "ver": "3.5.8"
+    },
+    {
+      "name": "mongoose",
+      "ver": "4.10.5"
     }
   ]
 }
