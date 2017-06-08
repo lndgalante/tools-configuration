@@ -36,7 +36,7 @@
     },
     "code-editor": {
         "name": "Visual Studio Code",
-        "ver": "1.12.2",
+        "ver": "1.13.0",
         "extensions": [
             "Language Support for Java by Red Hat",
             "ReactJS Code Snippets",
@@ -46,6 +46,7 @@
             "npm Intellisense",
             "EditorConfig",
             "Better Merge",
+            "Can I Use",
             "Prettier",
             "Beautify",
             "ESLint",
