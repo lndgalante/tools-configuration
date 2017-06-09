@@ -6,12 +6,17 @@
     "editor.fontFamily": "Operator Mono",
     "editor.renderIndentGuides": true,
     "editor.cursorBlinking": "phase",
-    "editor.dragAndDrop": false,
+    "editor.minimap.enabled": false,
     "editor.fontLigatures": true,
+    "editor.dragAndDrop": false,
     "editor.fontWeight": "300",
     "editor.wordWrap": "on",
     "editor.fontSize": 18,
     "editor.tabSize": 2,
+    // Extensions
+    "extensions.autoUpdate": true,
+    // Windows
+    "window.openFilesInNewWindow": "off",
     // Suggestions
     "html.suggest.angular1": false,
     "html.suggest.ionic": false,
@@ -46,6 +51,8 @@
         "**/ios": true,
         "**/android": true
     },
+    // ESLint
+    "eslint.autoFixOnSave": true,
     // Prettier
     "prettier.printWidth": 120,
     "prettier.tabWidth": 2,
@@ -66,5 +73,6 @@
         "javascript",
         "javascriptreact"
     ],
-    "java.errors.incompleteClasspath.severity": "ignore"
+    "java.errors.incompleteClasspath.severity": "ignore",
+    "git.enableSmartCommit": true
 }
