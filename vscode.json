@@ -34,11 +34,15 @@
     // JavaScript
     "javascript.format.enable": false,
     "javascript.validate.enable": false,
+    // Java
+    "java.errors.incompleteClasspath.severity": "ignore",
     // Window
     "window.zoomLevel": 0,
     // Terminal
     "terminal.integrated.fontFamily": "Operator Mono",
     "terminal.integrated.fontSize": 16,
+    // Git
+    "git.enableSmartCommit": true,
     // Telemetry
     "telemetry.enableCrashReporter": false,
     "telemetry.enableTelemetry": false,
@@ -72,7 +76,5 @@
     "prettier.javascriptEnable": [
         "javascript",
         "javascriptreact"
-    ],
-    "java.errors.incompleteClasspath.severity": "ignore",
-    "git.enableSmartCommit": true
+    ]
 }
