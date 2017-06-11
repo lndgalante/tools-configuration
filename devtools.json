@@ -89,6 +89,10 @@
       "ver": "3.6.0"
     },
     {
+      "name": "react-redux",
+      "ver": "5.0.5"
+    },
+    {
       "name": "redux-form",
       "ver": "6.8.0"
     },
