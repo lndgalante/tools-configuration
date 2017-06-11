@@ -85,6 +85,10 @@
       "ver": "4.15.3"
     },
     {
+      "name": "sequelize",
+      "ver": "4.0.0"
+    },
+    {
       "name": "redux",
       "ver": "3.6.0"
     },
