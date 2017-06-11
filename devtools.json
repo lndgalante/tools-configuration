@@ -31,10 +31,6 @@
   ],
   "global-npm-packages": [
     {
-      "name": "nvm -g",
-      "ver": "0.33.2"
-    },
-    {
       "name": "now -g",
       "ver": "6.3.1"
     },

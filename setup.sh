@@ -1,10 +1,6 @@
 echo "XCode command line tools"
 xcode-select --install
 
-echo "General settings"
-sudo chflags hidden /Applications/maps.app
-sudo chflags hidden /Applications/Photo\ Booth.app
-
 printf "System - Require password immediately after sleep or screen saver begins\n"
 sudo defaults write com.apple.screensaver askForPassword -int 1
 sudo defaults write com.apple.screensaver askForPasswordDelay -int 0
@@ -120,8 +116,11 @@ brew cask install slack
 brew cask install ccleaner
 brew cask install mounty
 brew cask install the-unarchiver
+brew cask install sketch
 brew cask install recordit
+brew cask install android-studio
 brew cask install virtualbox
+brew cask install genymotion
 brew cask install quicklook-csv
 brew cask install quicklook-json
 brew cask cleanup
