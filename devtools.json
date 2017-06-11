@@ -85,6 +85,14 @@
       "ver": "4.15.3"
     },
     {
+      "name": "redux",
+      "ver": "3.6.0"
+    },
+    {
+      "name": "redux-form",
+      "ver": "6.8.0"
+    },
+    {
       "name": "passport",
       "ver": "0.3.2"
     },
