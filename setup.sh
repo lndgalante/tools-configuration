@@ -5,15 +5,12 @@ echo "General settings"
 sudo chflags hidden /Applications/maps.app
 sudo chflags hidden /Applications/Photo\ Booth.app
 
-printf "System - Reveal IP address, hostname, OS version, etc. when clicking the login window clock\n"
-sudo defaults write /Library/Preferences/com.apple.loginwindow AdminHostInfo HostName
-
 printf "System - Require password immediately after sleep or screen saver begins\n"
 sudo defaults write com.apple.screensaver askForPassword -int 1
 sudo defaults write com.apple.screensaver askForPasswordDelay -int 0
 
 printf "System - Automatically restart if system freezes\n"
-systemsetup -setrestartfreeze on
+sudo systemsetup -setrestartfreeze on
 
 printf "System - Avoid creating .DS_Store files on network volumes\n"
 sudo defaults write com.apple.desktopservices DSDontWriteNetworkStores -bool true
@@ -26,11 +23,6 @@ sudo defaults write NSGlobalDomain KeyRepeat -int 0
 
 printf "Keyboard - Turn off keyboard illumination when computer is not used for 5 minutes\n"
 sudo defaults write com.apple.BezelServices kDimTime -int 300
-
-printf "Trackpad - Enable tap to click for current user and the login screen\n"
-sudo defaults write com.apple.driver.AppleBluetoothMultitouch.trackpad Clicking -bool true
-sudo defaults -currentHost write NSGlobalDomain com.apple.mouse.tapBehavior -int 1
-sudo defaults write NSGlobalDomain com.apple.mouse.tapBehavior -int 1
 
 printf "Bluetooth - Increase sound quality for headphones/headsets\n"
 sudo defaults write com.apple.BluetoothAudioAgent "Apple Bitpool Min (editable)" -int 40
@@ -46,7 +38,6 @@ sudo defaults write NSGlobalDomain AppleShowAllExtensions -bool true
 
 printf "Finder - Disable the warning when changing a file extension\n"
 sudo defaults write com.apple.finder FXEnableExtensionChangeWarning -bool false
-
 
 printf "Finder - Show path bar\n"
 sudo defaults write com.apple.finder ShowPathbar -bool true
@@ -72,22 +63,12 @@ sudo defaults write com.apple.finder QLEnableTextSelection -bool true
 printf "Safari - Disable sending search queries to Apple.\n"
 sudo defaults write com.apple.Safari UniversalSearchEnabled -bool false
 
-printf "Address Book - Enable debug menu\n"
-sudo defaults write com.apple.addressbook ABShowDebugMenu -bool true
-
-printf "iCal - Enable debug menu\n"
-sudo defaults write com.apple.iCal IncludeDebugMenu -bool true
-
 printf "TextEdit - Use plain text mode for new documents\n"
 sudo defaults write com.apple.TextEdit RichText -int 0
 
 printf "TextEdit - Open and save files as UTF-8 encoding\n"
 sudo defaults write com.apple.TextEdit PlainTextEncoding -int 4
 sudo defaults write com.apple.TextEdit PlainTextEncodingForWrite -int 4
-
-printf "Disk Utility - Enable debug menu\n"
-sudo defaults write com.apple.DiskUtility DUDebugMenuEnabled -bool true
-sudo defaults write com.apple.DiskUtility advanced-image-options -bool true
 
 printf "Time Machine - Prevent prompting to use new hard drives as backup volume\n"
 sudo defaults write com.apple.TimeMachine DoNotOfferNewDisksForBackup -bool true
@@ -101,14 +82,8 @@ sudo defaults write com.apple.print.PrintingPrefs "Quit When Finished" -bool tru
 printf "App Store - Enable the WebKit Developer Tools in the Mac App Store\n"
 sudo defaults write com.apple.appstore WebKitDeveloperExtras -bool true
 
-printf "App Store - Enable Debug Menu in the Mac App Store\n"
-sudo defaults write com.apple.appstore ShowDebugMenu -bool true
-
 echo "Disabling local Time Machine backups"
 sudo hash tmutil &> /dev/null && sudo tmutil disablelocal
-
-echo "Disable automatic emoji substitution (i.e. use plain text smileys)"
-sudo defaults write com.apple.messageshelper.MessageController SOInputLineSettings -dict-add "automaticEmojiSubstitutionEnablediMessage" -bool false
 
 echo "Check for software updates daily, not just once per week"
 sudo defaults write com.apple.SoftwareUpdate ScheduleFrequency -int 1
@@ -119,22 +94,13 @@ sudo defaults -currentHost write com.apple.ImageCapture disableHotPlug -bool tru
 echo "Show dotfiles in Finder by default"
 sudo defaults write com.apple.finder AppleShowAllFiles TRUE
 
-echo "Enable snap-to-grid for icons on the desktop and in other icon views”
-/usr/libexec/PlistBuddy -c "Set :DesktopViewSettings:IconViewSettings:arrangeBy grid" ~/Library/Preferences/com.apple.finder.plist
-/usr/libexec/PlistBuddy -c "Set :FK_StandardViewSettings:IconViewSettings:arrangeBy grid" ~/Library/Preferences/com.apple.finder.plist
-/usr/libexec/PlistBuddy -c "Set :StandardViewSettings:IconViewSettings:arrangeBy grid" ~/Library/Preferences/com.apple.finder.plist
-echo "Disable smart quotes as they’re annoying when typing code"
-sudo defaults write NSGlobalDomain NSAutomaticQuoteSubstitutionEnabled -bool false
-echo "Disable smart dashes as they’re annoying when typing code"
-sudo defaults write NSGlobalDomain NSAutomaticDashSubstitutionEnabled -bool false
-sudo defaults write com.apple.dock launchanim -bool false
-# Show all processes in Activity Monitor
+echo "Show all processes in Activity Monitor"
 sudo defaults write com.apple.ActivityMonitor ShowCategory -int 0
-# Sort Activity Monitor results by CPU usage
+
+echo "Sort Activity Monitor results by CPU usage"
 sudo defaults write com.apple.ActivityMonitor SortColumn -string "CPUUsage"
 sudo defaults write com.apple.ActivityMonitor SortDirection -int 0
-ruby -e "$(curl --location --fail --silent --show-error https://raw.githubusercontent.com/Homebrew/install/master/install)"
-export PATH="/usr/local/bin:$PATH"
+
 echo "Homebrew installs"
 brew install bash-completion2
 brew install brew-cask
@@ -202,6 +168,7 @@ brew install wifi-password
 brew install xcv
 brew install autojump
 brew cleanup
+
 echo "Brew cask installs"
 brew cask install google-chrome
 brew cask install lastpass
@@ -241,21 +208,3 @@ brew cask install webp-quicklook
 brew cask install menucalendarclock-ical
 brew cask install vmware-fusion
 brew cask cleanup
-echo "Transmission app settings"
-echo "Setting up an incomplete downloads folder in Downloads"
-sudo defaults write org.m0k.transmission UseIncompleteDownloadFolder -bool true
-sudo defaults write org.m0k.transmission IncompleteDownloadFolder -string "${HOME}/Downloads/Incomplete"
-echo "Setting auto-add folder to be Downloads"
-sudo defaults write org.m0k.transmission AutoImportDirectory -string "${HOME}/Downloads"
-echo "Don't prompt for confirmation before downloading"
-sudo defaults write org.m0k.transmission DownloadAsk -bool false
-echo "Trash original torrent files after adding them"
-sudo defaults write org.m0k.transmission DeleteOriginalTorrent -bool true
-echo "Hiding the donate message"
-sudo defaults write org.m0k.transmission WarningDonate -bool false
-echo "Hiding the legal disclaimer"
-sudo defaults write org.m0k.transmission WarningLegal -bool false
-echo "Auto-resizing the window to fit transfers"
-sudo defaults write org.m0k.transmission AutoSize -bool true
-echo "Auto updating to betas"
-sudo defaults write org.m0k.transmission AutoUpdateBeta -bool true
