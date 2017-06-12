@@ -100,13 +100,14 @@ brew install zsh
 brew install zsh-syntax-highlighting
 brew install wine
 brew install playonmac
-brew install wifi-password
 brew install fcrackzip
+brew install wifi-password
 brew install aircrack-ng
 brew install ncrack
 brew cleanup
 
 echo "Brew cask installs"
+brew cask install fastlane
 brew cask install hyper
 brew cask install google-chrome
 brew cask install visual-studio-code

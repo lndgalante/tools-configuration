@@ -27,6 +27,10 @@
     {
       "name": "VirtualBox",
       "ver": "5.1.22"
+    },
+    {
+      "name": "Fastlane",
+      "ver": "2.37.0"
     }
   ],
   "global-npm-packages": [
