@@ -5,7 +5,7 @@
     },
     "package-manager": {
         "name": "Homebrew & Cask",
-        "version": "1.2.2"
+        "version": "1.2.3"
     },
     "node-version-manager": {
         "name": "nvm",

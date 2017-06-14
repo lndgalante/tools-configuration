@@ -6,7 +6,7 @@
   "developer-tools": [
     {
       "name": "Node.js",
-      "ver": "8.1.0"
+      "ver": "8.1.1"
     },
     {
       "name": "Git",
@@ -14,7 +14,7 @@
     },
     {
       "name": "Android Studio",
-      "ver": "2.3.2"
+      "ver": "2.3.3"
     },
     {
       "name": "Xcode",
@@ -30,21 +30,21 @@
     },
     {
       "name": "Fastlane",
-      "ver": "2.37.0"
+      "ver": "2.38.1"
     }
   ],
   "global-npm-packages": [
     {
       "name": "now -g",
-      "ver": "6.3.1"
+      "ver": "6.4.1"
     },
     {
       "name": "eslint -g",
-      "ver": "3.19.0"
+      "ver": "4.0.0"
     },
     {
       "name": "np -g",
-      "ver": "2.15.0"
+      "ver": "2.16.0"
     },
     {
       "name": "typescript -g",
@@ -86,7 +86,7 @@
     },
     {
       "name": "sequelize",
-      "ver": "4.0.0"
+      "ver": "4.1.0"
     },
     {
       "name": "redux",
@@ -130,15 +130,15 @@
     },
     {
       "name": "lint-staged",
-      "ver": "3.6.0"
+      "ver": "3.6.1"
     },
     {
       "name": "mongo",
-      "ver": "3.5.8"
+      "ver": "3.4.4"
     },
     {
       "name": "mongoose",
-      "ver": "4.10.5"
+      "ver": "4.10.6"
     }
   ]
 }

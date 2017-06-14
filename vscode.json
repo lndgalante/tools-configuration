@@ -14,7 +14,7 @@
     "editor.fontSize": 18,
     "editor.tabSize": 2,
     // Extensions
-    "extensions.autoUpdate": true,
+    "extensions.autoUpdate": false,
     // Windows
     "window.openFilesInNewWindow": "off",
     // Suggestions
@@ -34,8 +34,6 @@
     // JavaScript
     "javascript.format.enable": false,
     "javascript.validate.enable": false,
-    // Java
-    "java.errors.incompleteClasspath.severity": "ignore",
     // Window
     "window.zoomLevel": 0,
     // Terminal
@@ -53,7 +51,7 @@
         "**/bower_components": true,
         "**/tmp": true,
         "**/ios": true,
-        "**/android": true
+        "**/android": false
     },
     // ESLint
     "eslint.autoFixOnSave": true,
@@ -76,5 +74,6 @@
     "prettier.javascriptEnable": [
         "javascript",
         "javascriptreact"
-    ]
+    ],
+    "typescript.check.tscVersion": false
 }
