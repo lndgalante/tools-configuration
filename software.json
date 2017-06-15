@@ -94,5 +94,12 @@
     "gif-recorder": {
         "name": "RecordIt",
         "ver": "1.0.134"
-    }
+    },
+    "games": [
+        "gzDoom with Brutal Doom",
+        "Diablo II",
+        "ioQuake3",
+        "OpenRA",
+        "0 A.D"
+    ]
 }
