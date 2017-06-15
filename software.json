@@ -24,7 +24,7 @@
     },
     "primary-web-browser": {
         "name": "Google Chrome",
-        "ver": "59.0.3071.86",
+        "ver": "59.0.3071.104",
         "extensions": [
             "React Developer Tools",
             "Redux Developer Tools",
@@ -40,7 +40,7 @@
     },
     "code-editor": {
         "name": "Visual Studio Code",
-        "ver": "1.13.0",
+        "ver": "1.13.1",
         "extensions": [
             "Language Support for Java by Red Hat",
             "ReactJS Code Snippets",

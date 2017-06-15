@@ -30,13 +30,13 @@
     },
     {
       "name": "Fastlane",
-      "ver": "2.38.1"
+      "ver": "2.39.0"
     }
   ],
   "global-npm-packages": [
     {
       "name": "now -g",
-      "ver": "6.4.1"
+      "ver": "7.0.0"
     },
     {
       "name": "eslint -g",
@@ -83,6 +83,10 @@
     {
       "name": "express",
       "ver": "4.15.3"
+    },
+    {
+      "name": "xo",
+      "ver": "0.18.2"
     },
     {
       "name": "sequelize",
