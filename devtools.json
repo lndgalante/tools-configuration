@@ -31,6 +31,10 @@
     {
       "name": "Fastlane",
       "ver": "2.39.0"
+    },
+    {
+      "name": "Heroku",
+      "ver": "6.11.10"
     }
   ],
   "global-npm-packages": [

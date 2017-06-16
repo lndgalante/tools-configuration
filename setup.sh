@@ -104,6 +104,7 @@ brew install fcrackzip
 brew install wifi-password
 brew install aircrack-ng
 brew install ncrack
+brew install heroku
 brew cleanup
 
 echo "Brew cask installs"
