@@ -135,13 +135,17 @@
       "ver": "5.0.5"
     },
     {
+      "name": "reselect",
+      "ver": "3.0.1"
+    },
+    {
       "name": "react-addons-perf",
       "ver": "15.4.2"
     },
     {
       "name": "code-push",
       "ver": "2.1.0"
-    },
+    }
   ],
   "backend-local-packages": [
     {
