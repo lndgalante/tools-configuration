@@ -83,38 +83,10 @@
       "ver": "1.11.0"
     }
   ],
-  "local-npm-packages": [
+  "cross-local-packages": [
     {
-      "name": "express",
-      "ver": "4.15.3"
-    },
-    {
-      "name": "helmet",
-      "ver": "3.6.1"
-    },
-    {
-      "name": "xo",
-      "ver": "0.18.2"
-    },
-    {
-      "name": "sequelize",
-      "ver": "4.1.0"
-    },
-    {
-      "name": "redux",
-      "ver": "3.7.0"
-    },
-    {
-      "name": "react-redux",
-      "ver": "5.0.5"
-    },
-    {
-      "name": "redux-form",
-      "ver": "6.8.0"
-    },
-    {
-      "name": "passport",
-      "ver": "0.3.2"
+      "name": "lodash",
+      "ver": "4.17.4"
     },
     {
       "name": "date-fns",
@@ -125,26 +97,6 @@
       "ver": "2.18.1"
     },
     {
-      "name": "lodash",
-      "ver": "4.17.4"
-    },
-    {
-      "name": "x-ray",
-      "ver": "2.3.2"
-    },
-    {
-      "name": "code-push",
-      "ver": "2.1.0"
-    },
-    {
-      "name": "next",
-      "ver": "2.4.3"
-    },
-    {
-      "name": "micro",
-      "ver": "7.3.3"
-    },
-    {
       "name": "lint-staged",
       "ver": "3.6.1"
     },
@@ -153,12 +105,72 @@
       "ver": "0.13.4"
     },
     {
+      "name": "prettier",
+      "ver": "1.4.4"
+    },
+    {
+      "name": "xo",
+      "ver": "0.18.2"
+    }
+  ],
+  "frontend-local-packages": [
+    {
+      "name": "next",
+      "ver": "2.4.3"
+    },
+    {
+      "name": "react",
+      "ver": "15.6.1"
+    },
+    {
+      "name": "redux",
+      "ver": "3.7.0"
+    },
+    {
+      "name": "redux-form",
+      "ver": "6.8.0"
+    },
+    {
+      "name": "react-redux",
+      "ver": "5.0.5"
+    },
+    {
+      "name": "react-addons-perf",
+      "ver": "15.4.2"
+    },
+    {
+      "name": "code-push",
+      "ver": "2.1.0"
+    },
+  ],
+  "backend-local-packages": [
+    {
+      "name": "express",
+      "ver": "4.15.3"
+    },
+    {
+      "name": "helmet",
+      "ver": "3.6.1"
+    },
+    {
       "name": "mongo",
       "ver": "3.4.4"
     },
     {
       "name": "mongoose",
       "ver": "4.10.6"
+    },
+    {
+      "name": "sequelize",
+      "ver": "4.1.0"
+    },
+    {
+      "name": "passport",
+      "ver": "0.3.2"
+    },
+    {
+      "name": "micro",
+      "ver": "7.3.3"
     }
   ]
 }
