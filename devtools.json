@@ -6,7 +6,7 @@
   "developer-tools": [
     {
       "name": "Node.js",
-      "ver": "8.1.1"
+      "ver": "8.1.2"
     },
     {
       "name": "Git",
@@ -30,7 +30,7 @@
     },
     {
       "name": "Fastlane",
-      "ver": "2.39.0"
+      "ver": "2.39.2"
     },
     {
       "name": "Heroku",
@@ -40,7 +40,7 @@
   "global-npm-packages": [
     {
       "name": "now -g",
-      "ver": "7.0.0"
+      "ver": "7.0.2"
     },
     {
       "name": "eslint -g",
@@ -98,7 +98,7 @@
     },
     {
       "name": "lint-staged",
-      "ver": "3.6.1"
+      "ver": "4.0.0"
     },
     {
       "name": "husky",
@@ -116,7 +116,7 @@
   "frontend-local-packages": [
     {
       "name": "next",
-      "ver": "2.4.3"
+      "ver": "2.4.4"
     },
     {
       "name": "react",
@@ -162,11 +162,11 @@
     },
     {
       "name": "mongoose",
-      "ver": "4.10.6"
+      "ver": "4.10.8"
     },
     {
       "name": "sequelize",
-      "ver": "4.1.0"
+      "ver": "4.2.0"
     },
     {
       "name": "passport",

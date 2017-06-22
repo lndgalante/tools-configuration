@@ -24,7 +24,7 @@
     },
     "primary-web-browser": {
         "name": "Google Chrome",
-        "ver": "59.0.3071.104",
+        "ver": "59.0.3071.109",
         "extensions": [
             "React Developer Tools",
             "Redux Developer Tools",
@@ -43,7 +43,9 @@
         "ver": "1.13.1",
         "extensions": [
             "Language Support for Java by Red Hat",
+            "VSCode Styled Components",
             "ReactJS Code Snippets",
+            "GraphQL for VSCode",
             "React Native Tools",
             "Path Intellisense",
             "HTML CSS Support",
@@ -61,7 +63,7 @@
     },
     "office-suite": {
         "name": "Microsoft Office",
-        "ver": "15.34"
+        "ver": "15.35"
     },
     "multimedia-player": {
         "name": "VLC",
@@ -77,7 +79,7 @@
     },
     "chat-app": {
         "name": "Slack",
-        "ver": "2.6.2"
+        "ver": "2.6.3"
     },
     "cleaner": {
         "name": "Ccleaner",
