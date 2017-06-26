@@ -10,7 +10,7 @@
     },
     {
       "name": "Git",
-      "ver": "2.13.1"
+      "ver": "2.13.2"
     },
     {
       "name": "Android Studio",
@@ -40,7 +40,7 @@
   "global-npm-packages": [
     {
       "name": "now -g",
-      "ver": "7.0.2"
+      "ver": "7.1.0"
     },
     {
       "name": "eslint -g",
