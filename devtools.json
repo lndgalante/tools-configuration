@@ -30,7 +30,7 @@
     },
     {
       "name": "Fastlane",
-      "ver": "2.39.2"
+      "ver": "2.41.0"
     },
     {
       "name": "Heroku",
@@ -44,7 +44,7 @@
     },
     {
       "name": "eslint -g",
-      "ver": "4.0.0"
+      "ver": "4.1.1"
     },
     {
       "name": "np -g",
@@ -116,15 +116,19 @@
   "frontend-local-packages": [
     {
       "name": "next",
-      "ver": "2.4.4"
+      "ver": "2.4.5"
     },
     {
       "name": "react",
       "ver": "15.6.1"
     },
     {
+      "name": "react-native",
+      "ver": "0.45.1"
+    },
+    {
       "name": "redux",
-      "ver": "3.7.0"
+      "ver": "3.7.1"
     },
     {
       "name": "redux-form",
@@ -162,7 +166,7 @@
     },
     {
       "name": "mongoose",
-      "ver": "4.10.8"
+      "ver": "4.11.0"
     },
     {
       "name": "sequelize",
