@@ -24,7 +24,7 @@
     },
     "primary-web-browser": {
         "name": "Google Chrome",
-        "ver": "59.0.3071.109",
+        "ver": "59.0.3071.115",
         "extensions": [
             "React Developer Tools",
             "Redux Developer Tools",
@@ -55,6 +55,7 @@
             "Prettier",
             "Beautify",
             "ESLint",
+            "Sass",
             "Go"
         ],
         "color-theme": "Material Theme (vsc-material-theme)",
