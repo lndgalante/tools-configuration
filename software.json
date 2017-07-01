@@ -1,110 +1,100 @@
 {
-    "operative-system": {
-        "name": "macOS Sierra",
-        "version": "10.12.5"
-    },
-    "package-manager": {
-        "name": "Homebrew & Cask",
-        "version": "1.2.3"
-    },
-    "node-version-manager": {
-        "name": "nvm",
-        "version": "0.33.2"
-    },
-    "terminal": {
-        "syntax-color": "zsh-syntax-highlighting",
-        "prompt": "pure-prompt",
-        "shell": "oh-my-zsh",
-        "info": "neofetch",
-        "theme": "snazzy",
-        "plugins": [
-            "react-native",
-            "git"
-        ]
-    },
-    "primary-web-browser": {
-        "name": "Google Chrome",
-        "ver": "59.0.3071.115",
-        "extensions": [
-            "React Developer Tools",
-            "Redux Developer Tools",
-            "uBlock Origin",
-            "JSON Viewer",
-            "Lighthouse",
-            "Wappalyzer",
-            "PageRuler",
-            "Octotree",
-            "Momentum",
-            "Postman"
-        ]
-    },
-    "code-editor": {
-        "name": "Visual Studio Code",
-        "ver": "1.13.1",
-        "extensions": [
-            "Language Support for Java by Red Hat",
-            "VSCode Styled Components",
-            "ReactJS Code Snippets",
-            "GraphQL for VSCode",
-            "React Native Tools",
-            "Path Intellisense",
-            "HTML CSS Support",
-            "npm Intellisense",
-            "EditorConfig",
-            "Can I Use",
-            "Stylelint",
-            "Prettier",
-            "Beautify",
-            "ESLint",
-            "Sass",
-            "Go"
-        ],
-        "color-theme": "Material Theme (vsc-material-theme)",
-        "icon-theme": "Material Theme Icons",
-        "font": "Operator Mono"
-    },
-    "office-suite": {
-        "name": "Microsoft Office",
-        "ver": "15.35"
-    },
-    "multimedia-player": {
-        "name": "VLC",
-        "ver": "2.2.5"
-    },
-    "torrent-manager": {
-        "name": "WebTorrent",
-        "ver": "0.18.0"
-    },
-    "productivity": {
-        "name": "Tomato One",
-        "version": "1.0.6"
-    },
-    "chat-app": {
-        "name": "Slack",
-        "ver": "2.6.3"
-    },
-    "cleaner": {
-        "name": "Ccleaner",
-        "ver": "1.14.451"
-    },
-    "ntfs": {
-        "name": "Mounty",
-        "ver": "1.3"
-    },
-    "decompress": {
-        "name": "The Unrarchiver",
-        "ver": "3.11.1"
-    },
-    "gif-recorder": {
-        "name": "RecordIt",
-        "ver": "1.0.134"
-    },
-    "games": [
-        "Super Tux Kart",
-        "Brutal Doom",
-        "Diablo II",
-        "Xonotic",
-        "OpenRA",
-        "0 A.D"
+  "operative-system": {
+    "name": "macOS Sierra",
+    "version": "10.12.5"
+  },
+  "package-manager": {
+    "name": "Homebrew & Cask",
+    "version": "1.2.3"
+  },
+  "node-version-manager": {
+    "name": "nvm",
+    "version": "0.33.2"
+  },
+  "terminal": {
+    "syntax-color": "zsh-syntax-highlighting",
+    "prompt": "pure-prompt",
+    "shell": "oh-my-zsh",
+    "info": "neofetch",
+    "theme": "snazzy",
+    "plugins": ["react-native", "git"]
+  },
+  "primary-web-browser": {
+    "name": "Google Chrome",
+    "ver": "59.0.3071.115",
+    "extensions": [
+      "React Developer Tools",
+      "Redux Developer Tools",
+      "uBlock Origin",
+      "JSON Viewer",
+      "Lighthouse",
+      "Wappalyzer",
+      "PageRuler",
+      "Octotree",
+      "Momentum",
+      "Postman"
     ]
+  },
+  "code-editor": {
+    "name": "Visual Studio Code",
+    "ver": "1.13.1",
+    "extensions": [
+      "Language Support for Java by Red Hat",
+      "VSCode Styled Components",
+      "ReactJS Code Snippets",
+      "GraphQL for VSCode",
+      "React Native Tools",
+      "Path Intellisense",
+      "HTML CSS Support",
+      "npm Intellisense",
+      "EditorConfig",
+      "Can I Use",
+      "Stylelint",
+      "Prettier",
+      "Beautify",
+      "ESLint",
+      "Sass",
+      "Go"
+    ],
+    "color-theme": "Material Theme (vsc-material-theme)",
+    "icon-theme": "Material Theme Icons",
+    "font": "Operator Mono"
+  },
+  "office-suite": {
+    "name": "Microsoft Office",
+    "ver": "15.35"
+  },
+  "multimedia-player": {
+    "name": "VLC",
+    "ver": "2.2.5"
+  },
+  "torrent-manager": {
+    "name": "WebTorrent",
+    "ver": "0.18.0"
+  },
+  "productivity": {
+    "name": "Tomato One",
+    "version": "1.0.6"
+  },
+  "chat-app": {
+    "name": "Slack",
+    "ver": "2.6.3"
+  },
+  "cleaner": {
+    "name": "Ccleaner",
+    "ver": "1.14.451"
+  },
+  "ntfs": {
+    "name": "Mounty",
+    "ver": "1.3"
+  },
+  "decompress": {
+    "name": "The Unrarchiver",
+    "ver": "3.11.1"
+  },
+  "gif-recorder": {
+    "name": "RecordIt",
+    "ver": "1.0.134"
+  },
+  "games": ["Super Tux Kart", "Brutal Doom", "Diablo II", "Xonotic", "OpenRA", "0 A.D"]
 }

@@ -6,7 +6,7 @@
   "developer-tools": [
     {
       "name": "Node.js",
-      "ver": "8.1.2"
+      "ver": "8.1.3"
     },
     {
       "name": "Git",
@@ -39,47 +39,47 @@
   ],
   "global-npm-packages": [
     {
-      "name": "now -g",
-      "ver": "7.1.0"
+      "name": "now",
+      "ver": "7.1.1"
     },
     {
-      "name": "eslint -g",
+      "name": "eslint",
       "ver": "4.1.1"
     },
     {
-      "name": "np -g",
+      "name": "np",
       "ver": "2.16.0"
     },
     {
-      "name": "typescript -g",
+      "name": "typescript",
       "ver": "2.3.4"
     },
     {
-      "name": "typings -g",
+      "name": "typings",
       "ver": "2.1.1"
     },
     {
-      "name": "react-devtools -g",
+      "name": "react-devtools",
       "ver": "2.1.7"
     },
     {
-      "name": "yarn -g",
-      "ver": "0.24.6"
+      "name": "yarn",
+      "ver": "0.27.5"
     },
     {
-      "name": "react-native-cli -g",
+      "name": "react-native-cli",
       "ver": "2.0.1"
     },
     {
-      "name": "create-react-app -g",
-      "ver": "1.0.7"
+      "name": "create-react-app",
+      "ver": "1.0.10"
     },
     {
-      "name": "live-server -g",
+      "name": "live-server",
       "ver": "1.2.0"
     },
     {
-      "name": "nodemon -g",
+      "name": "nodemon",
       "ver": "1.11.0"
     }
   ],
@@ -102,11 +102,11 @@
     },
     {
       "name": "husky",
-      "ver": "0.13.4"
+      "ver": "0.14.2"
     },
     {
       "name": "prettier",
-      "ver": "1.4.4"
+      "ver": "1.5.2"
     },
     {
       "name": "xo",
@@ -116,7 +116,7 @@
   "frontend-local-packages": [
     {
       "name": "next",
-      "ver": "2.4.5"
+      "ver": "2.4.6"
     },
     {
       "name": "react",
@@ -162,7 +162,7 @@
     },
     {
       "name": "mongo",
-      "ver": "3.4.4"
+      "ver": "3.4.5"
     },
     {
       "name": "mongoose",
@@ -170,7 +170,7 @@
     },
     {
       "name": "sequelize",
-      "ver": "4.2.0"
+      "ver": "4.2.1"
     },
     {
       "name": "passport",

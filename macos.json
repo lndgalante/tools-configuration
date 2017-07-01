@@ -1,51 +1,47 @@
 {
-    "vscode": {
-        "command-palette": "cmd + shift + p",
-        "quick-navigation": "cmd + p",
-        "search-symbol": "cmd + t",
-        "go-to-definition": "F12",
-        "intellisense": "ctrl + space",
-        "new-window": "cmd + shift + n",
-        "integrated-terminal": "cmd + `",
-        "side-bar": "cmd + b",
-        "search": "cmd + f",
-        "save": "cmd + s",
-        "zen-mode": "cmd + k + z",
-        "copy-line": "shift + opt + up/down",
-        "create-and-open-file": "cmd + click",
-        "move-entire-line": "opt + up/down",
-        "select-current-line": "cmd + i",
-        "multi-cursor-selection": "opt + cmd + up/down"
-    },
-    "macos": {
-        "open": "open [directory]",
-        "toggle-windows-same-app": "cmd + `",
-        "screenshot-single-window": "cmd + shift + 4 + space",
-        "key-repeat": "fast",
-        "delay-until-repeat": "short",
-        "do-not-remove-from-startup": [
-            "watchman",
-            "haxm",
-            "virtualbox"
-        ]
-    },
-    "maintenance": {
-        "screenshots": "defaults write com.apple.screencapture location ~/folder-for-screenshots",
-        "disable-screenshot-shadow": "defaults write com.apple.screencapture disable-shadow -bool true",
-        "dock": "defaults write com.apple.dock autohide-time-modifier -int 0",
-        "git-email": "git config --global user.email lndgalante@gmail.com",
-        "git-username": "git config --global user.name Fenwil",
-        "zsh": "~/.zshrc",
-        "brew": "brew update && brew upgrade && brew cleanup"
-    },
-    "network": {
-        "ip-private": "DHCP",
-        "dns-primary-ipv4": "8.8.8.8",
-        "dns-secondary-ipv4": "8.8.4.4",
-        "dns-primary-ipv6": "2001:4860:4860::8888",
-        "dns-secondary-ipv6": "2001:4860:4860::8844"
-    },
-    "preferences": {
-        "monitor": "Color LCD"
-    }
+  "vscode": {
+    "command-palette": "cmd + shift + p",
+    "quick-navigation": "cmd + p",
+    "search-symbol": "cmd + t",
+    "go-to-definition": "F12",
+    "intellisense": "ctrl + space",
+    "new-window": "cmd + shift + n",
+    "integrated-terminal": "cmd + `",
+    "side-bar": "cmd + b",
+    "search": "cmd + f",
+    "save": "cmd + s",
+    "zen-mode": "cmd + k + z",
+    "copy-line": "shift + opt + up/down",
+    "create-and-open-file": "cmd + click",
+    "move-entire-line": "opt + up/down",
+    "select-current-line": "cmd + i",
+    "multi-cursor-selection": "opt + cmd + up/down"
+  },
+  "macos": {
+    "open": "open [directory]",
+    "toggle-windows-same-app": "cmd + `",
+    "screenshot-single-window": "cmd + shift + 4 + space",
+    "key-repeat": "fast",
+    "delay-until-repeat": "short",
+    "do-not-remove-from-startup": ["watchman", "haxm", "virtualbox"]
+  },
+  "maintenance": {
+    "screenshots": "defaults write com.apple.screencapture location ~/folder-for-screenshots",
+    "disable-screenshot-shadow": "defaults write com.apple.screencapture disable-shadow -bool true",
+    "dock": "defaults write com.apple.dock autohide-time-modifier -int 0",
+    "git-email": "git config --global user.email lndgalante@gmail.com",
+    "git-username": "git config --global user.name Fenwil",
+    "zsh": "~/.zshrc",
+    "brew": "brew update && brew upgrade && brew cleanup"
+  },
+  "network": {
+    "ip-private": "DHCP",
+    "dns-primary-ipv4": "8.8.8.8",
+    "dns-secondary-ipv4": "8.8.4.4",
+    "dns-primary-ipv6": "2001:4860:4860::8888",
+    "dns-secondary-ipv6": "2001:4860:4860::8844"
+  },
+  "preferences": {
+    "monitor": "Color LCD"
+  }
 }

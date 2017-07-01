@@ -1,79 +1,78 @@
 {
-    // Themes
-    "workbench.colorTheme": "Material Theme",
-    "workbench.iconTheme": "material-theme-icons",
-    // Editor
-    "editor.fontFamily": "Operator Mono",
-    "editor.renderIndentGuides": true,
-    "editor.cursorBlinking": "phase",
-    "editor.minimap.enabled": false,
-    "editor.fontLigatures": true,
-    "editor.dragAndDrop": false,
-    "editor.fontWeight": "300",
-    "editor.wordWrap": "on",
-    "editor.fontSize": 18,
-    "editor.tabSize": 2,
-    // Extensions
-    "extensions.autoUpdate": false,
-    // Windows
-    "window.openFilesInNewWindow": "off",
-    // Suggestions
-    "html.suggest.angular1": false,
-    "html.suggest.ionic": false,
-    "php.suggest.basic": false,
-    // Formatting
-    "editor.formatOnSave": true,
-    // Emmet
-    "emmet.syntaxProfiles": {
-        "javascript": "jsx"
-    },
-    // JSON
-    "json.format.enable": true,
-    // Npm
-    "npm-intellisense.scanDevDependencies": true,
-    // JavaScript
-    "javascript.format.enable": false,
-    "javascript.validate.enable": false,
-    // Window
-    "window.zoomLevel": 0,
-    // Terminal
-    "terminal.integrated.fontFamily": "Operator Mono",
-    "terminal.integrated.fontSize": 16,
-    // Git
-    "git.enableSmartCommit": true,
-    // Telemetry
-    "telemetry.enableCrashReporter": false,
-    "telemetry.enableTelemetry": false,
-    // Search
-    "search.exclude": {
-        "**/.git": true,
-        "**/node_modules": true,
-        "**/bower_components": true,
-        "**/tmp": true,
-        "**/ios": true,
-        "**/android": false
-    },
-    // ESLint
-    "eslint.autoFixOnSave": true,
-    // Prettier
-    "prettier.printWidth": 120,
-    "prettier.tabWidth": 2,
-    "prettier.singleQuote": true,
-    "prettier.trailingComma": "all",
-    "prettier.bracketSpacing": true,
-    "prettier.jsxBracketSameLine": false,
-    "prettier.parser": "babylon",
-    "prettier.useFlowParser": false,
-    "prettier.semi": false,
-    "prettier.useTabs": false,
-    "prettier.cssEnable": [
-        "css",
-        "less",
-        "sass"
-    ],
-    "prettier.javascriptEnable": [
-        "javascript",
-        "javascriptreact"
-    ],
-    "typescript.check.tscVersion": false
+  "workbench.colorTheme": "Material Theme",
+  "workbench.iconTheme": "eq-material-theme-icons",
+
+  "editor.fontFamily": "Operator Mono",
+  "editor.renderIndentGuides": true,
+  "editor.cursorBlinking": "phase",
+  "editor.minimap.enabled": false,
+  "editor.fontLigatures": true,
+  "editor.dragAndDrop": false,
+  "editor.fontWeight": "300",
+  "editor.wordWrap": "on",
+  "editor.fontSize": 18,
+  "editor.tabSize": 2,
+
+  "extensions.autoUpdate": false,
+
+  "window.openFilesInNewWindow": "off",
+
+  "html.suggest.angular1": false,
+  "html.suggest.ionic": false,
+  "html.format.enable": true,
+
+  "editor.formatOnSave": true,
+
+  "emmet.syntaxProfiles": {
+    "javascript": "jsx"
+  },
+
+  "stylelint.enable": true,
+  "css.validate": false,
+  "scss.validate": false,
+
+  "json.format.enable": true,
+
+  "npm-intellisense.scanDevDependencies": true,
+
+  "javascript.format.enable": false,
+  "javascript.validate.enable": false,
+
+  "window.zoomLevel": 0,
+
+  "terminal.integrated.fontFamily": "Operator Mono",
+  "terminal.integrated.fontSize": 16,
+
+  "git.enableSmartCommit": true,
+
+  "telemetry.enableCrashReporter": false,
+  "telemetry.enableTelemetry": false,
+
+  "search.exclude": {
+    "**/.git": true,
+    "**/node_modules": true,
+    "**/bower_components": true,
+    "**/tmp": true,
+    "**/ios": true,
+    "**/android": false
+  },
+
+  "eslint.autoFixOnSave": true,
+
+  "prettier.printWidth": 120,
+  "prettier.tabWidth": 2,
+  "prettier.singleQuote": true,
+  "prettier.trailingComma": "es5",
+  "prettier.bracketSpacing": true,
+  "prettier.jsxBracketSameLine": false,
+  "prettier.parser": "babylon",
+  "prettier.useFlowParser": false,
+  "prettier.semi": false,
+  "prettier.useTabs": false,
+  "prettier.cssEnable": ["css", "less", "sass"],
+  "prettier.javascriptEnable": ["javascript", "javascriptreact"],
+  "prettier.jsonEnable": ["json"],
+  "prettier.graphqlEnable": ["graphql"],
+  "prettier.eslintIntegration": false,
+  "prettier.typescriptEnable": ["typescript", "typescriptreact"]
 }
