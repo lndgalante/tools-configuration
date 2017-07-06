@@ -152,7 +152,7 @@
     },
     {
       "name": "code-push",
-      "ver": "2.1.0"
+      "ver": "3.0.1"
     }
   ],
   "backend-local-packages": [
