@@ -5,7 +5,7 @@
   },
   "package-manager": {
     "name": "Homebrew & Cask",
-    "version": "1.2.3"
+    "version": "1.2.4"
   },
   "node-version-manager": {
     "name": "nvm",
@@ -66,7 +66,7 @@
   },
   "multimedia-player": {
     "name": "VLC",
-    "ver": "2.2.5"
+    "ver": "2.2.6"
   },
   "torrent-manager": {
     "name": "WebTorrent",
