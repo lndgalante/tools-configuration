@@ -38,7 +38,7 @@
     },
     {
       "name": "Heroku",
-      "ver": "6.12.5"
+      "ver": "6.12.6"
     }
   ],
   "global-npm-packages": [
