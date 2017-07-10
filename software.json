@@ -53,6 +53,7 @@
       "Prettier",
       "Beautify",
       "ESLint",
+      "Quokka",
       "Sass",
       "Go"
     ],
@@ -96,5 +97,12 @@
     "name": "RecordIt",
     "ver": "1.0.134"
   },
-  "games": ["Super Tux Kart", "Brutal Doom", "Diablo II", "Xonotic", "OpenRA", "0 A.D"]
+  "games": [
+    "Super Tux Kart",
+    "Brutal Doom",
+    "Diablo II",
+    "Xonotic",
+    "OpenRA",
+    "0 A.D"
+  ]
 }
