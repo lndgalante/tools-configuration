@@ -59,7 +59,7 @@
 
   "eslint.autoFixOnSave": true,
 
-  "prettier.printWidth": 120,
+  "prettier.printWidth": 80,
   "prettier.tabWidth": 2,
   "prettier.singleQuote": true,
   "prettier.trailingComma": "es5",
@@ -69,10 +69,15 @@
   "prettier.useFlowParser": false,
   "prettier.semi": false,
   "prettier.useTabs": false,
-  "prettier.cssEnable": ["css", "less", "sass"],
+  "prettier.cssEnable": ["css", "less"],
   "prettier.javascriptEnable": ["javascript", "javascriptreact"],
   "prettier.jsonEnable": ["json"],
   "prettier.graphqlEnable": ["graphql"],
   "prettier.eslintIntegration": false,
-  "prettier.typescriptEnable": ["typescript", "typescriptreact"]
+  "prettier.typescriptEnable": ["typescript", "typescriptreact"],
+  "typescript.check.tscVersion": false,
+
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  }
 }
