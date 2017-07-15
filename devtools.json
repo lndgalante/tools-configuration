@@ -1,7 +1,7 @@
 {
   "design-tool": {
     "name": "Sketch",
-    "ver": "44.1"
+    "ver": "45.2"
   },
   "developer-tools": [
     {
@@ -10,7 +10,7 @@
     },
     {
       "name": "Git",
-      "ver": "2.13.2"
+      "ver": "2.13.3"
     },
     {
       "name": "Frappé",
@@ -110,7 +110,7 @@
     },
     {
       "name": "prettier",
-      "ver": "1.5.2"
+      "ver": "1.5.3"
     },
     {
       "name": "xo",
@@ -128,11 +128,11 @@
     },
     {
       "name": "react-native",
-      "ver": "0.46"
+      "ver": "0.46.3"
     },
     {
       "name": "redux",
-      "ver": "3.7.1"
+      "ver": "3.7.2"
     },
     {
       "name": "redux-form",
@@ -170,11 +170,11 @@
     },
     {
       "name": "mongoose",
-      "ver": "4.11.1"
+      "ver": "4.11.3"
     },
     {
       "name": "sequelize",
-      "ver": "4.2.1"
+      "ver": "4.3.2"
     },
     {
       "name": "passport",
