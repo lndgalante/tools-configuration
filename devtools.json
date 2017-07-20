@@ -6,14 +6,14 @@
   "developer-tools": [
     {
       "name": "Node.js",
-      "ver": "8.1.4"
+      "ver": "8.2.0"
     },
     {
       "name": "Git",
       "ver": "2.13.3"
     },
     {
-      "name": "Frappé",
+      "name": "MongoDB Compass",
       "ver": "0.1.1"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "name": "Heroku",
-      "ver": "6.12.6"
+      "ver": "6.12.11"
     }
   ],
   "global-npm-packages": [
