@@ -60,6 +60,10 @@
     "icon-theme": "Material Theme Icons",
     "font": "Operator Mono"
   },
+  "design-tool": {
+    "name": "Sketch",
+    "ver": "45.2"
+  },
   "office-suite": {
     "name": "Microsoft Office",
     "ver": "15.36"
