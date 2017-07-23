@@ -8,6 +8,7 @@
   "editor.minimap.enabled": false,
   "editor.fontLigatures": true,
   "editor.dragAndDrop": false,
+  "editor.formatOnSave": true,
   "editor.fontWeight": "300",
   "editor.wordWrap": "on",
   "editor.fontSize": 18,
@@ -21,18 +22,17 @@
   "html.suggest.ionic": false,
   "html.format.enable": true,
 
-  "editor.formatOnSave": true,
-
   "emmet.syntaxProfiles": {
     "javascript": "jsx"
+  },
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
   },
 
   "stylelint.enable": true,
   "css.validate": false,
   "scss.validate": false,
-
   "json.format.enable": true,
-
   "npm-intellisense.scanDevDependencies": true,
 
   "javascript.format.enable": false,
@@ -42,8 +42,6 @@
 
   "terminal.integrated.fontFamily": "Operator Mono",
   "terminal.integrated.fontSize": 16,
-
-  "git.enableSmartCommit": true,
 
   "telemetry.enableCrashReporter": false,
   "telemetry.enableTelemetry": false,
@@ -55,6 +53,26 @@
     "**/tmp": true,
     "**/ios": true,
     "**/android": false
+  },
+
+  "workbench.colorCustomizations": {
+    "terminal.foreground": "#eff0eb",
+    "terminal.ansiBlack": "#282a36",
+    "terminal.ansiRed": "#ff5c57",
+    "terminal.ansiGreen": "#5af78e",
+    "terminal.ansiYellow": "#f3f99d",
+    "terminal.ansiBlue": "#57c7ff",
+    "terminal.ansiMagenta": "#ff6ac1",
+    "terminal.ansiCyan": "#9aedfe",
+    "terminal.ansiWhite": "#f1f1f0",
+    "terminal.ansiBrightBlack": "#686868",
+    "terminal.ansiBrightRed": "#ff5c57",
+    "terminal.ansiBrightGreen": "#5af78e",
+    "terminal.ansiBrightYellow": "#f3f99d",
+    "terminal.ansiBrightBlue": "#57c7ff",
+    "terminal.ansiBrightMagenta": "#ff6ac1",
+    "terminal.ansiBrightCyan": "#9aedfe",
+    "terminal.ansiBrightWhite": "#eff0eb"
   },
 
   "eslint.autoFixOnSave": true,
@@ -74,10 +92,5 @@
   "prettier.jsonEnable": ["json"],
   "prettier.graphqlEnable": ["graphql"],
   "prettier.eslintIntegration": false,
-  "prettier.typescriptEnable": ["typescript", "typescriptreact"],
-  "typescript.check.tscVersion": false,
-
-  "emmet.includeLanguages": {
-    "javascript": "javascriptreact"
-  }
+  "prettier.typescriptEnable": ["typescript", "typescriptreact"]
 }
