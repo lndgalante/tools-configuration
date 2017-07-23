@@ -41,6 +41,8 @@
   "window.zoomLevel": 0,
 
   "terminal.integrated.fontFamily": "Operator Mono",
+  "terminal.integrated.shell.osx": "/bin/zsh",
+  "terminal.external.osxExec": "Hyper.app",
   "terminal.integrated.fontSize": 16,
 
   "telemetry.enableCrashReporter": false,
