@@ -1,7 +1,7 @@
 {
   "operative-system": {
     "name": "macOS Sierra",
-    "version": "10.12.5"
+    "version": "10.12.6"
   },
   "package-manager": {
     "name": "Homebrew & Cask",
