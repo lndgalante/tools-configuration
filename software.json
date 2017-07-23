@@ -16,8 +16,7 @@
     "prompt": "pure-prompt",
     "shell": "oh-my-zsh",
     "info": "neofetch",
-    "theme": "snazzy",
-    "plugins": ["react-native", "git"]
+    "theme": "snazzy"
   },
   "primary-web-browser": {
     "name": "Google Chrome",

@@ -1,7 +1,7 @@
 export ZSH=/Users/leo/.oh-my-zsh
 
 # Import zsh-syntax-highlighting - https://github.com/zsh-users/zsh-syntax-highlighting
-source /Users/leo/Downloads/repos/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+source /usr/local/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 
 # Themes https://github.com/robbyrussell/oh-my-zsh/wiki/themes
 #ZSH_THEME="robbyrussell"  
