@@ -28,6 +28,11 @@ export HOMEBREW_NO_ANALYTICS=1
 export LANG=en_US.UTF-8
 export LC_ALL=en_US.UTF-8
 
+# Android Studio 
+export ANDROID_HOME=$HOME/Library/Android/sdk
+export PATH=$PATH:$ANDROID_HOME/tools
+export PATH=$PATH:$ANDROID_HOME/platform-tools
+
 # Add neofetch - https://github.com/dylanaraps/neofetch
 cd /Users/leo/Downloads/repos
 clear
