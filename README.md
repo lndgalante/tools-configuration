@@ -6,4 +6,6 @@
 
 [terminal-snazzy - Sindreorhus](https://github.com/sindresorhus/terminal-snazzy)
 
+[awesome-hyper - Hyper](https://github.com/bnb/awesome-hyper)
+
 [VSCode Tips and Tricks - Microsoft](https://github.com/Microsoft/vscode-tips-and-tricks)
