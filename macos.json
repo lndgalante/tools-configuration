@@ -32,6 +32,7 @@
     "git-email": "git config --global user.email lndgalante@gmail.com",
     "git-username": "git config --global user.name Fenwil",
     "zsh": "~/.zshrc",
+    "deactivate-gatekeeper": "sudo spctl --master-disable",
     "brew": "brew update && brew upgrade && brew cleanup"
   },
   "network": {
