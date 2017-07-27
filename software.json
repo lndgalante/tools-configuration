@@ -47,6 +47,8 @@
       "HTML CSS Support",
       "npm Intellisense",
       "EditorConfig",
+      "SVG Viewer",
+      "Color Info",
       "Can I Use",
       "Stylelint",
       "Prettier",
@@ -100,13 +102,5 @@
     "name": "RecordIt",
     "ver": "1.0.134"
   },
-  "games": [
-    "Super Tux Kart",
-    "Brutal Doom",
-    "Diablo II",
-    "Xonotic",
-    "OpenEmu",
-    "OpenRA",
-    "0 A.D"
-  ]
+  "games": ["Super Tux Kart", "Brutal Doom", "Diablo II", "Xonotic", "OpenEmu", "OpenRA", "0 A.D"]
 }
