@@ -5,7 +5,7 @@
   },
   "package-manager": {
     "name": "Homebrew & Cask",
-    "version": "1.2.4"
+    "version": "1.2.5"
   },
   "node-version-manager": {
     "name": "nvm",
@@ -20,7 +20,7 @@
   },
   "primary-web-browser": {
     "name": "Google Chrome",
-    "ver": "59.0.3071.115",
+    "ver": "60.0.3112.78",
     "extensions": [
       "React Developer Tools",
       "Redux Developer Tools",
@@ -102,5 +102,13 @@
     "name": "RecordIt",
     "ver": "1.0.134"
   },
-  "games": ["Super Tux Kart", "Brutal Doom", "Diablo II", "Xonotic", "OpenEmu", "OpenRA", "0 A.D"]
+  "games": [
+    "Super Tux Kart",
+    "Brutal Doom",
+    "Diablo II",
+    "Xonotic",
+    "OpenEmu",
+    "OpenRA",
+    "0 A.D"
+  ]
 }

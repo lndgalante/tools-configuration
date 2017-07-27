@@ -5,6 +5,10 @@
       "ver": "8.2.1"
     },
     {
+      "name": "Java JDK",
+      "ver": "1.8.0"
+    },
+    {
       "name": "Git",
       "ver": "2.13.3"
     },
@@ -44,7 +48,7 @@
     },
     {
       "name": "eslint",
-      "ver": "4.2.0"
+      "ver": "4.3.0"
     },
     {
       "name": "np",
@@ -170,11 +174,11 @@
     },
     {
       "name": "mongoose",
-      "ver": "4.11.3"
+      "ver": "4.11.4"
     },
     {
       "name": "sequelize",
-      "ver": "4.3.2"
+      "ver": "4.4.2"
     },
     {
       "name": "passport",
