@@ -30,7 +30,7 @@
     },
     {
       "name": "VirtualBox",
-      "ver": "5.1.24"
+      "ver": "5.1.26"
     },
     {
       "name": "Fastlane",
@@ -44,7 +44,7 @@
   "global-npm-packages": [
     {
       "name": "now",
-      "ver": "7.2.4"
+      "ver": "7.3.0"
     },
     {
       "name": "eslint",
@@ -170,7 +170,7 @@
     },
     {
       "name": "helmet",
-      "ver": "3.6.1"
+      "ver": "3.8.1"
     },
     {
       "name": "mongo",
@@ -178,7 +178,7 @@
     },
     {
       "name": "mongoose",
-      "ver": "4.11.4"
+      "ver": "4.11.5"
     },
     {
       "name": "sequelize",

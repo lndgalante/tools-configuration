@@ -4,6 +4,7 @@
 
   "editor.fontFamily": "Operator Mono",
   "editor.renderIndentGuides": true,
+  "editor.renderWhitespace": "all",
   "editor.cursorBlinking": "phase",
   "editor.minimap.enabled": false,
   "editor.fontLigatures": true,
@@ -86,7 +87,6 @@
   "prettier.bracketSpacing": true,
   "prettier.jsxBracketSameLine": false,
   "prettier.parser": "babylon",
-  "prettier.useFlowParser": false,
   "prettier.semi": false,
   "prettier.useTabs": false,
   "prettier.cssEnable": ["css", "less"],
