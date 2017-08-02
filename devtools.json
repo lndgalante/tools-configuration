@@ -10,7 +10,7 @@
     },
     {
       "name": "Git",
-      "ver": "2.13.3"
+      "ver": "2.13.4"
     },
     {
       "name": "MongoDB Compass",
@@ -93,6 +93,10 @@
       "ver": "4.17.4"
     },
     {
+      "name": "math.js",
+      "ver": "3.14.2"
+    },
+    {
       "name": "date-fns",
       "ver": "2.0.0"
     },
@@ -120,7 +124,7 @@
   "frontend-local-packages": [
     {
       "name": "next",
-      "ver": "2.4.7"
+      "ver": "2.4.9"
     },
     {
       "name": "react",
@@ -128,7 +132,7 @@
     },
     {
       "name": "react-native",
-      "ver": "0.46.4"
+      "ver": "0.47.0"
     },
     {
       "name": "realm",
@@ -140,7 +144,7 @@
     },
     {
       "name": "redux-form",
-      "ver": "7.0.1"
+      "ver": "7.0.3"
     },
     {
       "name": "react-redux",
@@ -156,7 +160,7 @@
     },
     {
       "name": "code-push",
-      "ver": "3.0.1"
+      "ver": "4.1.0"
     }
   ],
   "backend-local-packages": [
@@ -191,10 +195,6 @@
     {
       "name": "micro",
       "ver": "7.3.3"
-    },
-    {
-      "name": "math.js",
-      "ver": "3.14.2"
     }
   ]
 }
