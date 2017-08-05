@@ -20,7 +20,7 @@
   },
   "primary-web-browser": {
     "name": "Google Chrome",
-    "ver": "60.0.3112.78",
+    "ver": "60.0.3112.90",
     "extensions": [
       "React Developer Tools",
       "Redux Developer Tools",

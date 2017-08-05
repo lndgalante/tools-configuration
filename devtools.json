@@ -10,7 +10,7 @@
     },
     {
       "name": "Git",
-      "ver": "2.13.4"
+      "ver": "2.14.0"
     },
     {
       "name": "MongoDB Compass",
@@ -56,7 +56,7 @@
     },
     {
       "name": "typescript",
-      "ver": "2.4.1"
+      "ver": "2.4.2"
     },
     {
       "name": "typings",
@@ -64,7 +64,7 @@
     },
     {
       "name": "react-devtools",
-      "ver": "2.1.7"
+      "ver": "2.5.0"
     },
     {
       "name": "yarn",
@@ -94,7 +94,7 @@
     },
     {
       "name": "math.js",
-      "ver": "3.14.2"
+      "ver": "3.15.0"
     },
     {
       "name": "date-fns",
@@ -160,7 +160,7 @@
     },
     {
       "name": "code-push",
-      "ver": "4.1.0"
+      "ver": "5.0.0"
     }
   ],
   "backend-local-packages": [
