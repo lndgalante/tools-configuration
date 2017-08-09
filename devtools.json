@@ -48,7 +48,7 @@
     },
     {
       "name": "eslint",
-      "ver": "4.3.0"
+      "ver": "4.4.1"
     },
     {
       "name": "np",
@@ -106,7 +106,7 @@
     },
     {
       "name": "lint-staged",
-      "ver": "4.0.2"
+      "ver": "4.0.3"
     },
     {
       "name": "husky",
@@ -124,7 +124,7 @@
   "frontend-local-packages": [
     {
       "name": "next",
-      "ver": "2.4.9"
+      "ver": "3.0.3"
     },
     {
       "name": "react",
@@ -132,7 +132,7 @@
     },
     {
       "name": "react-native",
-      "ver": "0.47.0"
+      "ver": "0.47.1"
     },
     {
       "name": "realm",
@@ -166,7 +166,7 @@
   "backend-local-packages": [
     {
       "name": "express",
-      "ver": "4.15.3"
+      "ver": "4.15.4"
     },
     {
       "name": "pug",
@@ -178,11 +178,11 @@
     },
     {
       "name": "mongo",
-      "ver": "3.4.6"
+      "ver": "3.4.7"
     },
     {
       "name": "mongoose",
-      "ver": "4.11.5"
+      "ver": "4.11.6"
     },
     {
       "name": "sequelize",
