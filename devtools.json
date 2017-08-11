@@ -2,7 +2,7 @@
   "developer-tools": [
     {
       "name": "Node.js",
-      "ver": "8.2.1"
+      "ver": "8.3.0"
     },
     {
       "name": "Java JDK",
@@ -10,7 +10,7 @@
     },
     {
       "name": "Git",
-      "ver": "2.14.0"
+      "ver": "2.14.1"
     },
     {
       "name": "MongoDB Compass",

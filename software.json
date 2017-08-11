@@ -36,7 +36,7 @@
   },
   "code-editor": {
     "name": "Visual Studio Code",
-    "ver": "1.14.2",
+    "ver": "1.15.0",
     "extensions": [
       "Language Support for Java by Red Hat",
       "VSCode Styled Components",
@@ -49,7 +49,6 @@
       "EditorConfig",
       "Import Cost",
       "SVG Viewer",
-      "Color Info",
       "Can I Use",
       "Stylelint",
       "Prettier",
