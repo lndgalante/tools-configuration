@@ -2,7 +2,7 @@
   "developer-tools": [
     {
       "name": "Node.js",
-      "ver": "8.3.0"
+      "ver": "8.4.0"
     },
     {
       "name": "Java JDK",
@@ -76,7 +76,7 @@
     },
     {
       "name": "create-react-app",
-      "ver": "1.0.10"
+      "ver": "1.0.11"
     },
     {
       "name": "live-server",
@@ -94,7 +94,7 @@
     },
     {
       "name": "math.js",
-      "ver": "3.15.0"
+      "ver": "3.16.1"
     },
     {
       "name": "date-fns",
@@ -124,7 +124,7 @@
   "frontend-local-packages": [
     {
       "name": "next",
-      "ver": "3.0.3"
+      "ver": "3.0.6"
     },
     {
       "name": "react",
@@ -136,23 +136,11 @@
     },
     {
       "name": "realm",
-      "ver": "1.10.0"
+      "ver": "1.10.3"
     },
     {
-      "name": "redux",
-      "ver": "3.7.2"
-    },
-    {
-      "name": "redux-form",
-      "ver": "7.0.3"
-    },
-    {
-      "name": "react-redux",
-      "ver": "5.0.5"
-    },
-    {
-      "name": "reselect",
-      "ver": "3.0.1"
+      "name": "mobx",
+      "ver": "3.3.2"
     },
     {
       "name": "react-addons-perf",
@@ -182,7 +170,7 @@
     },
     {
       "name": "mongoose",
-      "ver": "4.11.6"
+      "ver": "4.11.7"
     },
     {
       "name": "sequelize",
@@ -194,7 +182,7 @@
     },
     {
       "name": "micro",
-      "ver": "8.0.1"
+      "ver": "8.0.2"
     }
   ]
 }
