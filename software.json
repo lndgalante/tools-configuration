@@ -23,7 +23,6 @@
     "ver": "60.0.3112.101",
     "extensions": [
       "React Developer Tools",
-      "Redux Developer Tools",
       "uBlock Origin",
       "JSON Viewer",
       "Wappalyzer",
@@ -31,6 +30,8 @@
       "Octotree",
       "Momentum",
       "Postman",
+      "Imagus",
+      "Reedy",
       "aXe"
     ]
   },
