@@ -67,6 +67,10 @@
     "name": "Sketch",
     "ver": "45.2"
   },
+  "menu-bar": {
+    "name": "Vanilla",
+    "ver": "1.0.6"
+  },
   "office-suite": {
     "name": "Microsoft Office",
     "ver": "15.37"
