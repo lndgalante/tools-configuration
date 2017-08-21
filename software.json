@@ -14,7 +14,9 @@
   "terminal": {
     "syntax-color": "zsh-syntax-highlighting",
     "prompt": "pure-prompt",
+    "corrector": "thefuck",
     "shell": "oh-my-zsh",
+    "man-pages": "tldr",
     "info": "neofetch",
     "theme": "snazzy"
   },
@@ -67,9 +69,17 @@
     "name": "Sketch",
     "ver": "45.2"
   },
+  "image-optimizer": {
+    "name": "ImageOptim",
+    "ver": "45.2"
+  },
   "menu-bar": {
     "name": "Vanilla",
     "ver": "1.0.6"
+  },
+  "firewall": {
+    "name": "Little Snitch",
+    "ver": "4.0.2"
   },
   "office-suite": {
     "name": "Microsoft Office",
@@ -78,6 +88,10 @@
   "multimedia-player": {
     "name": "VLC",
     "ver": "2.2.6"
+  },
+  "music-player": {
+    "name": "Spotify + Spotifree",
+    "ver": "1.0.6"
   },
   "torrent-manager": {
     "name": "WebTorrent",

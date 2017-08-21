@@ -9,3 +9,5 @@
 [awesome-hyper - Hyper](https://github.com/bnb/awesome-hyper)
 
 [VSCode Tips and Tricks - Microsoft](https://github.com/Microsoft/vscode-tips-and-tricks)
+
+[My macOS - Nikita Voloboev](https://github.com/nikitavoloboev/my-mac-os)

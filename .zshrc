@@ -37,3 +37,6 @@ export PATH=$PATH:$ANDROID_HOME/platform-tools
 cd /Users/leo/Downloads/repos
 clear
 neofetch
+
+# Add thefuck - https://github.com/nvbn/thefuck
+eval $(thefuck --alias)
