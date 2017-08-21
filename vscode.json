@@ -3,6 +3,7 @@
   "workbench.iconTheme": "eq-material-theme-icons",
 
   "editor.fontFamily": "Operator Mono",
+  "editor.scrollBeyondLastLine": true,
   "editor.renderIndentGuides": true,
   "editor.renderWhitespace": "all",
   "editor.cursorBlinking": "phase",
@@ -12,7 +13,7 @@
   "editor.formatOnSave": true,
   "editor.fontWeight": "300",
   "editor.wordWrap": "on",
-  "editor.fontSize": 18,
+  "editor.fontSize": 20,
   "editor.tabSize": 2,
 
   "extensions.autoUpdate": false,

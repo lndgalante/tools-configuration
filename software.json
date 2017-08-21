@@ -25,6 +25,7 @@
     "ver": "60.0.3112.101",
     "extensions": [
       "React Developer Tools",
+      "Auto Rename Tag",
       "uBlock Origin",
       "JSON Viewer",
       "Wappalyzer",
