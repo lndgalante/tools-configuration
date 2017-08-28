@@ -22,7 +22,7 @@
   },
   "primary-web-browser": {
     "name": "Google Chrome",
-    "ver": "60.0.3112.101",
+    "ver": "60.0.3112.113",
     "extensions": [
       "React Developer Tools",
       "Auto Rename Tag",

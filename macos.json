@@ -17,6 +17,10 @@
     "select-current-line": "cmd + i",
     "multi-cursor-selection": "opt + cmd + up/down"
   },
+  "hyper": {
+    "dropdown-hyper": "opt + space",
+    "open-config-file": "cmd + ,"
+  },
   "macos": {
     "open": "open [directory]",
     "toggle-windows-same-app": "cmd + `",
