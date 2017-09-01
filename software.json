@@ -74,10 +74,6 @@
     "name": "ImageOptim",
     "ver": "45.2"
   },
-  "menu-bar": {
-    "name": "Vanilla",
-    "ver": "1.0.6"
-  },
   "firewall": {
     "name": "Little Snitch",
     "ver": "4.0.2"

@@ -14,7 +14,7 @@
     },
     {
       "name": "MongoDB Compass",
-      "ver": "1.8.0"
+      "ver": "1.8.2"
     },
     {
       "name": "Android Studio",
@@ -44,27 +44,15 @@
   "global-npm-packages": [
     {
       "name": "now",
-      "ver": "7.3.0"
+      "ver": "7.4.0"
     },
     {
       "name": "eslint",
-      "ver": "4.4.1"
+      "ver": "4.5.0"
     },
     {
       "name": "np",
       "ver": "2.16.0"
-    },
-    {
-      "name": "typescript",
-      "ver": "2.4.2"
-    },
-    {
-      "name": "typings",
-      "ver": "2.1.1"
-    },
-    {
-      "name": "react-devtools",
-      "ver": "2.5.0"
     },
     {
       "name": "yarn",
@@ -76,7 +64,7 @@
     },
     {
       "name": "create-react-app",
-      "ver": "1.0.11"
+      "ver": "1.0.12"
     },
     {
       "name": "live-server",
@@ -93,20 +81,20 @@
       "ver": "4.17.4"
     },
     {
+      "name": "ramda",
+      "ver": "0.24.1"
+    },
+    {
       "name": "math.js",
-      "ver": "3.16.1"
+      "ver": "3.16.3"
     },
     {
       "name": "date-fns",
       "ver": "2.0.0"
     },
     {
-      "name": "moment",
-      "ver": "2.18.1"
-    },
-    {
       "name": "lint-staged",
-      "ver": "4.0.3"
+      "ver": "4.0.4"
     },
     {
       "name": "husky",
@@ -114,7 +102,7 @@
     },
     {
       "name": "prettier",
-      "ver": "1.5.3"
+      "ver": "1.6.1"
     },
     {
       "name": "xo",
@@ -124,7 +112,7 @@
   "frontend-local-packages": [
     {
       "name": "next",
-      "ver": "3.0.6"
+      "ver": "3.2.1"
     },
     {
       "name": "react",
@@ -132,19 +120,19 @@
     },
     {
       "name": "react-native",
-      "ver": "0.47.1"
+      "ver": "0.47.2"
     },
     {
       "name": "realm",
-      "ver": "1.10.3"
+      "ver": "1.11.0"
     },
     {
       "name": "mobx",
-      "ver": "3.3.2"
+      "ver": "3.2.2"
     },
     {
-      "name": "react-addons-perf",
-      "ver": "15.4.2"
+      "name": "mobx-react",
+      "ver": "4.2.2"
     },
     {
       "name": "code-push",
@@ -170,19 +158,19 @@
     },
     {
       "name": "mongoose",
-      "ver": "4.11.7"
+      "ver": "4.11.9"
     },
     {
       "name": "sequelize",
-      "ver": "4.4.2"
+      "ver": "4.8.0"
     },
     {
       "name": "passport",
-      "ver": "0.3.2"
+      "ver": "0.4.0"
     },
     {
       "name": "micro",
-      "ver": "8.0.2"
+      "ver": "8.0.4"
     }
   ]
 }
