@@ -14,7 +14,7 @@
     },
     {
       "name": "MongoDB Compass",
-      "ver": "1.8.2"
+      "ver": "1.9.0"
     },
     {
       "name": "Android Studio",
@@ -44,11 +44,11 @@
   "global-npm-packages": [
     {
       "name": "now",
-      "ver": "7.4.0"
+      "ver": "8.2.1"
     },
     {
       "name": "eslint",
-      "ver": "4.5.0"
+      "ver": "4.6.1"
     },
     {
       "name": "np",
@@ -56,7 +56,7 @@
     },
     {
       "name": "yarn",
-      "ver": "0.27.5"
+      "ver": "1.01"
     },
     {
       "name": "react-native-cli",
@@ -64,7 +64,7 @@
     },
     {
       "name": "create-react-app",
-      "ver": "1.0.12"
+      "ver": "1.0.13"
     },
     {
       "name": "live-server",
@@ -112,7 +112,7 @@
   "frontend-local-packages": [
     {
       "name": "next",
-      "ver": "3.2.1"
+      "ver": "3.2.2"
     },
     {
       "name": "react",
@@ -120,7 +120,7 @@
     },
     {
       "name": "react-native",
-      "ver": "0.47.2"
+      "ver": "0.48.2"
     },
     {
       "name": "realm",
@@ -158,11 +158,11 @@
     },
     {
       "name": "mongoose",
-      "ver": "4.11.9"
+      "ver": "4.11.10"
     },
     {
       "name": "sequelize",
-      "ver": "4.8.0"
+      "ver": "4.8.2"
     },
     {
       "name": "passport",

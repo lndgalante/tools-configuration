@@ -40,7 +40,7 @@
   },
   "code-editor": {
     "name": "Visual Studio Code",
-    "ver": "1.15.1",
+    "ver": "1.16.0",
     "extensions": [
       "Language Support for Java by Red Hat",
       "VSCode Styled Components",
@@ -100,7 +100,7 @@
   },
   "chat-app": {
     "name": "Slack",
-    "ver": "2.6.3"
+    "ver": "2.7.1"
   },
   "cleaner": {
     "name": "Ccleaner",
@@ -112,7 +112,7 @@
   },
   "decompress": {
     "name": "The Unrarchiver",
-    "ver": "3.11.1"
+    "ver": "3.11.2"
   },
   "gif-recorder": {
     "name": "RecordIt",
