@@ -59,6 +59,10 @@
       "ver": "1.01"
     },
     {
+      "name": "firebase-tools",
+      "ver": "3.10.1"
+    },
+    {
       "name": "react-native-cli",
       "ver": "2.0.1"
     },
