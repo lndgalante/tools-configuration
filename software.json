@@ -43,6 +43,7 @@
     "ver": "1.16.0",
     "extensions": [
       "Language Support for Java by Red Hat",
+      "Auto-Open Markdown Preview",
       "VSCode Styled Components",
       "ReactJS Code Snippets",
       "GraphQL for VSCode",
@@ -87,8 +88,8 @@
     "ver": "2.2.6"
   },
   "music-player": {
-    "name": "Spotify + Spotifree",
-    "ver": "1.0.6"
+    "name": "iTunes",
+    "ver": "12.6.2"
   },
   "torrent-manager": {
     "name": "WebTorrent",
