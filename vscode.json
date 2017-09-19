@@ -4,6 +4,7 @@
 
   "editor.fontFamily": "Operator Mono",
   "editor.scrollBeyondLastLine": true,
+  "editor.snippetSuggestions": "top",
   "editor.renderIndentGuides": true,
   "editor.renderWhitespace": "all",
   "editor.cursorBlinking": "phase",
@@ -23,6 +24,7 @@
   "html.suggest.angular1": false,
   "html.suggest.ionic": false,
   "html.format.enable": true,
+  "html.format.wrapAttributes": "force",
 
   "emmet.syntaxProfiles": {
     "javascript": "jsx"
@@ -81,7 +83,7 @@
 
   "eslint.autoFixOnSave": true,
 
-  "prettier.printWidth": 80,
+  "prettier.printWidth": 120,
   "prettier.tabWidth": 2,
   "prettier.singleQuote": true,
   "prettier.trailingComma": "es5",
@@ -95,5 +97,6 @@
   "prettier.jsonEnable": ["json"],
   "prettier.graphqlEnable": ["graphql"],
   "prettier.eslintIntegration": false,
-  "prettier.typescriptEnable": ["typescript", "typescriptreact"]
+  "prettier.typescriptEnable": ["typescript", "typescriptreact"],
+  "git.enableSmartCommit": true
 }

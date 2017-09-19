@@ -22,7 +22,7 @@
   },
   "primary-web-browser": {
     "name": "Google Chrome",
-    "ver": "61.0.3163.79",
+    "ver": "61.0.3163.91",
     "extensions": [
       "React Developer Tools",
       "Auto Rename Tag",
@@ -40,12 +40,13 @@
   },
   "code-editor": {
     "name": "Visual Studio Code",
-    "ver": "1.16.0",
+    "ver": "1.16.1",
     "extensions": [
       "Language Support for Java by Red Hat",
       "Auto-Open Markdown Preview",
       "VSCode Styled Components",
       "ReactJS Code Snippets",
+      "Exports Autocomplete",
       "GraphQL for VSCode",
       "React Native Tools",
       "Path Intellisense",
@@ -81,7 +82,7 @@
   },
   "office-suite": {
     "name": "Microsoft Office",
-    "ver": "15.37"
+    "ver": "15.38"
   },
   "multimedia-player": {
     "name": "VLC",
@@ -119,13 +120,5 @@
     "name": "RecordIt",
     "ver": "1.0.134"
   },
-  "games": [
-    "Super Tux Kart",
-    "Brutal Doom",
-    "Diablo II",
-    "Xonotic",
-    "OpenEmu",
-    "OpenRA",
-    "0 A.D"
-  ]
+  "games": ["Super Tux Kart", "Brutal Doom", "Diablo II", "Xonotic", "OpenEmu", "OpenRA", "0 A.D"]
 }
