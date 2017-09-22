@@ -13,6 +13,7 @@
   "editor.dragAndDrop": false,
   "editor.formatOnSave": true,
   "editor.fontWeight": "300",
+  "editor.lineHeight": 26,
   "editor.wordWrap": "on",
   "editor.fontSize": 20,
   "editor.tabSize": 2,
@@ -83,7 +84,7 @@
 
   "eslint.autoFixOnSave": true,
 
-  "prettier.printWidth": 120,
+  "prettier.printWidth": 80,
   "prettier.tabWidth": 2,
   "prettier.singleQuote": true,
   "prettier.trailingComma": "es5",

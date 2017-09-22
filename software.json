@@ -5,7 +5,7 @@
   },
   "package-manager": {
     "name": "Homebrew & Cask",
-    "version": "1.3.2"
+    "version": "1.3.3"
   },
   "node-version-manager": {
     "name": "nvm",
@@ -22,7 +22,7 @@
   },
   "primary-web-browser": {
     "name": "Google Chrome",
-    "ver": "61.0.3163.91",
+    "ver": "61.0.3163.100",
     "extensions": [
       "React Developer Tools",
       "Auto Rename Tag",
@@ -72,14 +72,6 @@
     "name": "Sketch",
     "ver": "45.2"
   },
-  "image-optimizer": {
-    "name": "ImageOptim",
-    "ver": "45.2"
-  },
-  "firewall": {
-    "name": "Little Snitch",
-    "ver": "4.0.2"
-  },
   "office-suite": {
     "name": "Microsoft Office",
     "ver": "15.38"
@@ -102,7 +94,7 @@
   },
   "chat-app": {
     "name": "Slack",
-    "ver": "2.7.1"
+    "ver": "2.8.0"
   },
   "cleaner": {
     "name": "Ccleaner",
@@ -120,5 +112,13 @@
     "name": "RecordIt",
     "ver": "1.0.134"
   },
-  "games": ["Super Tux Kart", "Brutal Doom", "Diablo II", "Xonotic", "OpenEmu", "OpenRA", "0 A.D"]
+  "games": [
+    "Super Tux Kart",
+    "Brutal Doom",
+    "Diablo II",
+    "Xonotic",
+    "OpenEmu",
+    "OpenRA",
+    "0 A.D"
+  ]
 }

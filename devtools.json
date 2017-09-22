@@ -22,7 +22,7 @@
     },
     {
       "name": "Xcode",
-      "ver": "8.3.3"
+      "ver": "9.0.0"
     },
     {
       "name": "Genymotion",
@@ -30,7 +30,7 @@
     },
     {
       "name": "VirtualBox",
-      "ver": "5.1.26"
+      "ver": "5.1.28"
     },
     {
       "name": "Fastlane",
@@ -44,11 +44,11 @@
   "global-npm-packages": [
     {
       "name": "now",
-      "ver": "8.2.5"
+      "ver": "8.3.5"
     },
     {
       "name": "eslint",
-      "ver": "4.6.1"
+      "ver": "4.7.2"
     },
     {
       "name": "np",
@@ -56,11 +56,11 @@
     },
     {
       "name": "yarn",
-      "ver": "1.01"
+      "ver": "1.0.2"
     },
     {
       "name": "firebase-tools",
-      "ver": "3.10.1"
+      "ver": "3.12.0"
     },
     {
       "name": "react-native-cli",
@@ -98,7 +98,7 @@
     },
     {
       "name": "lint-staged",
-      "ver": "4.1.3"
+      "ver": "4.2.2"
     },
     {
       "name": "husky",
@@ -106,7 +106,7 @@
     },
     {
       "name": "prettier",
-      "ver": "1.6.1"
+      "ver": "1.7.0"
     },
     {
       "name": "xo",
@@ -124,7 +124,7 @@
     },
     {
       "name": "react-native",
-      "ver": "0.48.3"
+      "ver": "0.48.4"
     },
     {
       "name": "realm",
@@ -140,7 +140,7 @@
     },
     {
       "name": "code-push",
-      "ver": "5.0.0"
+      "ver": "5.1.1"
     }
   ],
   "backend-local-packages": [
@@ -162,11 +162,11 @@
     },
     {
       "name": "mongoose",
-      "ver": "4.11.11"
+      "ver": "4.11.12"
     },
     {
       "name": "sequelize",
-      "ver": "4.8.3"
+      "ver": "4.10.0"
     },
     {
       "name": "passport",
