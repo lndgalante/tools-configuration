@@ -1,11 +1,11 @@
 {
   "operative-system": {
     "name": "macOS Sierra",
-    "version": "10.12.6"
+    "version": "10.13.0"
   },
   "package-manager": {
     "name": "Homebrew & Cask",
-    "version": "1.3.3"
+    "version": "1.3.4"
   },
   "node-version-manager": {
     "name": "nvm",

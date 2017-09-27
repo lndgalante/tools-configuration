@@ -2,7 +2,7 @@
   "developer-tools": [
     {
       "name": "Node.js",
-      "ver": "8.5.0"
+      "ver": "8.6.0"
     },
     {
       "name": "Java JDK",
@@ -10,7 +10,7 @@
     },
     {
       "name": "Git",
-      "ver": "2.14.1"
+      "ver": "2.14.2"
     },
     {
       "name": "MongoDB Compass",
@@ -44,7 +44,7 @@
   "global-npm-packages": [
     {
       "name": "now",
-      "ver": "8.3.5"
+      "ver": "8.3.7"
     },
     {
       "name": "eslint",
@@ -56,7 +56,7 @@
     },
     {
       "name": "yarn",
-      "ver": "1.0.2"
+      "ver": "1.1.0"
     },
     {
       "name": "firebase-tools",
@@ -98,7 +98,7 @@
     },
     {
       "name": "lint-staged",
-      "ver": "4.2.2"
+      "ver": "4.2.3"
     },
     {
       "name": "husky",
@@ -120,7 +120,7 @@
     },
     {
       "name": "react",
-      "ver": "15.6.1"
+      "ver": "16.0.0"
     },
     {
       "name": "react-native",
@@ -146,7 +146,7 @@
   "backend-local-packages": [
     {
       "name": "express",
-      "ver": "4.15.4"
+      "ver": "4.15.5"
     },
     {
       "name": "pug",
@@ -162,11 +162,11 @@
     },
     {
       "name": "mongoose",
-      "ver": "4.11.12"
+      "ver": "4.11.13"
     },
     {
       "name": "sequelize",
-      "ver": "4.10.0"
+      "ver": "4.11.1"
     },
     {
       "name": "passport",
