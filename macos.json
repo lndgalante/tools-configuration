@@ -30,11 +30,13 @@
     "do-not-remove-from-startup": ["watchman", "haxm", "virtualbox"]
   },
   "maintenance": {
-    "screenshots": "defaults write com.apple.screencapture location ~/folder-for-screenshots",
-    "disable-screenshot-shadow": "defaults write com.apple.screencapture disable-shadow -bool true",
+    "screenshots":
+      "defaults write com.apple.screencapture location ~/folder-for-screenshots",
+    "disable-screenshot-shadow":
+      "defaults write com.apple.screencapture disable-shadow -bool true",
     "dock": "defaults write com.apple.dock autohide-time-modifier -int 0",
     "git-email": "git config --global user.email lndgalante@gmail.com",
-    "git-username": "git config --global user.name Fenwil",
+    "git-username": "git config --global user.name lndgalante",
     "zsh": "~/.zshrc",
     "deactivate-gatekeeper": "sudo spctl --master-disable",
     "brew": "brew update && brew upgrade && brew cleanup"

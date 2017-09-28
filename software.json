@@ -25,7 +25,6 @@
     "ver": "61.0.3163.100",
     "extensions": [
       "React Developer Tools",
-      "Auto Rename Tag",
       "uBlock Origin",
       "JSON Viewer",
       "Wappalyzer",
@@ -52,6 +51,7 @@
       "Path Intellisense",
       "HTML CSS Support",
       "npm Intellisense",
+      "Auto Rename Tag",
       "EditorConfig",
       "Import Cost",
       "SVG Viewer",
@@ -70,7 +70,7 @@
   },
   "design-tool": {
     "name": "Sketch",
-    "ver": "45.2"
+    "ver": "46.2"
   },
   "office-suite": {
     "name": "Microsoft Office",
