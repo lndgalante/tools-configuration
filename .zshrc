@@ -1,10 +1,8 @@
 export ZSH=/Users/leo/.oh-my-zsh
+export PATH=/usr/local/bin:$PATH
 
 # Import zsh-syntax-highlighting - https://github.com/zsh-users/zsh-syntax-highlighting
 source /usr/local/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
-
-# Themes https://github.com/robbyrussell/oh-my-zsh/wiki/themes
-#ZSH_THEME="robbyrussell"  
 
 # Useful plugins - https://github.com/unixorn/awesome-zsh-plugins
 plugins=(gitfast react-native zsh-syntax-highlighting)
@@ -15,6 +13,8 @@ source $ZSH/oh-my-zsh.sh
 # Use Pure prompt by Sindre - https://github.com/sindresorhus/pure
 autoload -U promptinit; promptinit
 prompt pure
+cd /Users/leo/Downloads/repos
+clear
 
 # nvm - node version manager - https://github.com/creationix/nvm
 export NVM_DIR="$HOME/.nvm"
@@ -29,14 +29,6 @@ export LANG=en_US.UTF-8
 export LC_ALL=en_US.UTF-8
 
 # Android Studio 
-export ANDROID_HOME=$HOME/Library/Android/sdk
-export PATH=$PATH:$ANDROID_HOME/tools
-export PATH=$PATH:$ANDROID_HOME/platform-tools
-
-# Add neofetch - https://github.com/dylanaraps/neofetch
-cd /Users/leo/Downloads/repos
-clear
-neofetch
-
-# Add thefuck - https://github.com/nvbn/thefuck
-eval $(thefuck --alias)
+#export ANDROID_HOME=$HOME/Library/Android/sdk
+#export PATH=$PATH:$ANDROID_HOME/tools
+#export PATH=$PATH:$ANDROID_HOME/platform-tools

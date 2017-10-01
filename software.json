@@ -18,7 +18,8 @@
     "shell": "oh-my-zsh",
     "man-pages": "tldr",
     "info": "neofetch",
-    "theme": "snazzy"
+    "theme": "snazzy",
+    "http": "httpie"
   },
   "primary-web-browser": {
     "name": "Google Chrome",
