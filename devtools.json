@@ -175,6 +175,10 @@
     {
       "name": "micro",
       "ver": "9.0.0"
+    },
+    {
+      "name": "json-server",
+      "ver": "0.12.0"
     }
   ]
 }
