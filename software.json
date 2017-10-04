@@ -113,6 +113,10 @@
     "name": "RecordIt",
     "ver": "1.0.134"
   },
+  "3d-printing": {
+    "name": "Repetier Host",
+    "ver": "1.0.2"
+  },
   "games": [
     "Super Tux Kart",
     "Brutal Doom",
