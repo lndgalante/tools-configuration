@@ -9,7 +9,7 @@
   },
   "node-version-manager": {
     "name": "nvm",
-    "version": "0.33.4"
+    "version": "0.33.5"
   },
   "terminal": {
     "syntax-color": "zsh-syntax-highlighting",
@@ -40,7 +40,7 @@
   },
   "code-editor": {
     "name": "Visual Studio Code",
-    "ver": "1.16.1",
+    "ver": "1.17",
     "extensions": [
       "Language Support for Java by Red Hat",
       "Auto-Open Markdown Preview",
@@ -95,7 +95,7 @@
   },
   "chat-app": {
     "name": "Slack",
-    "ver": "2.8.0"
+    "ver": "2.8.1"
   },
   "cleaner": {
     "name": "Ccleaner",

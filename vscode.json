@@ -1,4 +1,5 @@
 {
+  "powermode.enabled": false,
   "workbench.colorTheme": "Material Theme",
   "workbench.iconTheme": "eq-material-theme-icons",
 
@@ -13,10 +14,12 @@
   "editor.dragAndDrop": false,
   "editor.formatOnSave": true,
   "editor.fontWeight": "300",
-  "editor.lineHeight": 26,
+  "editor.lineHeight": 28,
   "editor.wordWrap": "on",
-  "editor.fontSize": 20,
+  "editor.fontSize": 22,
   "editor.tabSize": 2,
+
+  "C_Cpp.intelliSenseEngine": "Default",
 
   "extensions.autoUpdate": false,
 
