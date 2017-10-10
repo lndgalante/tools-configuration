@@ -5,7 +5,7 @@
   },
   "package-manager": {
     "name": "Homebrew & Cask",
-    "version": "1.3.4"
+    "version": "1.3.5"
   },
   "node-version-manager": {
     "name": "nvm",
@@ -40,7 +40,7 @@
   },
   "code-editor": {
     "name": "Visual Studio Code",
-    "ver": "1.17",
+    "ver": "1.17.1",
     "extensions": [
       "Language Support for Java by Red Hat",
       "Auto-Open Markdown Preview",
@@ -71,7 +71,7 @@
   },
   "design-tool": {
     "name": "Sketch",
-    "ver": "46.2"
+    "ver": "47.0"
   },
   "office-suite": {
     "name": "Microsoft Office",
@@ -83,7 +83,7 @@
   },
   "music-player": {
     "name": "iTunes",
-    "ver": "12.6.2"
+    "ver": "12.7.0"
   },
   "torrent-manager": {
     "name": "WebTorrent",
