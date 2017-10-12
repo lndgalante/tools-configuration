@@ -2,7 +2,7 @@
   "developer-tools": [
     {
       "name": "Node.js",
-      "ver": "8.6.0"
+      "ver": "8.7.0"
     },
     {
       "name": "Java JDK",
@@ -56,7 +56,7 @@
     },
     {
       "name": "yarn",
-      "ver": "1.2.0"
+      "ver": "1.2.1"
     },
     {
       "name": "firebase-tools",
@@ -116,7 +116,7 @@
   "frontend-local-packages": [
     {
       "name": "next",
-      "ver": "4.0.1"
+      "ver": "4.0.3"
     },
     {
       "name": "react",

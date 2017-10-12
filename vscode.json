@@ -13,11 +13,13 @@
   "editor.fontLigatures": true,
   "editor.dragAndDrop": false,
   "editor.formatOnSave": true,
-  "editor.fontWeight": "300",
+  "editor.fontWeight": "500",
   "editor.lineHeight": 28,
   "editor.wordWrap": "on",
   "editor.fontSize": 22,
   "editor.tabSize": 2,
+
+  "workbench.fontAliasing": "antialiased",
 
   "C_Cpp.intelliSenseEngine": "Default",
 
@@ -28,7 +30,7 @@
   "html.suggest.angular1": false,
   "html.suggest.ionic": false,
   "html.format.enable": true,
-  "html.format.wrapAttributes": "force",
+  "html.format.wrapAttributes": "force-aligned",
 
   "emmet.syntaxProfiles": {
     "javascript": "jsx"
@@ -93,7 +95,7 @@
   "prettier.trailingComma": "es5",
   "prettier.bracketSpacing": true,
   "prettier.jsxBracketSameLine": false,
-  "prettier.parser": "babylon",
+  "prettier.parser": "flow",
   "prettier.semi": false,
   "prettier.useTabs": false,
   "prettier.cssEnable": ["css", "less"],
@@ -102,5 +104,8 @@
   "prettier.graphqlEnable": ["graphql"],
   "prettier.eslintIntegration": false,
   "prettier.typescriptEnable": ["typescript", "typescriptreact"],
-  "git.enableSmartCommit": true
+  "git.enableSmartCommit": true,
+  "materialTheme.cache.workbench.settings": {
+    "themeColours": "Default"
+  }
 }
