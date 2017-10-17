@@ -116,7 +116,7 @@
   "frontend-local-packages": [
     {
       "name": "next",
-      "ver": "4.0.3"
+      "ver": "4.1.0"
     },
     {
       "name": "react",

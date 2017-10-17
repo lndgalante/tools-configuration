@@ -106,6 +106,6 @@
   "prettier.typescriptEnable": ["typescript", "typescriptreact"],
   "git.enableSmartCommit": true,
   "materialTheme.cache.workbench.settings": {
-    "themeColours": "Default"
+    "themeColours": "Palenight"
   }
 }

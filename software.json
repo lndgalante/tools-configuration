@@ -40,7 +40,7 @@
   },
   "code-editor": {
     "name": "Visual Studio Code",
-    "ver": "1.17.1",
+    "ver": "1.17.2",
     "extensions": [
       "Language Support for Java by Red Hat",
       "Auto-Open Markdown Preview",
@@ -95,7 +95,7 @@
   },
   "chat-app": {
     "name": "Slack",
-    "ver": "2.8.1"
+    "ver": "2.8.2"
   },
   "cleaner": {
     "name": "Ccleaner",
