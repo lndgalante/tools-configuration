@@ -17,6 +17,9 @@
     "select-current-line": "cmd + i",
     "multi-cursor-selection": "opt + cmd + up/down"
   },
+  "chrome": {
+    "undo-closed-tab": "cmd + shift + tab"
+  },
   "hyper": {
     "dropdown-hyper": "opt + space",
     "open-config-file": "cmd + ,"

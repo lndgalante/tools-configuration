@@ -123,6 +123,10 @@
       "ver": "4.1.0"
     },
     {
+      "name": "localForage",
+      "ver": "1.5.2"
+    },
+    {
       "name": "react",
       "ver": "16.0.0"
     },

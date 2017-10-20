@@ -43,11 +43,11 @@
     "ver": "1.17.2",
     "extensions": [
       "Language Support for Java by Red Hat",
-      "Auto-Open Markdown Preview",
       "Markdown Preview Enhanced",
       "VSCode Styled Components",
       "ReactJS Code Snippets",
       "Exports Autocomplete",
+      "Markdown All in One",
       "GraphQL for VSCode",
       "React Native Tools",
       "Path Intellisense",

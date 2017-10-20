@@ -19,6 +19,8 @@
   "editor.fontSize": 22,
   "editor.tabSize": 2,
 
+  "explorer.sortOrder": "type",
+
   "workbench.fontAliasing": "antialiased",
 
   "C_Cpp.intelliSenseEngine": "Default",
@@ -33,7 +35,9 @@
   "html.format.wrapAttributes": "force-aligned",
 
   "emmet.syntaxProfiles": {
-    "javascript": "jsx"
+    "jsx": {
+      "self_closing_tag": true
+    }
   },
   "emmet.includeLanguages": {
     "javascript": "javascriptreact"
