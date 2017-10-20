@@ -23,7 +23,7 @@
   },
   "primary-web-browser": {
     "name": "Google Chrome",
-    "ver": "61.0.3163.100",
+    "ver": "62.0.3202.62",
     "extensions": [
       "React Developer Tools",
       "uBlock Origin",
@@ -44,6 +44,7 @@
     "extensions": [
       "Language Support for Java by Red Hat",
       "Auto-Open Markdown Preview",
+      "Markdown Preview Enhanced",
       "VSCode Styled Components",
       "ReactJS Code Snippets",
       "Exports Autocomplete",
@@ -54,6 +55,7 @@
       "npm Intellisense",
       "Auto Rename Tag",
       "EditorConfig",
+      "markdownlint",
       "Import Cost",
       "SVG Viewer",
       "Can I Use",
@@ -117,13 +119,5 @@
     "name": "Repetier Host",
     "ver": "1.0.2"
   },
-  "games": [
-    "Super Tux Kart",
-    "Brutal Doom",
-    "Diablo II",
-    "Xonotic",
-    "OpenEmu",
-    "OpenRA",
-    "0 A.D"
-  ]
+  "games": ["Super Tux Kart", "Brutal Doom", "Diablo II", "Xonotic", "OpenEmu", "OpenRA", "0 A.D"]
 }
