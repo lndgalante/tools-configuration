@@ -10,7 +10,7 @@
     },
     {
       "name": "Git",
-      "ver": "2.14.2"
+      "ver": "2.14.3"
     },
     {
       "name": "MongoDB Compass",
@@ -90,7 +90,7 @@
     },
     {
       "name": "math.js",
-      "ver": "3.16.4"
+      "ver": "3.16.6"
     },
     {
       "name": "faker.js",
@@ -102,7 +102,7 @@
     },
     {
       "name": "lint-staged",
-      "ver": "4.2.3"
+      "ver": "4.3.0"
     },
     {
       "name": "husky",
@@ -162,7 +162,7 @@
     },
     {
       "name": "helmet",
-      "ver": "3.8.2"
+      "ver": "3.9.0"
     },
     {
       "name": "mongo",
@@ -170,11 +170,11 @@
     },
     {
       "name": "mongoose",
-      "ver": "4.12.1"
+      "ver": "4.12.4"
     },
     {
       "name": "sequelize",
-      "ver": "4.13.8"
+      "ver": "4.17.0"
     },
     {
       "name": "passport",
