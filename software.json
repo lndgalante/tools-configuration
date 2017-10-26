@@ -119,6 +119,10 @@
     "name": "Repetier Host",
     "ver": "1.0.2"
   },
+  "wifi-password": {
+    "name": "wifi-password",
+    "ver": "0.1.0"
+  },
   "games": [
     "Super Tux Kart",
     "Brutal Doom",
