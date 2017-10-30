@@ -2,7 +2,7 @@
   "developer-tools": [
     {
       "name": "Node.js",
-      "ver": "8.8.0"
+      "ver": "8.8.1"
     },
     {
       "name": "Java JDK",
@@ -10,15 +10,15 @@
     },
     {
       "name": "Git",
-      "ver": "2.14.3"
+      "ver": "2.15.0"
     },
     {
       "name": "MongoDB Compass",
-      "ver": "1.9.0"
+      "ver": "1.10.1"
     },
     {
       "name": "Android Studio",
-      "ver": "2.3.3"
+      "ver": "3.0.0"
     },
     {
       "name": "Xcode",
@@ -38,17 +38,17 @@
     },
     {
       "name": "Heroku",
-      "ver": "6.12.11"
+      "ver": "6.14.36"
     }
   ],
   "global-npm-packages": [
     {
       "name": "now",
-      "ver": "8.3.9"
+      "ver": "8.3.12"
     },
     {
       "name": "eslint",
-      "ver": "4.8.0"
+      "ver": "4.10.0"
     },
     {
       "name": "np",
@@ -60,7 +60,7 @@
     },
     {
       "name": "firebase-tools",
-      "ver": "3.12.0"
+      "ver": "3.14.0"
     },
     {
       "name": "react-native-cli",
@@ -120,7 +120,7 @@
   "frontend-local-packages": [
     {
       "name": "next",
-      "ver": "4.1.0"
+      "ver": "4.1.4"
     },
     {
       "name": "localForage",
@@ -132,7 +132,7 @@
     },
     {
       "name": "react-native",
-      "ver": "0.49.0"
+      "ver": "0.49.3"
     },
     {
       "name": "realm",
@@ -170,11 +170,11 @@
     },
     {
       "name": "mongoose",
-      "ver": "4.12.4"
+      "ver": "4.12.5"
     },
     {
       "name": "sequelize",
-      "ver": "4.17.0"
+      "ver": "4.20.1"
     },
     {
       "name": "passport",

@@ -34,7 +34,6 @@
       "Momentum",
       "Postman",
       "Imagus",
-      "Reedy",
       "aXe"
     ]
   },
@@ -46,7 +45,6 @@
       "Markdown Preview Enhanced",
       "VSCode Styled Components",
       "ReactJS Code Snippets",
-      "Exports Autocomplete",
       "Markdown All in One",
       "GraphQL for VSCode",
       "React Native Tools",
@@ -55,7 +53,7 @@
       "npm Intellisense",
       "Auto Rename Tag",
       "EditorConfig",
-      "markdownlint",
+      "Markdownlint",
       "Import Cost",
       "SVG Viewer",
       "Can I Use",
