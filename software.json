@@ -23,7 +23,7 @@
   },
   "primary-web-browser": {
     "name": "Google Chrome",
-    "ver": "62.0.3202.62",
+    "ver": "62.0.3202.75",
     "extensions": [
       "React Developer Tools",
       "uBlock Origin",
@@ -49,6 +49,7 @@
       "GraphQL for VSCode",
       "React Native Tools",
       "Path Intellisense",
+      "vscode-styled-jsx",
       "HTML CSS Support",
       "npm Intellisense",
       "Auto Rename Tag",
@@ -121,13 +122,5 @@
     "name": "wifi-password",
     "ver": "0.1.0"
   },
-  "games": [
-    "Super Tux Kart",
-    "Brutal Doom",
-    "Diablo II",
-    "Xonotic",
-    "OpenEmu",
-    "OpenRA",
-    "0 A.D"
-  ]
+  "games": ["Super Tux Kart", "Brutal Doom", "Diablo II", "Xonotic", "OpenEmu", "OpenRA", "0 A.D"]
 }
