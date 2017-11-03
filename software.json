@@ -102,9 +102,13 @@
     "name": "Ccleaner",
     "ver": "1.14.451"
   },
-  "ntfs": {
+  "ntfs-reader": {
     "name": "Mounty",
     "ver": "1.6.9"
+  },
+  "usb-formatter": {
+    "name": "Etcher",
+    "ver": "1.1.2"
   },
   "decompress": {
     "name": "The Unrarchiver",
