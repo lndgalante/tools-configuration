@@ -5,7 +5,7 @@
   },
   "package-manager": {
     "name": "Homebrew & Cask",
-    "version": "1.3.6"
+    "version": "1.3.7"
   },
   "node-version-manager": {
     "name": "nvm",
@@ -23,7 +23,7 @@
   },
   "primary-web-browser": {
     "name": "Google Chrome",
-    "ver": "62.0.3202.89",
+    "ver": "62.0.3202.94",
     "extensions": [
       "React Developer Tools",
       "uBlock Origin",
@@ -39,7 +39,7 @@
   },
   "code-editor": {
     "name": "Visual Studio Code",
-    "ver": "1.17.2",
+    "ver": "1.18.0",
     "extensions": [
       "Language Support for Java by Red Hat",
       "Markdown Preview Enhanced",
@@ -84,7 +84,7 @@
   },
   "music-player": {
     "name": "iTunes",
-    "ver": "12.7.0"
+    "ver": "12.7.1"
   },
   "torrent-manager": {
     "name": "WebTorrent",
@@ -126,13 +126,5 @@
     "name": "wifi-password",
     "ver": "0.1.0"
   },
-  "games": [
-    "Super Tux Kart",
-    "Brutal Doom",
-    "Diablo II",
-    "Xonotic",
-    "OpenEmu",
-    "OpenRA",
-    "0 A.D"
-  ]
+  "games": ["Super Tux Kart", "Brutal Doom", "Diablo II", "Xonotic", "OpenEmu", "OpenRA", "0 A.D"]
 }

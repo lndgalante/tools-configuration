@@ -14,7 +14,7 @@
     },
     {
       "name": "MongoDB Compass",
-      "ver": "1.10.5"
+      "ver": "1.10.7"
     },
     {
       "name": "Android Studio",
@@ -48,7 +48,7 @@
     },
     {
       "name": "eslint",
-      "ver": "4.10.0"
+      "ver": "4.11.0"
     },
     {
       "name": "np",
@@ -72,7 +72,7 @@
     },
     {
       "name": "create-react-app",
-      "ver": "1.0.14"
+      "ver": "1.0.17"
     },
     {
       "name": "live-server",
@@ -106,7 +106,7 @@
     },
     {
       "name": "lint-staged",
-      "ver": "4.3.0"
+      "ver": "5.0.0"
     },
     {
       "name": "husky",
@@ -114,7 +114,7 @@
     },
     {
       "name": "prettier",
-      "ver": "1.8.1"
+      "ver": "1.8.2"
     },
     {
       "name": "xo",
@@ -132,7 +132,7 @@
     },
     {
       "name": "react",
-      "ver": "16.0.0"
+      "ver": "16.1.1"
     },
     {
       "name": "react-native",
@@ -174,11 +174,11 @@
     },
     {
       "name": "mongoose",
-      "ver": "4.13.0"
+      "ver": "4.13.2"
     },
     {
       "name": "sequelize",
-      "ver": "4.22.5"
+      "ver": "4.22.6"
     },
     {
       "name": "passport",
