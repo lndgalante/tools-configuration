@@ -39,7 +39,7 @@
   },
   "code-editor": {
     "name": "Visual Studio Code",
-    "ver": "1.18.0",
+    "ver": "1.18.1",
     "extensions": [
       "Language Support for Java by Red Hat",
       "Markdown Preview Enhanced",
@@ -54,7 +54,6 @@
       "npm Intellisense",
       "Auto Rename Tag",
       "EditorConfig",
-      "Markdownlint",
       "Import Cost",
       "SVG Viewer",
       "Can I Use",
@@ -76,7 +75,7 @@
   },
   "office-suite": {
     "name": "Microsoft Office",
-    "ver": "15.39"
+    "ver": "15.40"
   },
   "multimedia-player": {
     "name": "VLC",
@@ -96,7 +95,7 @@
   },
   "chat-app": {
     "name": "Slack",
-    "ver": "2.8.2"
+    "ver": "2.9.0"
   },
   "cleaner": {
     "name": "Ccleaner",
@@ -126,5 +125,13 @@
     "name": "wifi-password",
     "ver": "0.1.0"
   },
-  "games": ["Super Tux Kart", "Brutal Doom", "Diablo II", "Xonotic", "OpenEmu", "OpenRA", "0 A.D"]
+  "games": [
+    "Super Tux Kart",
+    "Brutal Doom",
+    "Diablo II",
+    "Xonotic",
+    "OpenEmu",
+    "OpenRA",
+    "0 A.D"
+  ]
 }
