@@ -1,75 +1,79 @@
 {
-  "powermode.enabled": false,
-  "workbench.colorTheme": "Material Theme",
-  "workbench.iconTheme": "eq-material-theme-icons",
+  // Window
+  "window.zoomLevel": -0.6,
 
-  "editor.fontFamily": "Operator Mono",
-  "editor.scrollBeyondLastLine": true,
-  "editor.snippetSuggestions": "top",
-  "editor.renderIndentGuides": true,
-  "editor.renderWhitespace": "all",
-  "editor.cursorBlinking": "phase",
-  "editor.minimap.enabled": false,
-  "editor.fontLigatures": true,
-  "editor.dragAndDrop": false,
-  "editor.formatOnSave": true,
-  "editor.fontWeight": "500",
-  "editor.lineHeight": 28,
-  "editor.wordWrap": "on",
-  "editor.fontSize": 22,
+  // Editor
   "editor.tabSize": 2,
+  "editor.fontSize": 24,
+  "editor.lineHeight": 35,
+  "editor.fontWeight": "500",
+  "editor.formatOnSave": true,
+  "editor.letterSpacing": 0.5,
+  "editor.minimap.enabled": false,
+  "editor.cursorBlinking": "phase",
+  "editor.snippetSuggestions": "top",
+  "editor.scrollBeyondLastLine": true,
+  "editor.fontFamily": "Operator Mono",
 
+  // HTML
+  "html.format.wrapAttributes": "force-aligned",
+  "html.format.indentInnerHtml": true,
+
+  // Left Explorer
   "explorer.sortOrder": "type",
 
-  "workbench.fontAliasing": "antialiased",
-
-  "C_Cpp.intelliSenseEngine": "Default",
-
-  "extensions.autoUpdate": false,
-
-  "window.openFilesInNewWindow": "off",
-
-  "html.suggest.angular1": false,
-  "html.suggest.ionic": false,
-  "html.format.enable": true,
-  "html.format.wrapAttributes": "force-aligned",
-
+  // Emmet
   "emmet.syntaxProfiles": {
-    "jsx": {
-      "self_closing_tag": true
-    }
+    "jsx": { "self_closing_tag": true }
   },
   "emmet.includeLanguages": {
     "javascript": "javascriptreact"
   },
 
-  "stylelint.enable": true,
-  "css.validate": false,
-  "scss.validate": false,
-  "json.format.enable": true,
-  "npm-intellisense.scanDevDependencies": true,
+  // ESlint
+  "eslint.autoFixOnSave": true,
 
-  "javascript.format.enable": false,
-  "javascript.validate.enable": false,
+  // Prettier
+  "prettier.semi": false,
+  "prettier.tabWidth": 2,
+  "prettier.printWidth": 80,
+  "prettier.singleQuote": true,
+  "prettier.trailingComma": "es5",
+  "prettier.eslintIntegration": true,
 
-  "window.zoomLevel": 0,
+  // Material Theme
+  "materialTheme.cache.workbench.settings": {
+    "themeColours": "Palenight"
+  },
 
-  "terminal.integrated.fontFamily": "Operator Mono",
-  "terminal.integrated.shell.osx": "/bin/zsh",
-  "terminal.external.osxExec": "Hyper.app",
-  "terminal.integrated.fontSize": 16,
+  // File Exclusion
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true
+  },
 
-  "telemetry.enableCrashReporter": false,
-  "telemetry.enableTelemetry": false,
-
+  // Search Exclusion
   "search.exclude": {
     "**/.git": true,
     "**/node_modules": true,
-    "**/bower_components": true,
     "**/tmp": true,
     "**/ios": true,
-    "**/android": false
+    "**/android": true
   },
+
+  // Show path on top
+  "window.title": "${dirty} ${activeEditorMedium}${separator}${rootName}",
+
+  // Workbench
+  "workbench.fontAliasing": "antialiased",
+  "workbench.colorTheme": "Material Theme",
+
+  // Terminal Customization
+  "terminal.integrated.fontFamily": "Operator Mono",
+  "terminal.integrated.fontSize": 18,
 
   "workbench.colorCustomizations": {
     "terminal.foreground": "#eff0eb",
@@ -91,25 +95,5 @@
     "terminal.ansiBrightWhite": "#eff0eb"
   },
 
-  "eslint.autoFixOnSave": true,
-
-  "prettier.printWidth": 80,
-  "prettier.tabWidth": 2,
-  "prettier.singleQuote": true,
-  "prettier.trailingComma": "es5",
-  "prettier.bracketSpacing": true,
-  "prettier.jsxBracketSameLine": false,
-  "prettier.parser": "flow",
-  "prettier.semi": false,
-  "prettier.useTabs": false,
-  "prettier.cssEnable": ["css", "less"],
-  "prettier.javascriptEnable": ["javascript", "javascriptreact"],
-  "prettier.jsonEnable": ["json"],
-  "prettier.graphqlEnable": ["graphql"],
-  "prettier.eslintIntegration": false,
-  "prettier.typescriptEnable": ["typescript", "typescriptreact"],
-  "git.enableSmartCommit": true,
-  "materialTheme.cache.workbench.settings": {
-    "themeColours": "Palenight"
-  }
+  "workbench.iconTheme": "eq-material-theme-icons"
 }
