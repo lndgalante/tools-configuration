@@ -6,6 +6,7 @@
   "editor.tabSize": 2,
   "editor.fontSize": 24,
   "editor.lineHeight": 35,
+  "editor.rulers": [80, 120],
   "editor.fontWeight": "500",
   "editor.formatOnSave": true,
   "editor.letterSpacing": 0.5,
@@ -16,8 +17,14 @@
   "editor.fontFamily": "Operator Mono",
 
   // HTML
-  "html.format.wrapAttributes": "force-aligned",
   "html.format.indentInnerHtml": true,
+  "html.format.wrapAttributes": "force-aligned",
+
+  // JavaScript enable implicit type checking
+  "javascript.implicitProjectConfig.checkJs": true,
+
+  // StyleLint
+  "stylelint.enable": true,
 
   // Left Explorer
   "explorer.sortOrder": "type",
@@ -29,6 +36,9 @@
   "emmet.includeLanguages": {
     "javascript": "javascriptreact"
   },
+
+  // Git
+  "git.enableSmartCommit": true,
 
   // ESlint
   "eslint.autoFixOnSave": true,
@@ -57,11 +67,11 @@
 
   // Search Exclusion
   "search.exclude": {
-    "**/.git": true,
-    "**/node_modules": true,
     "**/tmp": true,
     "**/ios": true,
-    "**/android": true
+    "**/.git": true,
+    "**/android": true,
+    "**/node_modules": true
   },
 
   // Show path on top
@@ -70,11 +80,12 @@
   // Workbench
   "workbench.fontAliasing": "antialiased",
   "workbench.colorTheme": "Material Theme",
+  "workbench.startupEditor": "newUntitledFile",
+  "workbench.iconTheme": "eq-material-theme-icons",
 
   // Terminal Customization
-  "terminal.integrated.fontFamily": "Operator Mono",
   "terminal.integrated.fontSize": 18,
-
+  "terminal.integrated.fontFamily": "Operator Mono",
   "workbench.colorCustomizations": {
     "terminal.foreground": "#eff0eb",
     "terminal.ansiBlack": "#282a36",
@@ -93,7 +104,5 @@
     "terminal.ansiBrightMagenta": "#ff6ac1",
     "terminal.ansiBrightCyan": "#9aedfe",
     "terminal.ansiBrightWhite": "#eff0eb"
-  },
-
-  "workbench.iconTheme": "eq-material-theme-icons"
+  }
 }
