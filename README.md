@@ -11,3 +11,5 @@
 [VSCode Tips and Tricks - Microsoft](https://github.com/Microsoft/vscode-tips-and-tricks)
 
 [My macOS - Nikita Voloboev](https://github.com/nikitavoloboev/my-mac-os)
+
+[Fonts for your editor](https://github.com/powerline/fonts)
