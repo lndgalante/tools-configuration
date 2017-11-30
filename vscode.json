@@ -9,6 +9,7 @@
   "editor.rulers": [80, 120],
   "editor.fontWeight": "500",
   "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
   "editor.letterSpacing": 0.5,
   "editor.minimap.enabled": false,
   "editor.cursorBlinking": "phase",
@@ -41,6 +42,7 @@
   "git.enableSmartCommit": true,
 
   // ESlint
+  "eslint.enable": true,
   "eslint.autoFixOnSave": true,
 
   // Prettier
@@ -76,6 +78,9 @@
 
   // Show path on top
   "window.title": "${dirty} ${activeEditorMedium}${separator}${rootName}",
+
+  // Extensions
+  "extensions.autoUpdate": false,
 
   // Workbench
   "workbench.fontAliasing": "antialiased",
