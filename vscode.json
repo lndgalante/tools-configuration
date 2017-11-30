@@ -9,7 +9,6 @@
   "editor.rulers": [80, 120],
   "editor.fontWeight": "500",
   "editor.formatOnSave": true,
-  "editor.formatOnPaste": true,
   "editor.letterSpacing": 0.5,
   "editor.minimap.enabled": false,
   "editor.cursorBlinking": "phase",
@@ -29,14 +28,16 @@
 
   // Left Explorer
   "explorer.sortOrder": "type",
+  "explorer.confirmDragAndDrop": false,
 
   // Emmet
   "emmet.syntaxProfiles": {
-    "jsx": { "self_closing_tag": true }
+    "javascript": "jsx"
   },
   "emmet.includeLanguages": {
     "javascript": "javascriptreact"
   },
+  "emmet.triggerExpansionOnTab": true,
 
   // Git
   "git.enableSmartCommit": true,
@@ -44,6 +45,7 @@
   // ESlint
   "eslint.enable": true,
   "eslint.autoFixOnSave": true,
+  "eslint.validate": ["javascript", "javascriptreact"],
 
   // Prettier
   "prettier.semi": false,
@@ -66,6 +68,7 @@
     "**/CVS": true,
     "**/.DS_Store": true
   },
+  "files.insertFinalNewline": true,
 
   // Search Exclusion
   "search.exclude": {
@@ -83,13 +86,14 @@
   "extensions.autoUpdate": false,
 
   // Workbench
+  "workbench.startupEditor": "none",
   "workbench.fontAliasing": "antialiased",
   "workbench.colorTheme": "Material Theme",
-  "workbench.startupEditor": "newUntitledFile",
   "workbench.iconTheme": "eq-material-theme-icons",
 
   // Terminal Customization
   "terminal.integrated.fontSize": 18,
+  "terminal.integrated.shell.osx": "/bin/zsh",
   "terminal.integrated.fontFamily": "Operator Mono",
   "workbench.colorCustomizations": {
     "terminal.foreground": "#eff0eb",
