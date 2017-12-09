@@ -1,6 +1,6 @@
 {
   // Window
-  "window.zoomLevel": -0.6,
+  "window.zoomLevel": 0,
 
   // Editor
   "editor.tabSize": 2,

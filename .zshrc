@@ -1,34 +1,28 @@
 export ZSH=/Users/leo/.oh-my-zsh
-export PATH=/usr/local/bin:$PATH
 
-# Import zsh-syntax-highlighting - https://github.com/zsh-users/zsh-syntax-highlighting
+ZSH_THEME="robbyrussell"
+
+plugins=(
+  git
+)
+
+# Add oh-my-zsh and zsh-syntaxx-highlighting
+source $ZSH/oh-my-zsh.sh
 source /usr/local/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 
-# Useful plugins - https://github.com/unixorn/awesome-zsh-plugins
-plugins=(gitfast react-native zsh-syntax-highlighting)
-
-# Actually load Oh-My-Zsh - https://github.com/robbyrussell/oh-my-zsh
-source $ZSH/oh-my-zsh.sh
-
-# Use Pure prompt by Sindre - https://github.com/sindresorhus/pure
+# Add pure prompt
 autoload -U promptinit; promptinit
 prompt pure
+
+# Move to repos folder and clean everything
 cd /Users/leo/Downloads/repos
 clear
 
-# nvm - node version manager - https://github.com/creationix/nvm
-export NVM_DIR="$HOME/.nvm"
-[ -s "$NVM_DIR/nvm.sh" ] && . "$NVM_DIR/nvm.sh"
-[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"
+# This loads nvm bash_completion
+export NVM_DIR="/Users/leo/.nvm"
+[ -s "$NVM_DIR/nvm.sh" ] && . "$NVM_DIR/nvm.sh" # This loads nvm
 
-# Prevent Homebrew from reporting - https://github.com/Homebrew/brew/blob/master/share/doc/homebrew/Analytics.md
-export HOMEBREW_NO_ANALYTICS=1
-
-# Encoding stuff for the terminal
-export LANG=en_US.UTF-8
-export LC_ALL=en_US.UTF-8
-
-# Android Studio 
-#export ANDROID_HOME=$HOME/Library/Android/sdk
-#export PATH=$PATH:$ANDROID_HOME/tools
-#export PATH=$PATH:$ANDROID_HOME/platform-tools
+# Android Studio
+export ANDROID_HOME=$HOME/Library/Android/sdk
+export PATH=$PATH:$ANDROID_HOME/tools
+export PATH=$PATH:$ANDROID_HOME/platform-tools
