@@ -9,7 +9,7 @@
   },
   "node-version-manager": {
     "name": "nvm",
-    "version": "0.33.6"
+    "version": "0.33.7"
   },
   "terminal": {
     "syntax-color": "zsh-syntax-highlighting",
