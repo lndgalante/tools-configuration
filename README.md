@@ -13,3 +13,5 @@
 * [My macOS - Nikita Voloboev](https://github.com/nikitavoloboev/my-mac-os)
 
 * [Fonts for your editor](https://github.com/powerline/fonts)
+
+* [Awesome Chrome DevTools](https://github.com/ChromeDevTools/awesome-chrome-devtools)
