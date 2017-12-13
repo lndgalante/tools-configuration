@@ -1,5 +1,6 @@
 {
   "vscode": {
+    "clipboard-history": "cmd + shift + v",
     "command-palette": "cmd + shift + p",
     "quick-navigation": "cmd + p",
     "search-symbol": "cmd + t",
