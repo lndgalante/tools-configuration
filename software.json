@@ -81,7 +81,7 @@
   },
   "music-player": {
     "name": "iTunes",
-    "ver": "12.7.1"
+    "ver": "12.7.2"
   },
   "lyrics": {
     "name": "lyricsX",
@@ -113,7 +113,7 @@
   },
   "decompress": {
     "name": "The Unrarchiver",
-    "ver": "3.11.2"
+    "ver": "3.11.3"
   },
   "gif-recorder": {
     "name": "RecordIt",

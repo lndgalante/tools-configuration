@@ -2,7 +2,7 @@
   "developer-tools": [
     {
       "name": "Node.js",
-      "ver": "9.2.1"
+      "ver": "9.3.0"
     },
     {
       "name": "Java JDK",
@@ -14,7 +14,7 @@
     },
     {
       "name": "MongoDB Compass",
-      "ver": "1.11.1"
+      "ver": "1.12.0"
     },
     {
       "name": "Android Studio",
@@ -48,7 +48,7 @@
     },
     {
       "name": "eslint",
-      "ver": "4.13.0"
+      "ver": "4.13.1"
     },
     {
       "name": "np",
@@ -80,7 +80,7 @@
     },
     {
       "name": "nodemon",
-      "ver": "1.12.5"
+      "ver": "1.12.6"
     }
   ],
   "cross-local-packages": [
@@ -106,7 +106,7 @@
     },
     {
       "name": "lint-staged",
-      "ver": "5.0.0"
+      "ver": "6.0.0"
     },
     {
       "name": "husky",
@@ -114,7 +114,7 @@
     },
     {
       "name": "prettier",
-      "ver": "1.9.1"
+      "ver": "1.9.2"
     },
     {
       "name": "xo",
@@ -174,15 +174,15 @@
     },
     {
       "name": "mongo",
-      "ver": "3.4.10"
+      "ver": "3.6.0"
     },
     {
       "name": "mongoose",
-      "ver": "4.13.6"
+      "ver": "4.13.7"
     },
     {
       "name": "sequelize",
-      "ver": "4.27.0"
+      "ver": "4.28.0"
     },
     {
       "name": "passport",
