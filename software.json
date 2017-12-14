@@ -68,7 +68,7 @@
     ],
     "color-theme": "Material Theme (vsc-material-theme)",
     "icon-theme": "Material Theme Icons",
-    "font": "Operator Mono"
+    "font": "Operator Mono Ligatures"
   },
   "design-tool": {
     "name": "Sketch",
@@ -76,7 +76,7 @@
   },
   "office-suite": {
     "name": "Microsoft Office",
-    "ver": "15.40"
+    "ver": "15.41"
   },
   "multimedia-player": {
     "name": "VLC",
