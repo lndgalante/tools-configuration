@@ -5,11 +5,11 @@
   },
   "package-manager": {
     "name": "Homebrew & Cask",
-    "version": "1.3.9"
+    "version": "1.4.0"
   },
   "node-version-manager": {
     "name": "nvm",
-    "version": "0.33.7"
+    "version": "0.33.8"
   },
   "terminal": {
     "syntax-color": "zsh-syntax-highlighting",
@@ -39,7 +39,7 @@
   },
   "code-editor": {
     "name": "Visual Studio Code",
-    "ver": "1.18.1",
+    "ver": "1.19.0",
     "extensions": [
       "Language Support for Java by Red Hat",
       "Markdown Preview Enhanced",
@@ -108,7 +108,7 @@
   },
   "ntfs-reader": {
     "name": "Mounty",
-    "ver": "1.6.9"
+    "ver": "1.7.0"
   },
   "usb-formatter": {
     "name": "Etcher",

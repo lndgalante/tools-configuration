@@ -14,10 +14,6 @@ source /usr/local/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 autoload -U promptinit; promptinit
 prompt pure
 
-# Move to repos folder and clean everything
-cd /Users/leo/Downloads/repos
-clear
-
 # This loads nvm bash_completion
 export NVM_DIR="/Users/leo/.nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && . "$NVM_DIR/nvm.sh" # This loads nvm
@@ -26,3 +22,7 @@ export NVM_DIR="/Users/leo/.nvm"
 export ANDROID_HOME=$HOME/Library/Android/sdk
 export PATH=$PATH:$ANDROID_HOME/tools
 export PATH=$PATH:$ANDROID_HOME/platform-tools
+
+# Move to repos folder and clean everything
+cd /Users/leo/Downloads/repos
+clear

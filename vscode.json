@@ -1,6 +1,6 @@
 {
   // Window
-  "window.zoomLevel": 0,
+  "window.zoomLevel": -0.6,
 
   // Editor
   "editor.tabSize": 2,
@@ -10,17 +10,17 @@
   "editor.fontWeight": "500",
   "editor.formatOnSave": true,
   "editor.letterSpacing": 0.5,
+  "editor.fontLigatures": true,
   "editor.minimap.enabled": false,
   "editor.cursorBlinking": "phase",
   "editor.snippetSuggestions": "top",
   "editor.scrollBeyondLastLine": true,
-  "editor.fontFamily": "Operator Mono",
+  "editor.fontFamily": "Operator Mono Lig",
 
   // HTML
   "html.format.indentInnerHtml": true,
-  "html.format.wrapAttributes": "force-aligned",
 
-  // JavaScript enable implicit type checking
+  // Type Checking
   "javascript.implicitProjectConfig.checkJs": true,
 
   // StyleLint
@@ -55,6 +55,9 @@
   "prettier.trailingComma": "es5",
   "prettier.eslintIntegration": true,
 
+  // JSON
+  "json.format.enable": false,
+
   // Material Theme
   "materialTheme.cache.workbench.settings": {
     "themeColours": "Palenight"
@@ -87,12 +90,13 @@
 
   // Workbench
   "workbench.startupEditor": "none",
+  "workbench.editor.tabSizing": "shrink",
   "workbench.fontAliasing": "antialiased",
   "workbench.colorTheme": "Material Theme",
   "workbench.iconTheme": "eq-material-theme-icons",
 
   // Terminal Customization
-  "terminal.integrated.fontSize": 18,
+  "terminal.integrated.fontSize": 16,
   "terminal.integrated.shell.osx": "/bin/zsh",
   "terminal.integrated.fontFamily": "Operator Mono",
   "workbench.colorCustomizations": {
@@ -113,5 +117,7 @@
     "terminal.ansiBrightMagenta": "#ff6ac1",
     "terminal.ansiBrightCyan": "#9aedfe",
     "terminal.ansiBrightWhite": "#eff0eb"
-  }
+  },
+  "workbench.panel.location": "right",
+  "git.autofetch": true
 }
