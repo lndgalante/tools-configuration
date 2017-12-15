@@ -23,7 +23,7 @@
   },
   "primary-web-browser": {
     "name": "Google Chrome",
-    "ver": "63.0.3239.84",
+    "ver": "63.0.3239.108",
     "extensions": [
       "React Developer Tools",
       "uBlock Origin",
@@ -53,9 +53,10 @@
       "Sort JSON Object",
       "HTML CSS Support",
       "npm Intellisense",
-      "Open in Browser",
       "Auto Rename Tag",
       "EditorConfig",
+      "VSCode Faker",
+      "Live Server",
       "Import Cost",
       "Git History",
       "SVG Viewer",
@@ -80,7 +81,7 @@
   },
   "multimedia-player": {
     "name": "VLC",
-    "ver": "2.2.6"
+    "ver": "2.2.8"
   },
   "music-player": {
     "name": "iTunes",

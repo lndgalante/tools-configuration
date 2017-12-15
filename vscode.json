@@ -96,7 +96,7 @@
   "workbench.iconTheme": "eq-material-theme-icons",
 
   // Terminal Customization
-  "terminal.integrated.fontSize": 16,
+  "terminal.integrated.fontSize": 20,
   "terminal.integrated.shell.osx": "/bin/zsh",
   "terminal.integrated.fontFamily": "Operator Mono",
   "workbench.colorCustomizations": {

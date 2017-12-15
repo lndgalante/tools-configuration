@@ -75,10 +75,6 @@
       "ver": "1.0.17"
     },
     {
-      "name": "live-server",
-      "ver": "1.2.0"
-    },
-    {
       "name": "nodemon",
       "ver": "1.12.6"
     }
