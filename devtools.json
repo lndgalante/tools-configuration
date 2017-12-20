@@ -123,6 +123,10 @@
       "ver": "4.2.1"
     },
     {
+      "name": "gatsby",
+      "ver": "1.9.4"
+    },
+    {
       "name": "localForage",
       "ver": "1.5.3"
     },
