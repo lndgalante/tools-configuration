@@ -39,7 +39,7 @@
   },
   "code-editor": {
     "name": "Visual Studio Code",
-    "ver": "1.19.0",
+    "ver": "1.19.1",
     "extensions": [
       "Language Support for Java by Red Hat",
       "Markdown Preview Enhanced",
