@@ -19,7 +19,8 @@
     "man-pages": "tldr",
     "info": "neofetch",
     "theme": "snazzy",
-    "http": "httpie"
+    "http": "httpie",
+    "top": "vtop"
   },
   "primary-web-browser": {
     "name": "Google Chrome",
