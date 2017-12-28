@@ -44,15 +44,15 @@
   "global-npm-packages": [
     {
       "name": "now",
-      "ver": "8.5.4"
+      "ver": "9.0.1"
     },
     {
       "name": "eslint",
-      "ver": "4.13.1"
+      "ver": "4.14.0"
     },
     {
       "name": "np",
-      "ver": "2.16.0"
+      "ver": "2.18.3"
     },
     {
       "name": "yarn",
@@ -76,7 +76,7 @@
     },
     {
       "name": "nodemon",
-      "ver": "1.12.6"
+      "ver": "1.14.3"
     }
   ],
   "cross-local-packages": [
@@ -182,15 +182,15 @@
     },
     {
       "name": "mongo",
-      "ver": "3.6.0"
+      "ver": "3.6.1"
     },
     {
       "name": "mongoose",
-      "ver": "4.13.7"
+      "ver": "4.13.8"
     },
     {
       "name": "sequelize",
-      "ver": "4.28.0"
+      "ver": "4.28.6"
     },
     {
       "name": "passport",
