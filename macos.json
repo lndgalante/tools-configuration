@@ -1,5 +1,13 @@
 {
   "vscode": {
+    "select-inside-tag": "ctrl + cmd + shift + arrow left/right",
+    "select-ocurrence": "cmd + d",
+    "select-all-ocurrences": "alt + cmd + shift + arrow down/up",
+    "fold-collapse-blocks": "alt + cmd + [ / ]",
+    "move-cursor-beginning-end": "cmd + arrow left/right",
+    "select-entire-line": "cmd + shift + arrow left/right",
+    "fold-everything": "cmd + k + cmd + 0",
+    "unfold-everything": "cmd + k + cmd + j",
     "clipboard-history": "cmd + shift + v",
     "command-palette": "cmd + shift + p",
     "quick-navigation": "cmd + p",
@@ -15,6 +23,7 @@
     "copy-line": "shift + opt + up/down",
     "create-and-open-file": "cmd + click",
     "move-entire-line": "opt + up/down",
+    "move-and-copy-entire-line": "opt + shift + up/down",
     "select-current-line": "cmd + i",
     "multi-cursor-selection": "opt + cmd + up/down"
   },
