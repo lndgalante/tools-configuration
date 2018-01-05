@@ -1,11 +1,5 @@
 # Tools personal config
 
-## Terminal
-
-* [terminal-snazzy - Sindreorhus](https://github.com/sindresorhus/terminal-snazzy)
-
-* [awesome-hyper - Hyper](https://github.com/bnb/awesome-hyper)
-
 ## macOS
 
 * [macOS Setup Guide - Sourabh Bajaj](https://github.com/sb2nov/mac-setup)
@@ -25,3 +19,9 @@
 * [Operator Mono with Ligatures - Kiliman](https://github.com/kiliman/operator-mono-lig)
 
 * [Fonts for your editor - Powerline](https://github.com/powerline/fonts)
+
+## Terminal
+
+* [terminal-snazzy - Sindreorhus](https://github.com/sindresorhus/terminal-snazzy)
+
+* [awesome-hyper - Hyper](https://github.com/bnb/awesome-hyper)
