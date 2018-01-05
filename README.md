@@ -1,21 +1,27 @@
-## Tools personal config
+# Tools personal config
 
-* [Setup guide - Le wagon](https://github.com/lewagon/setup/blob/master/OSX.md)
-
-* [dotfiles - Mathias Bynens](https://github.com/mathiasbynens/dotfiles)
+## Terminal
 
 * [terminal-snazzy - Sindreorhus](https://github.com/sindresorhus/terminal-snazzy)
 
 * [awesome-hyper - Hyper](https://github.com/bnb/awesome-hyper)
 
+## macOS
+
+* [macOS Setup Guide - Sourabh Bajaj](https://github.com/sb2nov/mac-setup)
+
+* [Setup guide - Le wagon](https://github.com/lewagon/setup/blob/master/OSX.md)
+
+* [My macOS - Nikita Voloboev](https://github.com/nikitavoloboev/my-mac-os)
+
+* [dotfiles - Mathias Bynens](https://github.com/mathiasbynens/dotfiles)
+
+## Visual Studio Code
+
 * [VSCode Tips and Tricks - Microsoft](https://github.com/Microsoft/vscode-tips-and-tricks)
 
 * [VSCode can do that - Burke Holland](http://vscodecandothat.com)
 
-* [My macOS - Nikita Voloboev](https://github.com/nikitavoloboev/my-mac-os)
-
 * [Operator Mono with Ligatures - Kiliman](https://github.com/kiliman/operator-mono-lig)
 
-* [Fonts for your editor](https://github.com/powerline/fonts)
-
-* [Awesome Chrome DevTools](https://github.com/ChromeDevTools/awesome-chrome-devtools)
+* [Fonts for your editor - Powerline](https://github.com/powerline/fonts)
