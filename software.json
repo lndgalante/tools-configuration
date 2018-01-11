@@ -5,7 +5,7 @@
   },
   "package-manager": {
     "name": "Homebrew & Cask",
-    "version": "1.4.1"
+    "version": "1.4.3"
   },
   "node-version-manager": {
     "name": "nvm",
@@ -40,7 +40,7 @@
   },
   "code-editor": {
     "name": "Visual Studio Code",
-    "ver": "1.19.1",
+    "ver": "1.19.2",
     "extensions": [
       "Language Support for Java by Red Hat",
       "Markdown Preview Enhanced",
@@ -88,10 +88,6 @@
     "name": "iTunes",
     "ver": "12.7.2"
   },
-  "lyrics": {
-    "name": "lyricsX",
-    "ver": "1.2.2"
-  },
   "torrent-manager": {
     "name": "WebTorrent",
     "ver": "0.18.0"
@@ -102,7 +98,7 @@
   },
   "chat-app": {
     "name": "Slack",
-    "ver": "3.0.0"
+    "ver": "3.0.2"
   },
   "cleaner": {
     "name": "Ccleaner",

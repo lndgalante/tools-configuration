@@ -19,6 +19,7 @@
 
   // HTML
   "html.format.indentInnerHtml": true,
+  "html.format.wrapAttributes": "force-aligned",
 
   // Type Checking
   "javascript.implicitProjectConfig.checkJs": true,
@@ -79,8 +80,8 @@
     "**/tmp": true,
     "**/ios": true,
     "**/.git": true
-    "**/android": true,
-    "**/node_modules": true
+    // "**/android": true,
+    // "**/node_modules": true
   },
 
   // Show path on top
@@ -118,7 +119,5 @@
     "terminal.ansiBrightMagenta": "#ff6ac1",
     "terminal.ansiBrightCyan": "#9aedfe",
     "terminal.ansiBrightWhite": "#eff0eb"
-  },
-  "workbench.panel.location": "right",
-  "git.autofetch": true
+  }
 }
