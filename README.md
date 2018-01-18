@@ -4,7 +4,7 @@
 
 * [macOS Setup Guide - Sourabh Bajaj](https://github.com/sb2nov/mac-setup)
 
-* [Setup guide - Le wagon](https://github.com/lewagon/setup/blob/master/OSX.md)
+* [Setup guide - Le Wagon](https://github.com/lewagon/setup/blob/master/macOS.md)
 
 * [My macOS - Nikita Voloboev](https://github.com/nikitavoloboev/my-mac-os)
 
