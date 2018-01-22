@@ -5,7 +5,7 @@
   },
   "package-manager": {
     "name": "Homebrew & Cask",
-    "version": "1.4.3"
+    "version": "1.5.1"
   },
   "window-manager": {
     "name": "Spectacle",
@@ -28,7 +28,7 @@
   },
   "primary-web-browser": {
     "name": "Google Chrome",
-    "ver": "63.0.3239.108",
+    "ver": "63.0.3239.132",
     "extensions": [
       "React Developer Tools",
       "uBlock Origin",
@@ -82,7 +82,7 @@
   },
   "office-suite": {
     "name": "Microsoft Office",
-    "ver": "15.41"
+    "ver": "16.9"
   },
   "multimedia-player": {
     "name": "VLC",
@@ -102,7 +102,7 @@
   },
   "chat-app": {
     "name": "Slack",
-    "ver": "3.0.2"
+    "ver": "3.0.5"
   },
   "cleaner": {
     "name": "Ccleaner",
