@@ -111,6 +111,14 @@
       "ver": "16.2.0"
     },
     {
+      "name": "redux",
+      "ver": "3.7.2"
+    },
+    {
+      "name": "react-redux",
+      "ver": "5.0.6"
+    },
+    {
       "name": "next",
       "ver": "4.3.0"
     },
