@@ -115,16 +115,20 @@
       "ver": "5.0.6"
     },
     {
+      "name": "reselect",
+      "ver": "3.0.1"
+    },
+    {
+      "name": "normalizr",
+      "ver": "3.2.4"
+    },
+    {
       "name": "next",
       "ver": "4.4.0"
     },
     {
       "name": "gatsby",
       "ver": "1.9.5"
-    },
-    {
-      "name": "normalizr",
-      "ver": "3.2.4"
     },
     {
       "name": "localForage",

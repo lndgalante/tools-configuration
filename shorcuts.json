@@ -40,7 +40,8 @@
     "screenshot-single-window": "cmd + shift + 4 + space",
     "key-repeat": "fast",
     "delay-until-repeat": "short",
-    "do-not-remove-from-startup": ["watchman", "haxm", "virtualbox"]
+    "do-not-remove-from-startup": ["watchman", "haxm", "virtualbox"],
+    "toggle-hidden-files": "cmd + shift + ."
   },
   "maintenance": {
     "screenshots":
