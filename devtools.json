@@ -115,6 +115,10 @@
       "ver": "5.0.6"
     },
     {
+      "name": "redux-form",
+      "ver": "7.2.2"
+    },
+    {
       "name": "reselect",
       "ver": "3.0.1"
     },
