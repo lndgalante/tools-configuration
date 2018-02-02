@@ -120,6 +120,10 @@
     "name": "The Unrarchiver",
     "ver": "3.11.3"
   },
+  "gif-recorder": {
+    "name": "kap",
+    "ver": "2.0.0"
+  },
   "wifi-password": {
     "name": "wifi-password",
     "ver": "0.1.0"
