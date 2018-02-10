@@ -2,7 +2,7 @@
   "developer-tools": [
     {
       "name": "Node.js",
-      "ver": "9.4.0"
+      "ver": "9.5.0"
     },
     {
       "name": "Git",
@@ -26,7 +26,7 @@
   "numbers-and-dates": [
     {
       "name": "math.js",
-      "ver": "3.20.1"
+      "ver": "3.20.2"
     },
     {
       "name": "date-fns",
@@ -34,7 +34,7 @@
     },
     {
       "name": "luxon",
-      "ver": "0.3.1"
+      "ver": "0.4.0"
     },
     {
       "name": "accounting.js",
@@ -52,7 +52,7 @@
     },
     {
       "name": "eslint",
-      "ver": "4.16.0"
+      "ver": "4.17.0"
     },
     {
       "name": "yarn",
@@ -64,13 +64,13 @@
     },
     {
       "name": "nodemon",
-      "ver": "1.14.11"
+      "ver": "1.14.12"
     }
   ],
   "cross-local-packages": [
     {
       "name": "lodash",
-      "ver": "4.17.4"
+      "ver": "4.17.5"
     },
     {
       "name": "ramda",
@@ -104,7 +104,7 @@
   "frontend-local-packages": [
     {
       "name": "react",
-      "ver": "16.2.0"
+      "ver": "16.3.0"
     },
     {
       "name": "redux",
@@ -116,7 +116,7 @@
     },
     {
       "name": "redux-form",
-      "ver": "7.2.2"
+      "ver": "7.2.3"
     },
     {
       "name": "reselect",
@@ -158,11 +158,11 @@
     },
     {
       "name": "helmet",
-      "ver": "3.9.0"
+      "ver": "3.11.0"
     },
     {
       "name": "redis",
-      "ver": "4.0.7"
+      "ver": "4.0.8"
     },
     {
       "name": "mongo",
@@ -170,11 +170,11 @@
     },
     {
       "name": "mongoose",
-      "ver": "5.0.2"
+      "ver": "5.0.4"
     },
     {
       "name": "sequelize",
-      "ver": "4.32.2"
+      "ver": "4.33.2"
     },
     {
       "name": "passport",

@@ -5,7 +5,7 @@
   },
   "package-manager": {
     "name": "Homebrew & Cask",
-    "version": "1.5.2"
+    "version": "1.5.3"
   },
   "window-manager": {
     "name": "Spectacle",
@@ -28,7 +28,7 @@
   },
   "primary-web-browser": {
     "name": "Google Chrome",
-    "ver": "64.0.3282.119",
+    "ver": "64.0.3282",
     "extensions": [
       "React Developer Tools",
       "uBlock Origin",
@@ -44,7 +44,7 @@
   },
   "code-editor": {
     "name": "Visual Studio Code",
-    "ver": "1.19.3",
+    "ver": "1.20.0",
     "extensions": [
       "Language Support for Java by Red Hat",
       "Markdown Preview Enhanced",
@@ -86,7 +86,7 @@
   },
   "multimedia-player": {
     "name": "VLC",
-    "ver": "2.2.8"
+    "ver": "3.0.0"
   },
   "music-player": {
     "name": "iTunes",
