@@ -5,7 +5,7 @@
   },
   "package-manager": {
     "name": "Homebrew & Cask",
-    "version": "1.5.3"
+    "version": "1.5.4"
   },
   "window-manager": {
     "name": "Spectacle",
@@ -44,10 +44,11 @@
   },
   "code-editor": {
     "name": "Visual Studio Code",
-    "ver": "1.20.0",
+    "ver": "1.20.1",
     "extensions": [
       "Language Support for Java by Red Hat",
       "Markdown Preview Enhanced",
+      "React Redux ES6 Snippets",
       "VSCode Styled Components",
       "ReactJS Code Snippets",
       "GraphQL for VSCode",
@@ -68,8 +69,10 @@
       "Can I Use",
       "Stylelint",
       "Prettier",
+      "Polacode",
       "ESLint",
       "Quokka",
+      "DotENV",
       "Go"
     ],
     "color-theme": "Material Theme (vsc-material-theme)",
