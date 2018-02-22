@@ -2,21 +2,25 @@
   "developer-tools": [
     {
       "name": "Node.js",
-      "ver": "9.5.0"
-    },
-    {
-      "name": "Git",
-      "ver": "2.16.1"
+      "ver": "9.6.0"
     },
     {
       "name": "MongoDB Compass",
       "ver": "1.12.0"
+    },
+    {
+      "name": "Git",
+      "ver": "2.16.2"
+    },
+    {
+      "name": "Git Flow",
+      "ver": "0.9.0"
     }
   ],
   "oss-managament": [
     {
       "name": "np",
-      "ver": "2.18.3"
+      "ver": "2.20.1"
     },
     {
       "name": "release",
@@ -26,7 +30,7 @@
   "numbers-and-dates": [
     {
       "name": "math.js",
-      "ver": "3.20.2"
+      "ver": "4.0.0"
     },
     {
       "name": "date-fns",
@@ -34,7 +38,7 @@
     },
     {
       "name": "luxon",
-      "ver": "0.4.0"
+      "ver": "0.5.3"
     },
     {
       "name": "accounting.js",
@@ -52,7 +56,7 @@
     },
     {
       "name": "eslint",
-      "ver": "4.17.0"
+      "ver": "4.18.1"
     },
     {
       "name": "yarn",
@@ -64,7 +68,7 @@
     },
     {
       "name": "nodemon",
-      "ver": "1.14.12"
+      "ver": "1.15.1"
     }
   ],
   "cross-local-packages": [
@@ -82,7 +86,7 @@
     },
     {
       "name": "lint-staged",
-      "ver": "6.1.0"
+      "ver": "7.0.0"
     },
     {
       "name": "husky",
@@ -98,7 +102,7 @@
     },
     {
       "name": "xo",
-      "ver": "0.18.2"
+      "ver": "0.20.3"
     }
   ],
   "frontend-local-packages": [
@@ -112,7 +116,7 @@
     },
     {
       "name": "react-redux",
-      "ver": "5.0.6"
+      "ver": "5.0.7"
     },
     {
       "name": "redux-form",
@@ -132,7 +136,7 @@
     },
     {
       "name": "gatsby",
-      "ver": "1.9.5"
+      "ver": "2.0.0"
     },
     {
       "name": "localForage",
@@ -146,7 +150,7 @@
   "backend-local-packages": [
     {
       "name": "prisma",
-      "ver": "1.0.0"
+      "ver": "1.2.6"
     },
     {
       "name": "express",
@@ -170,11 +174,11 @@
     },
     {
       "name": "mongoose",
-      "ver": "5.0.4"
+      "ver": "5.0.6"
     },
     {
       "name": "sequelize",
-      "ver": "4.33.2"
+      "ver": "4.33.4"
     },
     {
       "name": "passport",

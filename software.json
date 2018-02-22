@@ -7,10 +7,6 @@
     "name": "Homebrew & Cask",
     "version": "1.5.4"
   },
-  "window-manager": {
-    "name": "Spectacle",
-    "version": "1.2.6"
-  },
   "node-version-manager": {
     "name": "nvm",
     "version": "0.33.8"
@@ -34,9 +30,11 @@
       "uBlock Origin",
       "JSON Viewer",
       "Wappalyzer",
+      "CSS Peeper",
       "PageRuler",
+      "Pesticide",
+      "WhatFont",
       "Octotree",
-      "Momentum",
       "Postman",
       "Imagus",
       "aXe"
@@ -46,17 +44,13 @@
     "name": "Visual Studio Code",
     "ver": "1.20.1",
     "extensions": [
-      "Language Support for Java by Red Hat",
       "Markdown Preview Enhanced",
+      "JavaScript Console Utils",
       "React Redux ES6 Snippets",
-      "VSCode Styled Components",
       "ReactJS Code Snippets",
       "GraphQL for VSCode",
       "React Native Tools",
-      "Clipboard History",
       "Path Intellisense",
-      "vscode-styled-jsx",
-      "Sort JSON Object",
       "HTML CSS Support",
       "npm Intellisense",
       "Auto Rename Tag",
@@ -66,7 +60,6 @@
       "Import Cost",
       "Git History",
       "SVG Viewer",
-      "Can I Use",
       "Stylelint",
       "Prettier",
       "Polacode",
@@ -85,7 +78,7 @@
   },
   "office-suite": {
     "name": "Microsoft Office",
-    "ver": "16.9"
+    "ver": "16.10.18"
   },
   "multimedia-player": {
     "name": "VLC",
@@ -98,10 +91,6 @@
   "torrent-manager": {
     "name": "WebTorrent",
     "ver": "0.19.0"
-  },
-  "productivity": {
-    "name": "Focus",
-    "version": "1.7.1"
   },
   "chat-app": {
     "name": "Slack",
