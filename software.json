@@ -5,7 +5,7 @@
   },
   "package-manager": {
     "name": "Homebrew & Cask",
-    "version": "1.5.4"
+    "version": "1.5.8"
   },
   "node-version-manager": {
     "name": "nvm",
@@ -24,7 +24,7 @@
   },
   "primary-web-browser": {
     "name": "Google Chrome",
-    "ver": "64.0.3282",
+    "ver": "65.0.3325.146",
     "extensions": [
       "React Developer Tools",
       "uBlock Origin",
@@ -42,7 +42,7 @@
   },
   "code-editor": {
     "name": "Visual Studio Code",
-    "ver": "1.20.1",
+    "ver": "1.21.0",
     "extensions": [
       "Markdown Preview Enhanced",
       "JavaScript Console Utils",
@@ -74,7 +74,7 @@
   },
   "design-tool": {
     "name": "Sketch",
-    "ver": "47.0"
+    "ver": "49.0"
   },
   "office-suite": {
     "name": "Microsoft Office",
@@ -82,7 +82,7 @@
   },
   "multimedia-player": {
     "name": "VLC",
-    "ver": "3.0.0"
+    "ver": "3.0.1"
   },
   "music-player": {
     "name": "iTunes",
