@@ -19,7 +19,7 @@
 
   // HTML
   "html.format.indentInnerHtml": true,
-  "html.format.wrapAttributes": "force-aligned",
+  // "html.format.wrapAttributes": "force-aligned",
 
   // Type Checking
   "javascript.implicitProjectConfig.checkJs": true,
@@ -33,6 +33,9 @@
   // Left Explorer
   "explorer.sortOrder": "type",
   "explorer.confirmDragAndDrop": false,
+
+  // Zen Mode
+  "zenMode.centerLayout": false,
 
   // Emmet
   "emmet.syntaxProfiles": {
@@ -83,12 +86,11 @@
   "files.insertFinalNewline": true,
   "files.trimTrailingWhitespace": true,
 
-
   // Search Exclusion
   "search.exclude": {
     "**/tmp": true,
     "**/ios": true,
-    "**/.git": true,
+    "**/.git": true
     // "**/android": true,
     // "**/node_modules": true
   },
@@ -109,7 +111,8 @@
   // Terminal Customization
   "terminal.integrated.fontSize": 20,
   "terminal.integrated.shell.osx": "/bin/zsh",
-  "terminal.integrated.fontFamily": "Operator Mono",
+  "terminal.integrated.copyOnSelection": true,
+  "terminal.integrated.fontFamily": "Operator Mono Lig",
   "workbench.colorCustomizations": {
     "terminal.foreground": "#eff0eb",
     "terminal.ansiBlack": "#282a36",
@@ -128,5 +131,5 @@
     "terminal.ansiBrightMagenta": "#ff6ac1",
     "terminal.ansiBrightCyan": "#9aedfe",
     "terminal.ansiBrightWhite": "#eff0eb"
-  },
+  }
 }
