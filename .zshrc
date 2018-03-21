@@ -4,6 +4,7 @@ ZSH_THEME="robbyrussell"
 
 plugins=(
   git
+  yarn-autocompletions
 )
 
 # Add oh-my-zsh and zsh-syntaxx-highlighting
