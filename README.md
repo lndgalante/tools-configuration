@@ -10,6 +10,8 @@
 
 * [dotfiles - Mathias Bynens](https://github.com/mathiasbynens/dotfiles)
 
+* [Snazzy Labs - Tips and Tutorials](https://www.youtube.com/playlist?list=PLRG_ZSZ22bFLQ2CRNTTKgqxu3m0lGwnzp)
+
 ## Visual Studio Code
 
 * [VSCode Tips and Tricks - Microsoft](https://github.com/Microsoft/vscode-tips-and-tricks)
