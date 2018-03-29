@@ -114,7 +114,11 @@
   },
   "gif-recorder": {
     "name": "kap",
-    "ver": "2.0.0"
+    "ver": "2.1.1"
+  },
+  "monitor": {
+    "name": "BetterSnapTool",
+    "ver": "1.8.0"
   },
   "wifi-password": {
     "name": "wifi-password",
