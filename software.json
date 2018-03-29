@@ -5,7 +5,7 @@
   },
   "package-manager": {
     "name": "Homebrew & Cask",
-    "version": "1.5.8"
+    "version": "1.5.13"
   },
   "node-version-manager": {
     "name": "nvm",
@@ -24,7 +24,7 @@
   },
   "primary-web-browser": {
     "name": "Google Chrome",
-    "ver": "65.0.3325.146",
+    "ver": "65.0.3325.181",
     "extensions": [
       "React Developer Tools",
       "uBlock Origin",
@@ -42,7 +42,7 @@
   },
   "code-editor": {
     "name": "Visual Studio Code",
-    "ver": "1.21.0",
+    "ver": "1.21.1",
     "extensions": [
       "Markdown Preview Enhanced",
       "JavaScript Console Utils",
@@ -78,7 +78,7 @@
   },
   "office-suite": {
     "name": "Microsoft Office",
-    "ver": "16.10.18"
+    "ver": "16.11.18"
   },
   "multimedia-player": {
     "name": "VLC",
@@ -94,7 +94,7 @@
   },
   "chat-app": {
     "name": "Slack",
-    "ver": "3.0.5"
+    "ver": "3.1.0"
   },
   "cleaner": {
     "name": "Ccleaner",
@@ -106,11 +106,11 @@
   },
   "usb-formatter": {
     "name": "Etcher",
-    "ver": "1.1.2"
+    "ver": "1.3.1"
   },
   "decompress": {
     "name": "The Unrarchiver",
-    "ver": "3.11.3"
+    "ver": "3.11.5"
   },
   "gif-recorder": {
     "name": "kap",

@@ -89,9 +89,7 @@
   // Search Exclusion
   "search.exclude": {
     "**/tmp": true,
-    "**/ios": true,
     "**/.git": true
-    // "**/android": true,
     // "**/node_modules": true
   },
 
