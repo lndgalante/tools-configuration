@@ -4,7 +4,7 @@
 
   // Editor
   "editor.tabSize": 2,
-  "editor.fontSize": 24,
+  "editor.fontSize": 22,
   "editor.lineHeight": 35,
   "editor.rulers": [80, 120],
   "editor.fontWeight": "500",
@@ -19,16 +19,19 @@
 
   // HTML
   "html.format.indentInnerHtml": true,
-  // "html.format.wrapAttributes": "force-aligned",
-
-  // Type Checking
-  "javascript.implicitProjectConfig.checkJs": true,
-
-  // Touchbar
-  "keyboard.touchbar.enabled": false,
+  "html.format.wrapAttributes": "force-aligned",
 
   // CSS - StyleLint
   "stylelint.enable": true,
+
+  // JS - Type Checking
+  "javascript.implicitProjectConfig.checkJs": true,
+
+  // JSON
+  "json.format.enable": false,
+
+  // Touchbar
+  "keyboard.touchbar.enabled": false,
 
   // Left Explorer
   "explorer.sortOrder": "type",
@@ -52,6 +55,7 @@
   // ESlint
   "eslint.enable": true,
   "eslint.autoFixOnSave": true,
+  "eslint.packageManager": "yarn",
   "eslint.alwaysShowStatus": true,
   "eslint.validate": ["javascript", "javascriptreact"],
   "eslint.options": {
@@ -66,9 +70,6 @@
   "prettier.trailingComma": "es5",
   "prettier.bracketSpacing": true,
   "prettier.eslintIntegration": true,
-
-  // JSON
-  "json.format.enable": false,
 
   // Material Theme
   "materialTheme.cache.workbench.settings": {
@@ -89,7 +90,9 @@
   // Search Exclusion
   "search.exclude": {
     "**/tmp": true,
+    "**/ios": true,
     "**/.git": true
+    // "**/android": true,
     // "**/node_modules": true
   },
 

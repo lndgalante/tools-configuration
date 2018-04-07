@@ -2,7 +2,7 @@
   "developer-tools": [
     {
       "name": "Node.js",
-      "ver": "9.10.0"
+      "ver": "9.11.1"
     },
     {
       "name": "MongoDB Compass",
@@ -10,7 +10,7 @@
     },
     {
       "name": "Git",
-      "ver": "2.16.3"
+      "ver": "2.17.0"
     },
     {
       "name": "Git Flow",
@@ -30,7 +30,7 @@
   "numbers-and-dates": [
     {
       "name": "math.js",
-      "ver": "4.0.0"
+      "ver": "4.0.1"
     },
     {
       "name": "date-fns",
@@ -52,7 +52,7 @@
   "global-npm-packages": [
     {
       "name": "now",
-      "ver": "10.2.2"
+      "ver": "12.0.0"
     },
     {
       "name": "eslint",
@@ -68,13 +68,13 @@
     },
     {
       "name": "nodemon",
-      "ver": "1.17.2"
+      "ver": "1.17.3"
     }
   ],
   "cross-local-packages": [
     {
       "name": "lodash",
-      "ver": "4.17.5"
+      "ver": "4.17.8"
     },
     {
       "name": "ramda",
@@ -86,7 +86,7 @@
     },
     {
       "name": "lint-staged",
-      "ver": "7.0.0"
+      "ver": "7.0.4"
     },
     {
       "name": "husky",
@@ -108,7 +108,7 @@
   "frontend-local-packages": [
     {
       "name": "react",
-      "ver": "16.3.0"
+      "ver": "16.3.1"
     },
     {
       "name": "redux",
@@ -117,10 +117,6 @@
     {
       "name": "react-redux",
       "ver": "5.0.7"
-    },
-    {
-      "name": "redux-form",
-      "ver": "7.3.0"
     },
     {
       "name": "reselect",
@@ -140,7 +136,7 @@
     },
     {
       "name": "localForage",
-      "ver": "1.6.0"
+      "ver": "1.7.1"
     },
     {
       "name": "realm",
@@ -150,7 +146,7 @@
   "backend-local-packages": [
     {
       "name": "prisma",
-      "ver": "1.5.1"
+      "ver": "1.5.3"
     },
     {
       "name": "express",
@@ -174,11 +170,11 @@
     },
     {
       "name": "mongoose",
-      "ver": "5.0.12"
+      "ver": "5.0.13"
     },
     {
       "name": "sequelize",
-      "ver": "4.37.5"
+      "ver": "4.37.6"
     },
     {
       "name": "passport",
