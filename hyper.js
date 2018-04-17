@@ -4,11 +4,13 @@
 
 module.exports = {
   config: {
+    updateChannel: "stable",
+
     // default font size in pixels for all tabs
     fontSize: 18,
 
     // font family with optional fallbacks
-    fontFamily: 'Operator Mono',
+    fontFamily: 'Operator Mono Lig',
 
     // terminal cursor background color and opacity (hex, rgb, hsl, hsv, hwb or cmyk)
     cursorColor: 'rgba(248,28,229,0.8)',
@@ -107,9 +109,10 @@ module.exports = {
   plugins: [
     'hyper-snazzy',
     'hypercwd',
-    'hyperlinks',
     'hyper-statusline',
     'hyperterm-overlay',
+    'hyper-search',
+    'hyper-pane',
   ],
 
   // in development, you can create a directory under
