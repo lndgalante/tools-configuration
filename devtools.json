@@ -24,13 +24,13 @@
     },
     {
       "name": "release",
-      "ver": "3.1.7"
+      "ver": "4.0.0"
     }
   ],
   "numbers-and-dates": [
     {
       "name": "math.js",
-      "ver": "4.0.1"
+      "ver": "4.1.2"
     },
     {
       "name": "date-fns",
@@ -38,7 +38,7 @@
     },
     {
       "name": "luxon",
-      "ver": "1.0.0"
+      "ver": "1.1.0"
     },
     {
       "name": "accounting.js",
@@ -56,11 +56,11 @@
     },
     {
       "name": "eslint",
-      "ver": "4.19.1"
+      "ver": "5.0.0"
     },
     {
       "name": "yarn",
-      "ver": "1.5.1"
+      "ver": "1.6.0"
     },
     {
       "name": "firebase-tools",
@@ -90,11 +90,11 @@
     },
     {
       "name": "husky",
-      "ver": "0.15.0"
+      "ver": "1.0.0"
     },
     {
       "name": "prettier",
-      "ver": "1.11.1"
+      "ver": "1.12.1"
     },
     {
       "name": "dotenv",
@@ -108,11 +108,11 @@
   "frontend-local-packages": [
     {
       "name": "react",
-      "ver": "16.3.1"
+      "ver": "16.3.2"
     },
     {
       "name": "redux",
-      "ver": "3.7.2"
+      "ver": "4.0.0"
     },
     {
       "name": "react-redux",
@@ -146,7 +146,7 @@
   "backend-local-packages": [
     {
       "name": "prisma",
-      "ver": "1.5.3"
+      "ver": "1.6.3"
     },
     {
       "name": "express",
@@ -170,7 +170,7 @@
     },
     {
       "name": "mongoose",
-      "ver": "5.0.13"
+      "ver": "5.0.16"
     },
     {
       "name": "sequelize",
@@ -182,7 +182,7 @@
     },
     {
       "name": "micro",
-      "ver": "9.1.4"
+      "ver": "9.2.0"
     },
     {
       "name": "json-server",
