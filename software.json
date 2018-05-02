@@ -9,7 +9,7 @@
   },
   "node-version-manager": {
     "name": "nvm",
-    "version": "0.33.9"
+    "version": "0.33.11"
   },
   "terminal": {
     "syntax-color": "zsh-syntax-highlighting",
@@ -24,13 +24,14 @@
   },
   "primary-web-browser": {
     "name": "Google Chrome",
-    "ver": "66.0.3359.117",
+    "ver": "66.0.3359.139",
     "extensions": [
       "React Developer Tools",
       "uBlock Origin",
       "JSON Viewer",
       "Wappalyzer",
       "CSS Peeper",
+      "Dimensions",
       "PageRuler",
       "Pesticide",
       "WhatFont",
@@ -90,7 +91,7 @@
   },
   "torrent-manager": {
     "name": "WebTorrent",
-    "ver": "0.19.0"
+    "ver": "0.20.0"
   },
   "chat-app": {
     "name": "Slack",
@@ -106,7 +107,7 @@
   },
   "usb-formatter": {
     "name": "Etcher",
-    "ver": "1.4.3"
+    "ver": "1.4.4"
   },
   "decompress": {
     "name": "The Unrarchiver",

@@ -45,7 +45,10 @@
     "javascript": "jsx"
   },
   "emmet.includeLanguages": {
-    "javascript": "javascriptreact"
+    "javascript": "javascriptreact",
+    "xml": {
+      "attr_quotes": "single"
+    }
   },
   "emmet.triggerExpansionOnTab": true,
 

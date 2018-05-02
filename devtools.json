@@ -2,7 +2,7 @@
   "developer-tools": [
     {
       "name": "Node.js",
-      "ver": "9.11.1"
+      "ver": "10.0.0"
     },
     {
       "name": "MongoDB Compass",
@@ -30,7 +30,7 @@
   "numbers-and-dates": [
     {
       "name": "math.js",
-      "ver": "4.1.2"
+      "ver": "4.2.1"
     },
     {
       "name": "date-fns",
@@ -38,7 +38,7 @@
     },
     {
       "name": "luxon",
-      "ver": "1.1.0"
+      "ver": "1.2.0"
     },
     {
       "name": "accounting.js",
@@ -74,7 +74,7 @@
   "cross-local-packages": [
     {
       "name": "lodash",
-      "ver": "4.17.8"
+      "ver": "4.17.10"
     },
     {
       "name": "ramda",
@@ -86,7 +86,7 @@
     },
     {
       "name": "lint-staged",
-      "ver": "7.0.4"
+      "ver": "7.0.5"
     },
     {
       "name": "husky",
@@ -128,7 +128,7 @@
     },
     {
       "name": "next",
-      "ver": "5.1.0"
+      "ver": "6.0.0"
     },
     {
       "name": "gatsby",
@@ -140,13 +140,13 @@
     },
     {
       "name": "realm",
-      "ver": "2.3.3"
+      "ver": "2.4.0"
     }
   ],
   "backend-local-packages": [
     {
       "name": "prisma",
-      "ver": "1.6.3"
+      "ver": "1.7.4"
     },
     {
       "name": "express",
@@ -170,7 +170,7 @@
     },
     {
       "name": "mongoose",
-      "ver": "5.0.16"
+      "ver": "5.0.17"
     },
     {
       "name": "sequelize",
@@ -182,11 +182,11 @@
     },
     {
       "name": "micro",
-      "ver": "9.2.0"
+      "ver": "9.3.0"
     },
     {
       "name": "json-server",
-      "ver": "0.12.1"
+      "ver": "0.12.2"
     }
   ]
 }
