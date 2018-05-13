@@ -2,11 +2,11 @@
   "developer-tools": [
     {
       "name": "Node.js",
-      "ver": "10.0.0"
+      "ver": "10.1.0"
     },
     {
       "name": "MongoDB Compass",
-      "ver": "1.13.0"
+      "ver": "1.14.0"
     },
     {
       "name": "Git",
@@ -30,7 +30,7 @@
   "numbers-and-dates": [
     {
       "name": "math.js",
-      "ver": "4.2.1"
+      "ver": "4.2.2"
     },
     {
       "name": "date-fns",
@@ -68,7 +68,7 @@
     },
     {
       "name": "nodemon",
-      "ver": "1.17.3"
+      "ver": "1.17.4"
     }
   ],
   "cross-local-packages": [
@@ -86,7 +86,7 @@
     },
     {
       "name": "lint-staged",
-      "ver": "7.0.5"
+      "ver": "7.1.0"
     },
     {
       "name": "husky",
@@ -128,7 +128,7 @@
     },
     {
       "name": "next",
-      "ver": "6.0.0"
+      "ver": "6.0.2"
     },
     {
       "name": "gatsby",
@@ -146,7 +146,7 @@
   "backend-local-packages": [
     {
       "name": "prisma",
-      "ver": "1.7.4"
+      "ver": "1.9.7"
     },
     {
       "name": "express",
@@ -170,7 +170,7 @@
     },
     {
       "name": "mongoose",
-      "ver": "5.0.17"
+      "ver": "5.1.0"
     },
     {
       "name": "sequelize",
