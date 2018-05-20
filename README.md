@@ -18,9 +18,7 @@
 
 * [VSCode can do that - Burke Holland](http://vscodecandothat.com)
 
-* [Operator Mono with Ligatures - Kiliman](https://github.com/kiliman/operator-mono-lig)
-
-* [Fonts for your editor - Powerline](https://github.com/powerline/fonts)
+* [My Visual Studio Code Setup - Nick Taylor](https://www.iamdeveloper.com/my-visual-studio-code-setup)
 
 ## Terminal
 

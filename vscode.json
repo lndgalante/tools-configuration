@@ -1,25 +1,25 @@
 {
   // Window
-  "window.zoomLevel": -0.6,
+  "window.zoomLevel": -0.8,
+
+  // Font
+  "editor.fontSize": 20,
+  "editor.fontWeight": "500",
+  "editor.fontLigatures": true,
+  "editor.fontFamily": "Fira Code",
 
   // Editor
   "editor.tabSize": 2,
-  "editor.fontSize": 22,
-  "editor.lineHeight": 35,
   "editor.rulers": [80, 120],
-  "editor.fontWeight": "500",
   "editor.formatOnSave": true,
-  "editor.letterSpacing": 0.5,
-  "editor.fontLigatures": true,
   "editor.minimap.enabled": false,
   "editor.cursorBlinking": "phase",
   "editor.snippetSuggestions": "top",
   "editor.scrollBeyondLastLine": true,
-  "editor.fontFamily": "Operator Mono Lig",
 
   // HTML
-  "html.format.indentInnerHtml": true,
-  "html.format.wrapAttributes": "force-aligned",
+  "html.format.indentInnerHtml": false,
+  "html.format.wrapAttributes": "auto",
 
   // CSS - StyleLint
   "stylelint.enable": true,
@@ -61,9 +61,6 @@
   "eslint.packageManager": "yarn",
   "eslint.alwaysShowStatus": true,
   "eslint.validate": ["javascript", "javascriptreact"],
-  "eslint.options": {
-    "configFile": "/Users/leo/.eslintrc"
-  },
 
   // Prettier
   "prettier.semi": false,
@@ -93,7 +90,7 @@
   // Search Exclusion
   "search.exclude": {
     "**/tmp": true,
-    "**/ios": true,
+    // "**/ios": false,
     "**/.git": true
     // "**/android": true,
     // "**/node_modules": true
@@ -109,14 +106,14 @@
   "workbench.startupEditor": "none",
   "workbench.editor.tabSizing": "shrink",
   "workbench.fontAliasing": "antialiased",
-  "workbench.colorTheme": "Material Theme",
+  "workbench.colorTheme": "Material Theme Palenight",
   "workbench.iconTheme": "eq-material-theme-icons",
 
   // Terminal Customization
-  "terminal.integrated.fontSize": 20,
+  "terminal.integrated.fontSize": 18,
   "terminal.integrated.shell.osx": "/bin/zsh",
   "terminal.integrated.copyOnSelection": true,
-  "terminal.integrated.fontFamily": "Operator Mono Lig",
+  "terminal.integrated.fontFamily": "Fira Code",
   "workbench.colorCustomizations": {
     "terminal.foreground": "#eff0eb",
     "terminal.ansiBlack": "#282a36",
@@ -135,5 +132,5 @@
     "terminal.ansiBrightMagenta": "#ff6ac1",
     "terminal.ansiBrightCyan": "#9aedfe",
     "terminal.ansiBrightWhite": "#eff0eb"
-  }
+  },
 }

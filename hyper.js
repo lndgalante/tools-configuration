@@ -1,16 +1,12 @@
-// Future versions of Hyper may add additional config options,
-// which will not automatically be merged into this file.
-// See https://hyper.is#cfg for all currently supported options.
-
 module.exports = {
   config: {
-    updateChannel: "stable",
+    updateChannel: 'stable',
 
     // default font size in pixels for all tabs
-    fontSize: 18,
+    fontSize: 16,
 
     // font family with optional fallbacks
-    fontFamily: 'Operator Mono Lig',
+    fontFamily: 'Fira Code',
 
     // terminal cursor background color and opacity (hex, rgb, hsl, hsv, hwb or cmyk)
     cursorColor: 'rgba(248,28,229,0.8)',

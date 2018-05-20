@@ -24,20 +24,20 @@
   },
   "primary-web-browser": {
     "name": "Google Chrome",
-    "ver": "66.0.3359.170",
+    "ver": "66.0.3359.181",
     "extensions": [
       "React Developer Tools",
       "Refined GitHub",
+      "Magic Enhancer",
       "uBlock Origin",
       "JSON Viewer",
       "Wappalyzer",
       "CSS Peeper",
       "Dimensions",
+      "Extensity",
       "PageRuler",
-      "Pesticide",
       "WhatFont",
       "Octotree",
-      "Postman",
       "Imagus",
       "aXe"
     ]
@@ -46,10 +46,9 @@
     "name": "Visual Studio Code",
     "ver": "1.23.1",
     "extensions": [
+      "React-Native/React/Redux Snippets",
       "Markdown Preview Enhanced",
       "JavaScript Console Utils",
-      "React Redux ES6 Snippets",
-      "ReactJS Code Snippets",
       "GraphQL for VSCode",
       "React Native Tools",
       "Path Intellisense",
@@ -67,12 +66,11 @@
       "Polacode",
       "ESLint",
       "Quokka",
-      "DotENV",
-      "Go"
+      "DotENV"
     ],
     "color-theme": "Material Theme (vsc-material-theme)",
     "icon-theme": "Material Theme Icons",
-    "font": "Operator Mono Ligatures"
+    "font": "Fira Code"
   },
   "design-tool": {
     "name": "Sketch",
