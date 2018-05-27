@@ -5,7 +5,7 @@
   },
   "package-manager": {
     "name": "Homebrew & Cask",
-    "version": "1.6.3"
+    "version": "1.6.6"
   },
   "node-version-manager": {
     "name": "nvm",
@@ -100,7 +100,7 @@
   },
   "cleaner": {
     "name": "Ccleaner",
-    "ver": "1.14.451"
+    "ver": "1.15.507"
   },
   "ntfs-reader": {
     "name": "Mounty",
@@ -112,11 +112,11 @@
   },
   "decompress": {
     "name": "The Unrarchiver",
-    "ver": "3.11.5"
+    "ver": "3.11.6"
   },
   "gif-recorder": {
     "name": "kap",
-    "ver": "2.1.2"
+    "ver": "2.2.0"
   },
   "monitor": {
     "name": "BetterSnapTool",
@@ -126,5 +126,13 @@
     "name": "wifi-password",
     "ver": "0.1.0"
   },
-  "games": ["GZDoom + Brutal Doom", "Super Tux Kart", "Diablo II", "Xonotic", "OpenEmu", "OpenRA", "0 A.D"]
+  "games": [
+    "GZDoom + Brutal Doom",
+    "Super Tux Kart",
+    "Diablo II",
+    "Xonotic",
+    "OpenEmu",
+    "OpenRA",
+    "0 A.D"
+  ]
 }
