@@ -24,7 +24,7 @@
   },
   "primary-web-browser": {
     "name": "Google Chrome",
-    "ver": "66.0.3359.181",
+    "ver": "67.0.3396.62",
     "extensions": [
       "React Developer Tools",
       "Refined GitHub",
@@ -84,7 +84,7 @@
   },
   "multimedia-player": {
     "name": "VLC",
-    "ver": "3.0.2"
+    "ver": "3.0.3"
   },
   "music-player": {
     "name": "iTunes",

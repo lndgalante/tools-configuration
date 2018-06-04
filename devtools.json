@@ -2,7 +2,7 @@
   "developer-tools": [
     {
       "name": "Node.js",
-      "ver": "10.2.1"
+      "ver": "10.3.0"
     },
     {
       "name": "MongoDB Compass",
@@ -10,7 +10,7 @@
     },
     {
       "name": "Git",
-      "ver": "2.17.0"
+      "ver": "2.17.1"
     },
     {
       "name": "Git Flow",
@@ -20,7 +20,7 @@
   "oss-managament": [
     {
       "name": "np",
-      "ver": "3.0.0"
+      "ver": "3.0.2"
     },
     {
       "name": "release",
@@ -30,7 +30,7 @@
   "numbers-and-dates": [
     {
       "name": "math.js",
-      "ver": "4.3.0"
+      "ver": "4.4.2"
     },
     {
       "name": "date-fns",
@@ -94,11 +94,11 @@
     },
     {
       "name": "prettier",
-      "ver": "1.13.0"
+      "ver": "1.13.4"
     },
     {
       "name": "dotenv",
-      "ver": "5.0.1"
+      "ver": "6.0.0"
     },
     {
       "name": "xo",
@@ -182,7 +182,7 @@
     },
     {
       "name": "micro",
-      "ver": "9.3.1"
+      "ver": "9.3.2"
     },
     {
       "name": "json-server",
