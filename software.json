@@ -46,7 +46,7 @@
     "name": "Visual Studio Code",
     "ver": "1.23.1",
     "extensions": [
-      "React-Native/React/Redux Snippets",
+      "ES7 React/Redux/React-Native/JS snippets",
       "Markdown Preview Enhanced",
       "JavaScript Console Utils",
       "GraphQL for VSCode",

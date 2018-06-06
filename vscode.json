@@ -52,8 +52,14 @@
   },
   "emmet.triggerExpansionOnTab": true,
 
+  // Telemetry
+  "telemetry.enableTelemetry": false,
+
   // Git
   "git.enableSmartCommit": true,
+
+  //  NPM
+  "npm.enableScriptExplorer": true,
 
   // ESlint
   "eslint.enable": true,
@@ -69,7 +75,7 @@
   "prettier.singleQuote": true,
   "prettier.trailingComma": "es5",
   "prettier.bracketSpacing": true,
-  "prettier.eslintIntegration": true,
+  // "prettier.eslintIntegration": true,
 
   // Material Theme
   "materialTheme.cache.workbench.settings": {
@@ -97,6 +103,7 @@
   },
 
   // Show path on top
+  "window.clickThroughInactive": false,
   "window.title": "${dirty} ${activeEditorMedium}${separator}${rootName}",
 
   // Extensions
@@ -106,7 +113,7 @@
   "workbench.startupEditor": "none",
   "workbench.editor.tabSizing": "shrink",
   "workbench.fontAliasing": "antialiased",
-  "workbench.colorTheme": "Material Theme Palenight",
+  "workbench.colorTheme": "Material Theme Ocean",
   "workbench.iconTheme": "eq-material-theme-icons",
 
   // Terminal Customization
@@ -133,4 +140,8 @@
     "terminal.ansiBrightCyan": "#9aedfe",
     "terminal.ansiBrightWhite": "#eff0eb"
   },
+  "gitlens.advanced.messages": {
+    "suppressShowKeyBindingsNotice": true
+  },
+  "gitlens.historyExplorer.enabled": true,
 }
