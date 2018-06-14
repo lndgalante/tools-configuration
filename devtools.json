@@ -2,7 +2,7 @@
   "developer-tools": [
     {
       "name": "Node.js",
-      "ver": "10.3.0"
+      "ver": "10.4.1e"
     },
     {
       "name": "MongoDB Compass",
@@ -20,7 +20,7 @@
   "oss-managament": [
     {
       "name": "np",
-      "ver": "3.0.2"
+      "ver": "3.0.4"
     },
     {
       "name": "release",
@@ -33,12 +33,13 @@
       "ver": "4.4.2"
     },
     {
-      "name": "date-fns",
-      "ver": "2.0.0"
+      "name": "day.js",
+      "ver": "1.6.9"
     },
+    ,
     {
-      "name": "luxon",
-      "ver": "1.2.1"
+      "name": "dinero.js",
+      "ver": "1.4.0"
     },
     {
       "name": "accounting.js",
@@ -94,7 +95,7 @@
     },
     {
       "name": "prettier",
-      "ver": "1.13.4"
+      "ver": "1.13.5"
     },
     {
       "name": "dotenv",
@@ -108,7 +109,7 @@
   "frontend-local-packages": [
     {
       "name": "react",
-      "ver": "16.4.0"
+      "ver": "16.4.1"
     },
     {
       "name": "redux",
