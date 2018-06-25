@@ -92,6 +92,7 @@
   },
   "files.insertFinalNewline": true,
   "files.trimTrailingWhitespace": true,
+  "files.useExperimentalFileWatcher": true,
 
   // Search Exclusion
   "search.exclude": {
@@ -143,5 +144,5 @@
   "gitlens.advanced.messages": {
     "suppressShowKeyBindingsNotice": true
   },
-  "gitlens.historyExplorer.enabled": true,
+  "gitlens.historyExplorer.enabled": true
 }
