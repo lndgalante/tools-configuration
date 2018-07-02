@@ -81,8 +81,8 @@
     "ver": "50.0"
   },
   "office-suite": {
-    "name": "Microsoft Office",
-    "ver": "16.12.18"
+    "name": "Keynote / Pages / Numbers",
+    "ver": "8.1 / 7.1 / 5.1"
   },
   "multimedia-player": {
     "name": "VLC",
@@ -128,13 +128,5 @@
     "name": "wifi-password",
     "ver": "0.1.0"
   },
-  "games": [
-    "GZDoom + Brutal Doom",
-    "Super Tux Kart",
-    "Diablo II",
-    "Xonotic",
-    "OpenEmu",
-    "OpenRA",
-    "0 A.D"
-  ]
+  "games": ["GZDoom + Brutal Doom", "Super Tux Kart", "Diablo II", "Xonotic", "OpenEmu", "OpenRA", "0 A.D"]
 }
