@@ -5,7 +5,7 @@
   },
   "package-manager": {
     "name": "Homebrew & Cask",
-    "version": "1.6.8"
+    "version": "1.6.9"
   },
   "node-version-manager": {
     "name": "nvm",
@@ -24,7 +24,7 @@
   },
   "primary-web-browser": {
     "name": "Google Chrome",
-    "ver": "67.0.3396.62",
+    "ver": "67.0.3396.99",
     "extensions": [
       "React Developer Tools",
       "Refined GitHub",

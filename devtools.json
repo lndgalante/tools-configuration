@@ -2,11 +2,11 @@
   "developer-tools": [
     {
       "name": "Node.js",
-      "ver": "10.4.1e"
+      "ver": "10.5.0"
     },
     {
       "name": "MongoDB Compass",
-      "ver": "1.14.0"
+      "ver": "1.14.5"
     },
     {
       "name": "Git",
@@ -30,11 +30,11 @@
   "numbers-and-dates": [
     {
       "name": "math.js",
-      "ver": "4.4.2"
+      "ver": "5.0.1"
     },
     {
       "name": "day.js",
-      "ver": "1.6.9"
+      "ver": "1.7.0"
     },
     ,
     {
@@ -95,7 +95,7 @@
     },
     {
       "name": "prettier",
-      "ver": "1.13.5"
+      "ver": "1.13.7"
     },
     {
       "name": "dotenv",
@@ -129,7 +129,7 @@
     },
     {
       "name": "next",
-      "ver": "6.0.3"
+      "ver": "6.1.1"
     },
     {
       "name": "gatsby",
@@ -137,7 +137,7 @@
     },
     {
       "name": "localForage",
-      "ver": "1.7.1"
+      "ver": "1.7.2"
     },
     {
       "name": "realm",
@@ -147,7 +147,7 @@
   "backend-local-packages": [
     {
       "name": "prisma",
-      "ver": "1.9.7"
+      "ver": "1.10.2"
     },
     {
       "name": "express",
@@ -163,15 +163,15 @@
     },
     {
       "name": "redis",
-      "ver": "4.0.9"
+      "ver": "4.0.10"
     },
     {
       "name": "mongo",
-      "ver": "3.6.3"
+      "ver": "4.0.0"
     },
     {
       "name": "mongoose",
-      "ver": "5.1.2"
+      "ver": "5.1.7"
     },
     {
       "name": "sequelize",
@@ -187,7 +187,7 @@
     },
     {
       "name": "json-server",
-      "ver": "0.12.2"
+      "ver": "0.14.0"
     }
   ]
 }
