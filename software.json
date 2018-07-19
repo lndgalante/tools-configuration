@@ -5,7 +5,7 @@
   },
   "package-manager": {
     "name": "Homebrew & Cask",
-    "version": "1.6.9"
+    "version": "1.7.0"
   },
   "node-version-manager": {
     "name": "nvm",
@@ -42,91 +42,104 @@
       "aXe"
     ]
   },
-  "code-editor": {
+  "Code editor": {
     "name": "Visual Studio Code",
-    "ver": "1.24.1",
-    "extensions": [
-      "ES7 React/Redux/React-Native/JS snippets",
-      "Node.js Modules Intellisense",
-      "Markdown Preview Enhanced",
-      "JavaScript Console Utils",
-      "React Native Tools",
-      "GraphQL for VSCode",
-      "Path Intellisense",
-      "HTML CSS Support",
-      "Auto Rename Tag",
-      "VSCode Spotiy",
-      "VSCode Faker",
-      "EditorConfig",
-      "Version Lens",
-      "Live Server",
-      "Git History",
-      "Import Cost",
-      "Sort Lines",
-      "SVG Viewer",
-      "Stylelint",
-      "Prettier",
-      "Git Lens",
-      "Polacode",
-      "Quokka",
-      "ESLint",
-      "DotENV"
-    ],
-    "color-theme": "Material Theme (vsc-material-theme)",
+    "ver": "1.25.1",
+    "extensions": {
+      "HTML": [
+        "cdnjs",
+        "HTMLHint",
+        "Auto Close Tag",
+        "Auto Rename Tag",
+        "Live Server"
+      ],
+      "CSS": ["Stylelint", "HTML CSS Support"],
+      "React": [
+        "ES7 React/Redux/React-Native/JS snippets",
+        "React Native Tools"
+      ],
+      "Git": ["Git Lens", "Git History"],
+      "Node.js": [
+        "Quokka",
+        "Import Cost",
+        "Version Lens",
+        "JavaScript Console Utils",
+        "Node.js Modules Intellisense"
+      ],
+      "Utils": [
+        "ESLint",
+        "Prettier",
+        "Polacode",
+        "Sort Lines",
+        "SVG Viewer",
+        "TODO Highlight",
+        "Code Spell Checker",
+        "Markdown Preview Enhanced"
+      ]
+    },
     "icon-theme": "Material Theme Icons",
+    "color-theme": "Material Theme",
     "font": "Fira Code"
   },
-  "design-tool": {
-    "name": "Sketch",
-    "ver": "50.0"
+  "Design Tool": {
+    "name": "Figma",
+    "ver": "Online"
   },
-  "office-suite": {
+  "Office Suite": {
     "name": "Keynote / Pages / Numbers",
     "ver": "8.1 / 7.1 / 5.1"
   },
-  "multimedia-player": {
+  "Multimedia Player": {
     "name": "VLC",
     "ver": "3.0.3"
   },
-  "music-player": {
-    "name": "iTunes",
+  "Music Player": {
+    "name": "Spotify",
     "ver": "12.7.4"
   },
-  "torrent-manager": {
+  "Torrent Manager": {
     "name": "WebTorrent",
     "ver": "0.20.0"
   },
-  "chat-app": {
+  "Chat": {
     "name": "Slack",
     "ver": "3.2.0"
   },
-  "cleaner": {
+  "Cleaner": {
     "name": "Ccleaner",
     "ver": "1.15.507"
   },
-  "ntfs-reader": {
+  "NTFS": {
     "name": "Mounty",
     "ver": "1.7.0"
   },
-  "usb-formatter": {
+  "USB Formatter": {
     "name": "Etcher",
     "ver": "1.4.4"
   },
-  "decompress": {
+  "Compress Tool": {
     "name": "The Unrarchiver",
     "ver": "3.11.6"
   },
-  "gif-recorder": {
+  "Gif Recorder": {
     "name": "kap",
     "ver": "2.2.0"
   },
-  "monitor": {
+  "Monitor Tool": {
     "name": "BetterSnapTool",
     "ver": "1.8.0"
   },
-  "wifi-password": {
+  "WiFi Password": {
     "name": "wifi-password",
     "ver": "0.1.0"
   },
-  "games": ["GZDoom + Brutal Doom", "Super Tux Kart", "Diablo II", "Xonotic", "OpenEmu", "OpenRA", "0 A.D"]
+  "Games": [
+    "GZDoom + Brutal Doom",
+    "Super Tux Kart",
+    "Diablo II",
+    "Xonotic",
+    "OpenEmu",
+    "OpenRA",
+    "0 A.D"
+  ]
 }

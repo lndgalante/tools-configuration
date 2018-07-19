@@ -2,15 +2,15 @@
   "developer-tools": [
     {
       "name": "Node.js",
-      "ver": "10.5.0"
+      "ver": "10.7.0"
     },
     {
       "name": "MongoDB Compass",
-      "ver": "1.14.5"
+      "ver": "1.15.0"
     },
     {
       "name": "Git",
-      "ver": "2.17.1"
+      "ver": "2.18.0"
     },
     {
       "name": "Git Flow",
@@ -30,13 +30,12 @@
   "numbers-and-dates": [
     {
       "name": "math.js",
-      "ver": "5.0.1"
+      "ver": "5.0.3"
     },
     {
       "name": "day.js",
-      "ver": "1.7.0"
+      "ver": "1.7.4"
     },
-    ,
     {
       "name": "dinero.js",
       "ver": "1.4.0"
@@ -57,19 +56,15 @@
     },
     {
       "name": "eslint",
-      "ver": "5.0.0"
+      "ver": "5.1.0"
     },
     {
       "name": "yarn",
       "ver": "1.7.0"
     },
     {
-      "name": "firebase-tools",
-      "ver": "3.15.3"
-    },
-    {
       "name": "nodemon",
-      "ver": "1.17.5"
+      "ver": "1.18.3"
     }
   ],
   "cross-local-packages": [
@@ -87,7 +82,7 @@
     },
     {
       "name": "lint-staged",
-      "ver": "7.1.0"
+      "ver": "7.2.0"
     },
     {
       "name": "husky",
@@ -171,11 +166,11 @@
     },
     {
       "name": "mongoose",
-      "ver": "5.1.7"
+      "ver": "5.2.4"
     },
     {
       "name": "sequelize",
-      "ver": "4.37.10"
+      "ver": "4.38.0"
     },
     {
       "name": "passport",
