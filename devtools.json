@@ -90,7 +90,7 @@
     },
     {
       "name": "prettier",
-      "ver": "1.13.7"
+      "ver": "1.14.0"
     },
     {
       "name": "dotenv",
