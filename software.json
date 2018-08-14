@@ -44,19 +44,35 @@
   },
   "Code editor": {
     "name": "Visual Studio Code",
-    "ver": "1.25.1",
+    "ver": "1.26.0",
     "extensions": {
-      "HTML": ["cdnjs", "HTMLHint", "Auto Close Tag", "Auto Rename Tag", "Live Server"],
+      "HTML": [
+        "cdnjs",
+        "HTMLHint",
+        "Live Server",
+        "Auto Close Tag",
+        "Auto Rename Tag"
+      ],
       "CSS": ["Stylelint", "HTML CSS Support"],
-      "React": ["ES7 React/Redux/React-Native/JS snippets", "React Native Tools"],
+      "React": [
+        "React Native Tools",
+        "ES7 React/Redux/React-Native/JS snippets"
+      ],
       "Git": ["Git Lens", "Git History"],
-      "Node.js": ["Quokka", "Import Cost", "Version Lens", "JavaScript Console Utils", "Node.js Modules Intellisense"],
+      "Node.js": [
+        "Quokka",
+        "Import Cost",
+        "Version Lens",
+        "JavaScript Console Utils",
+        "Node.js Modules Intellisense"
+      ],
       "Utils": [
         "ESLint",
         "Prettier",
         "Polacode",
         "Sort Lines",
         "SVG Viewer",
+        "Image Preview",
         "TODO Highlight",
         "Code Spell Checker",
         "Markdown Preview Enhanced"
@@ -118,5 +134,13 @@
     "name": "wifi-password",
     "ver": "0.1.0"
   },
-  "Games": ["GZDoom + Brutal Doom", "Super Tux Kart", "Diablo II + Median XL", "Xonotic", "OpenEmu", "OpenRA", "0 A.D"]
+  "Games": [
+    "GZDoom + Brutal Doom",
+    "Diablo II + Median XL",
+    "Super Tux Kart",
+    "Xonotic",
+    "OpenEmu",
+    "OpenRA",
+    "0 A.D"
+  ]
 }

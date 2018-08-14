@@ -2,7 +2,7 @@
   "developer-tools": [
     {
       "name": "Node.js",
-      "ver": "10.7.0"
+      "ver": "10.8.0"
     },
     {
       "name": "MongoDB Compass",
@@ -11,30 +11,16 @@
     {
       "name": "Git",
       "ver": "2.18.0"
-    },
-    {
-      "name": "Git Flow",
-      "ver": "0.9.0"
-    }
-  ],
-  "oss-managament": [
-    {
-      "name": "np",
-      "ver": "3.0.4"
-    },
-    {
-      "name": "release",
-      "ver": "4.0.0"
     }
   ],
   "numbers-and-dates": [
     {
       "name": "math.js",
-      "ver": "5.0.3"
+      "ver": "5.1.0"
     },
     {
       "name": "day.js",
-      "ver": "1.7.4"
+      "ver": "1.7.5"
     },
     {
       "name": "dinero.js",
@@ -56,11 +42,7 @@
     },
     {
       "name": "eslint",
-      "ver": "5.1.0"
-    },
-    {
-      "name": "yarn",
-      "ver": "1.7.0"
+      "ver": "5.3.0"
     },
     {
       "name": "nodemon",
@@ -82,7 +64,7 @@
     },
     {
       "name": "lint-staged",
-      "ver": "7.2.0"
+      "ver": "7.2.2"
     },
     {
       "name": "husky",
@@ -90,7 +72,7 @@
     },
     {
       "name": "prettier",
-      "ver": "1.14.0"
+      "ver": "1.14.2"
     },
     {
       "name": "dotenv",
@@ -104,7 +86,7 @@
   "frontend-local-packages": [
     {
       "name": "react",
-      "ver": "16.4.1"
+      "ver": "16.4.2"
     },
     {
       "name": "redux",
@@ -142,7 +124,7 @@
   "backend-local-packages": [
     {
       "name": "prisma",
-      "ver": "1.10.2"
+      "ver": "1.13.7"
     },
     {
       "name": "express",
@@ -154,11 +136,11 @@
     },
     {
       "name": "helmet",
-      "ver": "3.12.1"
+      "ver": "3.13.0"
     },
     {
       "name": "redis",
-      "ver": "4.0.10"
+      "ver": "4.0.11"
     },
     {
       "name": "mongo",
@@ -166,7 +148,7 @@
     },
     {
       "name": "mongoose",
-      "ver": "5.2.4"
+      "ver": "5.2.8"
     },
     {
       "name": "sequelize",
@@ -178,7 +160,7 @@
     },
     {
       "name": "micro",
-      "ver": "9.3.2"
+      "ver": "9.3.3"
     },
     {
       "name": "json-server",

@@ -1,9 +1,9 @@
 {
   // Window
-  "window.zoomLevel": -0.8,
+  "window.zoomLevel": 0,
 
   // Font
-  "editor.fontSize": 20,
+  "editor.fontSize": 18,
   "editor.fontWeight": "500",
   "editor.fontLigatures": true,
   "editor.fontFamily": "Fira Code",
@@ -16,6 +16,10 @@
   "editor.cursorBlinking": "phase",
   "editor.snippetSuggestions": "top",
   "editor.scrollBeyondLastLine": true,
+  "editor.selectionHighlight": true,
+
+  // Breadcrumbs
+  "breadcrumbs.enabled": true,
 
   // HTML
   "html.format.indentInnerHtml": false,
@@ -28,7 +32,7 @@
   "javascript.implicitProjectConfig.checkJs": true,
 
   // JSON
-  "json.format.enable": false,
+  "json.format.enable": true,
 
   // Touchbar
   "keyboard.touchbar.enabled": false,
@@ -41,11 +45,7 @@
   "zenMode.centerLayout": false,
 
   // Emmet
-  "emmet.syntaxProfiles": {
-    "javascript": "jsx"
-  },
   "emmet.includeLanguages": {
-    "javascript": "javascriptreact",
     "xml": {
       "attr_quotes": "single"
     }
@@ -76,11 +76,6 @@
   "prettier.trailingComma": "es5",
   "prettier.bracketSpacing": true,
   // "prettier.eslintIntegration": true,
-
-  // Material Theme
-  "materialTheme.cache.workbench.settings": {
-    "themeColours": "Palenight"
-  },
 
   // Files
   "files.exclude": {
@@ -114,11 +109,11 @@
   "workbench.startupEditor": "none",
   "workbench.editor.tabSizing": "shrink",
   "workbench.fontAliasing": "antialiased",
-  "workbench.colorTheme": "Material Theme Ocean",
-  "workbench.iconTheme": "eq-material-theme-icons",
+  "workbench.colorTheme": "Material Theme Palenight",
+  "workbench.iconTheme": "eq-material-theme-icons-palenight",
 
   // Terminal Customization
-  "terminal.integrated.fontSize": 18,
+  "terminal.integrated.fontSize": 16,
   "terminal.integrated.shell.osx": "/bin/zsh",
   "terminal.integrated.copyOnSelection": true,
   "terminal.integrated.fontFamily": "Fira Code",
@@ -143,6 +138,5 @@
   },
   "gitlens.advanced.messages": {
     "suppressShowKeyBindingsNotice": true
-  },
-  "gitlens.historyExplorer.enabled": true
+  }
 }
