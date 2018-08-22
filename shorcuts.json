@@ -44,10 +44,11 @@
     "toggle-hidden-files": "cmd + shift + ."
   },
   "maintenance": {
-    "screenshots":
+    "screenshots": [
       "defaults write com.apple.screencapture location ~/folder-for-screenshots",
-    "disable-screenshot-shadow":
-      "defaults write com.apple.screencapture disable-shadow -bool true",
+      "defaults write com.apple.screencapture type jpg;killall SystemUIServer"
+    ],
+    "disable-screenshot-shadow": "defaults write com.apple.screencapture disable-shadow -bool true",
     "dock": "defaults write com.apple.dock autohide-time-modifier -int 0",
     "git-email": "git config --global user.email lndgalante@gmail.com",
     "git-username": "git config --global user.name lndgalante",

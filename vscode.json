@@ -1,6 +1,6 @@
 {
   // Window
-  "window.zoomLevel": 0,
+  "window.zoomLevel": 0.5,
 
   // Font
   "editor.fontSize": 18,
@@ -46,6 +46,7 @@
 
   // Emmet
   "emmet.includeLanguages": {
+    "javascript": "javascriptreact",
     "xml": {
       "attr_quotes": "single"
     }
@@ -135,8 +136,5 @@
     "terminal.ansiBrightMagenta": "#ff6ac1",
     "terminal.ansiBrightCyan": "#9aedfe",
     "terminal.ansiBrightWhite": "#eff0eb"
-  },
-  "gitlens.advanced.messages": {
-    "suppressShowKeyBindingsNotice": true
   }
 }
