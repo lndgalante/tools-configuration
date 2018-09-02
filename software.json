@@ -46,26 +46,11 @@
     "name": "Visual Studio Code",
     "ver": "1.26.0",
     "extensions": {
-      "HTML": [
-        "cdnjs",
-        "HTMLHint",
-        "Live Server",
-        "Auto Close Tag",
-        "Auto Rename Tag"
-      ],
+      "HTML": ["cdnjs", "HTMLHint", "Live Server", "Auto Close Tag", "Auto Rename Tag"],
       "CSS": ["Stylelint", "HTML CSS Support"],
-      "React": [
-        "React Native Tools",
-        "ES7 React/Redux/React-Native/JS snippets"
-      ],
+      "React": ["React Native Tools", "ES7 React/Redux/React-Native/JS snippets"],
       "Git": ["Git Lens", "Git History"],
-      "Node.js": [
-        "Quokka",
-        "Import Cost",
-        "Version Lens",
-        "JavaScript Console Utils",
-        "Node.js Modules Intellisense"
-      ],
+      "Node.js": ["Quokka", "Import Cost", "Version Lens", "JavaScript Console Utils", "Node.js Modules Intellisense"],
       "Utils": [
         "ESLint",
         "Prettier",
@@ -133,14 +118,5 @@
   "WiFi Password": {
     "name": "wifi-password",
     "ver": "0.1.0"
-  },
-  "Games": [
-    "GZDoom + Brutal Doom",
-    "Diablo II + Median XL",
-    "Super Tux Kart",
-    "Xonotic",
-    "OpenEmu",
-    "OpenRA",
-    "0 A.D"
-  ]
+  }
 }
