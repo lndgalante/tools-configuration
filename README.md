@@ -4,6 +4,8 @@
 
 - [Awesome macOS](https://github.com/iCHAIT/awesome-macOS#readme)
 
+- [macDevSetup](https://github.com/nicolashery/mac-dev-setup)
+
 - [macOS Setup Guide - Sourabh Bajaj](https://github.com/sb2nov/mac-setup)
 
 - [Setup guide - Le Wagon](https://github.com/lewagon/setup/blob/master/macOS.md)
