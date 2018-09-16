@@ -12,8 +12,6 @@
 
 - [My macOS - Nikita Voloboev](https://github.com/nikitavoloboev/my-mac-os)
 
-- [dotfiles - Mathias Bynens](https://github.com/mathiasbynens/dotfiles)
-
 - [Snazzy Labs - Tips and Tutorials](https://www.youtube.com/playlist?list=PLRG_ZSZ22bFLQ2CRNTTKgqxu3m0lGwnzp)
 
 ## Visual Studio Code
@@ -29,3 +27,9 @@
 - [terminal-snazzy - Sindreorhus](https://github.com/sindresorhus/terminal-snazzy)
 
 - [awesome-hyper - Hyper](https://github.com/bnb/awesome-hyper)
+
+## Dotfiles
+
+- [dotfiles - Mathias Bynens](https://github.com/mathiasbynens/dotfiles)
+
+- [dotfiles - Wes Bos](https://github.com/wesbos/dotfiles)
