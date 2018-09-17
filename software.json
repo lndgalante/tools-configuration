@@ -5,117 +5,105 @@
   },
   "package-manager": {
     "name": "Homebrew & Cask",
-    "version": "1.7.1"
+    "version": "1.7.4"
   },
   "node-version-manager": {
     "name": "nvm",
     "version": "0.33.11"
   },
-  "terminal": {
-    "syntax-color": "zsh-syntax-highlighting",
-    "prompt": "pure-prompt",
-    "corrector": "thefuck",
-    "shell": "oh-my-zsh",
-    "man-pages": "tldr",
-    "info": "neofetch",
-    "theme": "snazzy",
-    "http": "httpie",
-    "top": "vtop"
-  },
-  "primary-web-browser": {
-    "name": "Google Chrome",
-    "ver": "68.0.3440.75",
+  "web-browser": {
+    "name": "Firefox Developer",
+    "ver": "63",
     "extensions": [
       "React Developer Tools",
-      "Refined GitHub",
+      "Redux Developer Tools",
       "Magic Enhancer",
+      "Refined GitHub",
       "uBlock Origin",
-      "JSON Viewer",
       "Wappalyzer",
-      "CSS Peeper",
-      "Dimensions",
-      "Extensity",
-      "PageRuler",
-      "WhatFont",
-      "Octotree",
-      "Imagus",
-      "aXe"
+      "Dimensions"
     ]
   },
-  "Code editor": {
+  "code-editor": {
     "name": "Visual Studio Code",
-    "ver": "1.26.0",
+    "ver": "1.27.2",
     "extensions": {
-      "HTML": ["cdnjs", "HTMLHint", "Live Server", "Auto Close Tag", "Auto Rename Tag"],
+      "HTML": ["HTMLHint", "Live Server", "Auto Close Tag", "Auto Rename Tag"],
       "CSS": ["Stylelint", "HTML CSS Support"],
+      "JavaScript": [
+        "Quokka",
+        "Import Cost",
+        "Version Lens",
+        "JavaScript Console Utils",
+        "Node.js Modules Intellisense"
+      ],
       "React": ["React Native Tools", "ES7 React/Redux/React-Native/JS snippets"],
-      "Git": ["Git Lens", "Git History"],
-      "Node.js": ["Quokka", "Import Cost", "Version Lens", "JavaScript Console Utils", "Node.js Modules Intellisense"],
       "Utils": [
         "ESLint",
         "Prettier",
+        "Git Lens",
         "Polacode",
-        "Sort Lines",
         "SVG Viewer",
         "Image Preview",
         "TODO Highlight",
         "Code Spell Checker",
-        "Markdown Preview Enhanced"
+        "Markdown Preview Enhanced",
+        "VS Live Share Extension Pack"
       ]
     },
     "icon-theme": "Material Theme Icons",
     "color-theme": "Material Theme",
     "font": "Fira Code"
   },
-  "Design Tool": {
+  "design-tool": {
     "name": "Framer X",
     "ver": "Online"
   },
-  "Office Suite": {
+  "office-suite": {
     "name": "Keynote / Pages / Numbers",
     "ver": "8.1 / 7.1 / 5.1"
   },
-  "Multimedia Player": {
-    "name": "VLC",
-    "ver": "3.0.3"
+  "multimedia-player": {
+    "name": "VLC & IINA",
+    "ver": "3.0.4 - 1.0.0"
   },
-  "Music Player": {
+  "music-player": {
     "name": "Spotify",
     "ver": "12.7.4"
   },
-  "Torrent Manager": {
+  "torrent-manager": {
     "name": "WebTorrent",
     "ver": "0.20.0"
   },
-  "Chat": {
+  "chat": {
     "name": "Slack",
-    "ver": "3.2.0"
+    "ver": "3.3.1"
   },
-  "Cleaner": {
-    "name": "Ccleaner",
-    "ver": "1.15.507"
+  "cleaner": {
+    "name": "CleanMyMac",
+    "ver": "X"
   },
-  "NTFS": {
+  "ntfs": {
     "name": "Mounty",
     "ver": "1.7.0"
   },
-  "USB Formatter": {
+  "usb-formatter": {
     "name": "Etcher",
     "ver": "1.4.4"
   },
-  "Compress Tool": {
+  "compression": {
     "name": "The Unrarchiver",
     "ver": "4.0.0"
   },
-  "Gif Recorder": {
+  "gif-recorder": {
     "name": "kap",
     "ver": "2.2.0"
   },
-  "Monitor Tool": {
+  "monitor": {
     "name": "BetterSnapTool",
     "ver": "1.8.0"
   },
-  "WiFi Password": {
+  "wifi-password": {
     "name": "wifi-password",
     "ver": "0.1.0"
   }
