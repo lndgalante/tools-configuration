@@ -1,9 +1,9 @@
 {
-  // Window
-  "window.zoomLevel": 0.5,
+  // Zoom
+  "window.zoomLevel": -1,
 
-  // Font
-  "editor.fontSize": 18,
+  // Fonts
+  "editor.fontSize": 20,
   "editor.fontWeight": "500",
   "editor.fontLigatures": true,
   "editor.fontFamily": "Fira Code",
@@ -22,8 +22,10 @@
   "breadcrumbs.enabled": true,
 
   // HTML
-  "html.format.indentInnerHtml": false,
+  "html.format.enable": true,
   "html.format.wrapAttributes": "auto",
+  "html.format.indentInnerHtml": false,
+  "html.format.preserveNewLines": true,
 
   // CSS - StyleLint
   "stylelint.enable": true,
@@ -72,7 +74,7 @@
   // Prettier
   "prettier.semi": false,
   "prettier.tabWidth": 2,
-  "prettier.printWidth": 80,
+  "prettier.printWidth": 120,
   "prettier.singleQuote": true,
   "prettier.trailingComma": "es5",
   "prettier.bracketSpacing": true,
