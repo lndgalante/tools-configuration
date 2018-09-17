@@ -22,6 +22,8 @@
 
 - [My Visual Studio Code Setup - Nick Taylor](https://www.iamdeveloper.com/my-visual-studio-code-setup)
 
+- [VSCode Icons - Dhanish Gajjar](https://github.com/dhanishgajjar/vscode-icons)
+
 ## Terminal
 
 - [terminal-snazzy - Sindreorhus](https://github.com/sindresorhus/terminal-snazzy)
