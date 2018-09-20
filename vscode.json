@@ -80,6 +80,9 @@
   "prettier.bracketSpacing": true,
   // "prettier.eslintIntegration": true,
 
+  // Alex
+  "alex.enable": true,
+
   // Files
   "files.exclude": {
     "**/.git": true,

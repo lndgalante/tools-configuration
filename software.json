@@ -39,6 +39,7 @@
       ],
       "React": ["React Native Tools", "ES7 React/Redux/React-Native/JS snippets"],
       "Utils": [
+        "Alex",
         "ESLint",
         "Prettier",
         "Git Lens",
