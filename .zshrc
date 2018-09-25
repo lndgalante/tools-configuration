@@ -16,8 +16,8 @@ autoload -U promptinit; promptinit
 prompt pure
 
 # This loads nvm bash_completion
-export NVM_DIR="/Users/leo/.nvm"
-[ -s "$NVM_DIR/nvm.sh" ] && . "$NVM_DIR/nvm.sh"
+export NVM_DIR="$HOME/.nvm"
+  . "/usr/local/opt/nvm/nvm.sh"
 
 # Move to repos folder and clean everything
 cd /Users/leo/Downloads/repos

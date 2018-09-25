@@ -1,11 +1,11 @@
 {
   "operative-system": {
     "name": "macOS Sierra",
-    "version": "10.13.6"
+    "version": "10.14.0"
   },
   "package-manager": {
     "name": "Homebrew & Cask",
-    "version": "1.7.4"
+    "version": "1.7.6"
   },
   "node-version-manager": {
     "name": "nvm",
@@ -89,11 +89,11 @@
     "ver": "1.7.0"
   },
   "usb-formatter": {
-    "name": "Etcher",
-    "ver": "1.4.4"
+    "name": "Etcher & DiskMakerX",
+    "ver": "1.4.4 - 8"
   },
   "compression": {
-    "name": "The Unrarchiver",
+    "name": "The Unarchiver",
     "ver": "4.0.0"
   },
   "gif-recorder": {
