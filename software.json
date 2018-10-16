@@ -5,7 +5,7 @@
   },
   "package-manager": {
     "name": "Homebrew & Cask",
-    "version": "1.7.6"
+    "version": "1.7.7"
   },
   "node-version-manager": {
     "name": "nvm",
@@ -13,7 +13,7 @@
   },
   "web-browser": {
     "name": "Firefox Developer",
-    "ver": "63",
+    "ver": "64",
     "extensions": [
       "React Developer Tools",
       "Redux Developer Tools",
@@ -26,7 +26,7 @@
   },
   "code-editor": {
     "name": "Visual Studio Code",
-    "ver": "1.27.2",
+    "ver": "1.28.1",
     "extensions": {
       "HTML": ["HTMLHint", "Live Server", "Auto Close Tag", "Auto Rename Tag"],
       "CSS": ["Stylelint", "HTML CSS Support"],
@@ -58,7 +58,7 @@
   },
   "design-tool": {
     "name": "Framer X",
-    "ver": "Online"
+    "ver": "2"
   },
   "office-suite": {
     "name": "Keynote / Pages / Numbers",
@@ -76,17 +76,13 @@
     "name": "WebTorrent",
     "ver": "0.20.0"
   },
-  "chat": {
-    "name": "Slack",
-    "ver": "3.3.1"
-  },
   "cleaner": {
     "name": "CleanMyMac",
     "ver": "X"
   },
   "ntfs": {
     "name": "Mounty",
-    "ver": "1.7.0"
+    "ver": "1.9.0"
   },
   "usb-formatter": {
     "name": "Etcher & DiskMakerX",
@@ -100,9 +96,9 @@
     "name": "kap",
     "ver": "2.2.0"
   },
-  "monitor": {
-    "name": "BetterSnapTool",
-    "ver": "1.8.0"
+  "emoji-finder": {
+    "name": "Rocket",
+    "ver": "1.4.1"
   },
   "wifi-password": {
     "name": "wifi-password",

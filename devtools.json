@@ -2,7 +2,7 @@
   "developer-tools": [
     {
       "name": "Node.js",
-      "ver": "10.11.0"
+      "ver": "10.12.0"
     },
     {
       "name": "MongoDB Compass",
@@ -10,17 +10,17 @@
     },
     {
       "name": "Git",
-      "ver": "2.19.0"
+      "ver": "2.19.1"
     }
   ],
   "numbers-and-dates": [
     {
       "name": "math.js",
-      "ver": "5.1.2"
+      "ver": "5.2.0"
     },
     {
       "name": "day.js",
-      "ver": "1.7.5"
+      "ver": "1.7.7"
     },
     {
       "name": "dinero.js",
@@ -42,7 +42,7 @@
     },
     {
       "name": "eslint",
-      "ver": "5.6.0"
+      "ver": "5.7.0"
     },
     {
       "name": "nodemon",
@@ -64,19 +64,19 @@
     },
     {
       "name": "lint-staged",
-      "ver": "7.2.2"
+      "ver": "7.3.0"
     },
     {
       "name": "husky",
-      "ver": "1.0.0"
+      "ver": "1.1.2"
     },
     {
       "name": "prettier",
-      "ver": "1.14.2"
+      "ver": "1.14.3"
     },
     {
       "name": "dotenv",
-      "ver": "6.0.0"
+      "ver": "6.1.0"
     },
     {
       "name": "xo",
@@ -86,7 +86,7 @@
   "frontend-local-packages": [
     {
       "name": "react",
-      "ver": "16.5.1"
+      "ver": "16.5.2"
     },
     {
       "name": "redux",
@@ -98,15 +98,15 @@
     },
     {
       "name": "reselect",
-      "ver": "3.0.1"
+      "ver": "4.0.0"
     },
     {
       "name": "normalizr",
-      "ver": "3.2.4"
+      "ver": "3.3.0"
     },
     {
       "name": "next",
-      "ver": "6.1.2"
+      "ver": "7.0.2"
     },
     {
       "name": "gatsby",
@@ -118,21 +118,21 @@
     },
     {
       "name": "realm",
-      "ver": "2.4.0"
+      "ver": "2.19.0"
     }
   ],
   "backend-local-packages": [
     {
       "name": "prisma",
-      "ver": "1.16.3"
+      "ver": "1.18.1"
     },
     {
       "name": "express",
-      "ver": "4.16.3"
+      "ver": "4.16.4"
     },
     {
       "name": "helmet",
-      "ver": "3.13.0"
+      "ver": "3.14.0"
     },
     {
       "name": "redis",
@@ -144,11 +144,11 @@
     },
     {
       "name": "mongoose",
-      "ver": "5.2.15"
+      "ver": "5.3.4"
     },
     {
       "name": "sequelize",
-      "ver": "4.38.1"
+      "ver": "4.39.1"
     },
     {
       "name": "passport",
