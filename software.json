@@ -5,7 +5,7 @@
   },
   "package-manager": {
     "name": "Homebrew & Cask",
-    "version": "1.7.7"
+    "version": "1.8.0"
   },
   "node-version-manager": {
     "name": "nvm",
@@ -26,7 +26,7 @@
   },
   "code-editor": {
     "name": "Visual Studio Code",
-    "ver": "1.28.1",
+    "ver": "1.28.2",
     "extensions": {
       "HTML": ["HTMLHint", "Live Server", "Auto Close Tag", "Auto Rename Tag"],
       "CSS": ["Stylelint", "HTML CSS Support"],
@@ -37,7 +37,7 @@
         "JavaScript Console Utils",
         "Node.js Modules Intellisense"
       ],
-      "React": ["React Native Tools", "ES7 React/Redux/React-Native/JS snippets"],
+      "React": ["Glean", "React Native Tools", "ES7 React/Redux/React-Native/JS snippets"],
       "Utils": [
         "Alex",
         "ESLint",

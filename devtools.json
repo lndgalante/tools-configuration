@@ -2,7 +2,7 @@
   "developer-tools": [
     {
       "name": "Node.js",
-      "ver": "10.12.0"
+      "ver": "11.0.0"
     },
     {
       "name": "MongoDB Compass",
