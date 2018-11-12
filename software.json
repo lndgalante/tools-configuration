@@ -1,11 +1,11 @@
 {
   "operative-system": {
     "name": "macOS Sierra",
-    "version": "10.14.0"
+    "version": "10.14.1"
   },
   "package-manager": {
     "name": "Homebrew & Cask",
-    "version": "1.8.0"
+    "version": "1.8.2"
   },
   "node-version-manager": {
     "name": "nvm",
@@ -26,7 +26,7 @@
   },
   "code-editor": {
     "name": "Visual Studio Code",
-    "ver": "1.28.2",
+    "ver": "1.29.0",
     "extensions": {
       "HTML": ["HTMLHint", "Live Server", "Auto Close Tag", "Auto Rename Tag"],
       "CSS": ["Stylelint", "HTML CSS Support"],
@@ -39,6 +39,7 @@
       ],
       "React": ["Glean", "React Native Tools", "ES7 React/Redux/React-Native/JS snippets"],
       "Utils": [
+        "PWA",
         "Alex",
         "ESLint",
         "Prettier",
