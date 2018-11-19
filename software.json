@@ -1,108 +1,19 @@
 {
-  "operative-system": {
-    "name": "macOS Sierra",
-    "version": "10.14.1"
-  },
-  "package-manager": {
-    "name": "Homebrew & Cask",
-    "version": "1.8.2"
-  },
-  "node-version-manager": {
-    "name": "nvm",
-    "version": "0.33.11"
-  },
-  "web-browser": {
-    "name": "Firefox Developer",
-    "ver": "64",
-    "extensions": [
-      "React Developer Tools",
-      "Redux Developer Tools",
-      "Magic Enhancer",
-      "Refined GitHub",
-      "uBlock Origin",
-      "Wappalyzer",
-      "Dimensions"
-    ]
-  },
-  "code-editor": {
-    "name": "Visual Studio Code",
-    "ver": "1.29.0",
-    "extensions": {
-      "HTML": ["HTMLHint", "Live Server", "Auto Close Tag", "Auto Rename Tag"],
-      "CSS": ["Stylelint", "HTML CSS Support"],
-      "JavaScript": [
-        "Quokka",
-        "Import Cost",
-        "Version Lens",
-        "JavaScript Console Utils",
-        "Node.js Modules Intellisense"
-      ],
-      "React": ["Glean", "React Native Tools", "ES7 React/Redux/React-Native/JS snippets"],
-      "Utils": [
-        "PWA",
-        "Alex",
-        "ESLint",
-        "Prettier",
-        "Git Lens",
-        "Polacode",
-        "SVG Viewer",
-        "Image Preview",
-        "TODO Highlight",
-        "Code Spell Checker",
-        "Markdown Preview Enhanced",
-        "VS Live Share Extension Pack"
-      ]
-    },
-    "icon-theme": "Material Theme Icons",
-    "color-theme": "Material Theme",
-    "font": "Fira Code"
-  },
-  "design-tool": {
-    "name": "Framer X",
-    "ver": "2"
-  },
-  "office-suite": {
-    "name": "Keynote / Pages / Numbers",
-    "ver": "8.1 / 7.1 / 5.1"
-  },
-  "multimedia-player": {
-    "name": "VLC & IINA",
-    "ver": "3.0.4 - 1.0.0"
-  },
-  "music-player": {
-    "name": "Spotify",
-    "ver": "12.7.4"
-  },
-  "torrent-manager": {
-    "name": "WebTorrent",
-    "ver": "0.20.0"
-  },
-  "cleaner": {
-    "name": "CleanMyMac",
-    "ver": "X"
-  },
-  "ntfs": {
-    "name": "Mounty",
-    "ver": "1.9.0"
-  },
-  "usb-formatter": {
-    "name": "Etcher & DiskMakerX",
-    "ver": "1.4.4 - 8"
-  },
-  "compression": {
-    "name": "The Unarchiver",
-    "ver": "4.0.0"
-  },
-  "gif-recorder": {
-    "name": "kap",
-    "ver": "2.2.0"
-  },
-  "emoji-finder": {
-    "name": "Rocket",
-    "ver": "1.4.1"
-  },
-  "wifi-password": {
-    "name": "wifi-password",
-    "ver": "0.1.0"
-  }
+  "os": "macOS Mojave",
+  "icons": "Dusk Icons",
+  "node-manager": "nvm",
+  "package-manager": "Homebrew / Cask",
+  "web-browsers": "Firefox / Chrome",
+  "code-editor": "Visual Studio Code",
+  "design-tool": "Framer X",
+  "video-player": "IINA",
+  "music-player": "Spotify",
+  "torrents": "WebTorrent",
+  "cleaner": "CleanMyMac",
+  "usb-tools": "DiskMakerX",
+  "ntfs": "Mounty",
+  "gif-recorder": "Kap",
+  "emoji-finder": "Rocket",
+  "compression": "The Unarchiver",
+  "wifi-password": "WiFi Password"
 }

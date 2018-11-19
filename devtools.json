@@ -2,7 +2,7 @@
   "developer-tools": [
     {
       "name": "Node.js",
-      "ver": "11.0.0"
+      "ver": "11.2.0"
     },
     {
       "name": "MongoDB Compass",
@@ -16,7 +16,7 @@
   "numbers-and-dates": [
     {
       "name": "math.js",
-      "ver": "5.2.0"
+      "ver": "5.2.3"
     },
     {
       "name": "day.js",
@@ -38,15 +38,15 @@
   "global-npm-packages": [
     {
       "name": "now",
-      "ver": "12.0.0"
+      "ver": "13.0.0"
     },
     {
       "name": "eslint",
-      "ver": "5.7.0"
+      "ver": "5.9.0"
     },
     {
       "name": "nodemon",
-      "ver": "1.18.4"
+      "ver": "1.18.6"
     }
   ],
   "cross-local-packages": [
@@ -56,7 +56,7 @@
     },
     {
       "name": "ramda",
-      "ver": "0.25.0"
+      "ver": "0.26.0"
     },
     {
       "name": "faker.js",
@@ -64,15 +64,15 @@
     },
     {
       "name": "lint-staged",
-      "ver": "7.3.0"
+      "ver": "8.0.5"
     },
     {
       "name": "husky",
-      "ver": "1.1.2"
+      "ver": "1.1.4"
     },
     {
       "name": "prettier",
-      "ver": "1.14.3"
+      "ver": "1.15.2"
     },
     {
       "name": "dotenv",
@@ -86,15 +86,15 @@
   "frontend-local-packages": [
     {
       "name": "react",
-      "ver": "16.5.2"
+      "ver": "16.6.3"
     },
     {
       "name": "redux",
-      "ver": "4.0.0"
+      "ver": "4.0.1"
     },
     {
       "name": "react-redux",
-      "ver": "5.0.7"
+      "ver": "5.1.1"
     },
     {
       "name": "reselect",
@@ -114,17 +114,17 @@
     },
     {
       "name": "localForage",
-      "ver": "1.7.2"
+      "ver": "1.7.3"
     },
     {
       "name": "realm",
-      "ver": "2.19.0"
+      "ver": "2.19.1"
     }
   ],
   "backend-local-packages": [
     {
       "name": "prisma",
-      "ver": "1.18.1"
+      "ver": "1.20.7"
     },
     {
       "name": "express",
@@ -132,23 +132,23 @@
     },
     {
       "name": "helmet",
-      "ver": "3.14.0"
+      "ver": "3.15.0"
     },
     {
       "name": "redis",
-      "ver": "4.0.11"
+      "ver": "5.0.1"
     },
     {
       "name": "mongo",
-      "ver": "4.0.0"
+      "ver": "4.0.4"
     },
     {
       "name": "mongoose",
-      "ver": "5.3.4"
+      "ver": "5.3.12"
     },
     {
       "name": "sequelize",
-      "ver": "4.39.1"
+      "ver": "4.41.2"
     },
     {
       "name": "passport",
