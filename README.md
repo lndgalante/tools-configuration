@@ -30,6 +30,8 @@
 
 - [awesome-hyper - Hyper](https://github.com/bnb/awesome-hyper)
 
+- [Spaceship ZSH](https://github.com/denysdovhan/spaceship-prompt)
+
 ## Dotfiles
 
 - [dotfiles - Mathias Bynens](https://github.com/mathiasbynens/dotfiles)
