@@ -37,3 +37,7 @@
 - [dotfiles - Mathias Bynens](https://github.com/mathiasbynens/dotfiles)
 
 - [dotfiles - Wes Bos](https://github.com/wesbos/dotfiles)
+
+## Others
+
+- [MongoDB Homebrew](https://gist.github.com/nrollr/9f523ae17ecdbb50311980503409aeb3)
