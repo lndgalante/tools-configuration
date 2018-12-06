@@ -12,6 +12,8 @@
 
 - [My macOS - Nikita Voloboev](https://github.com/nikitavoloboev/my-mac-os)
 
+- [macOS Configuration - Brooke Kuhlmann](https://github.com/bkuhlmann/mac_os-config)
+
 - [Snazzy Labs - Tips and Tutorials](https://www.youtube.com/playlist?list=PLRG_ZSZ22bFLQ2CRNTTKgqxu3m0lGwnzp)
 
 ## Visual Studio Code
