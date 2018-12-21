@@ -3,7 +3,7 @@
     "HTML": ["HTMLHint", "Live Server", "Auto Close Tag", "Auto Rename Tag"],
     "CSS": ["Stylelint", "HTML CSS Support"],
     "JavaScript": ["Quokka", "Import Cost", "Version Lens", "JavaScript Console Utils", "Node.js Modules Intellisense"],
-    "React": ["Glean", "React Native Tools", "ES7 React/Redux/React-Native/JS snippets"],
+    "React": ["Glean", "React Native Tools", "Simple React Snippets"],
     "Utils": [
       "PWA",
       "Alex",
@@ -13,8 +13,9 @@
       "Polacode",
       "SVG Viewer",
       "Image Preview",
-      "TODO Highlight",
+      "Todo Highlight",
       "Code Spell Checker",
+      "Paste as JSON Code",
       "Markdown Preview Enhanced",
       "VS Live Share Extension Pack"
     ]
