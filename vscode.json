@@ -18,6 +18,8 @@
   "editor.scrollBeyondLastLine": true,
   "editor.selectionHighlight": true,
 
+  "workbench.sideBar.location": "right",
+
   // Breadcrumbs
   "breadcrumbs.enabled": true,
 
@@ -79,9 +81,6 @@
   "prettier.trailingComma": "es5",
   "prettier.bracketSpacing": true,
   // "prettier.eslintIntegration": true,
-
-  // Alex
-  "alex.enable": true,
 
   // Files
   "files.exclude": {
