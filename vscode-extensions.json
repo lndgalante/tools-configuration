@@ -1,6 +1,6 @@
 {
   "extensions": {
-    "HTML": ["HTMLHint", "Live Server", "Auto Close Tag", "Auto Rename Tag"],
+    "HTML": ["HTMLHint", "Auto Close Tag", "Auto Rename Tag"],
     "CSS": ["Stylelint", "HTML CSS Support"],
     "JavaScript": ["Quokka", "JavaScript Console Utils"],
     "React": ["Glean", "React Native Tools", "Simple React Snippets"],
@@ -8,6 +8,7 @@
     "Git": ["Git Lens", "Git Project Manager", "GitHub Pull Request"],
     "Images": ["Polacode", "SVG Viewer", "Image Preview"],
     "Code Quality": ["ESLint", "Prettier", "Todo Highlight", "Code Spell Checker"],
+    "Debugging": ["Live Server", "Browser Preview", "Debugger for Chrome"],
     "Utils": [
       "PWA",
       "Alex",
