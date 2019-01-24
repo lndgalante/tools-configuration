@@ -6,6 +6,8 @@
 
 - [macDevSetup](https://github.com/nicolashery/mac-dev-setup)
 
+- [Setting up a macbook for front-end development](https://www.bhnywl.com/blog/setting-up-a-macbook-for-front-end-development)
+
 - [macOS Setup Guide - Sourabh Bajaj](https://github.com/sb2nov/mac-setup)
 
 - [Setup guide - Le Wagon](https://github.com/lewagon/setup/blob/master/macOS.md)
