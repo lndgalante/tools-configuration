@@ -1,7 +1,7 @@
 {
   "extensions": {
     "HTML": ["HTMLHint", "Auto Close Tag", "Auto Rename Tag"],
-    "CSS": ["Stylelint", "HTML CSS Support"],
+    "CSS": ["Stylelint", "HTML CSS Support", "vscode-styled-components", "vscode-styled-jsx"],
     "JavaScript": ["Quokka", "JavaScript Console Utils"],
     "React": ["Glean", "React Native Tools", "Simple React Snippets"],
     "Node": ["NPM", "Import Cost", "Version Lens", "Node.js Modules Intellisense", "Path Intellisense"],
