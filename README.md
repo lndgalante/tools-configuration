@@ -18,6 +18,8 @@
 
 - [Snazzy Labs - Tips and Tutorials](https://www.youtube.com/playlist?list=PLRG_ZSZ22bFLQ2CRNTTKgqxu3m0lGwnzp)
 
+- [freeCodeCamp Medium - How to free up space on your developer Mac](https://medium.freecodecamp.org/how-to-free-up-space-on-your-developer-mac-f542f66ddfb)
+
 ## Visual Studio Code
 
 - [VSCode Tips and Tricks - Microsoft](https://github.com/Microsoft/vscode-tips-and-tricks)
