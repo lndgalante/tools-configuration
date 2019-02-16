@@ -12,6 +12,7 @@
   "editor.tabSize": 2,
   "editor.rulers": [80, 120],
   "editor.formatOnSave": true,
+  "editor.wordWrap": "bounded",
   "editor.minimap.enabled": false,
   "editor.cursorBlinking": "phase",
   "editor.snippetSuggestions": "top",
@@ -80,7 +81,9 @@
   "prettier.singleQuote": true,
   "prettier.trailingComma": "es5",
   "prettier.bracketSpacing": true,
-  // "prettier.eslintIntegration": true,
+  "prettier.eslintIntegration": true,
+  "prettier.jsxBracketSameLine": true,
+  "prettier.jsxSingleQuote": true,
 
   // Files
   "files.exclude": {
@@ -88,7 +91,8 @@
     "**/.svn": true,
     "**/.hg": true,
     "**/CVS": true,
-    "**/.DS_Store": true
+    "**/.DS_Store": true,
+    "**/node_modules": true
   },
   "files.insertFinalNewline": true,
   "files.trimTrailingWhitespace": true,
@@ -114,8 +118,8 @@
   "workbench.startupEditor": "none",
   "workbench.editor.tabSizing": "shrink",
   "workbench.fontAliasing": "antialiased",
-  "workbench.colorTheme": "Material Theme Palenight",
-  "workbench.iconTheme": "eq-material-theme-icons-palenight",
+  "workbench.colorTheme": "Material Theme Ocean",
+  "workbench.iconTheme": "eq-material-theme-icons-ocean",
 
   // Terminal Customization
   "terminal.integrated.fontSize": 16,
@@ -140,5 +144,6 @@
     "terminal.ansiBrightMagenta": "#ff6ac1",
     "terminal.ansiBrightCyan": "#9aedfe",
     "terminal.ansiBrightWhite": "#eff0eb"
-  }
+  },
+  "git.autofetch": true
 }
