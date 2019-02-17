@@ -1,10 +1,10 @@
 {
   "os": "macOS Mojave",
-  "icons": "Dusk Icons",
   "node-manager": "nvm",
   "package-manager": "Homebrew / Cask",
   "web-browsers": "Firefox / Chrome",
-  "code-editor": "Visual Studio Code",
+  "code-editor": "VS Code",
+  "rest-client": "Insomnia",
   "design-tool": "Figma",
   "video-player": "IINA",
   "music-player": "Spotify",
@@ -15,6 +15,5 @@
   "gif-recorder": "Kap",
   "emoji-finder": "Rocket",
   "compression": "The Unarchiver",
-  "wifi-password": "WiFi Password",
-  "json": "Quick Look JSON"
+  "wifi-password": "WiFi Password"
 }
