@@ -12,14 +12,19 @@
   "editor.tabSize": 2,
   "editor.rulers": [80, 120],
   "editor.formatOnSave": true,
-  "editor.wordWrap": "bounded",
   "editor.minimap.enabled": false,
   "editor.cursorBlinking": "phase",
   "editor.snippetSuggestions": "top",
   "editor.scrollBeyondLastLine": true,
   "editor.selectionHighlight": true,
 
+  // Workbench
   "workbench.sideBar.location": "right",
+  "workbench.startupEditor": "none",
+  "workbench.editor.tabSizing": "shrink",
+  "workbench.fontAliasing": "antialiased",
+  "workbench.colorTheme": "Material Theme Ocean",
+  "workbench.iconTheme": "eq-material-theme-icons-ocean",
 
   // Breadcrumbs
   "breadcrumbs.enabled": true,
@@ -33,8 +38,10 @@
   // CSS - StyleLint
   "stylelint.enable": true,
 
-  // JS - Type Checking
+  // JavaScript
+  "javascript.validate.enable": false,
   "javascript.implicitProjectConfig.checkJs": true,
+  "javascript.updateImportsOnFileMove.enabled": "always",
 
   // JSON
   "json.format.enable": true,
@@ -52,16 +59,16 @@
   // Emmet
   "emmet.includeLanguages": {
     "javascript": "javascriptreact",
-    "xml": {
-      "attr_quotes": "single"
-    }
+    "xml": { "attr_quotes": "single" }
   },
   "emmet.triggerExpansionOnTab": true,
+  "emmet.showExpandedAbbreviation": "never",
 
   // Telemetry
   "telemetry.enableTelemetry": false,
 
   // Git
+  "git.autofetch": true,
   "git.enableSmartCommit": true,
 
   //  NPM
@@ -82,7 +89,6 @@
   "prettier.trailingComma": "es5",
   "prettier.bracketSpacing": true,
   "prettier.eslintIntegration": true,
-  "prettier.jsxBracketSameLine": true,
   "prettier.jsxSingleQuote": true,
 
   // Files
@@ -114,36 +120,10 @@
   // Extensions
   "extensions.autoUpdate": false,
 
-  // Workbench
-  "workbench.startupEditor": "none",
-  "workbench.editor.tabSizing": "shrink",
-  "workbench.fontAliasing": "antialiased",
-  "workbench.colorTheme": "Material Theme Ocean",
-  "workbench.iconTheme": "eq-material-theme-icons-ocean",
-
   // Terminal Customization
   "terminal.integrated.fontSize": 16,
   "terminal.integrated.shell.osx": "/bin/zsh",
   "terminal.integrated.copyOnSelection": true,
   "terminal.integrated.fontFamily": "Fira Code",
-  "workbench.colorCustomizations": {
-    "terminal.foreground": "#eff0eb",
-    "terminal.ansiBlack": "#282a36",
-    "terminal.ansiRed": "#ff5c57",
-    "terminal.ansiGreen": "#5af78e",
-    "terminal.ansiYellow": "#f3f99d",
-    "terminal.ansiBlue": "#57c7ff",
-    "terminal.ansiMagenta": "#ff6ac1",
-    "terminal.ansiCyan": "#9aedfe",
-    "terminal.ansiWhite": "#f1f1f0",
-    "terminal.ansiBrightBlack": "#686868",
-    "terminal.ansiBrightRed": "#ff5c57",
-    "terminal.ansiBrightGreen": "#5af78e",
-    "terminal.ansiBrightYellow": "#f3f99d",
-    "terminal.ansiBrightBlue": "#57c7ff",
-    "terminal.ansiBrightMagenta": "#ff6ac1",
-    "terminal.ansiBrightCyan": "#9aedfe",
-    "terminal.ansiBrightWhite": "#eff0eb"
-  },
-  "git.autofetch": true
+  "terminal.integrated.macOptionIsMeta": true
 }
