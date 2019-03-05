@@ -43,6 +43,9 @@
   "javascript.implicitProjectConfig.checkJs": true,
   "javascript.updateImportsOnFileMove.enabled": "always",
 
+  // TypeScript
+  "typescript.updateImportsOnFileMove.enabled": "always",
+
   // JSON
   "json.format.enable": true,
 
@@ -59,6 +62,7 @@
   // Emmet
   "emmet.includeLanguages": {
     "javascript": "javascriptreact",
+    "typescript": "javascriptreact",
     "xml": { "attr_quotes": "single" }
   },
   "emmet.triggerExpansionOnTab": true,
@@ -97,8 +101,8 @@
     "**/.svn": true,
     "**/.hg": true,
     "**/CVS": true,
-    "**/.DS_Store": true,
-    "**/node_modules": true
+    "**/.DS_Store": true
+    // "**/node_modules": true
   },
   "files.insertFinalNewline": true,
   "files.trimTrailingWhitespace": true,
