@@ -11,6 +11,7 @@
     "Debugging": ["Live Server", "Browser Preview", "Debugger for Chrome"],
     "Utils": [
       "PWA",
+      "MDX",
       "Alex",
       "Jest",
       "VSCode HackerTyper",
