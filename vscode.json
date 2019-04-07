@@ -5,7 +5,6 @@
   // Fonts
   "editor.fontSize": 20,
   "editor.fontWeight": "500",
-  "editor.fontLigatures": true,
   "editor.fontFamily": "Fira Code",
 
   // Editor
@@ -23,8 +22,7 @@
   "workbench.startupEditor": "none",
   "workbench.editor.tabSizing": "shrink",
   "workbench.fontAliasing": "antialiased",
-  "workbench.colorTheme": "Material Theme Ocean",
-  "workbench.iconTheme": "eq-material-theme-icons-ocean",
+  "workbench.colorTheme": "Night Owl",
 
   // Breadcrumbs
   "breadcrumbs.enabled": true,
@@ -41,9 +39,9 @@
   // JavaScript
   "javascript.validate.enable": false,
   "javascript.implicitProjectConfig.checkJs": true,
-  "javascript.updateImportsOnFileMove.enabled": "always",
 
-  // TypeScript
+  // Imports
+  "javascript.updateImportsOnFileMove.enabled": "always",
   "typescript.updateImportsOnFileMove.enabled": "always",
 
   // JSON
@@ -61,6 +59,7 @@
 
   // Emmet
   "emmet.includeLanguages": {
+    "vue-html": "html",
     "javascript": "javascriptreact",
     "typescript": "javascriptreact",
     "xml": { "attr_quotes": "single" }
