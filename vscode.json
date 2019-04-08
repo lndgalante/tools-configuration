@@ -24,6 +24,9 @@
   "workbench.fontAliasing": "antialiased",
   "workbench.colorTheme": "Night Owl",
 
+  // Dimmer
+  "dimmer.context": 8,
+
   // Breadcrumbs
   "breadcrumbs.enabled": true,
 
