@@ -19,11 +19,12 @@
   "editor.selectionHighlight": true,
 
   // Workbench
-  "workbench.sideBar.location": "right",
   "workbench.startupEditor": "none",
+  "workbench.colorTheme": "Night Owl",
+  "workbench.sideBar.location": "right",
   "workbench.editor.tabSizing": "shrink",
   "workbench.fontAliasing": "antialiased",
-  "workbench.colorTheme": "Night Owl",
+  "workbench.panel.defaultLocation": "right",
 
   // Dimmer
   "dimmer.context": 8,
