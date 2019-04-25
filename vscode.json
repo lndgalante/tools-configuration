@@ -88,7 +88,7 @@
   "eslint.autoFixOnSave": true,
   "eslint.packageManager": "yarn",
   "eslint.alwaysShowStatus": true,
-  "eslint.validate": ["javascript", "javascriptreact"],
+  "eslint.validate": ["javascript", "javascriptreact", "typescript", "typescriptreact"],
 
   // Prettier
   "prettier.semi": false,
@@ -98,8 +98,8 @@
   "prettier.trailingComma": "es5",
   "prettier.bracketSpacing": true,
   "prettier.jsxSingleQuote": true,
-  "prettier.eslintIntegration": true,
-  "prettier.stylelintIntegration": true,
+  // "prettier.eslintIntegration": true,
+  // "prettier.stylelintIntegration": true,
 
   // Files
   "files.exclude": {
