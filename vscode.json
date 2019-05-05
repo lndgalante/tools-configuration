@@ -1,6 +1,8 @@
 {
-  // Zoom
+  // Window
   "window.zoomLevel": -1,
+  "window.clickThroughInactive": false,
+  "window.title": "${dirty} ${activeEditorMedium}${separator}${rootName}",
 
   // Fonts
   "editor.fontSize": 20,
@@ -14,9 +16,11 @@
   "editor.formatOnSave": true,
   "editor.minimap.enabled": false,
   "editor.cursorBlinking": "phase",
+  "editor.cursorSmoothCaretAnimation": true,
   "editor.snippetSuggestions": "top",
-  "editor.scrollBeyondLastLine": true,
+  "editor.smoothScrolling": true,
   "editor.selectionHighlight": true,
+  "editor.scrollBeyondLastLine": true,
   "editor.acceptSuggestionOnCommitCharacter": false,
 
   // Workbench
@@ -26,6 +30,7 @@
   "workbench.editor.tabSizing": "shrink",
   "workbench.fontAliasing": "antialiased",
   "workbench.panel.defaultLocation": "right",
+  "workbench.statusBar.feedback.visible": false,
 
   // Dimmer
   "dimmer.context": 8,
@@ -59,6 +64,7 @@
 
   // Left Explorer
   "explorer.sortOrder": "type",
+  "explorer.openEditors.visible": 0,
   "explorer.confirmDragAndDrop": false,
 
   // Zen Mode
@@ -76,6 +82,7 @@
 
   // Telemetry
   "telemetry.enableTelemetry": false,
+  "workbench.settings.enableNaturalLanguageSearch": false,
 
   // Git
   "git.autofetch": true,
@@ -124,10 +131,6 @@
     // "**/node_modules": true
   },
 
-  // Show path on top
-  "window.clickThroughInactive": false,
-  "window.title": "${dirty} ${activeEditorMedium}${separator}${rootName}",
-
   // Extensions
   "extensions.autoUpdate": false,
 
@@ -135,6 +138,5 @@
   "terminal.integrated.fontSize": 16,
   "terminal.integrated.shell.osx": "/bin/zsh",
   "terminal.integrated.copyOnSelection": true,
-  "terminal.integrated.fontFamily": "Fira Code",
-  "terminal.integrated.macOptionIsMeta": true
+  "terminal.integrated.fontFamily": "Fira Code"
 }
