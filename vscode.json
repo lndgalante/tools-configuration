@@ -31,6 +31,7 @@
   "workbench.fontAliasing": "antialiased",
   "workbench.panel.defaultLocation": "right",
   "workbench.statusBar.feedback.visible": false,
+  "workbench.editor.enablePreviewFromQuickOpen": false,
 
   // Dimmer
   "dimmer.context": 8,
