@@ -1,5 +1,9 @@
 # Tools personal config
 
+## Setup Scripts
+
+- [Formation - macOS setup script for front-end development](https://github.com/minamarkham/formation)
+
 ## macOS
 
 - [Awesome macOS](https://github.com/iCHAIT/awesome-macOS#readme)
@@ -29,6 +33,8 @@
 - [My Visual Studio Code Setup - Nick Taylor](https://www.iamdeveloper.com/my-visual-studio-code-setup)
 
 - [VSCode Icons - Dhanish Gajjar](https://github.com/dhanishgajjar/vscode-icons)
+
+- [Tips to use VSCode more efficiently - Sudolabs](https://sudolabs.io/blog/tips-to-use-VSCode-more-efficiently/)
 
 ## Terminal
 
