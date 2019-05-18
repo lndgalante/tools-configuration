@@ -1,24 +1,38 @@
 {
-  "os": "macOS Mojave",
-  "node-manager": "nvm",
-  "package-manager": "Homebrew / Cask",
-  "web-browsers": "Firefox / Chrome",
-  "code-editor": "VS Code",
-  "rest-client": "Insomnia",
-  "design-tool": "Figma",
-  "todo-list": "Todoist",
-  "mind-maps": "MindNode",
-  "social-aio": "Station",
-  "video-player": "IINA",
-  "music-player": "Spotify",
-  "torrents": "WebTorrent",
-  "cleaner": "Ccleaner",
-  "usb-tools": "DiskMakerX",
-  "ntfs": "Mounty",
-  "gif-recorder": "Kap",
-  "emoji-finder": "Rocket",
-  "compression": "The Unarchiver",
-  "wifi-password": "WiFi Password",
-  "monitor-tool": "Spectacle",
-  "screen-sharing": "Muzzle"
+  "os": {
+    "apple": "macOS Mojave",
+    "microsoft": "Windows 10",
+    "linux": "Manjaro"
+  },
+  "tools": {
+    "node-manager": "nvm",
+    "package-manager": "Homebrew",
+    "compression": "The Unarchiver",
+    "wifi-password": "WiFi Password"
+  },
+  "primary": {
+    "browser-1": "Firefox",
+    "browser-2": "Chrome",
+    "terminal": "Hyper +ZSH",
+    "code-editor": "VS Code"
+  },
+  "secondary": {
+    "design-tool": "Figma",
+    "todo-list": "Todoist",
+    "rest-client": "Insomnia",
+    "social": "Station"
+  },
+  "others": {
+    "mind-maps": "MindNode",
+    "video-player": "IINA",
+    "music-player": "Spotify",
+    "torrents": "WebTorrent",
+    "cleaner": "Ccleaner",
+    "usb-tools": "DiskMakerX",
+    "ntfs": "Mounty",
+    "gif-recorder": "Kap",
+    "emoji-finder": "Rocket",
+    "monitor-tool": "Spectacle",
+    "screen-sharing": "Muzzle"
+  }
 }

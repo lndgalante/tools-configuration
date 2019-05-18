@@ -20,15 +20,20 @@
   "editor.snippetSuggestions": "top",
   "editor.smoothScrolling": true,
   "editor.selectionHighlight": true,
+  "editor.renderIndentGuides": true,
   "editor.scrollBeyondLastLine": true,
+  "editor.renderWhitespace": "none",
+  "editor.copyWithSyntaxHighlighting": true,
   "editor.acceptSuggestionOnCommitCharacter": false,
 
   // Workbench
   "workbench.startupEditor": "none",
   "workbench.colorTheme": "Night Owl",
+  "workbench.settings.editor": "json",
   "workbench.sideBar.location": "right",
   "workbench.editor.tabSizing": "shrink",
   "workbench.fontAliasing": "antialiased",
+  "workbench.editor.closeEmptyGroups": false,
   "workbench.panel.defaultLocation": "right",
   "workbench.statusBar.feedback.visible": false,
   "workbench.editor.enablePreviewFromQuickOpen": false,
@@ -90,6 +95,7 @@
   "git.enableSmartCommit": true,
 
   //  NPM
+  "npm.packageManager": "yarn",
   "npm.enableScriptExplorer": true,
 
   // ESlint
@@ -108,7 +114,7 @@
   "prettier.bracketSpacing": true,
   "prettier.jsxSingleQuote": true,
   "prettier.eslintIntegration": true,
-  "prettier.stylelintIntegration": true,
+  "prettier.stylelintIntegration": false,
 
   // Files
   "files.exclude": {
@@ -121,7 +127,6 @@
   },
   "files.insertFinalNewline": true,
   "files.trimTrailingWhitespace": true,
-  "files.useExperimentalFileWatcher": true,
 
   // Search Exclusion
   "search.exclude": {
