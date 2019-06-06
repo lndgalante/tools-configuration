@@ -2,10 +2,13 @@ export ZSH="/Users/leo/.oh-my-zsh"
 
 
 plugins=(
+  osx
   git
   github
   npm
+  node
   zsh-nvm
+  javascript
   zsh-autosuggestions
   zsh-syntax-highlighting
   zsh-better-npm-completion

@@ -41,9 +41,6 @@
   // Dimmer
   "dimmer.context": 8,
 
-  // Breadcrumbs
-  "breadcrumbs.enabled": true,
-
   // HTML
   "html.format.enable": true,
   "html.format.wrapLineLength": 0,
