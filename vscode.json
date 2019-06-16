@@ -113,6 +113,9 @@
   "prettier.eslintIntegration": true,
   "prettier.stylelintIntegration": false,
 
+  // Colorize
+  "colorize.languages": ["javascript"],
+
   // Files
   "files.exclude": {
     "**/.git": true,
