@@ -13,7 +13,7 @@
   "primary": {
     "browser-1": "Firefox",
     "browser-2": "Chrome",
-    "terminal": "Hyper +ZSH",
+    "terminal": "iTerm2 + ZSH",
     "code-editor": "VS Code"
   },
   "secondary": {

@@ -41,6 +41,9 @@
   // Dimmer
   "dimmer.context": 8,
 
+  // Live Server
+  "liveServer.settings.donotShowInfoMsg": true,
+
   // HTML
   "html.format.enable": true,
   "html.format.wrapLineLength": 0,
