@@ -1,6 +1,6 @@
 {
   "extensions": {
-    "HTML": ["HTMLHint", "Auto Close Tag", "Auto Rename Tag"],
+    "HTML": ["HTMLHint", "Auto Close Tag", "Auto Rename Tag", "Highlight Matching Tag"],
     "CSS": ["Stylelint", "HTML CSS Support", "vscode-styled-components", "vscode-styled-jsx"],
     "JavaScript": ["Quokka", "Turbo Console Log", "Paste as JSON Code"],
     "React": ["Glean", "React Native Tools", "Simple React Snippets"],
@@ -16,6 +16,7 @@
       "Jest",
       "Dimmer",
       "Colorize",
+      "Toggle Quotes",
       "VSCode HackerTyper",
       "Bracket Pair Colorizer 2",
       "Markdown Preview Enhanced",
