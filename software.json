@@ -1,6 +1,6 @@
 {
   "os": {
-    "apple": "macOS Mojave",
+    "apple": "macOS Catalina",
     "microsoft": "Windows 10",
     "linux": "Manjaro"
   },
@@ -13,8 +13,8 @@
   "primary": {
     "browser-1": "Firefox",
     "browser-2": "Chrome",
-    "terminal": "iTerm2 + ZSH",
-    "code-editor": "VS Code"
+    "code-editor": "VS Code",
+    "terminal": "iTerm2 + Spaceship + Navi"
   },
   "secondary": {
     "design-tool": "Figma",
