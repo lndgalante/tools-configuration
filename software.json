@@ -10,15 +10,20 @@
     "compression": "The Unarchiver",
     "wifi-password": "WiFi Password"
   },
+  "terminal": {
+    "app": "iTerm2",
+    "shell": "ZSH",
+    "prompt": "Spaceship",
+    "help": "Navi",
+    "autocorrection": "Fuck"
+  },
   "primary": {
     "browser-1": "Firefox",
     "browser-2": "Chrome",
-    "code-editor": "VS Code",
-    "terminal": "iTerm2 + Spaceship + Navi"
+    "code-editor": "VS Code"
   },
   "secondary": {
     "design-tool": "Figma",
-    "todo-list": "Todoist",
     "rest-client": "Insomnia",
     "social": "Station"
   },
