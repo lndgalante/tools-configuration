@@ -7,7 +7,7 @@
     "Node": ["NPM", "Import Cost", "Version Lens", "Node.js Modules Intellisense", "Path Intellisense"],
     "Git": ["Git Lens", "Git Project Manager", "GitHub Pull Request"],
     "Images": ["Polacode", "SVG Viewer", "Image Preview"],
-    "Code Quality": ["ESLint", "Prettier", "Todo Highlight", "Code Spell Checker", "Formatting Toggle"],
+    "Code Quality": ["ESLint", "Prettier",  "Code Spell Checker", "Formatting Toggle"],
     "Debugging": ["Live Server", "Browser Preview", "Debugger for Chrome"],
     "Utils": [
       "PWA",
@@ -19,6 +19,7 @@
       "Docker",
       "TabNine::",
       "Toggle Quotes",
+      "Todo Highlight",
       "Color Highlight",
       "VSCode HackerTyper",
       "Bracket Pair Colorizer 2",
