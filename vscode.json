@@ -26,6 +26,9 @@
   "editor.copyWithSyntaxHighlighting": true,
   "editor.acceptSuggestionOnCommitCharacter": false,
 
+  // SCM
+  "scm.defaultViewMode": "tree",
+
   // Workbench
   "workbench.startupEditor": "none",
   "workbench.colorTheme": "Night Owl",
