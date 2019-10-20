@@ -2,7 +2,9 @@
   "extensions": [
     "VisBug",
     "Grammarly",
+    "Page Ruler",
     "Dimensions",
+    "SVG Grabber",
     "uBlock Origin",
     "React Developer Tools",
     "Redux Developer Tools",
