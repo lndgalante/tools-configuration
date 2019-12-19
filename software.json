@@ -5,6 +5,7 @@
     "linux": "Manjaro"
   },
   "tools": {
+    "js-runner": "RunJS",
     "node-manager": "nvm",
     "package-manager": "Homebrew",
     "compression": "The Unarchiver",
