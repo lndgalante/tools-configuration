@@ -29,16 +29,16 @@
     "social": "Station"
   },
   "others": {
-    "mind-maps": "MindNode",
+    "sounds": "Noizio",
+    "mind-maps": "Whismical",
     "video-player": "IINA",
-    "music-player": "Spotify",
+    "music-player": "Deezer",
     "torrents": "WebTorrent",
     "cleaner": "Ccleaner",
     "usb-tools": "DiskMakerX",
     "ntfs": "Mounty",
     "gif-recorder": "Kap",
     "emoji-finder": "Rocket",
-    "monitor-tool": "Spectacle",
     "screen-sharing": "Muzzle"
   }
 }
