@@ -53,3 +53,5 @@
 ## Others
 
 - [MongoDB Homebrew](https://gist.github.com/nrollr/9f523ae17ecdbb50311980503409aeb3)
+
+- [/uses - A list of /uses pages detailing developer setups, gear, software and configs.](https://uses.tech/)
