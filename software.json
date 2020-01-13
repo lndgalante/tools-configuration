@@ -16,6 +16,7 @@
     "shell": "ZSH",
     "prompt": "Spaceship",
     "help": "Navi",
+    "json": "fx",
     "autocorrection": "Fuck"
   },
   "primary": {
