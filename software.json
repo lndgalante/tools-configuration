@@ -17,7 +17,8 @@
     "prompt": "Spaceship",
     "help": "Navi",
     "json": "fx",
-    "autocorrection": "Fuck"
+    "autocorrection": "Fuck",
+    "clean-node-modules": "npkill"
   },
   "primary": {
     "browser-1": "Firefox",
