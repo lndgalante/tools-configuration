@@ -17,6 +17,7 @@
     "prompt": "Spaceship",
     "help": "Navi",
     "json": "fx",
+    "finder": "fzf",
     "autocorrection": "Fuck",
     "clean-node-modules": "npkill"
   },
