@@ -1,8 +1,8 @@
 {
   "os": {
+    "linux": "Manjaro",
     "apple": "macOS Catalina",
-    "microsoft": "Windows 10",
-    "linux": "Manjaro"
+    "microsoft": "Windows 10"
   },
   "tools": {
     "js-runner": "RunJS",
@@ -13,37 +13,41 @@
     "wifi-password": "WiFi Password"
   },
   "terminal": {
-    "app": "iTerm2",
-    "shell": "ZSH",
-    "prompt": "Spaceship",
-    "help": "Navi",
     "json": "fx",
+    "help": "Navi",
+    "shell": "ZSH",
+    "app": "iTerm2",
     "finder": "fzf",
+    "prompt": "Spaceship",
     "autocorrection": "Fuck",
     "clean-node-modules": "npkill"
   },
   "primary": {
     "browser-1": "Firefox",
     "browser-2": "Chrome",
-    "code-editor": "VS Code"
+    "browser-3": "Brave"
   },
   "secondary": {
     "design-tool": "Figma",
-    "rest-client": "Insomnia",
-    "social": "Station"
+    "code-editor": "VS Code",
+    "rest-client": "Insomnia"
+  },
+  "tertiary": {
+    "social": "Station",
+    "workspace": "Notion"
   },
   "others": {
+    "ntfs": "Mounty",
     "sounds": "Noizio",
-    "mind-maps": "Whismical",
+    "gif-recorder": "Kap",
+    "cleaner": "Ccleaner",
     "video-player": "IINA",
+    "mind-maps": "Whismical",
+    "emoji-finder": "Rocket",
     "music-player": "Deezer",
     "torrents": "WebTorrent",
-    "cleaner": "Ccleaner",
     "usb-tools": "DiskMakerX",
-    "ntfs": "Mounty",
-    "gif-recorder": "Kap",
-    "emoji-finder": "Rocket",
-    "screen-sharing": "Muzzle",
-    "fans": "Macs Fan Control"
+    "fans": "Macs Fan Control",
+    "screen-sharing": "Muzzle"
   }
 }
