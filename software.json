@@ -7,6 +7,7 @@
   "tools": {
     "js-runner": "RunJS",
     "node-manager": "nvm",
+    "spotlight": "Alfred",
     "package-manager": "Homebrew",
     "compression": "The Unarchiver",
     "wifi-password": "WiFi Password"
