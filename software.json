@@ -50,5 +50,17 @@
     "usb-tools": "DiskMakerX",
     "fans": "Macs Fan Control",
     "screen-sharing": "Muzzle"
-  }
+  },
+  "brave-extensions": ["A Fine Start", "JSON Viewer"],
+  "chrome-extensions": [
+    "VisBug",
+    "Grammarly",
+    "Page Ruler",
+    "Dimensions",
+    "SVG Grabber",
+    "uBlock Origin",
+    "React Developer Tools",
+    "Redux Developer Tools",
+    "30 Seconds of Knowledge"
+  ]
 }
