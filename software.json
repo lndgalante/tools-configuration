@@ -51,7 +51,7 @@
     "fans": "Macs Fan Control",
     "screen-sharing": "Muzzle"
   },
-  "brave-extensions": ["A Fine Start", "JSON Viewer"],
+  "brave-extensions": ["A Fine Start", "JSON Viewer", "OctoLinker"],
   "chrome-extensions": [
     "VisBug",
     "Grammarly",
