@@ -1,103 +1,66 @@
 {
   // Window
   "window.zoomLevel": -0.5,
-  "window.clickThroughInactive": false,
   "window.title": "${dirty} ${activeEditorMedium}${separator}${rootName}",
 
-  // Fonts
-  "editor.fontSize": 20,
-  "editor.fontWeight": "400",
+  // Explorer
+  "explorer.sortOrder": "type",
+  "explorer.openEditors.visible": 0,
+  "explorer.decorations.colors": false,
+  "explorer.confirmDragAndDrop": false,
+
+  // Editor - General
+  "editor.tabSize": 2,
+  "editor.rulers": [80, 120],
+  "editor.glyphMargin": false,
+  "editor.smoothScrolling": true,
+  "editor.minimap.enabled": false,
+  "editor.renderWhitespace": "none",
+  "editor.snippetSuggestions": "top",
+  "editor.hideCursorInOverviewRuler": true,
+
+  // Editor - Fonts
+  "editor.fontSize": 18,
+  "editor.fontWeight": "500",
   "editor.fontLigatures": true,
   "editor.fontFamily": "JetBrains Mono",
 
-  // Editor
-  "editor.tabSize": 2,
-  "editor.rulers": [
-    80,
-    120
-  ],
-  "editor.formatOnSave": false,
-  "editor.minimap.enabled": false,
+  // Editor - Cursor
   "editor.cursorBlinking": "phase",
   "editor.cursorSmoothCaretAnimation": true,
-  "editor.snippetSuggestions": "top",
-  "editor.smoothScrolling": true,
-  "editor.selectionHighlight": true,
-  "editor.renderIndentGuides": true,
-  "editor.scrollBeyondLastLine": true,
-  "editor.renderWhitespace": "none",
-  "editor.copyWithSyntaxHighlighting": true,
-  "editor.acceptSuggestionOnCommitCharacter": false,
 
-  // SCM
-  "scm.defaultViewMode": "tree",
-
-  // Workbench
+  // Workbench - General
   "workbench.startupEditor": "none",
-  "workbench.colorTheme": "Night Owl",
-  "workbench.settings.editor": "json",
   "workbench.sideBar.location": "right",
   "workbench.editor.tabSizing": "shrink",
   "workbench.fontAliasing": "antialiased",
-  "workbench.editor.closeEmptyGroups": false,
   "workbench.panel.defaultLocation": "right",
-  "workbench.statusBar.feedback.visible": false,
+  "workbench.editor.closeEmptyGroups": false,
   "workbench.editor.enablePreviewFromQuickOpen": false,
 
-  // Dimmer
-  "dimmer.context": 8,
+  // Workbench Theme
+  "workbench.colorTheme": "Night Owl",
+  "workbench.iconTheme": "material-icon-theme",
 
-  // Live Server
-  "liveServer.settings.donotShowInfoMsg": true,
+  // Breadcrumbs
+  "breadcrumbs.enabled": false,
 
-  // HTML
-  "html.format.enable": true,
-  "html.format.wrapLineLength": 0,
-  "html.format.wrapAttributes": "auto",
-  "html.format.indentInnerHtml": false,
-  "html.format.preserveNewLines": true,
-
-  // CSS - StyleLint
-  "stylelint.enable": true,
-
-  // JavaScript
-  "javascript.validate.enable": false,
-  "javascript.implicitProjectConfig.checkJs": true,
+  // Telemetry
+  "telemetry.enableTelemetry": false,
 
   // Imports
   "javascript.updateImportsOnFileMove.enabled": "always",
   "typescript.updateImportsOnFileMove.enabled": "always",
 
-  // JSON
-  "json.format.enable": true,
-
   // Touchbar
   "keyboard.touchbar.enabled": false,
 
-  // Left Explorer
-  "explorer.compactFolders": false,
-  "explorer.sortOrder": "type",
-  "explorer.openEditors.visible": 0,
-  "explorer.confirmDragAndDrop": false,
+  // Source Control Management
+  "scm.defaultViewMode": "tree",
 
-  // Zen Mode
-  "zenMode.centerLayout": false,
-
-  // Emmet
-  "emmet.includeLanguages": {
-    "vue-html": "html",
-    "javascript": "javascriptreact",
-    "typescript": "javascriptreact",
-    "xml": {
-      "attr_quotes": "single"
-    }
-  },
-  "emmet.triggerExpansionOnTab": true,
-  "emmet.showExpandedAbbreviation": "never",
-
-  // Telemetry
-  "telemetry.enableTelemetry": false,
-  "workbench.settings.enableNaturalLanguageSearch": false,
+  // Files
+  "files.insertFinalNewline": true,
+  "files.trimTrailingWhitespace": true,
 
   // Git
   "git.autofetch": true,
@@ -105,63 +68,43 @@
 
   //  NPM
   "npm.packageManager": "yarn",
-  "npm.enableScriptExplorer": true,
+  "npm.enableScriptExplorer": false,
+
+  // Terminal Customization
+  "terminal.integrated.fontSize": 16,
+  "http://terminal.integrated.shell.osx": "/bin/zsh",
+  "terminal.integrated.copyOnSelection": true,
+  "terminal.integrated.fontFamily": "JetBrains Mono",
+
+  // Emmet
+  "emmet.includeLanguages": {
+      "javascript": "javascriptreact",
+      "typescript": "javascriptreact",
+      "xml": { "attr_quotes": "single" }
+  },
+  "emmet.triggerExpansionOnTab": true,
+  "emmet.showExpandedAbbreviation": "never",
 
   // ESlint
   "eslint.format.enable": true,
   "eslint.packageManager": "yarn",
   "eslint.alwaysShowStatus": true,
   "eslint.validate": [
-    "javascript",
-    "javascriptreact",
-    "typescript",
-    "typescriptreact"
+      "javascript",
+      "javascriptreact",
+      "typescript",
+      "typescriptreact"
   ],
 
   // Prettier
-  "prettier.semi": false,
+  "prettier.semi": true,
   "prettier.tabWidth": 2,
   "prettier.printWidth": 120,
   "prettier.singleQuote": true,
-  "prettier.trailingComma": "es5",
+  "prettier.trailingComma": "all",
   "prettier.bracketSpacing": true,
   "prettier.jsxSingleQuote": true,
 
-  // Colorize
-  "colorize.languages": [
-    "javascript"
-  ],
-
-  // Files
-  "files.exclude": {
-    "**/.git": true,
-    "**/.svn": true,
-    "**/.hg": true,
-    "**/CVS": true,
-    "**/.DS_Store": true
-    // "**/node_modules": true
-  },
-  "files.insertFinalNewline": true,
-  "files.trimTrailingWhitespace": true,
-
-  // Search Exclusion
-  "search.exclude": {
-    "**/tmp": true,
-    "**/.git": true,
-    // "**/ios": false,
-    // "**/android": true,
-    // "**/node_modules": true
-  },
-
-  // Extensions
-  "extensions.autoUpdate": false,
-
-  // Terminal Customization
-  "terminal.integrated.fontSize": 16,
-  "terminal.integrated.shell.osx": "/bin/zsh",
-  "terminal.integrated.copyOnSelection": true,
-  "terminal.integrated.fontFamily": "JetBrains Mono",
-  "editor.suggestSelection": "first",
-  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
-  "workbench.iconTheme": "material-icon-theme"
+  // JavaScript
+  "javascript.implicitProjectConfig.checkJs": true,
 }
