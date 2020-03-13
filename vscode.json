@@ -19,6 +19,10 @@
   "editor.snippetSuggestions": "top",
   "editor.hideCursorInOverviewRuler": true,
 
+  // Editor - Formatting
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {"source.fixAll.eslint": true},
+
   // Editor - Fonts
   "editor.fontSize": 18,
   "editor.fontWeight": "500",
