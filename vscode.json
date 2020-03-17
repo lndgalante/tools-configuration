@@ -15,6 +15,7 @@
   "editor.glyphMargin": false,
   "editor.smoothScrolling": true,
   "editor.minimap.enabled": false,
+  "explorer.compactFolders": false,
   "editor.renderWhitespace": "none",
   "editor.snippetSuggestions": "top",
   "editor.hideCursorInOverviewRuler": true,
