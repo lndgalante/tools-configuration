@@ -40,7 +40,6 @@
   "workbench.editor.tabSizing": "shrink",
   "workbench.fontAliasing": "antialiased",
   "workbench.panel.defaultLocation": "right",
-  "workbench.editor.closeEmptyGroups": false,
   "workbench.editor.enablePreviewFromQuickOpen": false,
 
   // Workbench Theme
