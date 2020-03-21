@@ -9,26 +9,27 @@
     "CSS": [
       "Stylelint",
       "HTML CSS Support",
-      "vscode-styled-components",
-      "CSS Flexbox Cheatsheet"
+      "CSS Flexbox Cheatsheet",
+      "vscode-styled-components"
     ],
     "JavaScript": [
       "Quokka",
       "Turbo Console Log",
-      "Paste as JSON Code",
-      "Add JSDoc Comments"
+      "Add JSDoc Comments",
+      "Paste as JSON Code"
     ],
     "React": [
       "Glean",
+      "Folderize",
       "React Native Tools",
       "Simple React Snippets",
-      "Folderize"
+      "React PropTypes Generate"
     ],
     "Code Quality": [
       "ESLint",
       "Prettier",
-      "Code Spell Checker",
-      "Formatting Toggle"
+      "Formatting Toggle",
+      "Code Spell Checker"
     ],
     "Debugging": [
       "Live Server",
@@ -38,8 +39,8 @@
     ],
     "Imports/Exports": [
       "Vandelay",
-      "Node.js Modules Intellisense",
-      "Path Intellisense"
+      "Path Intellisense",
+      "Node.js Modules Intellisense"
     ],
     "Node": ["NPM", "Import Cost", "Version Lens"],
     "Git": ["Git Lens", "Git Project Manager", "GitHub Pull Request"],
