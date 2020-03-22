@@ -24,6 +24,9 @@
 
 - [freeCodeCamp Medium - How to free up space on your developer Mac](https://medium.freecodecamp.org/how-to-free-up-space-on-your-developer-mac-f542f66ddfb)
 
+- [macOS Catalina 10.15: Setting up a Brand New Mac for Development](https://www.taniarascia.com/setting-up-a-brand-new-mac-for-development/)
+
+
 ## Visual Studio Code
 
 - [VSCode Tips and Tricks - Microsoft](https://github.com/Microsoft/vscode-tips-and-tricks)
