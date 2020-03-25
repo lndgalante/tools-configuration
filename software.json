@@ -49,7 +49,8 @@
     "torrents": "WebTorrent",
     "usb-tools": "DiskMakerX",
     "fans": "Macs Fan Control",
-    "screen-sharing": "Muzzle"
+    "screen-sharing": "Muzzle",
+    "pixe-measuring": "PixelSnap 2"
   },
   "brave-extensions": ["A Fine Start", "JSON Viewer", "OctoLinker"],
   "chrome-extensions": [
