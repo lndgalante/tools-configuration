@@ -17,7 +17,6 @@
   "editor.minimap.enabled": false,
   "explorer.compactFolders": false,
   "editor.renderWhitespace": "none",
-  "editor.snippetSuggestions": "top",
   "editor.hideCursorInOverviewRuler": true,
 
   // Editor - Formatting
@@ -33,6 +32,13 @@
   // Editor - Cursor
   "editor.cursorBlinking": "phase",
   "editor.cursorSmoothCaretAnimation": true,
+
+  // Editor - Suggestions
+  "editor.snippetSuggestions": "top",
+  "editor.quickSuggestionsDelay": 100,
+  "editor.wordBasedSuggestions": false,
+  "editor.parameterHints.enabled": true,
+  "editor.suggestOnTriggerCharacters": false,
 
   // Workbench - General
   "workbench.startupEditor": "none",
@@ -75,7 +81,7 @@
   "npm.enableScriptExplorer": false,
 
   // Terminal Customization
-  "terminal.integrated.fontSize": 16,
+  "terminal.integrated.fontSize": 18,
   "http://terminal.integrated.shell.osx": "/bin/zsh",
   "terminal.integrated.copyOnSelection": true,
   "terminal.integrated.fontFamily": "JetBrains Mono",
