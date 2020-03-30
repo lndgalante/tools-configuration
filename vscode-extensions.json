@@ -34,8 +34,8 @@
     "Debugging": [
       "Live Server",
       "Browser Preview",
-      "Debugger for Chrome",
-      "Debug Visualizer"
+      "Debug Visualizer",
+      "Debugger for Chrome"
     ],
     "Imports/Exports": [
       "Vandelay",

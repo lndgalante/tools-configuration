@@ -52,6 +52,10 @@
   "workbench.colorTheme": "Night Owl",
   "workbench.iconTheme": "material-icon-theme",
 
+  // Zen Mode
+  "zenMode.centerLayout": false,
+  "zenMode.hideLineNumbers": false,
+
   // Breadcrumbs
   "breadcrumbs.enabled": false,
 
