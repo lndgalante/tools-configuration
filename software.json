@@ -52,7 +52,8 @@
     "usb-tools": "DiskMakerX",
     "fans": "Macs Fan Control",
     "screen-sharing": "Muzzle",
-    "pixe-measuring": "PixelSnap 2"
+    "pixel-measuring": "PixelSnap 2",
+    "focus": ["Noizio", "Focus at Will"]
   },
   "brave-extensions": ["A Fine Start", "JSON Viewer", "OctoLinker"],
   "chrome-extensions": [
