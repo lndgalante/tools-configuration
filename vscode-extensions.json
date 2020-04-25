@@ -1,69 +1,26 @@
 {
   "extensions": {
-    "HTML": [
-      "HTMLHint",
-      "Auto Close Tag",
-      "Auto Rename Tag",
-      "Highlight Matching Tag"
-    ],
-    "CSS": [
-      "Stylelint",
-      "HTML CSS Support",
-      "CSS Flexbox Cheatsheet",
-      "vscode-styled-components"
-    ],
-    "JavaScript": [
-      "Quokka",
-      "Turbo Console Log",
-      "Add JSDoc Comments",
-      "Paste as JSON Code"
-    ],
-    "React": [
-      "Glean",
-      "Folderize",
-      "React Native Tools",
-      "Simple React Snippets",
-      "React PropTypes Generate"
-    ],
-    "Code Quality": [
-      "ESLint",
-      "Prettier",
-      "Formatting Toggle",
-      "Code Spell Checker"
-    ],
-    "Debugging": [
-      "Live Server",
-      "Browser Preview",
-      "Debug Visualizer",
-      "Debugger for Chrome"
-    ],
-    "Imports/Exports": [
-      "Vandelay",
-      "Path Intellisense",
-      "Node.js Modules Intellisense"
-    ],
+    "HTML": ["HTMLHint", "Auto Close Tag", "Auto Rename Tag", "Highlight Matching Tag"],
+    "CSS": ["Stylelint", "Color Highlight", "HTML CSS Support", "CSS Flexbox Cheatsheet", "vscode-styled-components"],
+    "JavaScript": ["Quokka", "Turbo Console Log", "Add JSDoc Comments", "Paste as JSON Code"],
+    "React": ["Glean", "Folderize", "React Native Tools", "Simple React Snippets", "React PropTypes Generate"],
+    "Code Quality": ["ESLint", "Prettier", "Depcheck", "Formatting Toggle", "Code Spell Checker", "CodeMetrics"],
+    "Debugging": ["Live Server", "Browser Preview", "Debug Visualizer", "Debugger for Chrome"],
+    "Imports/Exports": ["Vandelay", "Path Intellisense", "Node.js Modules Intellisense"],
     "Node": ["NPM", "Import Cost", "Version Lens"],
-    "Git": ["Git Lens", "Git Project Manager", "GitHub Pull Request"],
+    "Git": ["Emoji Log", "Git Lens", "Git Project Manager", "GitHub Pull Request"],
     "Images": ["Polacode", "SVG Viewer", "Image Preview"],
+    "Documentation": ["CodeTour", "Todo Highlight", "Copilot for VS Code"],
+    "Presentation": ["Dimmer", "VSCode HackerTyper"],
     "Utils": [
       "PWA",
       "MDX",
       "Alex",
       "Jest",
       "DotENV",
-      "Dimmer",
       "Docker",
       "Peacock",
-      "Depcheck",
-      "CodeTour",
-      "TabNine::",
-      "Emoji Log",
       "Excel Viewer",
-      "Toggle Quotes",
-      "Todo Highlight",
-      "Color Highlight",
-      "VSCode HackerTyper",
-      "Copilot for VS Code",
       "Bracket Pair Colorizer 2",
       "Markdown Preview Enhanced",
       "VS Live Share Extension Pack",
