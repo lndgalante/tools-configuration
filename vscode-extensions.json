@@ -11,7 +11,7 @@
     "Git": ["Emoji Log", "Git Lens", "Git Project Manager", "GitHub Pull Request"],
     "Images": ["Polacode", "SVG Viewer", "Image Preview"],
     "Documentation": ["CodeTour", "Todo Highlight", "Copilot for VS Code"],
-    "Presentation": ["Dimmer", "VSCode HackerTyper"],
+    "Presentation": ["Dimmer", "VSCode HackerTyper", "Power Mode"],
     "Utils": [
       "PWA",
       "MDX",
