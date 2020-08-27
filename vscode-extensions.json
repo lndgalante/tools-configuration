@@ -20,6 +20,8 @@
       "DotENV",
       "Docker",
       "Peacock",
+      "Spotify",
+      "File Size",
       "Excel Viewer",
       "Bracket Pair Colorizer 2",
       "JS Parameter Annotations",
@@ -29,6 +31,6 @@
     ]
   },
   "icon-theme": "Material Theme Icons",
-  "color-theme": "Night Owl",
+  "color-theme": "Monokai Pro | Night Owl",
   "font": "JetBrains Mono"
 }
