@@ -1,9 +1,7 @@
 {
-  "os": {
-    "linux": "Manjaro",
-    "apple": "macOS Catalina",
-    "microsoft": "Windows 10"
-  },
+  "os": "macOS Big Sur + Traf/Dusk Icons",
+  "primary-stack": ["Brave", "iTerm", "VSCode", "Figma", "Insomnia"],
+  "secondary-stack": ["Station", "Todoist", "Spotify", "ScreenFlow"],
   "tools": {
     "js-runner": "RunJS",
     "node-manager": "nvm",
@@ -22,24 +20,9 @@
     "autocorrection": "Fuck",
     "clean-node-modules": "npkill"
   },
-  "primary": {
-    "browser-1": "Firefox",
-    "browser-2": "Chrome",
-    "browser-3": "Brave"
-  },
-  "secondary": {
-    "design-tool": "Figma",
-    "code-editor": "VS Code",
-    "rest-client": "Insomnia"
-  },
-  "tertiary": {
-    "social": "Station",
-    "workspace": "Notion"
-  },
   "others": {
     "git": "Tower",
     "ntfs": "Mounty",
-    "sounds": "Noizio",
     "cleaner": "Sensei",
     "gif-recorder": "Kap",
     "video-player": "IINA",
@@ -48,12 +31,12 @@
     "mind-maps": "Whismical",
     "emoji-finder": "Rocket",
     "music-player": "Deezer",
-    "torrents": "WebTorrent",
     "usb-tools": "DiskMakerX",
     "fans": "Macs Fan Control",
     "screen-sharing": "Muzzle",
     "pixel-measuring": "PixelSnap 2",
-    "focus": ["Noizio", "Focus at Will"]
+    "sounds": "Noizio / FocusAtWill",
+    "torrents": "WebTorrent / Stremio"
   },
   "brave-extensions": ["A Fine Start", "JSON Viewer", "OctoLinker"],
   "chrome-extensions": [
