@@ -38,16 +38,16 @@
     "sounds": "Noizio / FocusAtWill",
     "torrents": "WebTorrent / Stremio"
   },
-  "brave-extensions": ["A Fine Start", "JSON Viewer", "OctoLinker"],
-  "chrome-extensions": [
+  "brave-extensions": [
     "VisBug",
+    "Octotree",
     "Grammarly",
     "Page Ruler",
     "Dimensions",
     "SVG Grabber",
-    "uBlock Origin",
-    "React Developer Tools",
-    "Redux Developer Tools",
-    "30 Seconds of Knowledge"
+    "JSON Viewer",
+    "A Fine Start",
+    "Refined GitHub",
+    "React Developer Tools"
   ]
 }
