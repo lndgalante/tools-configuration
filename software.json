@@ -1,5 +1,6 @@
 {
-  "os": "macOS Big Sur + Traf/Dusk Icons",
+  "os": "macOS Big Sur",
+  "sidecar": "eDEX-UI | iTerm",
   "primary-stack": ["Brave", "iTerm", "VSCode", "Figma", "Insomnia"],
   "secondary-stack": ["Station", "Todoist", "Spotify", "ScreenFlow"],
   "tools": {
@@ -34,6 +35,7 @@
     "usb-tools": "DiskMakerX",
     "fans": "Macs Fan Control",
     "screen-sharing": "Muzzle",
+    "icons": "Traf/Dusk Icons",
     "pixel-measuring": "PixelSnap 2",
     "sounds": "Noizio / FocusAtWill",
     "torrents": "WebTorrent / Stremio"
@@ -41,6 +43,7 @@
   "brave-extensions": [
     "VisBug",
     "Octotree",
+    "CSS Scan",
     "Grammarly",
     "Page Ruler",
     "Dimensions",
