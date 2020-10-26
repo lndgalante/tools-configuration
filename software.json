@@ -6,7 +6,6 @@
   "tools": {
     "js-runner": "RunJS",
     "node-manager": "nvm",
-    "spotlight": "Alfred",
     "package-manager": "Homebrew",
     "compression": "The Unarchiver",
     "wifi-password": "WiFi Password"
@@ -31,7 +30,7 @@
     "clipboard": "MassCode",
     "mind-maps": "Whismical",
     "emoji-finder": "Rocket",
-    "music-player": "Deezer",
+    "music-player": "Spotify",
     "usb-tools": "DiskMakerX",
     "fans": "Macs Fan Control",
     "screen-sharing": "Muzzle",
