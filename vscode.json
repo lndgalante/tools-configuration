@@ -1,7 +1,6 @@
 {
   // Window
-  "window.zoomLevel": -0.5,
-  "window.title": "${dirty} ${activeEditorMedium}${separator}${rootName}",
+ "window.title": "${dirty} ${activeEditorMedium}${separator}${rootName}",
 
   // Explorer
   "explorer.sortOrder": "type",
@@ -48,7 +47,7 @@
   "workbench.editor.enablePreviewFromQuickOpen": false,
 
   // Workbench Theme
-  "workbench.colorTheme": "Night Owl",
+  "workbench.colorTheme": "Monokai Pro (Filter Octagon)",
   "workbench.iconTheme": "material-icon-theme",
 
   // Zen Mode
@@ -82,7 +81,6 @@
 
   //  NPM
   "npm.packageManager": "yarn",
-  "npm.enableScriptExplorer": false,
 
   // Terminal Customization
   "terminal.integrated.fontSize": 18,
@@ -94,7 +92,6 @@
   "emmet.includeLanguages": {
     "javascript": "javascriptreact",
     "typescript": "javascriptreact",
-    "xml": { "attr_quotes": "single" }
   },
   "emmet.triggerExpansionOnTab": true,
   "emmet.showExpandedAbbreviation": "never",
