@@ -21,6 +21,7 @@
     "clean-node-modules": "npkill"
   },
   "others": {
+    "tv": "iptv",
     "git": "Tower",
     "ntfs": "Mounty",
     "cleaner": "Sensei",
