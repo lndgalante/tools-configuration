@@ -1,8 +1,7 @@
 {
   "os": "macOS Big Sur",
   "sidecar": "eDEX-UI | iTerm",
-  "primary-stack": ["Brave", "iTerm", "VSCode", "Figma", "Insomnia"],
-  "secondary-stack": ["Station", "Todoist", "Spotify", "ScreenFlow"],
+  "primary-stack": ["Brave", "iTerm", "VSCode", "Figma", "Insomnia", "Franz", "Spotify", "ScreenFlow"],
   "tools": {
     "js-runner": "RunJS",
     "node-manager": "nvm",
@@ -17,7 +16,7 @@
     "shell": "ZSH",
     "app": "iTerm2",
     "finder": "fzf",
-    "prompt": "Spaceship",
+    "prompt": "Starship",
     "autocorrection": "Fuck",
     "clean-node-modules": "npkill"
   },
