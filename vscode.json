@@ -38,9 +38,6 @@
   "editor.parameterHints.enabled": true,
   "editor.suggestOnTriggerCharacters": false,
 
-  // Editor - Formatter
-  "[javascript]": { "editor.defaultFormatter": "esbenp.prettier-vscode" },
-
   // ESlint
   "eslint.format.enable": false,
   "eslint.packageManager": "yarn",
@@ -65,7 +62,7 @@
   "workbench.editor.enablePreviewFromQuickOpen": false,
 
   // Workbench Theme
-  "workbench.colorTheme": "Monokai Pro (Filter Octagon)",
+  "workbench.colorTheme": "Night Owl",
   "workbench.iconTheme": "material-icon-theme",
 
   // Zen Mode
@@ -112,20 +109,29 @@
   // Emmet
   "emmet.includeLanguages": {
     "javascript": "javascriptreact",
-    "typescript": "javascriptreact"
+    "typescript": "javascriptreact",
   },
   "emmet.triggerExpansionOnTab": true,
   "emmet.showExpandedAbbreviation": "never",
 
-  // JavaScript
-  "javascript.implicitProjectConfig.checkJs": true
+  // JavaScript / TypeScript
+  "javascript.implicitProjectConfig.checkJs": true,
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
 
   // Recording
   // ,"editor.rulers": [],
+  // "editor.fontSize": 20,
   // "editor.fontLigatures": false,
   // "editor.quickSuggestions": false,
   // "editor.quickSuggestionsDelay": 1000000,
   // "editor.parameterHints.enabled": false,
   // "gitlens.mode.active": "zen",
-  // "editor.lightbulb.enabled": false
+  // "editor.lightbulb.enabled": false,
+  // "workbench.statusBar.visible": true,
+  // "editor.suggestSelection": "first"
 }
