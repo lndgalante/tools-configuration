@@ -26,7 +26,7 @@
   "editor.fontSize": 20,
   "editor.fontWeight": "500",
   "editor.fontLigatures": true,
-  "editor.fontFamily": "MonoLisa",
+  "editor.fontFamily": "JetBrains Mono",
 
   // Editor - Cursor
   "editor.cursorBlinking": "phase",
@@ -100,7 +100,7 @@
   // Terminal Customization
   "terminal.integrated.fontSize": 18,
   "terminal.integrated.copyOnSelection": true,
-  "terminal.integrated.fontFamily": "MonoLisa",
+  "terminal.integrated.fontFamily": "JetBrains Mono",
 
   // Turbo Console log
   "turboConsoleLog.logMessagePrefix": "\\n",
@@ -125,7 +125,6 @@
 
   // Recording
   // ,"editor.rulers": [],
-  // "editor.fontSize": 20,
   // "editor.fontLigatures": false,
   // "editor.quickSuggestions": false,
   // "editor.quickSuggestionsDelay": 1000000,
