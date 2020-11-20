@@ -23,10 +23,10 @@
   "editor.codeActionsOnSave": { "source.fixAll.eslint": false },
 
   // Editor - Fonts
-  "editor.fontSize": 18,
+  "editor.fontSize": 20,
   "editor.fontWeight": "500",
   "editor.fontLigatures": true,
-  "editor.fontFamily": "JetBrains Mono",
+  "editor.fontFamily": "MonoLisa",
 
   // Editor - Cursor
   "editor.cursorBlinking": "phase",
@@ -100,7 +100,7 @@
   // Terminal Customization
   "terminal.integrated.fontSize": 18,
   "terminal.integrated.copyOnSelection": true,
-  "terminal.integrated.fontFamily": "JetBrains Mono",
+  "terminal.integrated.fontFamily": "MonoLisa",
 
   // Turbo Console log
   "turboConsoleLog.logMessagePrefix": "\\n",
