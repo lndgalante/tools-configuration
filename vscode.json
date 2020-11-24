@@ -23,7 +23,7 @@
   "editor.codeActionsOnSave": { "source.fixAll.eslint": false },
 
   // Editor - Fonts
-  "editor.fontSize": 20,
+  "editor.fontSize": 18,
   "editor.fontWeight": "500",
   "editor.fontLigatures": true,
   "editor.fontFamily": "JetBrains Mono",
