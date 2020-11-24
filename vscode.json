@@ -121,10 +121,16 @@
   },
   "[typescriptreact]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
-  }
+  },
+
+  // Customize UI
+  "window.titleBarStyle": "native",
+  "customizeUI.titleBar": "inline",
+  "customizeUI.listRowHeight": 20
 
   // Recording
   // ,"editor.rulers": [],
+  // "editor.fontSize": 20,
   // "editor.fontLigatures": false,
   // "editor.quickSuggestions": false,
   // "editor.quickSuggestionsDelay": 1000000,
