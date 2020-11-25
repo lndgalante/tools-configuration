@@ -1,7 +1,7 @@
 {
   "os": "macOS Big Sur",
   "sidecar": "eDEX-UI | iTerm",
-  "primary-stack": ["Brave", "iTerm", "VSCode", "Figma", "Insomnia", "Franz", "Spotify", "ScreenFlow"],
+  "primary-stack": ["Brave", "iTerm", "VSCode", "Figma", "Spotify", "ScreenFlow", "Insomnia (+ Gist/Save access token/Faker)"],
   "tools": {
     "js-runner": "RunJS",
     "node-manager": "nvm",
