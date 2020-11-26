@@ -20,7 +20,7 @@
 
   // Editor - Formatting
   "editor.formatOnSave": true,
-  "editor.codeActionsOnSave": { "source.fixAll.eslint": false },
+  "editor.codeActionsOnSave": { "source.fixAll.eslint": true },
 
   // Editor - Fonts
   "editor.fontSize": 18,
@@ -45,7 +45,7 @@
   "eslint.validate": ["javascript", "javascriptreact", "typescript", "typescriptreact"],
 
   // Prettier
-  "prettier.semi": true,
+  "prettier.semi": false,
   "prettier.tabWidth": 2,
   "prettier.printWidth": 120,
   "prettier.singleQuote": true,
@@ -103,8 +103,9 @@
   "terminal.integrated.fontFamily": "JetBrains Mono",
 
   // Turbo Console log
-  "turboConsoleLog.logMessagePrefix": "\\n",
   "turboConsoleLog.quote": "'",
+  "turboConsoleLog.logMessagePrefix": "\\n",
+  "turboConsoleLog.includeFileNameAndLineNum": false,
 
   // Emmet
   "emmet.includeLanguages": {
