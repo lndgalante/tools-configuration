@@ -47,9 +47,11 @@
   "brave-extensions": [
     "VisBug",
     "Reactime",
+    "CleanGuru",
     "Octotree",
     "CSS Scan",
     "Grammarly",
+    "Wappalyzer",
     "Page Ruler",
     "Dimensions",
     "SVG Grabber",
