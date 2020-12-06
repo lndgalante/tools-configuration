@@ -16,6 +16,7 @@
     "shell": "ZSH",
     "app": "iTerm2",
     "finder": "fzf",
+    "info": "netofetch",
     "prompt": "Starship",
     "autocorrection": "Fuck",
     "clean-node-modules": "npkill"
