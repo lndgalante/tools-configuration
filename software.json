@@ -11,6 +11,7 @@
     "password-manager": "OnePassword"
   },
   "terminal": {
+    "ls": "tree",
     "json": "fx",
     "help": "Navi",
     "shell": "ZSH",
@@ -47,6 +48,7 @@
   },
   "brave-extensions": [
     "VisBug",
+    "CodeCopy",
     "Reactime",
     "CleanGuru",
     "Octotree",
