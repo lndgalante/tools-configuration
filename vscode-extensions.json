@@ -1,7 +1,7 @@
 {
   "extensions": {
     "HTML": ["HTMLHint", "Auto Close Tag", "Auto Rename Tag", "Highlight Matching Tag"],
-    "CSS": ["Stylelint", "Color Highlight", "Color Info", "HTML CSS Support", "CSS Flexbox Cheatsheet", "vscode-styled-components"],
+    "CSS": ["Stylelint", "Color Highlight", "Color Info", "HTML CSS Support", "CSS Flexbox Cheatsheet", "vscode-styled-components", "Headwind"],
     "JavaScript": ["Quokka", "Turbo Console Log", "Add JSDoc Comments", "Paste as JSON Code", "Template String Converter"],
     "React": ["Glean", "Folderize", "React Native Tools", "Simple React Snippets", "React PropTypes Generate"],
     "Code Quality": ["ESLint", "Prettier", "Depcheck", "Formatting Toggle", "Code Spell Checker", "CodeMetrics"],
