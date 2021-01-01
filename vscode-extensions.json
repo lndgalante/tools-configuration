@@ -9,9 +9,10 @@
     "Imports/Exports": ["Vandelay", "Path Intellisense", "Node.js Modules Intellisense"],
     "Node": ["NPM", "Import Cost", "Version Lens"],
     "Git": ["Emoji Log", "Git Lens", "Git Project Manager", "GitHub Pull Request"],
-    "Images": ["SVG Viewer", "Image Preview"],
-    "Documentation": ["CodeTour", "Todo Highlight", "Copilot for VS Code"],
+    "Images": ["SVG Viewer", "Image Preview", "Placeholder Images"],
+    "Documentation": ["CodeTour", "Todo Highlight", "Todo Tree", "Copilot for VS Code"],
     "Presentation": ["Dimmer", "VSCode HackerTyper", "Power Mode", "SnapCode"],
+    "Productivity": ["Code Time"],
     "Utils": [
       "PWA",
       "MDX",
