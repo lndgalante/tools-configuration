@@ -29,8 +29,8 @@
     "ntfs": "Mounty",
     "calendar": "Dato",
     "cleaner": "Sensei",
-    "color-picker": "Sip",
     "gif-recorder": "Kap",
+    "color-picker": "Pika",
     "video-player": "IINA",
     "menu-bar": "Bartender",
     "clipboard": "MassCode",
@@ -46,7 +46,7 @@
     "focus": "BeFocused/HeyFocus",
     "icons": "macOS Big Sur Icons",
     "pixel-measuring": "PixelSnap 2",
-    "sounds": "Noizio / FocusAtWill",
+ :    "sounds": "Noizio / FocusAtWill",
     "torrents": "WebTorrent / Stremio"
   },
   "brave-extensions": [
