@@ -1,8 +1,22 @@
 {
   "extensions": {
     "HTML": ["HTMLHint", "Auto Close Tag", "Auto Rename Tag", "Highlight Matching Tag"],
-    "CSS": ["Stylelint", "Color Highlight", "Color Info", "HTML CSS Support", "CSS Flexbox Cheatsheet", "vscode-styled-components", "Headwind"],
-    "JavaScript": ["Quokka", "Turbo Console Log", "Add JSDoc Comments", "Paste as JSON Code", "Template String Converter"],
+    "CSS": [
+      "Stylelint",
+      "Color Highlight",
+      "Color Info",
+      "HTML CSS Support",
+      "CSS Flexbox Cheatsheet",
+      "vscode-styled-components",
+      "Headwind"
+    ],
+    "JavaScript": [
+      "Quokka",
+      "Turbo Console Log",
+      "Add JSDoc Comments",
+      "Paste as JSON Code",
+      "Template String Converter"
+    ],
     "React": ["Glean", "Folderize", "React Native Tools", "Simple React Snippets", "React PropTypes Generate"],
     "Code Quality": ["ESLint", "Prettier", "Depcheck", "Formatting Toggle", "Code Spell Checker", "CodeMetrics"],
     "Debugging": ["Live Server", "Browser Preview", "Debug Visualizer", "Debugger for Chrome"],
@@ -12,7 +26,7 @@
     "Images": ["SVG Viewer", "Image Preview", "Placeholder Images"],
     "Documentation": ["CodeTour", "Todo Highlight", "Todo Tree", "Copilot for VS Code"],
     "Presentation": ["Dimmer", "VSCode HackerTyper", "Power Mode", "SnapCode"],
-    "Productivity": ["Code Time"],
+    "Productivity": ["Code Time", "Visual Studio IntelliCode - Preview", "TabNine"],
     "Utils": [
       "PWA",
       "MDX",
@@ -30,8 +44,7 @@
       "Bracket Pair Colorizer 2",
       "JS Parameter Annotations",
       "Markdown Preview Enhanced",
-      "VS Live Share Extension Pack",
-      "Visual Studio IntelliCode - Preview"
+      "VS Live Share Extension Pack"
     ]
   },
   "icon-theme": "Material Theme Icons",
