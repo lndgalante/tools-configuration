@@ -6,6 +6,8 @@
 
 ## macOS
 
+- [macOS - Screen config](https://tonsky.me/blog/monitors/)
+
 - [Awesome macOS](https://github.com/iCHAIT/awesome-macOS#readme)
 
 - [macDevSetup](https://github.com/nicolashery/mac-dev-setup)
@@ -25,7 +27,6 @@
 - [freeCodeCamp Medium - How to free up space on your developer Mac](https://medium.freecodecamp.org/how-to-free-up-space-on-your-developer-mac-f542f66ddfb)
 
 - [macOS Catalina 10.15: Setting up a Brand New Mac for Development](https://www.taniarascia.com/setting-up-a-brand-new-mac-for-development/)
-
 
 ## Visual Studio Code
 
