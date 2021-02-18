@@ -1,7 +1,7 @@
 {
   "os": "macOS Big Sur",
   "sidecar": "eDEX-UI | iTerm",
-  "primary-stack": ["Brave", "iTerm", "VSCode", "Figma", "Spotify", "ScreenFlow", "Insomnia (+ Gist/Save access token/Faker)"],
+  "primary-stack": ["Brave", "iTerm", "VSCode", "Figma", "Spotify", "Insomnia", "ScreenFlow"],
   "tools": {
     "js-runner": "RunJS",
     "node-manager": "nvm",
@@ -40,13 +40,14 @@
     "music-player": "Spotify",
     "usb-tools": "DiskMakerX",
     "fans": "Macs Fan Control",
+    "battery": "Battery Buddy",
     "screen-sharing": "Muzzle",
     "monitor": "MonitorControl",
     "logitech": "Logitech G Hub",
     "focus": "BeFocused/HeyFocus",
     "icons": "macOS Big Sur Icons",
     "pixel-measuring": "PixelSnap 2",
- :    "sounds": "Noizio / FocusAtWill",
+    "sounds": "Noizio / FocusAtWill",
     "torrents": "WebTorrent / Stremio"
   },
   "brave-extensions": [
