@@ -1,6 +1,6 @@
 {
   // Window
- "window.title": "${dirty} ${activeEditorMedium}${separator}${rootName}",
+  "window.title": "${dirty} ${activeEditorMedium}${separator}${rootName}",
 
   // Explorer
   "explorer.sortOrder": "type",
@@ -36,7 +36,9 @@
   "editor.snippetSuggestions": "top",
   "editor.wordBasedSuggestions": false,
   "editor.parameterHints.enabled": true,
-  "editor.suggestOnTriggerCharacters": false,
+  "editor.suggest.showStatusBar": true,
+  "editor.suggest.insertMode": "insert",
+  "editor.suggestSelection": "first",
 
   // ESlint
   "eslint.format.enable": false,
@@ -89,6 +91,7 @@
   // Files
   "files.insertFinalNewline": true,
   "files.trimTrailingWhitespace": true,
+  "files.defaultLanguage": "${activeEditorLanguage}",
 
   // Git
   "git.autofetch": true,
@@ -110,35 +113,41 @@
   // Emmet
   "emmet.includeLanguages": {
     "javascript": "javascriptreact",
-    "typescript": "javascriptreact",
+    "typescript": "javascriptreact"
   },
   "emmet.triggerExpansionOnTab": true,
   "emmet.showExpandedAbbreviation": "never",
 
-  // JavaScript / TypeScript
+  // JavaScript / TypeScript / JSON
   "js/ts.implicitProjectConfig.checkJs": true,
   "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "[typescriptreact]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
 
   // Customize UI
-  "window.titleBarStyle": "native",
-  "customizeUI.titleBar": "inline",
-  "customizeUI.listRowHeight": 20
+  "customizeUI.listRowHeight": 20,
+
+  // Intellicode
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue"
 
   // Recording
-  // ,"editor.rulers": [],
-  // "editor.fontSize": 20,
-  // "editor.fontLigatures": false,
-  // "editor.quickSuggestions": false,
-  // "editor.quickSuggestionsDelay": 1000000,
-  // "editor.parameterHints.enabled": false,
-  // "gitlens.mode.active": "zen",
-  // "editor.lightbulb.enabled": false,
-  // "workbench.statusBar.visible": true,
-  // "editor.suggestSelection": "first",
-  //  "js/ts.implicitProjectConfig.checkJs": false,
+  /*  "editor.rulers": [],
+  "editor.fontSize": 20,
+  "editor.fontLigatures": false,
+  "editor.quickSuggestions": false,
+  "editor.quickSuggestionsDelay": 1000000,
+  "editor.parameterHints.enabled": false,
+  "gitlens.mode.active": "zen",
+  "editor.lightbulb.enabled": false,
+  "workbench.statusBar.visible": true,
+  "js/ts.implicitProjectConfig.checkJs": false */
 }
