@@ -3,6 +3,7 @@
   "sidecar": "eDEX-UI | iTerm",
   "primary-stack": ["Brave", "iTerm", "VSCode", "Figma", "Spotify", "Insomnia", "ScreenFlow"],
   "tools": {
+    "monitoring": "eul",
     "js-runner": "RunJS",
     "node-manager": "nvm",
     "dev-utils": "DevUtils",
