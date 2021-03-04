@@ -1,5 +1,9 @@
 # Tools personal config
 
+## Music
+
+- [Coding in Chicago | 🎧 LoFi Jazz Hip-Hop [Code - Relax - Study](https://www.youtube.com/watch?v=esX7SFtEjHg)
+
 ## Setup Scripts
 
 - [Formation - macOS setup script for front-end development](https://github.com/minamarkham/formation)
