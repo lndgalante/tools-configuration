@@ -1,14 +1,44 @@
 {
-  "extensions": {
+  "font": "JetBrains Mono",
+  "icon-theme": "Material Theme Icons",
+  "color-theme": "Monokai Pro | Night Owl",
+  "primary": {
+    "HTML": ["HTMLHint", "Auto Close Tag", "Auto Rename Tag", "Highlight Matching Tag"],
+    "CSS": ["Stylelint", "Color Info", "HTML CSS Support", "Headwind"],
+    "JavaScript": ["Quokka", "Turbo Console Log", "Paste as JSON Code", "Template String Converter"],
+    "React": ["React Native Tools", "Simple React Snippets"],
+    "Code Quality": ["ESLint", "Prettier", "Code Spell Checker", "CodeMetrics"],
+    "Debugging": ["Live Server", "Microsoft Edge Tools for VS Code", "Debug Visualizer"],
+    "Imports/Exports": ["Path Intellisense", "Node.js Modules Intellisense", "Import Cost"],
+    "Node": ["NPM", "Version Lens"],
+    "Git": ["Emoji Log", "Git Lens", "Git File History"],
+    "Images": ["SVG Viewer", "Image Preview"],
+    "Documentation": ["CodeTour", "Todo Highlight"],
+    "Presentation": ["SnapCode"],
+    "Productivity": ["Visual Studio IntelliCode - Preview", "TabNine"],
+    "Utils": [
+      "MDX",
+      "DotENV",
+      "Winddown",
+      "File Size",
+      "Excel Viewer",
+      "VS Code Counter",
+      "Bracket Pair Colorizer 2",
+      "Markdown Preview Enhanced",
+      "Draw.io VS Code Integration",
+      "VS Live Share Extension Pack"
+    ]
+  },
+  "all": {
     "HTML": ["HTMLHint", "Auto Close Tag", "Auto Rename Tag", "Highlight Matching Tag"],
     "CSS": [
+      "Headwind",
       "Stylelint",
-      "Color Highlight",
       "Color Info",
+      "Color Highlight",
       "HTML CSS Support",
       "CSS Flexbox Cheatsheet",
-      "vscode-styled-components",
-      "Headwind"
+      "vscode-styled-components"
     ],
     "JavaScript": [
       "Quokka",
@@ -17,12 +47,12 @@
       "Paste as JSON Code",
       "Template String Converter"
     ],
-    "React": ["Glean", "Folderize", "React Native Tools", "Simple React Snippets", "React PropTypes Generate"],
+    "React": ["Glean", "React Native Tools", "Simple React Snippets", "React PropTypes Generate"],
     "Code Quality": ["ESLint", "Prettier", "Depcheck", "Formatting Toggle", "Code Spell Checker", "CodeMetrics"],
-    "Debugging": ["Live Server", "Browser Preview", "Debug Visualizer", "Debugger for Chrome"],
-    "Imports/Exports": ["Vandelay", "Path Intellisense", "Node.js Modules Intellisense"],
-    "Node": ["NPM", "Import Cost", "Version Lens"],
-    "Git": ["Emoji Log", "Git Lens", "Git Project Manager", "GitHub Pull Request", "Git File History"],
+    "Debugging": ["Live Server", "Microsoft Edge Tools for VS Code", "Debug Visualizer", "Debugger for Chrome"],
+    "Imports/Exports": ["Vandelay", "Path Intellisense", "Node.js Modules Intellisense", "Import Cost"],
+    "Node": ["NPM", "Version Lens", "View Node Package"],
+    "Git": ["Emoji Log", "Git Lens", "Git Project Manager", "GitHub Pull Request", "Git File History", "Gitlink"],
     "Images": ["SVG Viewer", "Image Preview", "Placeholder Images"],
     "Documentation": ["CodeTour", "Todo Highlight", "Todo Tree", "Copilot for VS Code"],
     "Presentation": ["Dimmer", "VSCode HackerTyper", "Power Mode", "SnapCode"],
@@ -41,15 +71,11 @@
       "Excel Viewer",
       "Customize UI",
       "VS Code Counter",
-      "Debug Visualizer",
       "Bracket Pair Colorizer 2",
       "JS Parameter Annotations",
       "Markdown Preview Enhanced",
       "Draw.io VS Code Integration",
       "VS Live Share Extension Pack"
     ]
-  },
-  "icon-theme": "Material Theme Icons",
-  "color-theme": "Monokai Pro | Night Owl",
-  "font": "MonoLisa"
+  }
 }
