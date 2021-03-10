@@ -1,6 +1,5 @@
 {
   "os": "macOS Big Sur",
-  "sidecar": "eDEX-UI | iTerm",
   "primary-stack": ["Brave", "iTerm", "VSCode", "Figma", "Spotify", "Insomnia", "ScreenFlow"],
   "tools": {
     "monitoring": "eul",
@@ -21,6 +20,7 @@
     "finder": "fzf",
     "info": "neofetch",
     "prompt": "Starship",
+    "futuristic": "eDEX-UI",
     "autocorrection": "Fuck",
     "clean-node-modules": "npkill"
   },
