@@ -20,6 +20,7 @@
     "finder": "fzf",
     "info": "neofetch",
     "prompt": "Starship",
+    "autocompletion": "Fig",
     "futuristic": "eDEX-UI",
     "autocorrection": "Fuck",
     "clean-node-modules": "npkill"
