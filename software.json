@@ -5,7 +5,7 @@
     "monitoring": "eul",
     "js-runner": "RunJS",
     "node-manager": "nvm",
-    "dev-utils": "DevUtils",
+    "dev-utils": "Dash/DevUtils",
     "package-manager": "Homebrew",
     "compression": "The Unarchiver",
     "wifi-password": "WiFi Password",
