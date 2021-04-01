@@ -49,10 +49,10 @@
     "monitor": "MonitorControl",
     "logitech": "Logitech G Hub",
     "focus": "BeFocused/HeyFocus",
-    "icons": "macOS Big Sur Icons",
     "pixel-measuring": "PixelSnap 2",
     "sounds": "Noizio / FocusAtWill",
-    "torrents": "WebTorrent / Stremio"
+    "torrents": "WebTorrent / Stremio",
+    "icons": "macOS Big Sur Icons + Pictogram"
   },
   "brave-extensions": [
     "VisBug",
