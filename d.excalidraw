@@ -1,0 +1,72 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://excalidraw.com",
+  "elements": [
+    {
+      "type": "ellipse",
+      "version": 60,
+      "versionNonce": 1374289356,
+      "isDeleted": false,
+      "id": "AiKwMOjiQLeMp_NsFxyWb",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 560.4676818847656,
+      "y": 190.4793701171875,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "width": 694.3960876464844,
+      "height": 694.3960876464844,
+      "seed": 1619012300,
+      "groupIds": [],
+      "strokeSharpness": "sharp",
+      "boundElementIds": []
+    },
+    {
+      "type": "arrow",
+      "version": 53,
+      "versionNonce": 1884721396,
+      "isDeleted": false,
+      "id": "KehSc2S3eELSIbtDv7GqI",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 1311.63818359375,
+      "y": 546.5629272460938,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "width": 204.1431884765625,
+      "height": 3.5418701171875,
+      "seed": 1203521652,
+      "groupIds": [],
+      "strokeSharpness": "round",
+      "boundElementIds": [],
+      "startBinding": null,
+      "endBinding": null,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          204.1431884765625,
+          -3.5418701171875
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startArrowhead": null,
+      "endArrowhead": "arrow"
+    }
+  ],
+  "appState": {
+    "gridSize": null,
+    "viewBackgroundColor": "#ffffff"
+  }
+}
