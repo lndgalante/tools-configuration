@@ -1,0 +1,38 @@
+{
+  "software": ["Brave", "iTerm", "VSCode", "Figma", "Spotify", "Insomnia", "ScreenFlow"],
+  "vscode": {
+    "color-theme": "Ariake",
+    "font": "JetBrains Mono",
+    "icon-theme": "Material Theme Icons",
+    "extensions": {
+      "HTML": ["HTMLHint", "Auto Close Tag", "Auto Rename Tag", "Highlight Matching Tag"],
+      "CSS": ["Stylelint", "Color Info", "HTML CSS Support", "Headwind"],
+      "JavaScript": ["Quokka", "Turbo Console Log", "Paste as JSON Code", "Template String Converter"],
+      "React": ["React Native Tools", "Simple React Snippets"],
+      "Code Quality": ["ESLint", "Prettier", "Code Spell Checker", "CodeMetrics"],
+      "Debugging": ["Live Server", "Browser Preview", "Debug Visualizer"],
+      "Imports/Exports": ["Path Intellisense", "Node.js Modules Intellisense", "Import Cost"],
+      "Node": ["NPM", "Version Lens"],
+      "Git": ["Emoji Log", "Git Lens", "Git File History"],
+      "Images": ["SVG Viewer", "Image Preview"],
+      "Documentation": ["CodeTour", "Todo Highlight"],
+      "Presentation": ["SnapCode"],
+      "Productivity": ["Visual Studio IntelliCode - Preview", "TabNine"],
+      "Utils": [
+        "MDX",
+        "DotENV",
+        "Winddown",
+        "File Size",
+        "Excel Viewer",
+        "Easy Snippets",
+        "VS Code Counter",
+        "Project Manager",
+        "Excalidraw integration",
+        "Bracket Pair Colorizer 2",
+        "Markdown Preview Enhanced",
+        "Draw.io VS Code Integration",
+        "VS Live Share Extension Pack"
+      ]
+    }
+  }
+}
