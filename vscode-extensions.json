@@ -19,6 +19,7 @@
     "Paste as JSON Code",
     "Template String Converter"
   ],
+  "TypeScript": ["JavaScript and TypeScript Nightly"],
   "React": ["Glean", "React Native Tools", "Simple React Snippets", "React PropTypes Generate"],
   "Code Quality": ["ESLint", "Prettier", "Depcheck", "Formatting Toggle", "Code Spell Checker", "CodeMetrics"],
   "Debugging": ["Live Server", "Browser Preview", "Debug Visualizer", "Debugger for Chrome"],

@@ -8,6 +8,7 @@
       "HTML": ["HTMLHint", "Auto Close Tag", "Auto Rename Tag", "Highlight Matching Tag"],
       "CSS": ["Stylelint", "Color Info", "HTML CSS Support", "Headwind"],
       "JavaScript": ["Quokka", "Turbo Console Log", "Paste as JSON Code", "Template String Converter"],
+      "TypeScript": ["JavaScript and TypeScript Nightly"],
       "React": ["React Native Tools", "Simple React Snippets"],
       "Code Quality": ["ESLint", "Prettier", "Code Spell Checker", "CodeMetrics"],
       "Debugging": ["Live Server", "Browser Preview", "Debug Visualizer"],
@@ -31,7 +32,8 @@
         "Bracket Pair Colorizer 2",
         "Markdown Preview Enhanced",
         "Draw.io VS Code Integration",
-        "VS Live Share Extension Pack"
+        "VS Live Share Extension Pack",
+        "JavaScript and TypeScript Nightly"
       ]
     }
   }
