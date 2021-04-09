@@ -23,7 +23,7 @@
     "autocompletion": "Fig",
     "futuristic": "eDEX-UI",
     "autocorrection": "Fuck",
-    "clean-node-modules": "npkill"
+    "clean-node-modules": "autarky"
   },
   "others": {
     "tv": "iptv",
@@ -45,12 +45,13 @@
     "fans": "Macs Fan Control",
     "battery": "Battery Buddy",
     "screen-sharing": "Muzzle",
-    "monitor": "MonitorControl",
     "logitech": "Logitech G Hub",
     "focus": "BeFocused/HeyFocus",
+    "video-thumbnails": "QLVideo",
+    "sounds": "Noizio/FocusAtWill",
     "pixel-measuring": "PixelSnap 2",
-    "sounds": "Noizio / FocusAtWill",
-    "torrents": "WebTorrent / Stremio",
+    "torrents": "WebTorren /Stremio",
+    "monitor": "MonitorControl/Rectangle",
     "icons": "macOS Big Sur Icons + Pictogram"
   },
   "brave-extensions": [
