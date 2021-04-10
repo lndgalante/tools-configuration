@@ -25,6 +25,9 @@
     "autocorrection": "Fuck",
     "clean-node-modules": "autarky"
   },
+  "webapps": {
+    "github": "github1s"
+  },
   "others": {
     "tv": "iptv",
     "git": "Tower",

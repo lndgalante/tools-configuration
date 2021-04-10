@@ -9,7 +9,7 @@
       "CSS": ["Stylelint", "Color Info", "HTML CSS Support", "Headwind"],
       "JavaScript": ["Quokka", "Turbo Console Log", "Paste as JSON Code", "Template String Converter"],
       "TypeScript": ["JavaScript and TypeScript Nightly"],
-      "React": ["React Native Tools", "Simple React Snippets"],
+      "React": ["Simple React Snippets", "Convert Object to JSX"],
       "Code Quality": ["ESLint", "Prettier", "Code Spell Checker", "CodeMetrics"],
       "Debugging": ["Live Server", "Browser Preview", "Debug Visualizer"],
       "Imports/Exports": ["Path Intellisense", "Node.js Modules Intellisense", "Import Cost"],
