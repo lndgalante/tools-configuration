@@ -1,5 +1,5 @@
 {
-  "software": ["Brave", "iTerm", "VSCode", "Figma", "Spotify", "Insomnia", "ScreenFlow"],
+  "software": ["Brave", "iTerm", "VSCode", "Figma", "Spotify", "Insomnia", "ScreenFlow", "Notion"],
   "vscode": {
     "color-theme": "Ariake",
     "font": "JetBrains Mono",
@@ -18,22 +18,22 @@
       "Images": ["SVG Viewer", "Image Preview"],
       "Documentation": ["CodeTour", "Todo Highlight"],
       "Presentation": ["SnapCode"],
-      "Productivity": ["Visual Studio IntelliCode - Preview", "TabNine"],
+      "Productivity": ["Visual Studio IntelliCode - Preview", "TabNine", "Winddown"],
       "Utils": [
         "MDX",
         "DotENV",
-        "Winddown",
+        "Docker",
         "File Size",
-        "Excel Viewer",
+        "Total Lines",
         "Easy Snippets",
         "VS Code Counter",
         "Project Manager",
+        "Insert Date String",
         "Excalidraw integration",
         "Bracket Pair Colorizer 2",
         "Markdown Preview Enhanced",
         "Draw.io VS Code Integration",
-        "VS Live Share Extension Pack",
-        "JavaScript and TypeScript Nightly"
+        "VS Live Share Extension Pack"
       ]
     }
   }
