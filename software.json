@@ -4,6 +4,7 @@
     "monitoring": "eul",
     "js-runner": "RunJS",
     "node-manager": "nvm",
+    "database": "TablePlus",
     "dev-utils": "Dash/DevUtils",
     "package-manager": "Homebrew",
     "compression": "The Unarchiver",
