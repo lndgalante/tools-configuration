@@ -1,5 +1,5 @@
 {
-  "software": ["Brave", "iTerm", "VSCode", "Figma", "Spotify", "Insomnia", "ScreenFlow", "Notion"],
+  "software": ["Brave", "iTerm", "VSCode", "Figma", "Spotify", "ScreenFlow", "Notion"],
   "vscode": {
     "color-theme": "Ariake",
     "font": "JetBrains Mono",
@@ -26,6 +26,7 @@
         "File Size",
         "Total Lines",
         "Easy Snippets",
+        "Thunder Client",
         "VS Code Counter",
         "Project Manager",
         "Insert Date String",
