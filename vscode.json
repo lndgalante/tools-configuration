@@ -64,7 +64,7 @@
   "workbench.editor.enablePreviewFromQuickOpen": false,
 
   // Workbench Theme
-  "workbench.colorTheme": "Night Owl",
+  "workbench.colorTheme": "Ariake Dark",
   "workbench.iconTheme": "material-icon-theme",
 
   // Zen Mode
