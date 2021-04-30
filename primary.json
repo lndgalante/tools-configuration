@@ -21,7 +21,7 @@
     "icon-theme": "Material Theme Icons",
     "extensions": {
       "HTML": ["HTMLHint", "Auto Close Tag", "Auto Rename Tag", "Highlight Matching Tag"],
-      "CSS": ["Stylelint", "Color Info", "HTML CSS Support", "Headwind"],
+      "CSS": ["Stylelint", "Color Info", "HTML CSS Support", "Headwind", "Tailwind CSS IntelliSense"],
       "JavaScript": ["Quokka", "Turbo Console Log", "Paste as JSON Code", "Template String Converter"],
       "TypeScript": ["JavaScript and TypeScript Nightly"],
       "React": ["Simple React Snippets", "Convert Object to JSX"],
