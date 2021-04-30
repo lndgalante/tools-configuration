@@ -1,5 +1,20 @@
 {
-  "software": ["Brave", "iTerm", "VSCode", "Figma", "Spotify", "ScreenFlow", "Notion"],
+  "primary-dock": ["Brave", "VSCode", "Figma", "Spotify"],
+  "secondary-dock": [
+    "iTerm",
+    "Notion",
+    "1Password",
+    "ScreenFlow",
+    "DevUtils",
+    "Dash",
+    "RunJS",
+    "Kap",
+    "TablePlus",
+    "TunnelBlick",
+    "Stremio",
+    "Edex-UI",
+    "CleanMyMac"
+  ],
   "vscode": {
     "color-theme": "Ariake",
     "font": "JetBrains Mono",
