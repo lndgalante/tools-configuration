@@ -10,6 +10,8 @@
 
 ## macOS
 
+- [macOS Security and Privacy Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide)
+
 - [macOS - Screen config](https://tonsky.me/blog/monitors/)
 
 - [Awesome macOS](https://github.com/iCHAIT/awesome-macOS#readme)
