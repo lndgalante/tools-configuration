@@ -40,6 +40,7 @@
       "Documentation": ["CodeTour", "Todo Highlight"],
       "Presentation": ["SnapCode"],
       "Productivity": ["Visual Studio IntelliCode - Preview", "TabNine", "Winddown"],
+      "Regexp": ["Regex Workbench", "Regex Preview and Editor"],
       "Utils": [
         "MDX",
         "DotENV",
