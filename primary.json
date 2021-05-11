@@ -1,6 +1,6 @@
 {
-  "primary-dock": ["Brave", "VSCode", "Figma", "Spotify"],
-  "secondary-dock": [
+  "macos-dock": ["Brave", "VSCode", "Figma", "Spotify"],
+  "ubar-dock": [
     "iTerm",
     "Firefox",
     "Docker",
