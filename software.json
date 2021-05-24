@@ -60,6 +60,7 @@
     "icons": "macOS Big Sur Icons + Pictogram"
   },
   "brave-extensions": [
+    "Tamper",
     "VisBug",
     "NPMHub",
     "CodeCopy",
