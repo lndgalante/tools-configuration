@@ -34,6 +34,8 @@
 
 - [macOS Catalina 10.15: Setting up a Brand New Mac for Development](https://www.taniarascia.com/setting-up-a-brand-new-mac-for-development/)
 
+- [Shawn - My 2021 New Mac Setup](https://www.swyx.io/new-mac-setup-2021/)
+
 ## Visual Studio Code
 
 - [VSCode Tips and Tricks - Microsoft](https://github.com/Microsoft/vscode-tips-and-tricks)
