@@ -62,5 +62,10 @@
         "VS Live Share Extension Pack"
       ]
     }
+  },
+  "snappify": {
+    "background": "blue",
+    "font": "MonaLisa",
+    "theme": "Monokai"
   }
 }
