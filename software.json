@@ -7,10 +7,10 @@
     "timezones": "ThereHQ",
     "database": "TablePlus",
     "dev-utils": "Dash/DevUtils",
-    "package-manager": "Homebrew",
     "compression": "The Unarchiver",
     "wifi-password": "WiFi Password",
-    "password-manager": "OnePassword"
+    "password-manager": "OnePassword",
+    "package-manager": "Homebrew/Cakebrew"
   },
   "terminal": {
     "ls": "tree",
