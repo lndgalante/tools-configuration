@@ -1,7 +1,7 @@
 {
   "macos-dock": ["Brave", "VSCode", "Figma", "Spotify"],
   "ubar-dock": [
-    "Warp",
+    "iTerm",
     "Firefox",
     "Docker",
     "Notion",
@@ -22,7 +22,8 @@
     "Steam",
     "Slack",
     "Ableton Live",
-    "Atani"
+    "Atani",
+    "Parallels"
   ],
   "vscode": {
     "color-theme": "Ariake",

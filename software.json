@@ -35,9 +35,11 @@
     "git": "Tower",
     "ntfs": "Mounty",
     "calendar": "Dato",
-    "cleaner": "Sensei",
+    "cleaner": "CleanMyMacX",
+    "timezones": "FlagTimes",
     "upload": "Transmit",
     "gif-recorder": "Kap",
+    "translations": "Mate",
     "color-picker": "Pika",
     "video-player": "IINA",
     "menu-bar": "Bartender",
@@ -81,6 +83,7 @@
     "Refined GitHub",
     "EditThisCookie",
     "Check My Links",
+    "Picture in Picture",
     "Github-vscode-icons",
     "React Developer Tools"
   ]
