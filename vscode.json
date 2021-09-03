@@ -18,6 +18,9 @@
   "editor.renderWhitespace": "none",
   "editor.hideCursorInOverviewRuler": true,
 
+  // Editor - Brackets
+  "editor.bracketPairColorization.enabled": true,
+
   // Editor - Formatting
   "editor.formatOnSave": true,
   "editor.codeActionsOnSave": { "source.fixAll.eslint": true },
