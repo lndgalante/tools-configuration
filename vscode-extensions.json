@@ -22,6 +22,7 @@
   "TypeScript": ["JavaScript and TypeScript Nightly"],
   "React": [
     "Glean",
+    "Sapling",
     "React Native Tools",
     "Simple React Snippets",
     "Convert Object to JSX",
