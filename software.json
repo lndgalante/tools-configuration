@@ -3,7 +3,7 @@
   "tools": {
     "monitoring": "eul",
     "js-runner": "RunJS",
-    "node-manager": "nvm",
+    "node-manager": "fnm",
     "timezones": "ThereHQ",
     "database": "TablePlus",
     "dev-utils": "Dash/DevUtils",
