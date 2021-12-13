@@ -4,6 +4,7 @@
     "monitoring": "eul",
     "js-runner": "RunJS",
     "node-manager": "fnm",
+    "launcher": "Raycast",
     "timezones": "ThereHQ",
     "database": "TablePlus",
     "dev-utils": "Dash/DevUtils",
