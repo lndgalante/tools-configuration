@@ -7,6 +7,7 @@
     "Headwind",
     "Stylelint",
     "Color Info",
+    "Tailwind CSS",
     "Color Highlight",
     "HTML CSS Support",
     "CSS Flexbox Cheatsheet",
@@ -36,7 +37,7 @@
   "Images": ["SVG Viewer", "Image Preview", "Placeholder Images"],
   "Documentation": ["CodeTour", "Todo Highlight", "Todo Tree", "Copilot for VS Code"],
   "Presentation": ["Dimmer", "VSCode HackerTyper", "Power Mode", "SnapCode"],
-  "Productivity": ["Code Time", "Visual Studio IntelliCode - Preview", "TabNine", "Winddown", "Abracadabra"],
+  "Productivity": ["Code Time", "Visual Studio IntelliCode - Preview", "TabNine", "Winddown", "Abracadabra", "GitHub Copilot"],
   "Testing": ["Jest", "Ponicode"],
   "Utils": [
     "PWA",
