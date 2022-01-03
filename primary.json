@@ -29,6 +29,7 @@
   "vscode": {
     "color-theme": "Ariake",
     "font": "JetBrains Mono",
+    "icon-product": "Fluent Icons",
     "icon-theme": "Material Theme Icons",
     "extensions": {
       "HTML": ["HTMLHint", "Auto Close Tag", "Auto Rename Tag", "Highlight Matching Tag"],
