@@ -7,6 +7,7 @@
     "launcher": "Raycast",
     "timezones": "ThereHQ",
     "database": "TablePlus",
+    "screenshot": "Cleanshot",
     "dev-utils": "Dash/DevUtils",
     "compression": "The Unarchiver",
     "wifi-password": "WiFi Password",
@@ -86,6 +87,7 @@
     "Check My Links",
     "Picture in Picture",
     "Github-vscode-icons",
-    "React Developer Tools"
+    "React Developer Tools",
+    "Detailed SEO Extension"
   ]
 }

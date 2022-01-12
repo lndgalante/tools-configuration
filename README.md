@@ -36,6 +36,8 @@
 
 - [Shawn - My 2021 New Mac Setup](https://www.swyx.io/new-mac-setup-2021/)
 
+* [Aman - Setup Macbook M1 for Web and React Native development](https://amanhimself.dev/blog/setup-macbook-m1/)
+
 ## Visual Studio Code
 
 - [VSCode Tips and Tricks - Microsoft](https://github.com/Microsoft/vscode-tips-and-tricks)
