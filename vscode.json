@@ -8,6 +8,14 @@
   "explorer.decorations.colors": false,
   "explorer.confirmDragAndDrop": false,
 
+  // Indent Rainbow
+  "indentRainbow.colors": [
+    "rgba(255,255,64,0.04)",
+    "rgba(127,255,127,0.04)",
+    "rgba(255,127,255,0.04)",
+    "rgba(79,236,236,0.04)"
+  ],
+
   // Editor - General
   "editor.tabSize": 2,
   "editor.rulers": [80, 120],
@@ -16,14 +24,14 @@
   "editor.minimap.enabled": false,
   "explorer.compactFolders": false,
   "editor.renderWhitespace": "none",
+  "editor.accessibilitySupport": "off",
   "editor.hideCursorInOverviewRuler": true,
-
-  // Editor - Brackets
-  "editor.bracketPairColorization.enabled": true,
 
   // Editor - Formatting
   "editor.formatOnSave": true,
-  "editor.codeActionsOnSave": { "source.fixAll.eslint": true },
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
 
   // Editor - Fonts
   "editor.fontSize": 18,
@@ -50,7 +58,7 @@
   "eslint.validate": ["javascript", "javascriptreact", "typescript", "typescriptreact"],
 
   // Prettier
-  "prettier.semi": false,
+  "prettier.semi": true,
   "prettier.tabWidth": 2,
   "prettier.printWidth": 120,
   "prettier.singleQuote": true,
@@ -64,11 +72,9 @@
   "workbench.editor.tabSizing": "shrink",
   "workbench.fontAliasing": "antialiased",
   "workbench.panel.defaultLocation": "right",
+  "workbench.productIconTheme": "fluent-icons",
   "workbench.editor.enablePreviewFromQuickOpen": false,
-
-  // Workbench Theme
-  "workbench.colorTheme": "Ariake Dark",
-  "workbench.iconTheme": "material-icon-theme",
+  "workbench.iconTheme": "eq-material-theme-icons",
 
   // Zen Mode
   "zenMode.centerLayout": false,
@@ -78,7 +84,7 @@
   "breadcrumbs.enabled": false,
 
   // Telemetry
-  "telemetry.enableTelemetry": false,
+  "telemetry.telemetryLevel": "off",
 
   // Imports
   "javascript.updateImportsOnFileMove.enabled": "always",
@@ -136,30 +142,26 @@
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
 
-  // Customize UI
-  "customizeUI.listRowHeight": 20,
-
   // Intellicode
   "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "workbench.colorTheme": "Aura Soft Dark",
+  "tabnine.experimentalAutoImports": true,
 
-  // Indent rainbow
-  "indentRainbow.colors": [
-    "rgba(255,255,64,0.02)",
-    "rgba(127,255,127,0.02)",
-    "rgba(255,127,255,0.02)",
-    "rgba(79,236,236,0.02)"
-  ]
+  // Deno
+  /* "deno.enable": true,
+  "deno.path": "/opt/homebrew/Cellar/deno/1.9.2/bin/deno", */
 
   // Recording
+  "cSpell.enabled": false
   /*  "editor.rulers": [],
-  "git.enabled": false,
-  "editor.fontSize": 20,
-  "editor.fontLigatures": false,
-  "editor.quickSuggestions": false,
-  "editor.quickSuggestionsDelay": 1000000,
-  "editor.parameterHints.enabled": false,
-  "gitlens.mode.active": "zen",
-  "editor.lightbulb.enabled": false,
-  "workbench.statusBar.visible": true,
-  "js/ts.implicitProjectConfig.checkJs": false */
+    "git.enabled": false,
+    "editor.fontSize": 20,
+    "editor.fontLigatures": false,
+    "editor.quickSuggestions": false,
+    "editor.quickSuggestionsDelay": 1000000,
+    "editor.parameterHints.enabled": false,
+    "gitlens.mode.active": "zen",
+    "editor.lightbulb.enabled": false,
+    "workbench.statusBar.visible": true,
+    "js/ts.implicitProjectConfig.checkJs": false */
 }

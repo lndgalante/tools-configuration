@@ -30,7 +30,7 @@
     "Convert Object to JSX",
     "React PropTypes Generate"
   ],
-  "Code Quality": ["ESLint", "Prettier", "Depcheck", "Formatting Toggle", "Code Spell Checker", "CodeMetrics"],
+  "Code Quality": ["ESLint", "Prettier", "Formatting Toggle", "Code Spell Checker", "CodeMetrics"],
   "Debugging": ["Live Server", "Preview", "Browser Preview", "Debug Visualizer", "Debugger for Chrome"],
   "Imports/Exports": ["Vandelay", "Path Intellisense", "Node.js Modules Intellisense", "Import Cost"],
   "Node": ["NPM", "Version Lens", "View Node Package"],
@@ -38,7 +38,14 @@
   "Images": ["SVG Viewer", "Image Preview", "Placeholder Images"],
   "Documentation": ["CodeTour", "Todo Highlight", "Todo Tree", "Copilot for VS Code"],
   "Presentation": ["Dimmer", "VSCode HackerTyper", "Power Mode", "SnapCode"],
-  "Productivity": ["Code Time", "Visual Studio IntelliCode - Preview", "TabNine", "Winddown", "Abracadabra", "GitHub Copilot"],
+  "Productivity": [
+    "Code Time",
+    "Visual Studio IntelliCode - Preview",
+    "TabNine",
+    "Winddown",
+    "Abracadabra",
+    "GitHub Copilot"
+  ],
   "Testing": ["Jest", "Ponicode"],
   "Utils": [
     "PWA",
