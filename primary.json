@@ -2,6 +2,7 @@
   "macos-dock": ["Brave", "VSCode", "Figma", "Spotify"],
   "ubar-dock": [
     "iTerm",
+    "Polypane",
     "PasteApp",
     "Firefox",
     "Docker",
