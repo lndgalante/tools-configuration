@@ -41,7 +41,13 @@
       "JavaScript": ["Quokka", "Turbo Console Log", "Template String Converter"],
       "TypeScript": ["JavaScript and TypeScript Nightly"],
       "React": ["ES7 Snippets"],
-      "Code Quality": ["ESLint", "Prettier", "Code Spell Checker", "CodeMetrics"],
+      "Code Quality": [
+        "ESLint",
+        "Prettier",
+        "CodeMetrics",
+        "Code Spell Checker",
+        "P42 JavaScript Assistant: Refactoring Hints & Automation"
+      ],
       "Imports/Exports": ["Path Intellisense", "Import Cost"],
       "Node": ["Version Lens"],
       "Git": ["Emoji Log", "Git Lens", "Git File History"],
