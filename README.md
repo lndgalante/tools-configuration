@@ -38,6 +38,8 @@
 
 * [Aman - Setup Macbook M1 for Web and React Native development](https://amanhimself.dev/blog/setup-macbook-m1/)
 
+* [Andres Vidoza - Setting up new M1 Pro MacBook Pro 14” - Apps and Settings + Tips & Tricks](https://www.youtube.com/watch?v=hafaO6hU96E)
+
 ## Visual Studio Code
 
 - [VSCode Tips and Tricks - Microsoft](https://github.com/Microsoft/vscode-tips-and-tricks)
