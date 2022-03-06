@@ -40,6 +40,8 @@
 
 * [Andres Vidoza - Setting up new M1 Pro MacBook Pro 14” - Apps and Settings + Tips & Tricks](https://www.youtube.com/watch?v=hafaO6hU96E)
 
+- [devaslife - Setting up new M1 Max MacBook Pro - Apps that I use for my app dev](https://www.youtube.com/watch?v=RNqDkF17ogY)
+
 ## Visual Studio Code
 
 - [VSCode Tips and Tricks - Microsoft](https://github.com/Microsoft/vscode-tips-and-tricks)

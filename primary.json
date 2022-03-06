@@ -2,6 +2,8 @@
   "macos-dock": ["Brave", "VSCode", "Figma", "Spotify"],
   "ubar-dock": [
     "iTerm",
+    "One Switch",
+    "Downie",
     "Polypane",
     "PasteApp",
     "Firefox",
@@ -9,7 +11,7 @@
     "Notion",
     "Discord",
     "Telegram",
-    "Insomnia",
+    "Paw",
     "1Password",
     "ScreenFlow",
     "Numi",
@@ -31,6 +33,7 @@
     "Parallels"
   ],
   "npm": ["localtunnel"],
+  "recording": ["KeyCastr", "Cursor Pro", "ScreenFlow"],
   "vscode": {
     "color-theme": ["Aura", "TokyoNight", "Ariake"],
     "font": "JetBrains Mono",
