@@ -42,6 +42,8 @@
 
 - [devaslife - Setting up new M1 Max MacBook Pro - Apps that I use for my app dev](https://www.youtube.com/watch?v=RNqDkF17ogY)
 
+- [ThisIsE - My MINIMAL Mac Setup - Decluttering Mac OS](https://www.youtube.com/watch?v=SAoLV6plU04)
+
 ## Visual Studio Code
 
 - [VSCode Tips and Tricks - Microsoft](https://github.com/Microsoft/vscode-tips-and-tricks)

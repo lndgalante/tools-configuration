@@ -19,7 +19,8 @@
     "Turbo Console Log",
     "Add JSDoc Comments",
     "Paste as JSON Code",
-    "Template String Converter"
+    "Template String Converter",
+    "Error Lens"
   ],
   "TypeScript": ["JavaScript and TypeScript Nightly"],
   "React": [

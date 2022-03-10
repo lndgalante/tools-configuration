@@ -16,6 +16,16 @@
     "rgba(79,236,236,0.04)"
   ],
 
+  // Tabnine
+  // "tabnine.disable_file_regex": [ "[.]tsx$"],
+
+  // Rust
+  "rust-client.rustupPath": "/Users/leo/.cargo/bin/rustup",
+  "[rust]": {
+    "editor.defaultFormatter": "rust-lang.rust",
+    "editor.formatOnSave": true
+  },
+
   // Editor - General
   "editor.tabSize": 2,
   "editor.rulers": [80, 120],
@@ -30,7 +40,8 @@
   // Editor - Formatting
   "editor.formatOnSave": true,
   "editor.codeActionsOnSave": {
-    "source.fixAll.eslint": true
+    "source.fixAll.eslint": true,
+    "source.organizeImports": true
   },
 
   // Editor - Fonts
