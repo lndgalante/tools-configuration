@@ -53,6 +53,7 @@
         "Prettier",
         "CodeMetrics",
         "Code Spell Checker",
+        "Mintlify Doc Writer",
         "P42 JavaScript Assistant: Refactoring Hints & Automation"
       ],
       "Imports/Exports": ["Path Intellisense", "Import Cost"],
@@ -61,7 +62,7 @@
       "Images": ["SVG Viewer", "Image Preview"],
       "Documentation": ["Todo Highlight"],
       "Presentation": ["SnapCode"],
-      "Productivity": ["Visual Studio IntelliCode - Preview", "TabNine"],
+      "Productivity": ["Visual Studio IntelliCode - Preview", "TabNine", "GitHub Copilot"],
       "Utils": [
         "DotENV",
         "Docker",
