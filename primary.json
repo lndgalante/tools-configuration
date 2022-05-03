@@ -2,6 +2,8 @@
   "macos-dock": ["Brave", "VSCode", "Figma", "Spotify"],
   "ubar-dock": [
     "iTerm",
+    "Boom2",
+    "Raycast",
     "One Switch",
     "Downie",
     "Polypane",
@@ -44,7 +46,7 @@
       "HTML": ["Auto Close Tag", "Auto Rename Tag", "Highlight Matching Tag"],
       "CSS": ["Tailwind CSS", "Headwind"],
       "JavaScript": ["Quokka", "Turbo Console Log", "Template String Converter", "Error Lens"],
-      "TypeScript": ["JavaScript and TypeScript Nightly"],
+      "TypeScript": ["JavaScript and TypeScript Nightly", "TypeScript Error Translator"],
       "React": ["ES7 Snippets"],
       "Code Quality": [
         "ESLint",
