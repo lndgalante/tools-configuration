@@ -1,7 +1,7 @@
 {
   "macos-dock": ["Brave", "VSCode", "Figma", "Spotify"],
   "ubar-dock": [
-    "iTerm",
+    "Warp",
     "Boom2",
     "Raycast",
     "One Switch",
@@ -62,13 +62,12 @@
       "Images": ["SVG Viewer", "Image Preview"],
       "Documentation": ["Todo Highlight"],
       "Presentation": ["SnapCode"],
-      "Productivity": ["Visual Studio IntelliCode - Preview", "TabNine", "GitHub Copilot"],
+      "Productivity": ["Visual Studio IntelliCode", "GitHub Copilot"],
       "Utils": [
         "DotENV",
         "Docker",
         "Indent Rainbow",
         "File Nesting Updater",
-        "Bracket Pair Colorizer 2",
         "Markdown Preview Enhanced",
         "VS Live Share Extension Pack"
       ]
