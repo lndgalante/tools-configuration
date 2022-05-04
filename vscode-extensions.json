@@ -35,7 +35,15 @@
   "Debugging": ["Live Server", "Preview", "Browser Preview", "Debug Visualizer", "Debugger for Chrome"],
   "Imports/Exports": ["Vandelay", "Path Intellisense", "Node.js Modules Intellisense", "Import Cost"],
   "Node": ["NPM", "Version Lens", "View Node Package"],
-  "Git": ["Emoji Log", "Git Lens", "Git Project Manager", "GitHub Pull Request", "Git File History", "Gitlink"],
+  "Git": [
+    "Emoji Log",
+    "Git Lens",
+    "Git Project Manager",
+    "GitHub Pull Request",
+    "Git File History",
+    "Gitlink",
+    "Git Assistant"
+  ],
   "Images": ["SVG Viewer", "Image Preview", "Placeholder Images"],
   "Documentation": ["CodeTour", "Todo Highlight", "Todo Tree", "Copilot for VS Code"],
   "Presentation": ["Dimmer", "VSCode HackerTyper", "Power Mode", "SnapCode"],

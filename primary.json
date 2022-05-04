@@ -58,7 +58,7 @@
       ],
       "Imports/Exports": ["Path Intellisense", "Import Cost"],
       "Node": ["Version Lens"],
-      "Git": ["Emoji Log", "Git Lens", "Git File History"],
+      "Git": ["Emoji Log", "Git Lens", "Git File History", "Git Assistant"],
       "Images": ["SVG Viewer", "Image Preview"],
       "Documentation": ["Todo Highlight"],
       "Presentation": ["SnapCode"],
