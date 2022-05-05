@@ -55,12 +55,11 @@
     "fans": "Macs Fan Control",
     "battery": "Battery Buddy",
     "screen-sharing": "Muzzle",
-    "logitech": "Logitech G Hub",
     "focus": "BeFocused/HeyFocus",
     "video-thumbnails": "QLVideo",
     "sounds": "Noizio/FocusAtWill",
     "pixel-measuring": "PixelSnap 2",
-    "torrents": "WebTorren /Stremio",
+    "torrents": "WebTorrent /Stremio",
     "services-monitoring": "Instatus Out",
     "monitor": "MonitorControl/Rectangle",
     "icons": "macOS Big Sur Icons + Pictogram"
