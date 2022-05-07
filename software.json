@@ -62,7 +62,7 @@
     "torrents": "WebTorrent /Stremio",
     "services-monitoring": "Instatus Out",
     "monitor": "MonitorControl/Rectangle",
-    "icons": "macOS Big Sur Icons + Pictogram"
+    "icons": "macOS Big Sur Icons + IconChamp"
   },
   "brave-extensions": [
     "Tamper",
