@@ -34,6 +34,7 @@
     "Atani",
     "Parallels"
   ],
+  "git": ["cz-cli"],
   "npm": ["localtunnel"],
   "recording": ["KeyCastr", "Cursor Pro", "ScreenFlow"],
   "vscode": {
