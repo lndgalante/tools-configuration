@@ -1,8 +1,6 @@
 # Tools personal config
 
-## Music
-
-- [Coding in Chicago | 🎧 LoFi Jazz Hip-Hop [Code - Relax - Study](https://www.youtube.com/watch?v=esX7SFtEjHg)
+![desktop-2022](/assets/desktop-2022.png)
 
 ## Setup Scripts
 
@@ -69,18 +67,6 @@
 - [dotfiles - Mathias Bynens](https://github.com/mathiasbynens/dotfiles)
 
 - [dotfiles - Wes Bos](https://github.com/wesbos/dotfiles)
-
-## iTerm shorcuts
-
-| Shortcut        | Action                        |
-| --------------- | ----------------------------- |
-| Cmd - D         | split the screen vertically   |
-| Cmd - Shift - D | split the screen horizontally |
-| Cmd - T         | open a new tab                |
-| Cmd - Shift - + | zoom in                       |
-| Cmd - Shift - - | zoom out                      |
-| Cmd - N         | open a new window             |
-| Ctrl - D        | close the current terminal    |
 
 ## Others
 
