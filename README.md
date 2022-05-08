@@ -20,13 +20,11 @@
 
 - [macOS Setup Guide - Sourabh Bajaj](https://github.com/sb2nov/mac-setup)
 
-- [Setup guide - Le Wagon](https://github.com/lewagon/setup/blob/master/macOS.md)
+- [Setup guide - Le Wagon](https://github.com/lewagon/setup/blob/master/macos.md)
 
 - [My macOS - Nikita Voloboev](https://github.com/nikitavoloboev/my-mac-os)
 
 - [macOS Configuration - Brooke Kuhlmann](https://github.com/bkuhlmann/mac_os-config)
-
-- [Snazzy Labs - Tips and Tutorials](https://www.youtube.com/playlist?list=PLRG_ZSZ22bFLQ2CRNTTKgqxu3m0lGwnzp)
 
 - [freeCodeCamp Medium - How to free up space on your developer Mac](https://medium.freecodecamp.org/how-to-free-up-space-on-your-developer-mac-f542f66ddfb)
 
