@@ -40,6 +40,8 @@
 
 - [ThisIsE - My MINIMAL Mac Setup - Decluttering Mac OS](https://www.youtube.com/watch?v=SAoLV6plU04)
 
+- [Olliur - 19 MacBook Tips & Tricks for Productivity](https://www.youtube.com/watch?v=e6fLuthfmAs)
+
 ## Visual Studio Code
 
 - [VSCode Tips and Tricks - Microsoft](https://github.com/Microsoft/vscode-tips-and-tricks)
