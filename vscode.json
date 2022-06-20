@@ -1,5 +1,6 @@
 {
   // Window
+  "window.zoomLevel": 0.5,
   "window.title": "${dirty} ${activeEditorMedium}${separator}${rootName}",
 
   // Explorer
@@ -15,9 +16,6 @@
     "rgba(255,127,255,0.04)",
     "rgba(79,236,236,0.04)"
   ],
-
-  // Tabnine
-  // "tabnine.disable_file_regex": [ "[.]tsx$"],
 
   // Rust
   "rust-client.rustupPath": "/Users/leo/.cargo/bin/rustup",
@@ -45,7 +43,7 @@
   },
 
   // Editor - Fonts
-  "editor.fontSize": 18,
+  "editor.fontSize": 16,
   "editor.fontWeight": "500",
   "editor.fontLigatures": true,
   "editor.fontFamily": "JetBrains Mono",
@@ -83,9 +81,9 @@
   "workbench.editor.tabSizing": "shrink",
   "workbench.fontAliasing": "antialiased",
   "workbench.panel.defaultLocation": "right",
-  "workbench.productIconTheme": "fluent-icons",
+  "workbench.productIconTheme": "icons-carbon",
   "workbench.editor.enablePreviewFromQuickOpen": false,
-  "workbench.iconTheme": "eq-material-theme-icons",
+  "workbench.iconTheme": "quill-icons",
 
   // Zen Mode
   "zenMode.centerLayout": false,
