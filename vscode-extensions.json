@@ -2,7 +2,7 @@
   "font": "JetBrains Mono",
   "icon-theme": "Quill Icons",
   "icon-product": "Carbon Icons",
-  "color-theme": "Ariake / Aura Soft Dark / ",
+  "color-theme": ["Ariake", "Aura Soft Dark ", "Poimandres"],
   "PostgreSQL": ["pgFormatter"],
   "HTML": ["HTMLHint", "Auto Close Tag", "Auto Rename Tag", "Highlight Matching Tag"],
   "CSS": [
