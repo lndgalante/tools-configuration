@@ -42,6 +42,8 @@
 
 - [Olliur - 19 MacBook Tips & Tricks for Productivity](https://www.youtube.com/watch?v=e6fLuthfmAs)
 
+- [Coding Garden - Mac Setup](https://github.com/CodingGarden/mac-setup/)
+
 ## Visual Studio Code
 
 - [VSCode Tips and Tricks - Microsoft](https://github.com/Microsoft/vscode-tips-and-tricks)
