@@ -1,14 +1,12 @@
 {
   // Window
-  "window.zoomLevel": 0.5,
+  "window.zoomLevel": 1,
   "window.title": "${dirty} ${activeEditorMedium}${separator}${rootName}",
-
   // Explorer
   "explorer.sortOrder": "type",
   "explorer.openEditors.visible": 0,
   "explorer.decorations.colors": false,
   "explorer.confirmDragAndDrop": false,
-
   // Indent Rainbow
   "indentRainbow.colors": [
     "rgba(255,255,64,0.04)",
@@ -16,42 +14,33 @@
     "rgba(255,127,255,0.04)",
     "rgba(79,236,236,0.04)"
   ],
-
-  // Rust
-  "rust-client.rustupPath": "/Users/leo/.cargo/bin/rustup",
-  "[rust]": {
-    "editor.defaultFormatter": "rust-lang.rust",
-    "editor.formatOnSave": true
-  },
-
   // Editor - General
   "editor.tabSize": 2,
   "editor.rulers": [80, 120],
   "editor.glyphMargin": false,
+  "editor.linkedEditing": true,
   "editor.smoothScrolling": true,
   "editor.minimap.enabled": false,
   "explorer.compactFolders": false,
   "editor.renderWhitespace": "none",
   "editor.accessibilitySupport": "off",
   "editor.hideCursorInOverviewRuler": true,
-
   // Editor - Formatting
   "editor.formatOnSave": true,
   "editor.codeActionsOnSave": {
-    "source.fixAll.eslint": true,
+    "source.fixAll.eslint": false,
     "source.organizeImports": false
   },
-
   // Editor - Fonts
   "editor.fontSize": 16,
   "editor.fontWeight": "500",
   "editor.fontLigatures": true,
   "editor.fontFamily": "JetBrains Mono",
-
   // Editor - Cursor
   "editor.cursorBlinking": "phase",
+  "editor.stickyScroll.enabled": true,
+  "editor.inlineSuggest.enabled": true,
   "editor.cursorSmoothCaretAnimation": true,
-
   // Editor - Suggestions
   "editor.snippetSuggestions": "top",
   "editor.wordBasedSuggestions": false,
@@ -59,13 +48,11 @@
   "editor.suggest.showStatusBar": true,
   "editor.suggest.insertMode": "insert",
   "editor.suggestSelection": "first",
-
   // ESlint
   "eslint.format.enable": false,
   "eslint.packageManager": "yarn",
   "eslint.alwaysShowStatus": true,
   "eslint.validate": ["javascript", "javascriptreact", "typescript", "typescriptreact"],
-
   // Prettier
   "prettier.semi": true,
   "prettier.tabWidth": 2,
@@ -74,7 +61,6 @@
   "prettier.trailingComma": "all",
   "prettier.bracketSpacing": true,
   "prettier.jsxSingleQuote": true,
-
   // Workbench - General
   "workbench.startupEditor": "none",
   "workbench.sideBar.location": "right",
@@ -84,50 +70,38 @@
   "workbench.productIconTheme": "icons-carbon",
   "workbench.editor.enablePreviewFromQuickOpen": false,
   "workbench.iconTheme": "quill-icons",
-
   // Zen Mode
   "zenMode.centerLayout": false,
   "zenMode.hideLineNumbers": false,
-
   // Breadcrumbs
   "breadcrumbs.enabled": false,
-
   // Telemetry
   "telemetry.telemetryLevel": "off",
-
   // Imports
   "javascript.updateImportsOnFileMove.enabled": "always",
   "typescript.updateImportsOnFileMove.enabled": "always",
   "typescript.disableAutomaticTypeAcquisition": true,
-
   // Touchbar
   "keyboard.touchbar.enabled": false,
-
   // Source Control Management
   "scm.defaultViewMode": "tree",
-
   // Files
   "files.insertFinalNewline": true,
   "files.trimTrailingWhitespace": true,
   "files.defaultLanguage": "${activeEditorLanguage}",
-
   // Git
   "git.autofetch": true,
   "git.enableSmartCommit": true,
-
   //  NPM
   "npm.packageManager": "yarn",
-
   // Terminal Customization
   "terminal.integrated.fontSize": 18,
   "terminal.integrated.copyOnSelection": true,
   "terminal.integrated.fontFamily": "JetBrains Mono",
-
   // Turbo Console log
   "turboConsoleLog.quote": "'",
   "turboConsoleLog.logMessagePrefix": "\\n",
   "turboConsoleLog.includeFileNameAndLineNum": false,
-
   // Emmet
   "emmet.includeLanguages": {
     "javascript": "javascriptreact",
@@ -135,9 +109,11 @@
   },
   "emmet.triggerExpansionOnTab": true,
   "emmet.showExpandedAbbreviation": "never",
-
   // JavaScript / TypeScript / JSON
   "js/ts.implicitProjectConfig.checkJs": true,
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
   "[javascript]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
@@ -150,27 +126,20 @@
   "[json]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
-
   // Intellicode
   "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
-  "workbench.colorTheme": "Aura Soft Dark",
-  "tabnine.experimentalAutoImports": true,
-
-  // Deno
-  /* "deno.enable": true,
-  "deno.path": "/opt/homebrew/Cellar/deno/1.9.2/bin/deno", */
-
+  "workbench.colorTheme": "Ariake Dark",
   // Recording
   "cSpell.enabled": false
   /*  "editor.rulers": [],
-    "git.enabled": false,
-    "editor.fontSize": 20,
-    "editor.fontLigatures": false,
-    "editor.quickSuggestions": false,
-    "editor.quickSuggestionsDelay": 1000000,
-    "editor.parameterHints.enabled": false,
-    "gitlens.mode.active": "zen",
-    "editor.lightbulb.enabled": false,
-    "workbench.statusBar.visible": true,
-    "js/ts.implicitProjectConfig.checkJs": false */
+      "git.enabled": false,
+      "editor.fontSize": 20,
+      "editor.fontLigatures": false,
+      "editor.quickSuggestions": false,
+      "editor.quickSuggestionsDelay": 1000000,
+      "editor.parameterHints.enabled": false,
+      "gitlens.mode.active": "zen",
+      "editor.lightbulb.enabled": false,
+      "workbench.statusBar.visible": true,
+      "js/ts.implicitProjectConfig.checkJs": false */
 }

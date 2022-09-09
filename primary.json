@@ -1,15 +1,16 @@
 {
-  "macos-dock": ["Warp", "Chrome", "VSCode", "Figma"],
+  "macos-dock": ["Warp", "Chrome", "VSCode", "Figma", "Notion"],
+  "macos-setup": ["Bartender", "Raycast", "AltTab", "Rectangle", "Better Display", "One Switch", "HandMirror"],
   "ubar-dock": {
-    "browsers": ["Safari", "Firefox"],
-    "design": ["Polypane", "PixelSnap2", "Sip"],
+    "browsers": ["Chrome", "Firefox"],
+    "design": ["PixelSnap2", "Sip"],
     "recording": ["CleanShotX", "ScreenFlow"],
-    "development": ["DevUtils", "RunJS"],
-    "communication": ["Slack"],
+    "development": ["RunJS", "Sizzy"],
+    "communication": ["Slack", "Discord"],
     "music": ["Spotify", "Ableton Live"],
-    "maintenance": ["CleanMyMac"],
+    "maintenance": ["CleanMyMacX"],
     "backend": ["Insomnia", "TablePlus"],
-    "productivity": ["1Password", "DevUtils", "HandMirror"],
+    "productivity": ["1Password", "DevUtils", "Numi"],
     "downloads": ["Stremio", "WebTorrent"],
     "management": ["Notion", "Things3", "Linear"],
     "remote-work": ["There"]

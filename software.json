@@ -1,5 +1,5 @@
 {
-  "os": "macOS Big Sur",
+  "os": "macOS Monterrey",
   "tools": {
     "monitoring": "eul",
     "js-runner": "RunJS",
