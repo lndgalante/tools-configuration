@@ -1,6 +1,6 @@
 {
   "macos-dock": ["Warp", "Chrome", "VSCode", "Figma", "Notion"],
-  "macos-setup": ["Bartender", "Raycast", "AltTab", "Rectangle", "Better Display", "One Switch", "HandMirror"],
+  "macos-setup": ["Bartender", "Raycast", "AltTab", "Rectangle", "Better Display", "One Switch", "HandMirror", "Keka"],
   "ubar-dock": {
     "browsers": ["Chrome", "Firefox"],
     "design": ["PixelSnap2", "Sip"],
