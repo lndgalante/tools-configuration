@@ -18,7 +18,15 @@
   "git": ["cz-cli"],
   "npm": ["localtunnel"],
   "recording": ["KeyCastr", "Cursor Pro", "ScreenFlow"],
-  "chrome": ["uBlock", "OctoLinker", "JSON Viewer", "Grammarly", "React Developer Tools", "Detailed SEO Extension"],
+  "chrome": [
+    "uBlock",
+    "OctoLinker",
+    "JSON Viewer",
+    "Grammarly",
+    "React Developer Tools",
+    "Detailed SEO Extension",
+    "LocatorJS"
+  ],
   "vscode": {
     "color-theme": ["Aura", "TokyoNight", "Ariake"],
     "font": "JetBrains Mono",
