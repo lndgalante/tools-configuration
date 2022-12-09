@@ -15,6 +15,7 @@
     "management": ["Notion", "Things3", "Linear"],
     "remote-work": ["There"]
   },
+  "ai": "DiffusionBee",
   "git": ["cz-cli"],
   "npm": ["localtunnel"],
   "recording": ["KeyCastr", "Cursor Pro", "ScreenFlow"],
