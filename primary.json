@@ -1,6 +1,6 @@
 {
   "macos-dock": ["Warp", "Chrome", "VSCode", "Figma", "Notion"],
-  "macos-setup": ["Bartender", "Raycast", "AltTab", "Rectangle", "Better Display", "One Switch", "HandMirror", "Keka"],
+  "macos-setup": ["Bartender", "AltTab", "Rectangle",  "One Switch", "Unarchiver"],
   "ubar-dock": {
     "browsers": ["Chrome", "Firefox"],
     "design": ["PixelSnap2", "Sip"],
@@ -38,7 +38,7 @@
       "HTML": ["Auto Close Tag", "Auto Rename Tag", "Highlight Matching Tag"],
       "CSS": ["Tailwind CSS", "Headwind"],
       "JavaScript": ["Quokka", "Turbo Console Log", "Template String Converter", "Error Lens"],
-      "TypeScript": ["JavaScript and TypeScript Nightly", "TypeScript Error Translator"],
+      "TypeScript": ["JavaScript and TypeScript Nightly", "Total TypeScript"],
       "React": ["ES7 Snippets"],
       "Code Quality": [
         "ESLint",
