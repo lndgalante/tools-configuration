@@ -1,6 +1,7 @@
 {
   "primary-apps": ["Warp", "Brave", "VSCode", "HTTTPie", "Figma", "Linear"],
   "secondary-apps": [
+    "Hoverly",
     "Spotify",
     "Apple Music",
     "DevUtils",
@@ -11,7 +12,7 @@
     "Rectangle",
     "Numi",
     "RunJS",
-    "Bartender",
+    "HiddenBar",
     "IINA",
     "OBS",
     "Kap",
@@ -35,6 +36,7 @@
   ],
   "vscode-extensions": [
     "Ariake Dark",
+    "Warp Companion",
     "Auto Close Tag",
     "Auto Rename Tag",
     "CodeMetrics",
