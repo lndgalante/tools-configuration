@@ -1,6 +1,6 @@
 {
   // Window
-  "window.zoomLevel": 1,
+  "window.zoomLevel": 0,
   "window.title": "${dirty} ${activeEditorMedium}${separator}${rootName}",
   // Explorer
   "explorer.sortOrder": "type",
@@ -16,10 +16,12 @@
   ],
   // Editor - General
   "editor.tabSize": 2,
+  "editor.wordWrap": "on",
   "editor.rulers": [80, 120],
   "editor.glyphMargin": false,
   "editor.linkedEditing": true,
   "editor.smoothScrolling": true,
+  "editor.detectIndentation": false,
   "editor.minimap.enabled": false,
   "explorer.compactFolders": false,
   "editor.renderWhitespace": "none",
@@ -32,7 +34,7 @@
     "source.organizeImports": false
   },
   // Editor - Fonts
-  "editor.fontSize": 16,
+  "editor.fontSize": 14,
   "editor.fontWeight": "500",
   "editor.fontLigatures": true,
   "editor.fontFamily": "JetBrains Mono",
@@ -67,9 +69,11 @@
   "workbench.editor.tabSizing": "shrink",
   "workbench.fontAliasing": "antialiased",
   "workbench.panel.defaultLocation": "right",
-  "workbench.productIconTheme": "icons-carbon",
   "workbench.editor.enablePreviewFromQuickOpen": false,
-  "workbench.iconTheme": "quill-icons",
+  // Workbench - Themes
+  "workbench.colorTheme": "Ariake Dark",
+  "workbench.productIconTheme": "fluent-icons",
+  "workbench.iconTheme": "eq-material-theme-icons",
   // Zen Mode
   "zenMode.centerLayout": false,
   "zenMode.hideLineNumbers": false,
@@ -127,10 +131,8 @@
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   // Intellicode
-  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
-  "workbench.colorTheme": "Ariake Dark",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue"
   // Recording
-  "cSpell.enabled": false
   /*  "editor.rulers": [],
       "git.enabled": false,
       "editor.fontSize": 20,
