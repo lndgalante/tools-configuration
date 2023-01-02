@@ -1,7 +1,7 @@
 {
   "primary-apps": ["Warp", "Brave", "VSCode", "HTTTPie", "Figma", "Linear"],
   "secondary-apps": [
-    "Hoverly",
+    "Hovrly",
     "Spotify",
     "Apple Music",
     "DevUtils",
@@ -13,7 +13,7 @@
     "Rectangle",
     "Numi",
     "RunJS",
-    "HiddenBar",
+    "Hidden Bar",
     "IINA",
     "OBS",
     "Kap",
@@ -21,7 +21,8 @@
     "Stremio",
     "Polypane",
     "The Unarchiver",
-    "Transmission"
+    "Transmission",
+    "Paste Clipboard Manager"
   ],
   "brave-extensions": [
     "uBlock",
