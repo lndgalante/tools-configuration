@@ -131,7 +131,9 @@
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   // Intellicode
-  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue"
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  // Total TypeScript
+  "totalTypeScript.hideAllTips": true
   // Recording
   /*  "editor.rulers": [],
       "git.enabled": false,
