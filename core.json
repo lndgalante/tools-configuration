@@ -23,8 +23,9 @@
     "The Unarchiver",
     "Transmission",
     "Paste Clipboard Manager",
-    "SoundSource"
+    "RayCast"
   ],
+  "NPM": ["LocalTunnel"],
   "brave-extensions": [
     "uBlock",
     "Phantom",
