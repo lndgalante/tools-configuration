@@ -1,6 +1,8 @@
 {
-  "primary-apps": ["Warp", "Brave", "VSCode", "HTTTPie", "Figma", "Linear"],
-  "developing-tools": [
+  "primary-apps": ["Warp", "Arc Browser", "VSCode", "Figma", "Notion", "Linear", "RayCast (with window management)"],
+  "dev-tools": [
+    "Brave",
+    "HTTTPie",
     "Hovrly",
     "CleanShotX",
     "DevUtils",
@@ -13,7 +15,6 @@
   ],
   "secondary-apps": [
     "Tidal",
-    "Notion",
     "Discord",
     "Telegram",
     "TopNotch",
@@ -24,8 +25,7 @@
     "OBS",
     "Stremio",
     "The Unarchiver",
-    "Transmission",
-    "RayCast"
+    "Transmission"
   ],
   "NPM": ["LocalTunnel"],
   "brave-extensions": [
