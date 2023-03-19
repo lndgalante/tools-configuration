@@ -1,33 +1,33 @@
 {
-  "primary-apps": ["Warp", "Arc Browser", "VSCode", "Figma", "Notion", "Linear", "RayCast (with window management)"],
-  "dev-tools": [
-    "Brave",
-    "HTTTPie",
-    "Hovrly",
-    "CleanShotX",
-    "DevUtils",
-    "Linear",
-    "RunJS",
-    "Kap",
-    "Pika",
-    "Polypane",
-    "Paste Clipboard Manager",
-    "Transform.tools (Web)"
-  ],
-  "secondary-apps": [
-    "Tidal",
-    "Discord",
-    "Telegram",
-    "TopNotch",
-    "Rectangle",
-    "Numi",
-    "Hidden Bar",
-    "IINA",
-    "OBS",
-    "Stremio",
-    "The Unarchiver",
-    "Transmission"
-  ],
+  "2024": {
+    "dock": ["Arc Browser", "Zed (+Fig)"],
+    "arc-tools": ["Figma", "Notion", "Linear", "HTTPie", "Transform.tools"],
+    "menu-bar": [
+      "Pika",
+      "Hovrly",
+      "Raycast",
+      "TopNotch",
+      "Rectangle",
+      "CleanShotX",
+      "Hidden Bar",
+      "Paste Clipboard Manager"
+    ],
+    "applications-folder": [
+      "Chrome",
+      "Tidal",
+      "DevUtils",
+      "RunJS",
+      "Polypane",
+      "OBS",
+      "Discord",
+      "Telegram",
+      "Numi",
+      "IINA",
+      "Stremio",
+      "The Unarchiver",
+      "Transmission"
+    ]
+  },
   "NPM": ["LocalTunnel"],
   "brave-extensions": [
     "uBlock",
