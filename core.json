@@ -1,7 +1,7 @@
 {
   "2024": {
     "dock": ["Arc Browser", "Zed (+Fig)"],
-    "arc-tools": ["Figma", "Notion", "Linear", "HTTPie", "Transform.tools"],
+    "arc-tools": ["Figma", "Notion", "Linear", "HTTPie", "Transform.tools", "ChatGPT"],
     "menu-bar": [
       "Pika",
       "Hovrly",
@@ -29,7 +29,9 @@
     ]
   },
   "NPM": ["LocalTunnel"],
+  "raycast-extensions": ["CleanShotX"],
   "brave-extensions": [
+    "Zoom",
     "uBlock",
     "Phantom",
     "ML Mas Vendidos",
