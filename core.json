@@ -1,7 +1,7 @@
 {
   "2024": {
-    "dock": ["Arc Browser", "Zed (+Fig)"],
-    "arc-tools": ["Figma", "Notion", "Linear", "HTTPie", "Transform.tools", "ChatGPT"],
+    "dock": ["Arc Browser", "Zed (+Starship+Fig)", "Figma"],
+    "arc-tools": ["Notion", "Linear", "HTTPie", "Transform.tools", "ChatGPT"],
     "menu-bar": [
       "Pika",
       "Hovrly",

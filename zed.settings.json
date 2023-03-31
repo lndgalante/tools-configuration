@@ -1,0 +1,21 @@
+{
+  "theme": "Rosé Pine Moon",
+  "base_keymap": "VSCode",
+  "buffer_font_family": "JetBrains Mono",
+  "soft_wrap": "none",
+  "preferred_line_length": 120,
+  "terminal": {
+    "font_size": 16,
+    "font_family": "JetBrains Mono"
+  },
+  "language_overrides": {
+    "JavaScript": {
+      "format_on_save": {
+        "external": {
+          "command": "prettier",
+          "arguments": ["--stdin-filepath", "{buffer_path}"]
+        }
+      }
+    }
+  }
+}
