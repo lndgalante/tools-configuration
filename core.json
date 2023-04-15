@@ -30,6 +30,7 @@
   },
   "NPM": ["LocalTunnel"],
   "raycast-extensions": ["CleanShotX"],
+  "arc-extensions": ["JSON Viewer", "uBlock Origin"],
   "brave-extensions": [
     "Zoom",
     "uBlock",

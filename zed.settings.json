@@ -5,14 +5,23 @@
   "soft_wrap": "none",
   "preferred_line_length": 120,
   "terminal": {
-    "font_size": 16,
+    "font_size": 14,
     "font_family": "JetBrains Mono"
   },
+  "default_dock_anchor": "right",
   "language_overrides": {
+    "JSON": {
+      "format_on_save": {
+        "external": {
+          "command": "/Users/leo/Library/Application Support/fnm/node-versions/v18.16.0/installation/bin/prettier",
+          "arguments": ["--stdin-filepath", "{buffer_path}"]
+        }
+      }
+    },
     "JavaScript": {
       "format_on_save": {
         "external": {
-          "command": "prettier",
+          "command": "/Users/leo/Library/Application Support/fnm/node-versions/v18.16.0/installation/bin/prettier",
           "arguments": ["--stdin-filepath", "{buffer_path}"]
         }
       }

@@ -60,7 +60,7 @@
     "video-thumbnails": "QLVideo",
     "sounds": "Noizio/FocusAtWill",
     "pixel-measuring": "PixelSnap 2",
-    "torrents": "WebTorrent /Stremio",
+    "torrents": "WebTorrent/Stremio",
     "services-monitoring": "Instatus Out",
     "monitor": "MonitorControl/Rectangle",
     "icons": "macOS Big Sur Icons + IconChamp"
