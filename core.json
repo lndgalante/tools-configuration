@@ -49,6 +49,7 @@
   "vscode-extensions": [
     "Ariake Dark",
     "Warp Companion",
+    "Pretty TypeScript Errors",
     "Conventional Commits",
     "Auto Close Tag",
     "Auto Rename Tag",
@@ -70,7 +71,6 @@
     "Snapcode",
     "Template String Converter",
     "TODO Highlight",
-    "Total TypeScript",
     "Turbo Console Log",
     "Version Lens",
     "GitHub Copilot Labs"
