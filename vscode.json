@@ -34,7 +34,7 @@
     "source.organizeImports": false
   },
   // Editor - Fonts
-  "editor.fontSize": 14,
+  "editor.fontSize": 16,
   "editor.fontWeight": "500",
   "editor.fontLigatures": true,
   "editor.fontFamily": "JetBrains Mono",
@@ -42,7 +42,7 @@
   "editor.cursorBlinking": "phase",
   "editor.stickyScroll.enabled": true,
   "editor.inlineSuggest.enabled": true,
-  "editor.cursorSmoothCaretAnimation": true,
+  "editor.cursorSmoothCaretAnimation": "on",
   // Editor - Suggestions
   "editor.snippetSuggestions": "top",
   "editor.wordBasedSuggestions": false,
@@ -53,13 +53,7 @@
   // ESlint
   "eslint.format.enable": false,
   "eslint.packageManager": "yarn",
-  "eslint.alwaysShowStatus": true,
-  "eslint.validate": [
-    "javascript",
-    "javascriptreact",
-    "typescript",
-    "typescriptreact"
-  ],
+  "eslint.validate": ["javascript", "javascriptreact", "typescript", "typescriptreact"],
   // Prettier
   "prettier.semi": true,
   "prettier.tabWidth": 2,
@@ -76,9 +70,8 @@
   "workbench.panel.defaultLocation": "right",
   "workbench.editor.enablePreviewFromQuickOpen": false,
   // Workbench - Themes
-  "workbench.colorTheme": "Ariake Dark",
+  "workbench.colorTheme": "Catppuccin Mocha",
   "workbench.productIconTheme": "fluent-icons",
-  "workbench.iconTheme": "eq-material-theme-icons",
   // Zen Mode
   "zenMode.centerLayout": false,
   "zenMode.hideLineNumbers": false,
@@ -104,9 +97,12 @@
   //  NPM
   "npm.packageManager": "yarn",
   // Terminal Customization
-  "terminal.integrated.fontSize": 18,
+  "terminal.integrated.fontSize": 14,
   "terminal.integrated.copyOnSelection": true,
   "terminal.integrated.fontFamily": "JetBrains Mono",
+  "terminal.integrated.env.osx": {
+    "FIG_NEW_SESSION": "1"
+  },
   // Turbo Console log
   "turboConsoleLog.quote": "'",
   "turboConsoleLog.logMessagePrefix": "\\n",
@@ -136,19 +132,5 @@
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   // Intellicode
-  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
-  // Total TypeScript
-  "totalTypeScript.hideAllTips": true
-  // Recording
-  /*  "editor.rulers": [],
-      "git.enabled": false,
-      "editor.fontSize": 20,
-      "editor.fontLigatures": false,
-      "editor.quickSuggestions": false,
-      "editor.quickSuggestionsDelay": 1000000,
-      "editor.parameterHints.enabled": false,
-      "gitlens.mode.active": "zen",
-      "editor.lightbulb.enabled": false,
-      "workbench.statusBar.visible": true,
-      "js/ts.implicitProjectConfig.checkJs": false */
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue"
 }

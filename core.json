@@ -47,9 +47,8 @@
     "Refined GitHub"
   ],
   "vscode-extensions": [
-    "Ariake Dark",
-    "Warp Companion",
-    "Pretty TypeScript Errors",
+    "Catpuccin",
+    "Remix Run Snippets",
     "Conventional Commits",
     "Auto Close Tag",
     "Auto Rename Tag",
@@ -71,6 +70,7 @@
     "Snapcode",
     "Template String Converter",
     "TODO Highlight",
+    "Pretty TypeScript Errors",
     "Turbo Console Log",
     "Version Lens",
     "GitHub Copilot Labs"
