@@ -1,7 +1,6 @@
 {
   "2024": {
     "dock": ["Arc Browser", "Zed", "Figma"],
-    "terminal": ["Zed Native", "Fish", "Starship (+Pure preset)", "Fig", "Zoxide"],
     "arc-tools": ["Notion", "Linear", "HTTPie", "Transform.tools", "ChatGPT"],
     "menu-bar": [
       "Pika",
@@ -18,6 +17,7 @@
       "Tidal",
       "DevToys",
       "RunJS",
+      "PixelSnap2",
       "Polypane",
       "OBS",
       "Discord",
@@ -29,6 +29,7 @@
       "Transmission"
     ]
   },
+  "terminal": ["Zed Native", "Fish", "Starship (+Pure preset)", "Fig", "Zoxide", "gh", "bat", "fzf"],
   "NPM": ["LocalTunnel"],
   "raycast-extensions": ["CleanShotX"],
   "arc-extensions": ["JSON Viewer", "uBlock Origin"],
