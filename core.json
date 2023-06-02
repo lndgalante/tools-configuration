@@ -1,7 +1,7 @@
 {
   "2024": {
     "dock": ["Arc Browser", "Zed", "Figma"],
-    "terminal": ["Zed Native", "Fish", "Starship (+Pure preset)", "Fig"],
+    "terminal": ["Zed Native", "Fish", "Starship (+Pure preset)", "Fig", "Zoxide"],
     "arc-tools": ["Notion", "Linear", "HTTPie", "Transform.tools", "ChatGPT"],
     "menu-bar": [
       "Pika",
@@ -48,7 +48,7 @@
     "Refined GitHub"
   ],
   "vscode-extensions": [
-    "Catpuccin | Kanawaga",
+    "Kanawaga",
     "Console Ninja",
     "JavaScript Booster",
     "Remix Run Snippets",
