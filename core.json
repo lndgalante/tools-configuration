@@ -1,6 +1,7 @@
 {
   "2024": {
-    "dock": ["Arc Browser", "Zed (+Starship+Fig)", "Figma"],
+    "dock": ["Arc Browser", "Zed", "Figma"],
+    "terminal": ["Zed Native", "Fish", "Starship (+Pure preset)", "Fig"],
     "arc-tools": ["Notion", "Linear", "HTTPie", "Transform.tools", "ChatGPT"],
     "menu-bar": [
       "Pika",
