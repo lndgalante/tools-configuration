@@ -1,17 +1,33 @@
 {
+  // theme
   "theme": "Rosé Pine",
+  // keymap
   "base_keymap": "VSCode",
+  // font
+  "buffer_font_size": 16,
   "buffer_font_family": "JetBrains Mono",
-  "soft_wrap": "none",
-  "preferred_line_length": 120,
+  // telemetry
+  "telemetry": {
+    "diagnostics": true,
+    "metrics": false
+  },
+  // terminal
   "terminal": {
     "font_size": 16,
     "dock": "bottom",
+    "copy_on_select": true,
     "font_family": "JetBrains Mono"
   },
+  // fs panel
   "project_panel": {
-    "dock": "right"
+    "dock": "right",
+    "default_width": 120
   },
+  // coding format
+  "format_on_save": "on",
+  "preferred_line_length": 120,
+  "ensure_final_newline_on_save": true,
+  // prettier
   "language_overrides": {
     "JavaScript": {
       "format_on_save": {
