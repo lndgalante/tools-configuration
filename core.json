@@ -51,6 +51,7 @@
   "vscode-extensions": [
     "Kanawaga",
     "Console Ninja",
+    "Markdown Preview Github Styling",
     "JavaScript Booster",
     "Remix Run Snippets",
     "Conventional Commits",
@@ -69,7 +70,6 @@
     "IntelliCode",
     "Import Cost",
     "Indent Rainbow",
-    "Markdown Preview Enhanced",
     "Quokka.js",
     "CodeSnap",
     "Template String Converter",
