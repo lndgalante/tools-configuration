@@ -16,6 +16,7 @@
       "Chrome",
       "Tidal",
       "DevToys",
+      "Screen Studio",
       "RunJS",
       "PixelSnap2",
       "Polypane",
@@ -77,6 +78,8 @@
     "Pretty TypeScript Errors",
     "Turbo Console Log",
     "Version Lens",
-    "GitHub Copilot Labs"
+    "GitHub Copilot Labs",
+    "JavaScript and TypeScript Nightly",
+    "Qwik, Qwik City, Mitosis, & Partytown Snippets"
   ]
 }
