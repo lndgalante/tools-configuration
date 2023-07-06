@@ -2,6 +2,9 @@
 # Arc Browser
 cask "arc"
 
+# Warp
+cask "warp"
+
 # Zed
 cask "zed"
 
