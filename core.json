@@ -1,6 +1,6 @@
 {
   "2024": {
-    "dock": ["Arc Browser", "Zed", "Figma"],
+    "dock": ["Arc Browser", "Zed", "Figma", "Obsidian"],
     "arc-tools": ["Notion", "Linear", "HTTPie", "Transform.tools", "ChatGPT"],
     "menu-bar": ["Hovrly", "Raycast", "TopNotch", "Rectangle", "CleanShotX", "Hidden Bar", "Paste"],
     "applications-folder": [
@@ -24,7 +24,7 @@
   "terminal": ["Zed Native", "Starship (+Pure preset)", "Fig", "Zoxide", "gh", "bat", "fzf"],
   "NPM": ["LocalTunnel"],
   "raycast-extensions": ["CleanShotX"],
-  "arc-extensions": ["JSON Viewer", "uBlock Origin"],
+  "arc-extensions": ["JSON Viewer", "uBlock Origin", "Web Vitals", "Wappalyzer", "Dimensions"],
   "brave-extensions": [
     "Zoom",
     "uBlock",

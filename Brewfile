@@ -62,6 +62,9 @@ cask "the-unarchiver"
 # Transmission
 cask "transmission"
 
+# Obsidian
+cask "obsidian"
+
 # ------------
 # Paste (App Store)
 # Screen Studio (Website)
