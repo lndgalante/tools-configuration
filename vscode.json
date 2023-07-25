@@ -68,7 +68,7 @@
   "workbench.panel.defaultLocation": "right",
   "workbench.productIconTheme": "fluent-icons",
   "workbench.editor.enablePreviewFromQuickOpen": false,
-  "workbench.iconTheme": "eq-material-theme-icons",
+  "workbench.iconTheme": "symbols",
   // Zen Mode
   "zenMode.centerLayout": false,
   "zenMode.hideLineNumbers": false,
