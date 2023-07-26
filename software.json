@@ -1,5 +1,5 @@
 {
-  "os": "macOS Monterrey",
+  "os": "macOS Ventura",
   "tools": {
     "monitoring": "eul",
     "js-runner": "RunJS",

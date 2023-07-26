@@ -1,4 +1,3 @@
-
 # Arc Browser
 cask "arc"
 
