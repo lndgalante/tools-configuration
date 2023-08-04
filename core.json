@@ -1,6 +1,6 @@
 {
   "2024": {
-    "dock": ["Arc Browser", "Zed", "Figma", "Obsidian"],
+    "dock": ["Arc Browser", "Zed", "Figma", "Obsidian", "Warp", "Cron"],
     "arc-tools": ["Notion", "Linear", "HTTPie", "Transform.tools", "ChatGPT"],
     "menu-bar": ["Hovrly", "Raycast", "TopNotch", "Rectangle", "CleanShotX", "Hidden Bar", "Paste"],
     "applications-folder": [
