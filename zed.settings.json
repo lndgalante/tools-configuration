@@ -37,5 +37,9 @@
         }
       }
     }
-  }
+  },
+  // copilot
+  "show_copilot_suggestions": true,
+  // whitespaces
+  "show_whitespaces": "none"
 }
