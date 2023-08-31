@@ -18,7 +18,8 @@
       "IINA",
       "Stremio",
       "The Unarchiver",
-      "Transmission"
+      "Transmission",
+      "Menu Bar Calendar"
     ]
   },
   "terminal": ["Zed Native", "Starship (+Pure preset)", "Fig", "Zoxide", "gh", "bat", "fzf"],
