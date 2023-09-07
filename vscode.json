@@ -69,6 +69,12 @@
   "workbench.productIconTheme": "fluent-icons",
   "workbench.editor.enablePreviewFromQuickOpen": false,
   "workbench.iconTheme": "symbols",
+  // Workbench - Tree
+  "workbench.tree.indent": 15,
+  "workbench.tree.renderIndentGuides": "always",
+  "workbench.colorCustomizations": {
+    "tree.indentGuidesStroke": "#dec58c"
+  },
   // Zen Mode
   "zenMode.centerLayout": false,
   "zenMode.hideLineNumbers": false,
