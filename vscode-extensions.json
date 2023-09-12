@@ -2,19 +2,9 @@
   "font": "JetBrains Mono",
   "icon-theme": "Quill Icons",
   "icon-product": "Carbon Icons",
-  "color-theme": [
-    "Catppuccin Mocha",
-    "Ariake",
-    "Aura Soft Dark ",
-    "Poimandres"
-  ],
+  "color-theme": ["Catppuccin Mocha", "Ariake", "Aura Soft Dark", "Poimandres"],
   "PostgreSQL": ["pgFormatter"],
-  "HTML": [
-    "HTMLHint",
-    "Auto Close Tag",
-    "Auto Rename Tag",
-    "Highlight Matching Tag"
-  ],
+  "HTML": ["HTMLHint", "Auto Close Tag", "Auto Rename Tag", "Highlight Matching Tag"],
   "CSS": [
     "Headwind",
     "Stylelint",
@@ -42,26 +32,9 @@
     "Convert Object to JSX",
     "React PropTypes Generate"
   ],
-  "Code Quality": [
-    "ESLint",
-    "Prettier",
-    "Formatting Toggle",
-    "Code Spell Checker",
-    "CodeMetrics"
-  ],
-  "Debugging": [
-    "Live Server",
-    "Preview",
-    "Browser Preview",
-    "Debug Visualizer",
-    "Debugger for Chrome"
-  ],
-  "Imports/Exports": [
-    "Vandelay",
-    "Path Intellisense",
-    "Node.js Modules Intellisense",
-    "Import Cost"
-  ],
+  "Code Quality": ["ESLint", "Prettier", "Formatting Toggle", "Code Spell Checker", "CodeMetrics"],
+  "Debugging": ["Live Server", "Preview", "Browser Preview", "Debug Visualizer", "Debugger for Chrome"],
+  "Imports/Exports": ["Vandelay", "Path Intellisense", "Node.js Modules Intellisense", "Import Cost"],
   "Node": ["NPM", "Version Lens", "View Node Package"],
   "Git": [
     "Emoji Log",
@@ -73,12 +46,7 @@
     "Git Assistant"
   ],
   "Images": ["SVG Viewer", "Image Preview", "Placeholder Images"],
-  "Documentation": [
-    "CodeTour",
-    "Todo Highlight",
-    "Todo Tree",
-    "Copilot for VS Code"
-  ],
+  "Documentation": ["CodeTour", "Todo Highlight", "Todo Tree", "Copilot for VS Code"],
   "Presentation": ["Dimmer", "VSCode HackerTyper", "Power Mode", "SnapCode"],
   "Productivity": [
     "Code Time",
