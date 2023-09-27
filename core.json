@@ -1,7 +1,12 @@
 {
   "2024": {
-    "dock": ["Arc Browser", "Zed", "Figma", "Obsidian", "Warp", "Cron"],
-    "arc-tools": ["Notion", "Linear", "Transform.tools", "ChatGPT", "TLDRAW", "HTTPie", "Chalk.ist"],
+    "dock": [
+      ["Safari", "Arc Browser"],
+      ["VSCode", "Zed"],
+      ["Figma", "Linear"],
+      ["Warp", "Cron"]
+    ],
+    "arc-tools": ["Notion", "Transform.tools", "ChatGPT", "TLDRAW", "HTTPie", "Chalk.ist"],
     "menu-bar": ["Hovrly", "Raycast", "TopNotch", "Rectangle", "CleanShotX", "Hidden Bar", "Paste", "HandMirror"],
     "applications-folder": [
       "Endel",
