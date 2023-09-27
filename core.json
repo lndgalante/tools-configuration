@@ -9,6 +9,7 @@
     "arc-tools": ["Notion", "Transform.tools", "ChatGPT", "TLDRAW", "HTTPie", "Chalk.ist"],
     "menu-bar": ["Hovrly", "Raycast", "TopNotch", "Rectangle", "CleanShotX", "Hidden Bar", "Paste", "HandMirror"],
     "applications-folder": [
+      "Dropover",
       "Endel",
       "Chrome",
       "Tidal",
