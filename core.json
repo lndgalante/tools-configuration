@@ -2,7 +2,7 @@
   "2024": {
     "dock": ["Arc Browser", "Zed", "Figma", "Obsidian", "Warp", "Cron"],
     "arc-tools": ["Notion", "Linear", "Transform.tools", "ChatGPT", "TLDRAW", "HTTPie", "Chalk.ist"],
-    "menu-bar": ["Hovrly", "Raycast", "TopNotch", "Rectangle", "CleanShotX", "Hidden Bar", "Paste"],
+    "menu-bar": ["Hovrly", "Raycast", "TopNotch", "Rectangle", "CleanShotX", "Hidden Bar", "Paste", "HandMirror"],
     "applications-folder": [
       "Endel",
       "Chrome",
@@ -43,6 +43,7 @@
     "Refined GitHub"
   ],
   "vscode-extensions": [
+    "Rust Extension Pack",
     "NPM",
     "Kanawaga",
     "Console Ninja",
