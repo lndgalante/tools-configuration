@@ -7,7 +7,7 @@
       ["Warp", "Cron"]
     ],
     "arc-tools": ["Notion", "Transform.tools", "ChatGPT", "TLDRAW", "HTTPie", "Chalk.ist"],
-    "menu-bar": ["Hovrly", "Raycast", "TopNotch", "Rectangle", "CleanShotX", "Hidden Bar", "Paste", "HandMirror"],
+    "menu-bar": ["Hovrly", "Raycast", "TopNotch", "Rectangle", "CleanShotX", "Hidden Bar", "Maccy", "HandMirror"],
     "applications-folder": [
       "Dropover",
       "Endel",

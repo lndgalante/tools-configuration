@@ -64,6 +64,8 @@ cask "transmission"
 # Obsidian
 cask "obsidian"
 
+# Maccy
+cask "maccy"
+
 # ------------
-# Paste (App Store)
 # Screen Studio (Website)
