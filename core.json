@@ -1,14 +1,14 @@
 {
   "2024": {
     "dock": [
-      ["Safari", "Arc Browser"],
+      ["Warp", "Arc Browser"],
       ["VSCode", "Zed"],
-      ["Figma", "Linear"],
-      ["Warp", "Cron"]
+      ["Tidal", "Linear"]
     ],
     "arc-tools": ["Notion", "Transform.tools", "ChatGPT", "TLDRAW", "HTTPie", "Chalk.ist"],
     "menu-bar": ["Hovrly", "Raycast", "TopNotch", "Rectangle", "CleanShotX", "Hidden Bar", "Maccy", "HandMirror"],
     "applications-folder": [
+      "Cron",
       "Dropover",
       "Endel",
       "Chrome",
@@ -51,7 +51,7 @@
   "vscode-extensions": [
     "Rust Extension Pack",
     "NPM",
-    "Kanawaga",
+    "Kanagawa",
     "Console Ninja",
     "Markdown Preview Github Styling",
     "JavaScript Booster",
@@ -64,7 +64,6 @@
     "Code to Gist",
     "Material Theme Icons",
     "Fluent Icons",
-    "Postman",
     "ESLint",
     "Prettier",
     "GitHub Copilot",

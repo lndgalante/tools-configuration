@@ -1,3 +1,15 @@
+# Git
+brew "git"
+
+# FNM
+brew "fnm"
+
+# Fonts
+tap "homebrew/cask-fonts" || true
+
+# JetBrains Mono
+cask "font-jetbrains-mono"
+
 # Arc Browser
 cask "arc"
 
@@ -9,9 +21,6 @@ cask "zed"
 
 # VSCode
 cask "visual-studio-code"
-
-# Figma
-cask "figma"
 
 # Raycast
 cask "raycast"
@@ -37,14 +46,14 @@ cask "devtoys"
 # RunJS
 cask "runjs"
 
-# PixelSnap2
+# Pixel Measuring
+cask "sip"
+
+# Color Picker
 cask "pixelsnap"
 
 # Discord
 cask "discord"
-
-# Telegram
-cask "telegram"
 
 # Numi
 cask "numi"
@@ -67,5 +76,22 @@ cask "obsidian"
 # Maccy
 cask "maccy"
 
-# ------------
-# Screen Studio (Website)
+# Linear
+cask "linear-linear"
+
+# Cron
+cask "cron"
+
+# Hovrly
+cask "hovrly"
+
+# Zoom
+cask "zoom"
+
+# Screenflow
+cask "screenflow"
+
+# Others that doesn't exists over Homebrew:
+# - Screen Studio (Website)
+# - HandMirror (App Store)
+# - Menu Bar Calendar (App Store)
