@@ -100,7 +100,8 @@ cask "imageoptim"
 # Keycastr
 cask "keycastr"
 
-# Keycastr
+# CleanMyMac
+cask "cleanmymac"
 
 # Others that doesn't exists over Homebrew:
 # - Screen Studio (Website)
