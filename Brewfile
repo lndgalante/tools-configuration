@@ -97,6 +97,11 @@ cask "screenflow"
 # ImageOptim
 cask "imageoptim"
 
+# Keycastr
+cask "keycastr"
+
+# Keycastr
+
 # Others that doesn't exists over Homebrew:
 # - Screen Studio (Website)
 # - HandMirror (App Store)
