@@ -91,6 +91,9 @@ cask "zoom"
 # Screenflow
 cask "screenflow"
 
+# ImageOptim
+cask "imageoptim"
+
 # Others that doesn't exists over Homebrew:
 # - Screen Studio (Website)
 # - HandMirror (App Store)
