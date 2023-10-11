@@ -16,6 +16,9 @@ cask "arc"
 # Warp
 cask "warp"
 
+# Spaceship
+brew "spaceship"
+
 # Zed
 cask "zed"
 
