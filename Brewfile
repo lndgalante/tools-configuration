@@ -103,6 +103,9 @@ cask "keycastr"
 # CleanMyMac
 cask "cleanmymac"
 
+# AltTab
+cask "alt-tab"
+
 # Others that doesn't exists over Homebrew:
 # - Screen Studio (Website)
 # - HandMirror (App Store)
