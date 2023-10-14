@@ -104,7 +104,7 @@ cask "keycastr"
 cask "cleanmymac"
 
 # HTTPie
-brew "httpie"
+cask "httpie"
 
 # Others that doesn't exists over Homebrew:
 # - Screen Studio (Website)

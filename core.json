@@ -1,38 +1,12 @@
 {
   "2024": {
     "dock": [
-      [
-        "Warp",
-        "Arc Browser"
-      ],
-      [
-        "Zed",
-        "VSCode",
-        "HTTPie"
-      ],
-      [
-        "Tidal",
-        "Linear"
-      ]
+      ["Warp", "Arc Browser"],
+      ["Zed", "VSCode", "HTTPie"],
+      ["Tidal", "Linear"]
     ],
-    "arc-tools": [
-      "Notion",
-      "Transform.tools",
-      "ChatGPT",
-      "TLDRAW",
-      "HTTPie",
-      "Chalk.ist"
-    ],
-    "menu-bar": [
-      "Hovrly",
-      "Raycast",
-      "TopNotch",
-      "Rectangle",
-      "CleanShotX",
-      "Hidden Bar",
-      "Maccy",
-      "HandMirror"
-    ],
+    "arc-tools": ["Calendar", "Gmail", "Notion", "Transform.tools", "ChatGPT", "TLDRAW", "Chalk.ist"],
+    "menu-bar": ["Hovrly", "Raycast", "TopNotch", "Rectangle", "CleanShotX", "Hidden Bar", "Maccy", "HandMirror"],
     "applications-folder": [
       "AltTab",
       "Cron",
@@ -56,28 +30,10 @@
       "Menu Bar Calendar"
     ]
   },
-  "terminal": [
-    "Zed Native",
-    "Starship (+Pure preset)",
-    "Fig",
-    "Zoxide",
-    "gh",
-    "bat",
-    "fzf"
-  ],
-  "NPM": [
-    "LocalTunnel"
-  ],
-  "raycast-extensions": [
-    "CleanShotX"
-  ],
-  "arc-extensions": [
-    "JSON Viewer",
-    "uBlock Origin",
-    "Web Vitals",
-    "Wappalyzer",
-    "Dimensions"
-  ],
+  "terminal": ["Zed Native", "Starship (+Pure preset)", "Fig", "Zoxide", "gh", "bat", "fzf"],
+  "NPM": ["LocalTunnel"],
+  "raycast-extensions": ["CleanShotX"],
+  "arc-extensions": ["JSON Viewer", "uBlock Origin", "Web Vitals", "Wappalyzer", "Dimensions"],
   "brave-extensions": [
     "Zoom",
     "uBlock",
