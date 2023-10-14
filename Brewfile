@@ -103,8 +103,8 @@ cask "keycastr"
 # CleanMyMac
 cask "cleanmymac"
 
-# AltTab
-cask "alt-tab"
+# HTTPie
+brew "httpie"
 
 # Others that doesn't exists over Homebrew:
 # - Screen Studio (Website)
