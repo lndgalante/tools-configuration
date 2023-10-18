@@ -5,7 +5,17 @@
       ["Zed", "VSCode", "HTTPie"],
       ["Tidal", "Linear"]
     ],
-    "arc-tools": ["Calendar", "Gmail", "Notion", "Transform.tools", "ChatGPT", "TLDRAW", "Chalk.ist"],
+    "arc-tools": [
+      "Calendar",
+      "Gmail",
+      "Notion",
+      "Transform.tools",
+      "ChatGPT",
+      "TLDRAW",
+      "Chalk.ist",
+      "Whisical",
+      "Stately"
+    ],
     "menu-bar": ["Hovrly", "Raycast", "TopNotch", "Rectangle", "CleanShotX", "Hidden Bar", "Maccy", "HandMirror"],
     "applications-folder": [
       "AltTab",
