@@ -43,7 +43,7 @@
   "terminal": ["Zed Native", "Starship (+Pure preset)", "Fig", "Zoxide", "gh", "bat", "fzf"],
   "NPM": ["LocalTunnel"],
   "raycast-extensions": ["CleanShotX"],
-  "arc-extensions": ["JSON Viewer", "uBlock Origin", "Web Vitals", "Wappalyzer", "Dimensions", "Open in VSCode"],
+  "arc-extensions": ["JSON Viewer", "uBlock Origin", "Web Vitals", "Wappalyzer", "Dimensions", "Open GitHub IDE"],
   "brave-extensions": [
     "Zoom",
     "uBlock",
