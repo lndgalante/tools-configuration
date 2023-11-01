@@ -106,6 +106,9 @@ cask "cleanmymac"
 # HTTPie
 cask "httpie"
 
+# Responsively
+cask "responsively"
+
 # Others that doesn't exists over Homebrew:
 # - Screen Studio (Website)
 # - HandMirror (App Store)
