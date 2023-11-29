@@ -103,8 +103,8 @@ cask "keycastr"
 # CleanMyMac
 cask "cleanmymac"
 
-# HTTPie
-cask "httpie"
+# Hoppscotch
+cask "hoppscotch"
 
 # Responsively
 cask "responsively"
