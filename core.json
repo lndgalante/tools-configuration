@@ -2,7 +2,7 @@
   "2024": {
     "dock": [
       ["Warp", "Arc Browser"],
-      ["Zed", "VSCode", "HTTPie"],
+      ["Zed", "VSCode", "Insomnia"],
       ["Tidal", "Linear"]
     ],
     "arc-tools": [
