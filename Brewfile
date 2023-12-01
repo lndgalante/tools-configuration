@@ -110,6 +110,7 @@ cask "insomnia"
 cask "responsively"
 
 # Others that doesn't exists over Homebrew:
+# - LocalCan (Website)
 # - Screen Studio (Website)
 # - HandMirror (App Store)
 # - Menu Bar Calendar (App Store)
