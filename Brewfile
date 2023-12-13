@@ -4,6 +4,9 @@ brew "git"
 # FNM
 brew "fnm"
 
+# MeetingBar
+brew "meetingbar"
+
 # Fonts
 tap "homebrew/cask-fonts" || true
 
