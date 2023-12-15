@@ -112,6 +112,9 @@ cask "insomnia"
 # Responsively
 cask "responsively"
 
+# ElGato
+cask "elgato-control-center"
+
 # Others that doesn't exists over Homebrew:
 # - LocalCan (Website)
 # - Screen Studio (Website)
