@@ -106,8 +106,8 @@ cask "keycastr"
 # CleanMyMac
 cask "cleanmymac"
 
-# Insomnia
-cask "insomnia"
+# Hoppscotch
+cask "hoppscotch"
 
 # Responsively
 cask "responsively"
