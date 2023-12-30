@@ -1,20 +1,21 @@
-# Git
-brew "git"
-
-# FNM
-brew "fnm"
-
-# MeetingBar
-brew "meetingbar"
-
-# Fonts
+# ------------ Taps -----------
 tap "homebrew/cask-fonts" || true
+tap "homebrew/cask-versions" || true
+
+
+## ------------ Fonts ------------
 
 # JetBrains Mono
 cask "font-jetbrains-mono"
 
+## ------------ Browsers ------------
 # Arc Browser
 cask "arc"
+
+# Firefox
+cask "firefox-developer-edition"
+
+## ------------ Terminal ------------
 
 # Warp
 cask "warp"
@@ -22,11 +23,16 @@ cask "warp"
 # Spaceship
 brew "spaceship"
 
+## ------------ Code Editors ------------
+
 # Zed
 cask "zed"
 
 # VSCode
 cask "visual-studio-code"
+
+
+## ------------ macOS Utilities ------------
 
 # Raycast
 cask "raycast"
@@ -43,8 +49,48 @@ cask "cleanshot"
 # Hidden Bar
 cask "hiddenbar"
 
+# Unarchiver
+cask "the-unarchiver"
+
+# Numi
+cask "numi"
+
+# Maccy
+cask "maccy"
+
+# CleanMyMac
+cask "cleanmymac"
+
+# Cron
+cask "cron"
+
+# Screenflow
+cask "screenflow"
+
+# ElGato
+cask "elgato-control-center"
+
+## ------------ Media ------------
+
 # Tidal
 cask "tidal"
+
+# IINA
+cask "iina"
+
+# Stremio
+cask "stremio"
+
+# Transmission
+cask "transmission"
+
+## ------------ Developer Utilities ------------
+
+# Git
+brew "git"
+
+# FNM
+brew "fnm"
 
 # DevToys
 cask "devtoys"
@@ -58,64 +104,36 @@ cask "sip"
 # Color Picker
 cask "pixelsnap"
 
-# Discord
-cask "discord"
-
-# Numi
-cask "numi"
-
-# IINA
-cask "iina"
-
-# Stremio
-cask "stremio"
-
-# Unarchiver
-cask "the-unarchiver"
-
-# Transmission
-cask "transmission"
-
 # Obsidian
 cask "obsidian"
-
-# Maccy
-cask "maccy"
-
-# Linear
-cask "linear-linear"
-
-# Cron
-cask "cron"
-
-# Hovrly
-cask "hovrly"
-
-# Zoom
-cask "zoom"
-
-# Screenflow
-cask "screenflow"
-
-# ImageOptim
-cask "imageoptim"
-
-# Keycastr
-cask "keycastr"
-
-# CleanMyMac
-cask "cleanmymac"
-
-# Hoppscotch
-cask "hoppscotch"
 
 # Responsively
 cask "responsively"
 
-# ElGato
-cask "elgato-control-center"
+# ImageOptim
+cask "imageoptim"
 
-# Others that doesn't exists over Homebrew:
+# Hoppscotch
+cask "hoppscotch"
+
+# Linear
+cask "linear-linear"
+
+## ------------ Communication ------------
+
+# Discord
+cask "discord"
+
+# Zoom
+cask "zoom"
+
+# MeetingBar
+brew "meetingbar"
+
+# Hovrly
+cask "hovrly"
+
+## ------------ Others (outside Homebrew) ------------
 # - LocalCan (Website)
 # - Screen Studio (Website)
 # - HandMirror (App Store)
