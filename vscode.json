@@ -1,21 +1,20 @@
 {
-  "window.title": "${dirty} ${activeEditorMedium}${separator}${rootName}",
-  // Explorer
-  "explorer.sortOrder": "type",
-  "explorer.openEditors.visible": 0,
-  "explorer.decorations.colors": false,
-  "explorer.confirmDragAndDrop": false,
-  // Indent Rainbow
-  "indentRainbow.colors": [
-    "rgba(255,255,64,0.04)",
-    "rgba(127,255,127,0.04)",
-    "rgba(255,127,255,0.04)",
-    "rgba(79,236,236,0.04)"
-  ],
+  // Editor - Fonts
+  "editor.fontSize": 14,
+  "editor.fontLigatures": true,
+  "editor.fontFamily": "JetBrains Mono",
+  // Editor - Cursor
+  "editor.cursorBlinking": "phase",
+  "editor.stickyScroll.enabled": true,
+  "editor.inlineSuggest.enabled": true,
+  "editor.cursorSmoothCaretAnimation": "on",
   // Editor - General
   "editor.tabSize": 2,
   "editor.wordWrap": "on",
-  "editor.rulers": [80, 120],
+  "editor.rulers": [
+    80,
+    120
+  ],
   "editor.glyphMargin": false,
   "editor.linkedEditing": true,
   "editor.smoothScrolling": true,
@@ -26,49 +25,51 @@
   "editor.renderWhitespace": "none",
   "editor.accessibilitySupport": "off",
   "editor.hideCursorInOverviewRuler": true,
-  // Editor - Formatting
-  "editor.formatOnSave": true,
-  "editor.codeActionsOnSave": {
-    "source.fixAll.eslint": false,
-    "source.organizeImports": false
-  },
-  // Editor - Fonts
-  "editor.fontSize": 16,
-  "editor.fontWeight": "500",
-  "editor.fontLigatures": true,
-  "editor.fontFamily": "JetBrains Mono",
-  // Editor - Cursor
-  "editor.cursorBlinking": "phase",
-  "editor.stickyScroll.enabled": true,
-  "editor.inlineSuggest.enabled": true,
-  "editor.cursorSmoothCaretAnimation": "on",
   // Editor - Suggestions
   "editor.snippetSuggestions": "top",
-  "editor.wordBasedSuggestions": false,
+  "editor.wordBasedSuggestions": "off",
   "editor.parameterHints.enabled": true,
   "editor.suggest.showStatusBar": true,
   "editor.suggest.insertMode": "insert",
   "editor.suggestSelection": "first",
-  // ESlint
-  "eslint.format.enable": false,
-  "eslint.validate": ["javascript", "javascriptreact", "typescript", "typescriptreact"],
-  // Prettier
-  "prettier.semi": true,
-  "prettier.tabWidth": 2,
-  "prettier.printWidth": 120,
-  "prettier.singleQuote": true,
-  "prettier.trailingComma": "all",
-  "prettier.bracketSpacing": true,
-  "prettier.jsxSingleQuote": true,
-  // Workbench - General
-  "workbench.startupEditor": "none",
+  // APC
+  "apc.font.family": "JetBrains Mono",
+  "apc.listRow": {
+    "height": 24,
+    "fontSize": 12
+  },
+
+  "apc.electron": {
+    "titleBarStyle": "hiddenInset",
+    "trafficLightPosition": {
+        "x": 9,
+        "y": 9
+    }
+  }, "apc.activityBar": {
+    "position": "top",
+    "size": 36
+  },
+  // Window
+  "window.titleBarStyle": "native",
   "workbench.sideBar.location": "right",
+  // Breadcrumbs
+  "breadcrumbs.enabled": false,
+  // Indent Rainbow
+  "indentRainbow.colors": [
+    "rgba(255,255,64,0.04)",
+    "rgba(127,255,127,0.04)",
+    "rgba(255,127,255,0.04)",
+    "rgba(79,236,236,0.04)"
+  ],
+  // Workbench - General
+  "workbench.iconTheme": "quill-icons",
+  "workbench.productIconTheme": "icons-carbon",
+  "workbench.colorTheme": "Serendipity Midnight",
+  "workbench.startupEditor": "none",
   "workbench.editor.tabSizing": "shrink",
   "workbench.fontAliasing": "antialiased",
   "workbench.panel.defaultLocation": "right",
-  "workbench.productIconTheme": "fluent-icons",
   "workbench.editor.enablePreviewFromQuickOpen": false,
-  "workbench.iconTheme": "symbols",
   // Workbench - Tree
   "workbench.tree.indent": 15,
   "workbench.tree.renderIndentGuides": "always",
@@ -78,8 +79,6 @@
   // Zen Mode
   "zenMode.centerLayout": false,
   "zenMode.hideLineNumbers": false,
-  // Breadcrumbs
-  "breadcrumbs.enabled": false,
   // Telemetry
   "telemetry.telemetryLevel": "off",
   // Imports
