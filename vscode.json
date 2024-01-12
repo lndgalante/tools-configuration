@@ -3,6 +3,14 @@
   "editor.fontSize": 14,
   "editor.fontLigatures": true,
   "editor.fontFamily": "JetBrains Mono",
+  // All Fonts
+  "scm.inputFontFamily": "JetBrains Mono",
+  "chat.editor.fontFamily": "JetBrains Mono",
+  "debug.console.fontFamily": "JetBrains Mono",
+  "editor.codeLensFontFamily": "JetBrains Mono",
+  "notebook.output.fontFamily": "JetBrains Mono",
+  "markdown.preview.fontFamily": "JetBrains Mono",
+  "editor.inlayHints.fontFamily": "JetBrains Mono",
   // Editor - Cursor
   "editor.cursorBlinking": "phase",
   "editor.stickyScroll.enabled": true,
@@ -70,6 +78,7 @@
   "workbench.fontAliasing": "antialiased",
   "workbench.panel.defaultLocation": "right",
   "workbench.editor.enablePreviewFromQuickOpen": false,
+  "workbench.settings.editor": "json",
   // Workbench - Tree
   "workbench.tree.indent": 15,
   "workbench.tree.renderIndentGuides": "always",
