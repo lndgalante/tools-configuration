@@ -18,6 +18,7 @@
     ],
     "menu-bar": ["Hovrly", "Raycast", "TopNotch", "Rectangle", "CleanShotX", "Hidden Bar", "Maccy", "HandMirror"],
     "applications-folder": [
+      "DisplayBuddy",
       "MeetingBar",
       "AltTab",
       "Cron",
