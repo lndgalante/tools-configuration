@@ -19,6 +19,7 @@
     ],
     "menu-bar": ["Hovrly", "Raycast", "TopNotch", "Rectangle", "CleanShotX", "Hidden Bar", "Maccy", "HandMirror"],
     "applications-folder": [
+      "Orbstack",
       "Proxyman",
       "DisplayBuddy",
       "MeetingBar",
