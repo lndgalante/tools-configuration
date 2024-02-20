@@ -1,6 +1,8 @@
 {
+  "future": {
+    "dock": ["Safari", "Zed", "Endel"]
+  },
   "2024": {
-    "future": ["Safari", "Zed", "Endel"],
     "dock": [
       ["Warp", "Arc Browser"],
       ["Zed", "VSCode", "Insomnia"],
