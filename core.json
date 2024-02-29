@@ -1,12 +1,26 @@
 {
   "future": {
-    "dock": ["Safari", "Zed", "Endel"]
+    "dock": [
+      "Safari",
+      "Zed",
+      "Endel"
+    ]
   },
   "2024": {
     "dock": [
-      ["Warp", "Arc Browser"],
-      ["Zed", "VSCode", "Insomnia"],
-      ["Tidal", "Linear"]
+      [
+        "Warp",
+        "Arc Browser"
+      ],
+      [
+        "Zed",
+        "VSCode",
+        "Insomnia"
+      ],
+      [
+        "Tidal",
+        "Linear"
+      ]
     ],
     "arc-tools": [
       "Calendar",
@@ -19,7 +33,16 @@
       "Whisical",
       "Stately"
     ],
-    "menu-bar": ["Hovrly", "Raycast", "TopNotch", "Rectangle", "CleanShotX", "Hidden Bar", "Maccy", "HandMirror"],
+    "menu-bar": [
+      "Hovrly",
+      "Raycast",
+      "TopNotch",
+      "Rectangle",
+      "CleanShotX",
+      "Hidden Bar",
+      "Maccy",
+      "HandMirror"
+    ],
     "applications-folder": [
       "Orbstack",
       "Proxyman",
@@ -48,10 +71,29 @@
       "Menu Bar Calendar"
     ]
   },
-  "terminal": ["Zed Native", "Starship (+Pure preset)", "Fig", "Zoxide", "gh", "bat", "fzf"],
-  "NPM": ["LocalTunnel"],
-  "raycast-extensions": ["CleanShotX"],
-  "arc-extensions": ["JSON Viewer", "uBlock Origin", "Web Vitals", "Wappalyzer", "Dimensions", "Open GitHub IDE"],
+  "terminal": [
+    "Zed Native",
+    "Starship (+Pure preset)",
+    "Fig",
+    "Zoxide",
+    "gh",
+    "bat",
+    "fzf"
+  ],
+  "NPM": [
+    "LocalTunnel"
+  ],
+  "raycast-extensions": [
+    "CleanShotX"
+  ],
+  "arc-extensions": [
+    "JSON Viewer",
+    "uBlock Origin",
+    "Web Vitals",
+    "Wappalyzer",
+    "Dimensions",
+    "Open GitHub IDE"
+  ],
   "brave-extensions": [
     "Zoom",
     "uBlock",
@@ -68,6 +110,7 @@
     "Refined GitHub"
   ],
   "vscode-extensions": [
+    "MillionJS",
     "Rust Extension Pack",
     "NPM",
     "Kanagawa | Moonlight II | Dracula Pro",
