@@ -1,10 +1,10 @@
 {
   // theme
-  "theme": "Rosé Pine Moon",
+  "theme": "Catppuccin Mocha",
   // keymap
   "base_keymap": "VSCode",
   // font
-  "buffer_font_size": 14,
+  "buffer_font_size": 16,
   "buffer_font_family": "JetBrains Mono",
   // telemetry
   "telemetry": {
@@ -13,7 +13,7 @@
   },
   // terminal
   "terminal": {
-    "font_size": 14,
+    "font_size": 16,
     "dock": "left",
     "copy_on_select": true,
     "font_family": "JetBrains Mono"
