@@ -17,28 +17,47 @@
     "line_numbers": true,
     "code_actions": false
   },
+  // wrap guides
+  "wrap_guides": [120],
   // ui
   "ui_font_size": 16,
-  "ui_font_family": "Berkeley Mono Trial",
+  "ui_font_family": "JetBrains Mono",
   // buffer
   "buffer_font_size": 16,
-  "buffer_font_family": "Berkeley Mono Trial",
+  "buffer_line_height": "comfortable",
+  "buffer_font_family": "JetBrains Mono",
   "buffer_font_features": {
     "liga": true
   },
+  // inlay
+  "inlay_hints": {
+    "enabled": true,
+    "show_type_hints": true,
+    "show_other_hints": true,
+    "show_parameter_hints": true
+  },
+  // cursor
+  "cursor_blink": false,
   // telemetry
   "telemetry": {
     "diagnostics": true,
     "metrics": false
   },
+  // tabs
+  "tabs": {
+    "git_status": true,
+    "close_position": "right"
+  },
   // terminal
   "terminal": {
     "font_size": 16,
     "dock": "left",
+    "blinking": "off",
     "default_width": 20,
     "copy_on_select": true,
-    "line_height": "standard",
-    "font_family": "Berkeley Mono Trial"
+    "line_height": "comfortable",
+    "font_family": "JetBrains Mono",
+    "working_directory": "current_project_directory"
   },
   // fs panel
   "project_panel": {
@@ -46,12 +65,42 @@
     "default_width": 120,
     "indent_size": 8
   },
+  // scrollbar
+  "scrollbar": {
+    "show": "never"
+  },
+  // languages
+  "languages": {
+    "JavaScript": {
+      "tab_size": 2
+    },
+    "TypeScript": {
+      "tab_size": 2
+    }
+  },
+  // vertical scroll
+  "vertical_scroll_margin": 0,
   // coding format
   "format_on_save": "on",
   "preferred_line_length": 120,
   "ensure_final_newline_on_save": true,
+  "remove_trailing_whitespace_on_save": true,
   // copilot
   "show_copilot_suggestions": true,
   // whitespaces
-  "show_whitespaces": "none"
+  "show_whitespaces": "none",
+  // unused zed features
+  "chat_panel": {
+    "button": false
+  },
+  "collaboration_panel": {
+    "button": false
+  },
+  "notification_panel": {
+    "button": false
+  },
+  "assistant": {
+    "version": "1",
+    "button": false
+  }
 }
