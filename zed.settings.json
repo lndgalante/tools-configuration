@@ -1,11 +1,31 @@
 {
   // theme
-  "theme": "Catppuccin Mocha",
+  "theme": "Serendipity Sunset",
   // keymap
   "base_keymap": "VSCode",
-  // font
+  // toolbar
+  "toolbar": {
+    "breadcrumbs": false,
+    "quick_actions": false
+  },
+  // tab bar
+  "tab_bar": {
+    "show_nav_history_buttons": false
+  },
+  // gutter
+  "gutter": {
+    "line_numbers": true,
+    "code_actions": false
+  },
+  // ui
+  "ui_font_size": 16,
+  "ui_font_family": "Berkeley Mono Trial",
+  // buffer
   "buffer_font_size": 16,
-  "buffer_font_family": "JetBrains Mono",
+  "buffer_font_family": "Berkeley Mono Trial",
+  "buffer_font_features": {
+    "liga": true
+  },
   // telemetry
   "telemetry": {
     "diagnostics": true,
@@ -15,29 +35,21 @@
   "terminal": {
     "font_size": 16,
     "dock": "left",
+    "default_width": 20,
     "copy_on_select": true,
-    "font_family": "JetBrains Mono"
+    "line_height": "standard",
+    "font_family": "Berkeley Mono Trial"
   },
   // fs panel
   "project_panel": {
     "dock": "right",
-    "default_width": 120
+    "default_width": 120,
+    "indent_size": 8
   },
   // coding format
   "format_on_save": "on",
   "preferred_line_length": 120,
   "ensure_final_newline_on_save": true,
-  // prettier
-  "language_overrides": {
-    "JavaScript": {
-      "format_on_save": {
-        "external": {
-          "command": "prettier",
-          "arguments": ["--stdin-filepath", "{buffer_path}"]
-        }
-      }
-    }
-  },
   // copilot
   "show_copilot_suggestions": true,
   // whitespaces
