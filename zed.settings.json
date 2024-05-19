@@ -21,11 +21,11 @@
   "wrap_guides": [],
   // ui
   "ui_font_size": 16,
-  "ui_font_family": "JetBrains Mono",
+  "ui_font_family": "Berkeley Mono",
   // buffer
   "buffer_font_size": 16,
   "buffer_line_height": "comfortable",
-  "buffer_font_family": "JetBrains Mono",
+  "buffer_font_family": "Berkeley Mono",
   "buffer_font_features": {
     "liga": true
   },
@@ -56,7 +56,7 @@
     "default_width": 20,
     "copy_on_select": true,
     "line_height": "comfortable",
-    "font_family": "JetBrains Mono",
+    "font_family": "Berkeley Mono",
     "working_directory": "current_project_directory"
   },
   // fs panel
