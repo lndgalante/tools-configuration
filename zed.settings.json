@@ -1,6 +1,6 @@
 {
   // theme
-  "theme": "Serendipity Sunset",
+  "theme": "Tokyo Night",
   // keymap
   "base_keymap": "VSCode",
   // toolbar
@@ -18,7 +18,7 @@
     "code_actions": false
   },
   // wrap guides
-  "wrap_guides": [120],
+  "wrap_guides": [],
   // ui
   "ui_font_size": 16,
   "ui_font_family": "JetBrains Mono",
