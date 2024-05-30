@@ -1,4 +1,8 @@
 {
   "theme": "Tokyo Night",
-  "formatter": "Biome"
+  "formatter": "Biome",
+  "html": "HTML",
+  "git": "Git Firefly",
+  "docker": "Dockerfile",
+  "emmet": "Emmt"
 }
