@@ -1,21 +1,21 @@
 {
-  "future": {
+  "builder-machine": {
     "dock": [
       "Safari",
       "Zed",
+      "Ghostty",
       "Endel"
     ]
   },
-  "2024": {
+  "work-machine": {
     "dock": [
       [
         "Warp",
         "Arc Browser"
       ],
       [
-        "Zed",
         "VSCode",
-        "Insomnia"
+        "Hoppscotch"
       ],
       [
         "Tidal",
