@@ -24,10 +24,7 @@
     "npm": "lazynpm",
     "info": "neofetch",
     "prompt": "Starship",
-    "autocompletion": "Fig",
-    "futuristic": "eDEX-UI",
-    "autocorrection": "Fuck",
-    "clean-node-modules": "autarky"
+    "autocorrection": "Fuck"
   },
   "webapps": {
     "github": "github1s"
@@ -42,13 +39,9 @@
     "timezones": "FlagTimes",
     "upload": "Transmit",
     "gif-recorder": "CleanShotX",
-    "translations": "Mate",
-    "color-picker": "Sip",
     "video-player": "IINA",
     "menu-bar": "Bartender",
-    "clipboard": "MassCode",
     "mind-maps": "Whismical",
-    "emoji-finder": "Rocket",
     "code-music": "Sonic Pi",
     "gif-converter": "Gifski",
     "music-player": "Spotify",

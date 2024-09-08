@@ -1,25 +1,29 @@
 {
-  "builder-machine": {
+  "primary-machine": {
     "dock": [
-      "Arc",
-      "Cursor",
-      "Ghostty",
-      "Endel"
-    ]
-  },
-  "work-machine": {
-    "dock": [
+      [
+        "Arc",
+        "Cursor"
+      ],
       [
         "Warp",
-        "Arc Browser"
+        "Yaak"
       ],
       [
-        "VSCode",
-        "Hoppscotch"
-      ],
-      [
-        "Tidal",
+        "Figma",
         "Linear"
+      ],
+      [
+        "Slack",
+        "Texts"
+      ],
+      [
+        "Slack",
+        "Texts"
+      ],
+      [
+        "Spotify",
+        "Endel"
       ]
     ],
     "arc-tools": [
@@ -30,39 +34,24 @@
       "ChatGPT",
       "TLDRAW",
       "Chalk.ist",
-      "Whisical",
+      "Whimsical",
       "Stately"
     ],
     "menu-bar": [
       "Hovrly",
       "Raycast",
-      "TopNotch",
       "Rectangle",
       "CleanShotX",
       "Hidden Bar",
-      "Maccy",
-      "HandMirror",
       "LookAway"
     ],
     "applications-folder": [
       "Orbstack",
-      "Proxyman",
-      "DisplayBuddy",
-      "MeetingBar",
-      "AltTab",
-      "Cron",
-      "Dropover",
-      "Endel",
-      "Chrome",
-      "Tidal",
-      "DevToys",
       "Screen Studio",
       "RunJS",
       "PixelSnap2",
       "Polypane",
-      "OBS",
       "Discord",
-      "Telegram",
       "Numi",
       "IINA",
       "Stremio",
@@ -72,79 +61,14 @@
       "Menu Bar Calendar"
     ]
   },
-  "terminal": [
-    "Zed Native",
-    "Starship (+Pure preset)",
-    "Fig",
-    "Zoxide",
-    "gh",
-    "bat",
-    "fzf"
-  ],
-  "NPM": [
-    "LocalTunnel"
-  ],
   "raycast-extensions": [
-    "CleanShotX"
+    "CleanShotX",
+    "ColorPicker"
   ],
   "arc-extensions": [
     "JSON Viewer",
-    "uBlock Origin",
     "Web Vitals",
     "Wappalyzer",
-    "Dimensions",
-    "Open GitHub IDE"
-  ],
-  "brave-extensions": [
-    "Zoom",
-    "uBlock",
-    "Phantom",
-    "ML Mas Vendidos",
-    "Wappalyzer",
-    "SEO Detailed",
-    "OneTab",
-    "Grammarly",
-    "Dimensions",
-    "React Developer Tools",
-    "JSON Viewer",
-    "LocatorJS",
-    "Refined GitHub"
-  ],
-  "vscode-extensions": [
-    "MillionJS",
-    "Rust Extension Pack",
-    "NPM",
-    "Kanagawa | Moonlight II | Dracula Pro",
-    "Console Ninja",
-    "Markdown Preview Github Styling",
-    "JavaScript Booster",
-    "Remix Run Snippets",
-    "Conventional Commits",
-    "Auto Close Tag",
-    "Auto Rename Tag",
-    "CodeMetrics",
-    "Color Highlight",
-    "Code to Gist",
-    "File Icons",
-    "Carbon Icons",
-    "ESLint",
-    "Prettier",
-    "GitHub Copilot",
-    "GitLens",
-    "Highlight Matching Tag",
-    "Image Preview",
-    "IntelliCode",
-    "Import Cost",
-    "Indent Rainbow",
-    "Quokka.js",
-    "CodeSnap",
-    "Template String Converter",
-    "TODO Highlight",
-    "Pretty TypeScript Errors",
-    "Turbo Console Log",
-    "Version Lens",
-    "GitHub Copilot Labs",
-    "JavaScript and TypeScript Nightly",
-    "Qwik, Qwik City, Mitosis, & Partytown Snippets"
+    "Dimensions"
   ]
 }
