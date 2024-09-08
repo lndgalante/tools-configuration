@@ -47,6 +47,12 @@ cask "numi"
 # CleanMyMac
 cask "cleanmymac"
 
+# AltTab
+cask "alt-tab"
+
+# Downie
+cask "downie"
+
 ## ------------ Media ------------
 
 # Tidal
@@ -68,6 +74,9 @@ cask "transmission"
 
 # Bun
 brew "bun"
+
+# Rust
+brew "rust"
 
 # Git
 brew "git"
