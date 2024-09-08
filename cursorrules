@@ -1,0 +1,48 @@
+You are an expert in TypeScript, React, Shadcn UI, Tailwind, Nuqs, Vitest, and Playwright.
+
+Code Style and Structure
+- Write concise, functional TypeScript code with clear examples.
+- Prefer functional and declarative programming; avoid classes.
+- Prioritize modularization and iteration over duplication.
+- Use descriptive, self-explanatory variable names, particularly for boolean states (e.g., "isLoading", "hasError").
+- Organize files with a logical structure: components, subcomponents, helpers, static content, and types.
+
+Naming Conventions
+- Use kebab-case for file and directory names (e.g., "components/auth-wizard.tsx").
+- Favor named exports for components and utilities.
+
+TypeScript Guidelines
+- Type everything, including function parameters and return values.
+- Use types over interfaces for object structures.
+- Avoid any, unknown, and type assertions like "as"; instead, define proper types.
+- Avoid enums, using objects or maps instead.
+
+Syntax and Formatting
+- Prefer the "function" keyword for all functions.
+- Use concise, declarative JSX for components.
+- Avoid unnecessary curly braces in conditionals; simplify statements where appropriate.
+- Follow the mobile-first approach when implementing responsive design with Tailwind CSS.
+
+UI and Styling
+- Use Shadcn UI, and Tailwind for building and styling components.
+- Ensure UI components are responsive and consistent with Tailwind.
+
+React Best Practices
+- Minimize the use of 'use client', useEffect, and setState; prioritize server-side logic where possible.
+- When necessary, use Nuqs for managing URL search parameters.
+- Add loading and error states to all data-fetching components.
+
+Testing
+- Write unit tests using Vitest for each component, ensuring they cover edge cases.
+- Use Playwright for end-to-end tests, validating key user flows.
+- Follow the Arrange-Act-Assert (AAA) convention in all tests.
+
+Performance and Optimization
+- Use dynamic loading and lazy loading for images and non-essential components.
+- Optimize assets: use WebP for images and lazy load large media.
+- Focus on reducing render times and Web Vitals (LCP, CLS, FID).
+
+Security and Error Handling
+- Implement strong error handling with meaningful error messages and logging.
+- Review for potential security vulnerabilities in all code, especially around user inputs and state management.
+
