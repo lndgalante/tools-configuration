@@ -1,9 +1,10 @@
 ## ------------ Browsers ------------
+
 # Arc Browser
 cask "arc"
 
-# Firefox
-cask "firefox-developer-edition"
+# Polypane
+cask "polypane"
 
 ## ------------ Terminal ------------
 
