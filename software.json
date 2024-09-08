@@ -15,14 +15,14 @@
     "package-manager": "Homebrew/Cakebrew"
   },
   "terminal": {
-    "ls": "tree",
+    "ls": "erdtree",
     "json": "fx",
     "help": "Navi",
     "shell": "ZSH",
     "app": "iTerm2",
     "finder": "fzf",
     "npm": "lazynpm",
-    "info": "neofetch",
+    "info": "fastfetch",
     "prompt": "Starship",
     "autocorrection": "Fuck"
   },

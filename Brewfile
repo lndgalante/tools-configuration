@@ -97,7 +97,10 @@ cask "devutils"
 cask "figma"
 
 # OrbStack
-brew "orbstack"
+cask "orbstack"
+
+# TablePlus
+cask "tableplus"
 
 ## ------------ Communication ------------
 
@@ -110,9 +113,13 @@ cask "slack"
 # Hovrly
 cask "hovrly"
 
-# Texts
-cask "texts"
+
 ## ------------ Health ------------
 
 # LookAway
 cask "lookaway"
+
+
+## ------------ From website ------------
+
+# Texts
