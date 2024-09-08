@@ -54,6 +54,12 @@ cask "alt-tab"
 # Downie
 cask "downie"
 
+# CleanMyMacX
+cask "cleanmymac"
+
+# PixelSnap2
+cask "pixelsnap"
+
 ## ------------ Media ------------
 
 # Tidal
