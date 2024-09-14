@@ -118,6 +118,9 @@ cask "orbstack"
 # TablePlus
 cask "tableplus"
 
+# Fly.io
+brew "flyctl"
+
 ## ------------ Communication ------------
 
 # Discord
