@@ -60,6 +60,9 @@ cask "cleanmymac"
 # PixelSnap2
 cask "pixelsnap"
 
+# Clop
+cask "clop"
+
 ## ------------ Media ------------
 
 # Tidal

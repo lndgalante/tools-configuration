@@ -1,74 +1,54 @@
 {
-  "primary-machine": {
-    "dock": [
-      [
-        "Arc",
-        "Cursor"
-      ],
-      [
-        "Warp",
-        "Yaak"
-      ],
-      [
-        "Figma",
-        "Linear"
-      ],
-      [
-        "Slack",
-        "Texts"
-      ],
-      [
-        "Slack",
-        "Texts"
-      ],
-      [
-        "Spotify",
-        "Endel"
-      ]
-    ],
-    "arc-tools": [
-      "Calendar",
-      "Gmail",
-      "Notion",
-      "Transform.tools",
-      "ChatGPT",
-      "TLDRAW",
-      "Chalk.ist",
-      "Whimsical",
-      "Stately"
-    ],
-    "menu-bar": [
-      "Hovrly",
-      "Raycast",
-      "Rectangle",
-      "CleanShotX",
-      "Hidden Bar",
-      "LookAway"
-    ],
-    "applications-folder": [
-      "Orbstack",
-      "Screen Studio",
-      "RunJS",
-      "PixelSnap2",
-      "Polypane",
-      "Discord",
-      "Numi",
-      "IINA",
-      "Stremio",
-      "The Unarchiver",
-      "Transmission",
-      "LocalCan",
-      "Menu Bar Calendar"
-    ]
-  },
-  "raycast-extensions": [
-    "CleanShotX",
-    "ColorPicker"
-  ],
-  "arc-extensions": [
-    "JSON Viewer",
-    "Web Vitals",
-    "Wappalyzer",
-    "Dimensions"
-  ]
+	"primary-machine": {
+		"dock": [
+			["Arc", "Cursor"],
+			["Warp", "Yaak"],
+			["Figma", "Linear"],
+			["Slack", "Texts"],
+			["Chrome", "Polypane"],
+			["Spotify", "Endel"],
+			["Orbstack", "TablePlus"],
+			["LocalCan", "DevUtils"],
+			["Screen Studio", "Discord"],
+			["RunJS", "Numi"],
+			["CleanMyMac", "Downie"]
+		],
+		"arc-tools": [
+			"Calendar",
+			"Gmail",
+			"Notion",
+			"Transform.tools",
+			"ChatGPT",
+			"TLDRAW",
+			"Chalk.ist",
+			"Whimsical",
+			"Stately"
+		],
+		"menu-bar": [
+			"Hovrly",
+			"Raycast",
+			"Rectangle",
+			"CleanShotX",
+			"Hidden Bar",
+			"LookAway",
+			"Clop"
+		],
+		"applications-folder": [
+			"Orbstack",
+			"Screen Studio",
+			"RunJS",
+			"PixelSnap2",
+			"Polypane",
+			"Discord",
+			"Numi",
+			"IINA",
+			"Stremio",
+			"The Unarchiver",
+			"Transmission",
+			"LocalCan",
+			"Menu Bar Calendar"
+		]
+	},
+	"raycast-extensions": ["CleanShotX", "ColorPicker"],
+	"arc-extensions": ["JSON Viewer", "Web Vitals", "Wappalyzer", "Dimensions"]
 }
