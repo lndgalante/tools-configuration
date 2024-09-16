@@ -1,7 +1,8 @@
 {
   // Editor - Primary Fonts
-  "editor.fontSize": 18,
+  "editor.fontSize": 16,
   "editor.fontWeight": "500",
+  "editor.fontLigatures": true,
   "editor.fontFamily": "Berkeley Mono",
   // Editor - Secondary Fonts
   "scm.inputFontFamily": "Berkeley Mono",
@@ -83,6 +84,15 @@
   "editor.defaultFormatter": "biomejs.biome",
   "editor.codeActionsOnSave": {
     "quickfix.biome": "explicit"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "biomejs.biome"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "biomejs.biome"
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "biomejs.biome"
   },
   // Indent Rainbow
   "indentRainbow.colors": [
