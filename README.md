@@ -1,6 +1,6 @@
 # Tools personal config
 
-![desktop-2022](/assets/desktop-2022.png)
+![desktop-2024](/assets/desktop-2024.png)
 
 ## Setup Scripts
 
