@@ -77,6 +77,9 @@ cask "stremio"
 # Transmission
 cask "transmission"
 
+# Logitech
+cask "logitech-g-hub"
+
 ## ------------ Developer Utilities ------------
 
 # Bun
