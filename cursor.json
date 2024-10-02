@@ -26,16 +26,6 @@
   // Editor - General
   "editor.tabSize": 2,
   "editor.wordWrap": "on",
-  "editor.rulers": [
-    {
-      "column": 80,
-      "color": "#212121"
-    },
-    {
-      "column": 120,
-      "color": "#212121"
-    },
-  ],
   "editor.glyphMargin": false,
   "editor.linkedEditing": true,
   "editor.smoothScrolling": true,
@@ -81,17 +71,10 @@
   "turboConsoleLog.logMessagePrefix": "\\n",
   "turboConsoleLog.includeFileNameAndLineNum": false,
   // Biome
+  "editor.formatOnSave": true,
   "editor.defaultFormatter": "biomejs.biome",
-  "editor.codeActionsOnSave": {
-    "quickfix.biome": "explicit"
-  },
-  "[javascript]": {
-    "editor.defaultFormatter": "biomejs.biome"
-  },
-  "[typescript]": {
-    "editor.defaultFormatter": "biomejs.biome"
-  },
-  "[typescriptreact]": {
+  "editor.codeActionsOnSave": { "quickfix.biome": "explicit"},
+  "[javascript][javascriptreact][typescript][typescriptreact][json][html][css][tailwindcss]": {
     "editor.defaultFormatter": "biomejs.biome"
   },
   // Indent Rainbow
@@ -101,4 +84,7 @@
     "rgba(255,127,255,0.02)",
     "rgba(79,236,236,0.02)"
   ],
+  // Cursor
+  "cursor.cpp.enablePartialAccepts": true,
+  "cursor.chat.smoothStreaming": true,
 }
