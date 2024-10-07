@@ -60,6 +60,9 @@ cask "pixelsnap"
 # Clop
 cask "clop"
 
+# OneSwitch
+cask "one-switch"
+
 ## ------------ Media ------------
 
 # Tidal
