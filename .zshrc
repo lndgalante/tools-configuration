@@ -25,7 +25,7 @@ cd ~/Developer
 
 # Welcome Message
 echo "\n"
-pokemonsay "Take a look around, and have fun coding today!"
+pokemonsay "Take a look around, and have some fun coding today! Peace out brother."
 
 # Display folders
 erd --level 1 --dirs-only --suppress-size
