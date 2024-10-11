@@ -24,6 +24,10 @@ cask "cursor"
 
 ## ------------ macOS Utilities ------------
 
+# Pokemonsay
+tap "possatti/possatti"
+brew "pokemonsay"
+
 # Raycast
 cask "raycast"
 
