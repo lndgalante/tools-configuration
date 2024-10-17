@@ -1,5 +1,8 @@
 {
   // theme
+  "features": {
+    "inline_completion_provider": "none"
+  },
   "theme": "Catppuccin Mocha",
   // keymap
   "base_keymap": "VSCode",
@@ -18,12 +21,12 @@
     "code_actions": false
   },
   // wrap guides
-  "wrap_guides": [],
+  "wrap_guides": [80],
   // ui
-  "ui_font_size": 16,
+  "ui_font_size": 18,
   "ui_font_family": "Berkeley Mono",
   // buffer
-  "buffer_font_size": 16,
+  "buffer_font_size": 18,
   "buffer_line_height": "comfortable",
   "buffer_font_family": "Berkeley Mono",
   "buffer_font_features": {
@@ -50,10 +53,10 @@
   },
   // terminal
   "terminal": {
-    "font_size": 16,
-    "dock": "left",
+    "font_size": 18,
+    "dock": "right",
     "blinking": "off",
-    "default_width": 20,
+    "default_width": 18,
     "copy_on_select": true,
     "line_height": "comfortable",
     "font_family": "Berkeley Mono",
@@ -62,8 +65,8 @@
   // fs panel
   "project_panel": {
     "dock": "left",
-    "default_width": 120,
-    "indent_size": 8
+    "indent_size": 8,
+    "default_width": 80
   },
   // scrollbar
   "scrollbar": {
@@ -82,7 +85,7 @@
   "vertical_scroll_margin": 0,
   // coding format
   "format_on_save": "on",
-  "preferred_line_length": 120,
+  "preferred_line_length": 80,
   "ensure_final_newline_on_save": true,
   "remove_trailing_whitespace_on_save": true,
   // biome
@@ -102,7 +105,7 @@
     "button": false
   },
   "assistant": {
-    "version": "1",
+    "version": "2",
     "button": false
   }
 }
