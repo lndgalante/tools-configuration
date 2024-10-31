@@ -20,8 +20,6 @@
     "line_numbers": true,
     "code_actions": false
   },
-  // wrap guides
-  "wrap_guides": [80],
   // ui
   "ui_font_size": 18,
   "ui_font_family": "Berkeley Mono",
