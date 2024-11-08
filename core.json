@@ -1,18 +1,39 @@
 {
 	"primary-machine": {
-		"dock": [
-			["Arc", "Cursor"],
-			["Warp", "Yaak"],
-			["Figma", "Linear"],
-			["Slack", "Texts"],
-			["Chrome", "Polypane"],
-			["Spotify", "Endel"],
-			["Orbstack", "TablePlus"],
-			["LocalCan", "DevUtils"],
-			["Screen Studio", "Discord"],
-			["RunJS", "Numi"],
-			["CleanMyMac", "Downie"]
-		],
+		"dock": {
+			"coding-primary": [
+				"Zen Browser",
+				"Chrome",
+				"Cursor",
+				"Zed",
+				"Ghostty",
+				"Yaak"
+			],
+			"coding-secondary": [
+				"Figma",
+				"OrbStack",
+				"TablePlus",
+				"LocalCan",
+				"DevUtils",
+				"RunJS"
+			],
+			"tools-primary": [
+				"Linear",
+				"Slack",
+				"Discord",
+				"Screen Studio",
+				"CleanShot X",
+				"Numi"
+			],
+			"tools-secondary": [
+				"Polypane",
+				"CleanMyMac",
+				"Downie 4",
+				"Spotify",
+				"Endel",
+				"Tidal"
+			]
+		},
 		"arc-tools": [
 			"Calendar",
 			"Gmail",

@@ -24,6 +24,9 @@ cask "cursor"
 
 ## ------------ macOS Utilities ------------
 
+# Ice
+brew "jordanbaird-ice"
+
 # Pokemonsay
 tap "possatti/possatti"
 brew "pokemonsay"
@@ -39,9 +42,6 @@ cask "cleanshot"
 
 # Screen Studio
 cask "screen-studio"
-
-# Hidden Bar
-cask "hiddenbar"
 
 # Unarchiver
 cask "the-unarchiver"
@@ -142,6 +142,12 @@ cask "slack"
 # Hovrly
 cask "hovrly"
 
+# WhatsApp
+cask "whatsapp"
+
+# Telegram
+cask "telegram"
+
 
 ## ------------ Health ------------
 
@@ -151,4 +157,4 @@ cask "lookaway"
 
 ## ------------ From website ------------
 
-# Texts
+# Alcove
