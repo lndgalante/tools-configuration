@@ -1,14 +1,7 @@
 {
 	"primary-machine": {
 		"dock": {
-			"coding-primary": [
-				"Safari",
-				"Chrome",
-				"Cursor",
-				"Zed",
-				"Ghostty",
-				"Yaak"
-			],
+			"coding-primary": ["Chrome", "Cursor", "Ghostty", "Yaak"],
 			"coding-secondary": [
 				"Figma",
 				"OrbStack",
@@ -25,14 +18,7 @@
 				"CleanShot X",
 				"Numi"
 			],
-			"tools-secondary": [
-				"Polypane",
-				"CleanMyMac",
-				"Downie 4",
-				"Spotify",
-				"Endel",
-				"Tidal"
-			]
+			"tools-secondary": ["CleanMyMac", "Downie 4", "Endel", "Tidal"]
 		},
 		"arc-tools": [
 			"Calendar",

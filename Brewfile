@@ -1,21 +1,15 @@
 ## ------------ Browsers ------------
 
-# Arc Browser
-cask "arc"
-
-# Polypane
-cask "polypane"
+# Google Chrome
+cask "google-chrome"
 
 ## ------------ Terminal ------------
 
 # Warp
-cask "warp"
+cask "ghostty"
 
 # Spaceship
 brew "spaceship"
-
-# Tree
-brew "erdtree"
 
 ## ------------ Code Editors ------------
 
@@ -26,10 +20,6 @@ cask "cursor"
 
 # Ice
 brew "jordanbaird-ice"
-
-# Pokemonsay
-tap "possatti/possatti"
-brew "pokemonsay"
 
 # Raycast
 cask "raycast"
@@ -64,16 +54,10 @@ cask "pixelsnap"
 # Clop
 cask "clop"
 
-# OneSwitch
-cask "one-switch"
-
 ## ------------ Media ------------
 
 # Tidal
 cask "tidal"
-
-# Spotify
-cask "spotify"
 
 # IINA
 cask "iina"
@@ -83,9 +67,6 @@ cask "stremio"
 
 # Transmission
 cask "transmission"
-
-# Logitech
-cask "logitech-g-hub"
 
 ## ------------ Developer Utilities ------------
 
