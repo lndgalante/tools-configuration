@@ -1,35 +1,49 @@
 {
 	"primary-machine": {
-		"dock": {
-			"coding-primary": ["Chrome", "Cursor", "Ghostty", "Yaak"],
-			"coding-secondary": [
-				"Figma",
-				"OrbStack",
-				"TablePlus",
-				"LocalCan",
-				"DevUtils",
-				"RunJS"
-			],
-			"tools-primary": [
-				"Linear",
-				"Slack",
-				"Discord",
-				"Screen Studio",
-				"CleanShot X",
-				"Numi"
-			],
-			"tools-secondary": ["CleanMyMac", "Downie 4", "Endel", "Tidal"]
-		},
-		"arc-tools": [
+		"primary-dock": ["Chrome", "Cursor", "Ghostty", "Obsidian"],
+		"secondary-dock": [
+			"Zed",
+			"Yaak",
+			"Figma",
+			"Linear",
+			"Slack",
+			"Discord",
+			"iPhone Mirroring",
+			"OrbStack",
+			"TablePlus",
+			"LocalCan",
+			"DevUtils",
+			"RunJS",
+			"Screen Studio",
+			"RunJS",
+			"Numi",
+			"CleanMyMac",
+			"Downie 4",
+			"Tidal"
+		],
+		"chrome-bookmarks": [
 			"Calendar",
 			"Gmail",
-			"Notion",
-			"Transform.tools",
+			"v0",
+			"Poolsuite.FM",
 			"ChatGPT",
+			"Claude",
+			"Transform.tools",
 			"TLDRAW",
-			"Chalk.ist",
 			"Whimsical",
 			"Stately"
+		],
+		"chrome-extensions": [
+			"uBlock Origin",
+			"Grammarly",
+			"A Fine Start",
+			"JSON Viewer",
+			"Web Vitals",
+			"Wappalyzer",
+			"Dimensions",
+			"Refined GitHub",
+			"React Developer Tools",
+			"Detailed SEO Extension"
 		],
 		"menu-bar": [
 			"Hovrly",
@@ -41,21 +55,12 @@
 			"Clop"
 		],
 		"applications-folder": [
-			"Orbstack",
-			"Screen Studio",
-			"RunJS",
 			"PixelSnap2",
-			"Polypane",
-			"Discord",
-			"Numi",
 			"IINA",
 			"Stremio",
 			"The Unarchiver",
-			"Transmission",
-			"LocalCan",
-			"Menu Bar Calendar"
-		]
-	},
-	"raycast-extensions": ["CleanShotX", "ColorPicker"],
-	"arc-extensions": ["JSON Viewer", "Web Vitals", "Wappalyzer", "Dimensions"]
+			"Transmission"
+		],
+		"raycast-extensions": ["CleanShotX", "ColorPicker"]
+	}
 }
