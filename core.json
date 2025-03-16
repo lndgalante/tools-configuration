@@ -1,6 +1,6 @@
 {
 	"primary-machine": {
-		"primary-dock": ["Chrome", "Cursor", "Ghostty", "Obsidian"],
+		"primary-dock": ["Brave", "Cursor", "Warp"],
 		"secondary-dock": [
 			"Zed",
 			"Yaak",
@@ -19,9 +19,12 @@
 			"Numi",
 			"CleanMyMac",
 			"Downie 4",
+			"Tidal",
+			"Spotify",
+			"Endel",
 			"Tidal"
 		],
-		"chrome-bookmarks": [
+		"brave-bookmarks": [
 			"Calendar",
 			"Gmail",
 			"v0",
@@ -33,7 +36,7 @@
 			"Whimsical",
 			"Stately"
 		],
-		"chrome-extensions": [
+		"brave-extensions": [
 			"Cursorful",
 			"uBlock Origin",
 			"Grammarly",
