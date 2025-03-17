@@ -1,6 +1,6 @@
 {
 	"primary-machine": {
-		"primary-dock": ["Brave", "Cursor", "Warp"],
+		"primary-dock": ["Google Chrome", "Cursor", "Warp"],
 		"secondary-dock": [
 			"Zed",
 			"Yaak",
@@ -24,7 +24,7 @@
 			"Endel",
 			"Tidal"
 		],
-		"brave-bookmarks": [
+		"chrome-bookmarks": [
 			"Calendar",
 			"Gmail",
 			"v0",
@@ -36,7 +36,7 @@
 			"Whimsical",
 			"Stately"
 		],
-		"brave-extensions": [
+		"chrome-extensions": [
 			"Cursorful",
 			"uBlock Origin",
 			"Grammarly",
