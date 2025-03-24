@@ -1,11 +1,10 @@
 {
 	"primary-machine": {
-		"primary-dock": ["Google Chrome", "Cursor", "Warp"],
+		"primary-dock": ["Google Chrome", "Cursor", "Warp", "Linear"],
 		"secondary-dock": [
 			"Zed",
 			"Yaak",
 			"Figma",
-			"Linear",
 			"Slack",
 			"Discord",
 			"iPhone Mirroring",
