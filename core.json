@@ -13,7 +13,6 @@
 			"TablePlus",
 			"LocalCan",
 			"DevUtils",
-			"RunJS",
 			"Screen Studio",
 			"RunJS",
 			"Numi",
@@ -21,8 +20,7 @@
 			"Downie 4",
 			"Tidal",
 			"Spotify",
-			"Endel",
-			"Tidal"
+			"Endel"
 		],
 		"chrome-bookmarks": [
 			"Calendar",
@@ -40,8 +38,7 @@
 			"Cursorful",
 			"uBlock Origin",
 			"Grammarly",
-			"A Fine Start",
-			"JSON Viewer",
+			"JSON Formatter",
 			"Web Vitals",
 			"Wappalyzer",
 			"Dimensions",
@@ -54,8 +51,6 @@
 			"Raycast",
 			"Rectangle",
 			"CleanShotX",
-			"Hidden Bar",
-			"LookAway",
 			"Clop"
 		],
 		"applications-folder": [
@@ -65,6 +60,26 @@
 			"The Unarchiver",
 			"Transmission"
 		],
-		"raycast-extensions": ["CleanShotX", "ColorPicker"]
+		"raycast-extensions": ["CleanShotX", "ColorPicker"],
+    "cursor-extensions": [
+      "Auto Close Tag",
+      "Auto Rename Tag",
+      "Biome",
+      "Carbon Product Icons",
+      "Catppuccin for VSCode",
+      "Cappuccin Icons for VSCode",
+      "Code Spell Checker",
+      "CodeMetrics",
+      "CodeSnap",
+      "Import Cost",
+      "Indent Rainbow",
+      "JS and TS Nightly",
+      "Path Intellisense",
+      "Tailwind CSS IntelliSense",
+      "Template String Converter",
+      "TODO Highlight",
+      "Turbo Console Log",
+      "Conventional Commits"
+    ]
 	}
 }

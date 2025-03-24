@@ -3,20 +3,17 @@
   "editor.fontSize": 16,
   "editor.fontWeight": "500",
   "editor.fontLigatures": true,
-  "editor.fontFamily": "TX-02",
+  "editor.fontFamily": "Berkeley Mono",
   // Editor - Secondary Fonts
-  "scm.inputFontFamily": "TX-02",
-  "chat.editor.fontFamily": "TX-02",
-  "debug.console.fontFamily": "TX-02",
-  "editor.codeLensFontFamily": "TX-02",
-  "notebook.output.fontFamily": "TX-02",
-  "markdown.preview.fontFamily": "TX-02",
-  "editor.inlayHints.fontFamily": "TX-02",
-  "terminal.integrated.fontFamily": "TX-02",
-  "editor.inlineSuggest.fontFamily": "TX-02",
-  "editor.experimentalInlineEdit.fontFamily": "TX-02",
-  // APC
-  "apc.font.family": "TX-02",
+  "scm.inputFontFamily": "Berkeley Mono",
+  "chat.editor.fontFamily": "Berkeley Mono",
+  "debug.console.fontFamily": "Berkeley Mono",
+  "editor.codeLensFontFamily": "Berkeley Mono",
+  "notebook.output.fontFamily": "Berkeley Mono",
+  "markdown.preview.fontFamily": "Berkeley Mono",
+  "editor.inlayHints.fontFamily": "Berkeley Mono",
+  "terminal.integrated.fontFamily": "Berkeley Mono",
+  "editor.inlineSuggest.fontFamily": "Berkeley Mono",
   // Editor - Cursor
   "editor.cursorBlinking": "phase",
   "editor.cursorStyle": "line-thin",
@@ -24,6 +21,7 @@
   // Editor - Sticky Scroll
   "editor.stickyScroll.enabled": true,
   // Editor - General
+
   "editor.tabSize": 2,
   "editor.wordWrap": "on",
   "editor.glyphMargin": false,
@@ -35,10 +33,11 @@
   "editor.renderWhitespace": "none",
   "editor.accessibilitySupport": "off",
   "editor.hideCursorInOverviewRuler": true,
-  // Workbench
-  "workbench.colorTheme": "Catppuccin Mocha",
+  "editor.bracketPairColorization.enabled": true,
+  "editor.guides.bracketPairs":"active",
+  // Workbench - Several
   "workbench.productIconTheme": "icons-carbon",
-  "workbench.iconTheme": "quill-icons-minimal",
+  "workbench.iconTheme": "catppuccin-mocha",
   "workbench.editor.tabSizing": "shrink",
   "workbench.fontAliasing": "antialiased",
   "workbench.panel.defaultLocation": "bottom",
@@ -69,7 +68,6 @@
   // Turbo Console log
   "turboConsoleLog.quote": "'",
   "turboConsoleLog.logMessagePrefix": "\\n",
-  "turboConsoleLog.includeFileNameAndLineNum": false,
   // Biome
   "editor.formatOnSave": true,
   "editor.defaultFormatter": "biomejs.biome",
@@ -86,5 +84,7 @@
   ],
   // Cursor
   "cursor.cpp.enablePartialAccepts": true,
-  "cursor.chat.smoothStreaming": true,
+  // window
+  "window.zoomLevel": 1,
+  "workbench.colorTheme": "Catppuccin Mocha",
 }
