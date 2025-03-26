@@ -78,7 +78,11 @@
       "Template String Converter",
       "TODO Highlight",
       "Turbo Console Log",
-      "Conventional Commits"
+      "Conventional Commits",
+      "Mintlify",
+      "Pretty TypeScript Errors",
+      "GitLens",
+      "Auto-Open Markdown Preview"
     ]
 	}
 }
