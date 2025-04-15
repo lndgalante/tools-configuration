@@ -83,7 +83,9 @@
       "Mintlify",
       "Pretty TypeScript Errors",
       "GitLens",
-      "Auto-Open Markdown Preview"
+      "Auto-Open Markdown Preview",
+      "Makefile Tools",
+      "SVG Preview"
     ]
 	}
 }
