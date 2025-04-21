@@ -61,6 +61,11 @@
 			"Transmission"
 		],
 		"raycast-extensions": ["CleanShotX", "ColorPicker"],
+    "cursor-models": [
+      "Claude 3.5 Sonnet",
+      "Gemini 2.5 Pro",
+      "ChatGPT o3"
+    ]
     "cursor-extensions": [
       "Auto Close Tag",
       "Auto Rename Tag",
