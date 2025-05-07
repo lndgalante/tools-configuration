@@ -70,6 +70,9 @@ cask "transmission"
 
 ## ------------ Developer Utilities ------------
 
+# Mise
+brew "mise"
+
 # Bun
 brew "bun"
 

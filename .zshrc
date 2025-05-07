@@ -14,5 +14,14 @@ echo "\n"
 pokemonsay "Take a look around, and have some fun coding today! Peace out bro."
 echo "\n"
 
+# Mise
+eval "$(mise activate zsh)"
+
+# Local Bin
+export PATH="$PATH:$HOME/.local/bin"
+
+# Java
+export JAVA_HOME=/Library/Java/JavaVirtualMachines/zulu-17.jdk/Contents/Home
+
 # Display folders
 erd --level 1 --dirs-only --suppress-size
