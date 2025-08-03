@@ -1,91 +1,89 @@
 {
-  // Editor - Primary Fonts
-  "editor.fontSize": 16,
-  "editor.fontWeight": "500",
-  "editor.fontLigatures": true,
-  "editor.fontFamily": "Berkeley Mono",
-  // Editor - Secondary Fonts
-  "scm.inputFontFamily": "Berkeley Mono",
-  "chat.editor.fontFamily": "Berkeley Mono",
-  "debug.console.fontFamily": "Berkeley Mono",
-  "editor.codeLensFontFamily": "Berkeley Mono",
-  "notebook.output.fontFamily": "Berkeley Mono",
-  "markdown.preview.fontFamily": "Berkeley Mono",
-  "editor.inlayHints.fontFamily": "Berkeley Mono",
-  "terminal.integrated.fontFamily": "Berkeley Mono",
-  "editor.inlineSuggest.fontFamily": "Berkeley Mono",
-  // Editor - Cursor
-  "editor.cursorBlinking": "phase",
-  "editor.cursorStyle": "line-thin",
-  "editor.cursorSmoothCaretAnimation": "on",
-  // Editor - Sticky Scroll
-  "editor.stickyScroll.enabled": true,
-  // Editor - General
-
-  "editor.tabSize": 2,
-  "editor.wordWrap": "on",
-  "editor.glyphMargin": false,
-  "editor.linkedEditing": true,
-  "editor.smoothScrolling": true,
-  "editor.detectIndentation": false,
-  "explorer.compactFolders": false,
-  "explorer.fileNesting.enabled": true,
-  "editor.renderWhitespace": "none",
-  "editor.accessibilitySupport": "off",
-  "editor.hideCursorInOverviewRuler": true,
-  "editor.bracketPairColorization.enabled": true,
-  "editor.guides.bracketPairs":"active",
-  // Workbench - Several
-  "workbench.colorTheme": "Catppuccin Mocha",
-  "workbench.productIconTheme": "icons-carbon",
-  "workbench.iconTheme": "catppuccin-mocha",
-  "workbench.editor.tabSizing": "shrink",
-  "workbench.fontAliasing": "antialiased",
-  "workbench.panel.defaultLocation": "bottom",
-  "workbench.editor.enablePreviewFromQuickOpen": false,
-  "workbench.settings.editor": "json",
-  // Workbench - Tree
-  "workbench.tree.indent": 14,
-  "workbench.tree.renderIndentGuides": "always",
-  "workbench.colorCustomizations": {
-    "tree.indentGuidesStroke": "#dec58c"
-  },
-  // Imports
-  "javascript.updateImportsOnFileMove.enabled": "always",
-  "typescript.updateImportsOnFileMove.enabled": "always",
-  "typescript.disableAutomaticTypeAcquisition": true,
-  "typescript.preferences.autoImportSpecifierExcludeRegexes": ["@radix-ui", "next/router"],
-  // Files
-  "files.insertFinalNewline": true,
-  "files.trimTrailingWhitespace": true,
-  "files.defaultLanguage": "${activeEditorLanguage}",
-  // Git
-  "git.autofetch": true,
-  "git.enableSmartCommit": true,
-  "git.openRepositoryInParentFolders": "always",
-  // Emmet
-  "emmet.triggerExpansionOnTab": true,
-  "emmet.showExpandedAbbreviation": "never",
-  "emmet.includeLanguages": { "typescript": "javascriptreact" },
-  // Turbo Console log
-  "turboConsoleLog.quote": "'",
-  "turboConsoleLog.logMessagePrefix": "\\n",
-  // Biome
-  "editor.formatOnSave": false,
-  "editor.defaultFormatter": "biomejs.biome",
-  "editor.codeActionsOnSave": { "quickfix.biome": "explicit"},
-  "[javascript][javascriptreact][typescript][typescriptreact][json][html][css][tailwindcss]": {
-    "editor.defaultFormatter": "biomejs.biome"
-  },
-  // Indent Rainbow
-  "indentRainbow.colors": [
-    "rgba(255,255,64,0.02)",
-    "rgba(127,255,127,0.02)",
-    "rgba(255,127,255,0.02)",
-    "rgba(79,236,236,0.02)"
-  ],
-  // Cursor
-  "cursor.cpp.enablePartialAccepts": true,
-  // window
-  "window.zoomLevel": 1
-}
+    // Editor - Primary Fonts
+    "editor.fontSize": 16,
+    "editor.fontWeight": "500",
+    "editor.fontLigatures": true,
+    "editor.fontFamily": "Berkeley Mono",
+    // Editor - Secondary Fonts
+    "scm.inputFontFamily": "Berkeley Mono",
+    "debug.console.fontFamily": "Berkeley Mono",
+    "editor.codeLensFontFamily": "Berkeley Mono",
+    "notebook.output.fontFamily": "Berkeley Mono",
+    "markdown.preview.fontFamily": "Berkeley Mono",
+    "editor.inlayHints.fontFamily": "Berkeley Mono",
+    "terminal.integrated.fontFamily": "Berkeley Mono",
+    "editor.inlineSuggest.fontFamily": "Berkeley Mono",
+    // Editor - Cursor
+    "editor.cursorBlinking": "phase",
+    "editor.cursorStyle": "line-thin",
+    "editor.cursorSmoothCaretAnimation": "on",
+    // Editor - Sticky Scroll
+    "editor.stickyScroll.enabled": true,
+    // Editor - General
+    "editor.tabSize": 2,
+    "editor.wordWrap": "on",
+    "editor.glyphMargin": false,
+    "editor.linkedEditing": true,
+    "editor.smoothScrolling": true,
+    "editor.detectIndentation": false,
+    "explorer.compactFolders": false,
+    "explorer.fileNesting.enabled": true,
+    "editor.renderWhitespace": "none",
+    "editor.accessibilitySupport": "off",
+    "editor.hideCursorInOverviewRuler": true,
+    "editor.bracketPairColorization.enabled": true,
+    "editor.guides.bracketPairs":"active",
+    // Workbench - Several
+    "workbench.colorTheme": "Catppuccin Mocha",
+    "workbench.productIconTheme": "icons-carbon",
+    "workbench.iconTheme": "catppuccin-mocha",
+    "workbench.editor.tabSizing": "shrink",
+    "workbench.fontAliasing": "antialiased",
+    "workbench.panel.defaultLocation": "bottom",
+    "workbench.editor.enablePreviewFromQuickOpen": false,
+    "workbench.settings.editor": "json",
+    // Workbench - Tree
+    "workbench.tree.indent": 14,
+    "workbench.tree.renderIndentGuides": "always",
+    "workbench.colorCustomizations": {
+      "tree.indentGuidesStroke": "#dec58c"
+    },
+    // Imports
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "typescript.disableAutomaticTypeAcquisition": true,
+    "typescript.preferences.autoImportSpecifierExcludeRegexes": ["@radix-ui", "next/router"],
+    // Files
+    "files.insertFinalNewline": true,
+    "files.trimTrailingWhitespace": true,
+    "files.defaultLanguage": "${activeEditorLanguage}",
+    // Git
+    "git.autofetch": true,
+    "git.enableSmartCommit": true,
+    "git.openRepositoryInParentFolders": "always",
+    // Emmet
+    "emmet.triggerExpansionOnTab": true,
+    "emmet.showExpandedAbbreviation": "never",
+    "emmet.includeLanguages": { "typescript": "javascriptreact" },
+    // Turbo Console log
+    "turboConsoleLog.quote": "'",
+    "turboConsoleLog.logMessagePrefix": "\\n",
+    // Biome
+    "editor.formatOnSave": false,
+    "editor.defaultFormatter": "biomejs.biome",
+    "editor.codeActionsOnSave": { "quickfix.biome": "explicit"},
+    "[javascript][javascriptreact][typescript][typescriptreact][json][html][css][tailwindcss]": {
+      "editor.defaultFormatter": "biomejs.biome"
+    },
+    // Indent Rainbow
+    "indentRainbow.colors": [
+      "rgba(255,255,64,0.02)",
+      "rgba(127,255,127,0.02)",
+      "rgba(255,127,255,0.02)",
+      "rgba(79,236,236,0.02)"
+    ],
+    // Cursor
+    "cursor.cpp.enablePartialAccepts": true,
+    // window
+    "window.zoomLevel": 1
+  }
