@@ -70,6 +70,7 @@
       "ChatGPT o3"
     ],
     "cursor-extensions": [
+      "Claude Code",
       "Auto Close Tag",
       "Auto Rename Tag",
       "Biome",
