@@ -1,15 +1,12 @@
 ## ------------ Browsers ------------
 
-# Google Chrome
-cask "google-chrome"
+# Dia
+cask "dia"
 
 ## ------------ Terminal ------------
 
 # Warp
-cask "ghostty"
-
-# Spaceship
-brew "spaceship"
+cask "warp"
 
 ## ------------ Code Editors ------------
 
@@ -17,9 +14,6 @@ brew "spaceship"
 cask "cursor"
 
 ## ------------ macOS Utilities ------------
-
-# Ice
-brew "jordanbaird-ice"
 
 # Raycast
 cask "raycast"
@@ -132,11 +126,12 @@ cask "whatsapp"
 # Telegram
 cask "telegram"
 
-
 ## ------------ Health ------------
 
 # LookAway
 cask "lookaway"
 
+# BrainFM
+cask "brainfm"
 
 ## ------------ From website ------------

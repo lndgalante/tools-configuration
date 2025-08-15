@@ -84,6 +84,4 @@
     ],
     // Cursor
     "cursor.cpp.enablePartialAccepts": true,
-    // window
-    "window.zoomLevel": 1
-  }
+}

@@ -1,11 +1,10 @@
 {
 	"primary-machine": {
-		"primary-dock": ["Google Chrome", "Cursor", "Warp", "Linear"],
+		"primary-dock": ["Dia", "Cursor", "Warp", "Slack/Linear", "ChatGPT"],
 		"secondary-dock": [
 			"Zed",
 			"Yaak",
 			"Figma",
-			"Slack",
 			"Discord",
 			"iPhone Mirroring",
 			"OrbStack",
@@ -22,7 +21,7 @@
 			"Endel",
       "Cap"
 		],
-		"chrome-bookmarks": [
+		"dia-bookmarks": [
 			"Calendar",
 			"Gmail",
 			"v0",
@@ -34,7 +33,7 @@
 			"Whimsical",
 			"Stately"
 		],
-		"chrome-extensions": [
+		"dia-extensions": [
 			"Cursorful",
 			"uBlock Origin",
 			"Grammarly",
@@ -48,7 +47,7 @@
 			"Detailed SEO Extension"
 		],
 		"menu-bar": [
-      "Vivid",
+      "BrainFM",
       "Revisual",
 			"Hovrly",
 			"Raycast",
@@ -63,16 +62,14 @@
 			"The Unarchiver",
 			"Transmission"
 		],
-		"raycast-extensions": ["CleanShotX", "ColorPicker"],
+		"raycast-extensions": ["CleanShotX", "Color Picker"],
     "cursor-models": [
-      "Claude 3.5 Sonnet",
+      "Claude 4 Sonnet",
       "Gemini 2.5 Pro",
-      "ChatGPT o3"
+      "GPT-5"
     ],
     "cursor-extensions": [
-      "Claude Code",
       "Auto Close Tag",
-      "Auto Rename Tag",
       "Biome",
       "Carbon Product Icons",
       "Catppuccin for VSCode",
@@ -83,18 +80,17 @@
       "Import Cost",
       "Indent Rainbow",
       "JS and TS Nightly",
-      "Path Intellisense",
       "Tailwind CSS IntelliSense",
       "Template String Converter",
       "TODO Highlight",
       "Turbo Console Log",
       "Conventional Commits",
-      "Mintlify",
       "Pretty TypeScript Errors",
       "GitLens",
-      "Auto-Open Markdown Preview",
       "Makefile Tools",
-      "SVG Preview"
+      "SVG Preview",
+      "EarlyAI",
+      "Spell Right"
     ]
 	}
 }
