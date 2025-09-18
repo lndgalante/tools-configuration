@@ -69,6 +69,7 @@
       "GPT-5"
     ],
     "cursor-extensions": [
+      "CodeRabbit",
       "Auto Close Tag",
       "Biome",
       "Carbon Product Icons",
@@ -91,6 +92,10 @@
       "SVG Preview",
       "EarlyAI",
       "Spell Right"
+    ],
+    "claude-mcps": [
+      "Playwright",
+      "Context7"
     ]
 	}
 }
