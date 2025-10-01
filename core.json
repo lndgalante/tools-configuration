@@ -64,12 +64,15 @@
 		],
 		"raycast-extensions": ["CleanShotX", "Color Picker"],
     "cursor-models": [
-      "Claude 4 Sonnet",
+      "Claude 4.5 Sonnet",
       "Gemini 2.5 Pro",
       "GPT-5"
     ],
+    "cli-tools": [
+      "claude",
+      "coderabbit"
+    ],
     "cursor-extensions": [
-      "CodeRabbit",
       "Auto Close Tag",
       "Biome",
       "Carbon Product Icons",
