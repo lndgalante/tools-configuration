@@ -1,6 +1,6 @@
 {
 	"primary-machine": {
-		"primary-dock": ["Dia", "Cursor", "Warp", "Slack/Linear", "ChatGPT"],
+		"primary-dock": ["Helium", "Zed", "Ghostty", "Slack/Linear", "ChatGPT"],
 		"secondary-dock": [
 			"Zed",
 			"Yaak",
@@ -21,11 +21,10 @@
 			"Endel",
       "Cap"
 		],
-		"dia-bookmarks": [
+		"helium-bookmarks": [
 			"Calendar",
 			"Gmail",
 			"v0",
-			"Poolsuite.FM",
 			"ChatGPT",
 			"Claude",
 			"Transform.tools",
@@ -33,7 +32,7 @@
 			"Whimsical",
 			"Stately"
 		],
-		"dia-extensions": [
+		"helium-extensions": [
 			"Cursorful",
 			"uBlock Origin",
 			"Grammarly",
