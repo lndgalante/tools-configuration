@@ -1,76 +1,64 @@
 {
-	"primary-machine": {
-		"primary-dock": ["Helium", "Zed", "Warp/Ghostty", "Slack/Linear", "ChatGPT"],
-		"secondary-dock": [
-			"Zed",
-			"Yaak",
-			"Figma",
-			"Discord",
-			"iPhone Mirroring",
-			"OrbStack",
-			"TablePlus",
-			"LocalCan",
-			"DevUtils",
-			"Screen Studio",
-			"RunJS",
-			"Numi",
-			"CleanMyMac",
-			"Downie 4",
-			"Tidal",
-			"Spotify",
-			"Endel",
+  "primary-machine": {
+    "primary-dock": ["Helium", "Zed", "Ghostty", "Slack/Linear", "ChatGPT"],
+    "secondary-dock": [
+      "Zed",
+      "Yaak",
+      "Figma",
+      "Discord",
+      "iPhone Mirroring",
+      "OrbStack",
+      "TablePlus",
+      "LocalCan",
+      "Screen Studio",
+      "RunJS",
+      "Numi",
+      "CleanMyMac",
+      "Downie 4",
+      "Tidal",
+      "Spotify",
+      "Endel",
       "Cap"
-		],
-		"helium-bookmarks": [
-			"Calendar",
-			"Gmail",
-			"v0",
-			"ChatGPT",
-			"Claude",
-			"Transform.tools",
-			"TLDRAW",
-			"Whimsical",
-			"Stately"
-		],
-		"helium-extensions": [
-			"Cursorful",
-			"uBlock Origin",
-			"Grammarly",
-			"JSON Formatter",
-			"Web Vitals",
-			"Wappalyzer",
-			"Dimensions",
-			"Refined GitHub",
-      "Minimal Twitter",
-			"React Developer Tools",
-			"Detailed SEO Extension"
-		],
-		"menu-bar": [
+    ],
+    "helium-bookmarks": [
+      "Calendar",
+      "Gmail",
+      "ChatGPT",
+      "Claude",
+      "Transform.tools",
+      "TLDRAW",
+      "Whimsical",
+      "Stately"
+    ],
+    "helium-extensions": [
+      "Cursorful",
+      "uBlock Origin",
+      "Grammarly",
+      "JSON Formatter",
+      "Web Vitals",
+      "Wappalyzer",
+      "Refined GitHub",
+      "React Developer Tools",
+      "Detailed SEO Extension"
+    ],
+    "menu-bar": [
       "BrainFM",
-      "Revisual",
-			"Hovrly",
-			"Raycast",
-			"Rectangle",
-			"CleanShotX",
-			"Clop"
-		],
-		"applications-folder": [
-			"PixelSnap2",
-			"IINA",
-			"Stremio",
-			"The Unarchiver",
-			"Transmission"
-		],
-		"raycast-extensions": ["CleanShotX", "Color Picker"],
-    "cursor-models": [
-      "Claude 4.5 Sonnet",
-      "Gemini 2.5 Pro",
-      "GPT-5"
+      "Hovrly",
+      "Raycast",
+      "Rectangle",
+      "CleanShotX",
+      "Clop"
     ],
-    "cli-tools": [
-      "claude",
-      "coderabbit"
+    "applications-folder": [
+      "PixelSnap2",
+      "IINA",
+      "Stremio",
+      "The Unarchiver",
+      "Transmission"
     ],
+    "raycast-extensions": ["CleanShotX", "Color Picker"],
+    "cursor-models": ["Claude 4.5 Sonnet", "Gemini 2.5 Pro", "GPT-5"],
+    "cli-tools": ["claude", "coderabbit"],
     "cursor-extensions": [
       "Auto Close Tag",
       "Biome",
@@ -87,7 +75,6 @@
       "Template String Converter",
       "TODO Highlight",
       "Turbo Console Log",
-      "Conventional Commits",
       "Pretty TypeScript Errors",
       "GitLens",
       "Makefile Tools",
@@ -95,9 +82,6 @@
       "EarlyAI",
       "Spell Right"
     ],
-    "claude-mcps": [
-      "Playwright",
-      "Context7"
-    ]
-	}
+    "claude-mcps": ["Playwright", "Context7"]
+  }
 }
