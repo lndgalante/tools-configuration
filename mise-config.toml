@@ -1,0 +1,4 @@
+[tools]
+bun = "latest"
+node = "latest"
+python = "3.11"
