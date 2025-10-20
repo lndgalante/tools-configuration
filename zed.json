@@ -1,0 +1,29 @@
+// Zed settings
+//
+// For information on how to configure Zed, see the Zed
+// documentation: https://zed.dev/docs/configuring-zed
+//
+// To see all of Zed's default settings without changing your
+// custom settings, run `zed: open default settings` from the
+// command palette (cmd-shift-p / ctrl-shift-p)
+{
+  "context_servers": {
+    "mcp-server-github": {
+      "source": "extension",
+      "enabled": true
+    }
+  },
+  "buffer_font_family": "Berkeley Mono",
+  "icon_theme": "Catppuccin Mocha",
+  "ui_font_size": 18,
+  "buffer_font_size": 18,
+  "base_keymap": "Cursor",
+  "tabs": {
+    "file_icons": true
+  },
+  "theme": {
+    "mode": "dark",
+    "light": "One Light",
+    "dark": "JetBrains Dark"
+  }
+}
