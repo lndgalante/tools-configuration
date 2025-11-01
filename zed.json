@@ -11,6 +11,11 @@
     "mcp-server-github": {
       "source": "extension",
       "enabled": true
+    },
+    "Context7": {
+      "source": "custom",
+      "command": "npx",
+      "args": ["-y", "@upstash/context7-mcp", "--api-key", "API_KEY"]
     }
   },
   "buffer_font_family": "Berkeley Mono",

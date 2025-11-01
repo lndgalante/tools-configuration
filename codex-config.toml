@@ -1,0 +1,7 @@
+[projects."/Users/leo/Developer"]
+trust_level = "trusted"
+
+[mcp_servers.context7]
+args = ["-y", "@upstash/context7-mcp", "--api-key", "ctx7sk-aa59cd32-8d67-4e6f-8d37-c8966930f344"]
+command = "npx"
+startup_timeout_ms = 20_000
