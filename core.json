@@ -10,15 +10,13 @@
       "OrbStack",
       "TablePlus",
       "LocalCan",
-      "Screen Studio",
       "RunJS",
       "Numi",
       "CleanMyMac",
       "Downie 4",
       "Tidal",
       "Spotify",
-      "Endel",
-      "Cap"
+      "Brain.fm"
     ],
     "helium-bookmarks": [
       "Calendar",
@@ -59,7 +57,9 @@
     "raycast-extensions": ["CleanShotX", "Color Picker"],
     "cursor-models": ["Claude 4.5 Sonnet", "Gemini 2.5 Pro", "GPT-5"],
     "cli-tools": ["claude", "coderabbit"],
+    "mcps": ["Playwright", "Context7", "Chrome MCP"],
     "cursor-extensions": [
+      "Augment",
       "Auto Close Tag",
       "Biome",
       "Carbon Product Icons",
@@ -78,10 +78,7 @@
       "Pretty TypeScript Errors",
       "GitLens",
       "Makefile Tools",
-      "SVG Preview",
-      "EarlyAI",
-      "Spell Right"
-    ],
-    "claude-mcps": ["Playwright", "Context7"]
+      "SVG Preview"
+    ]
   }
 }
