@@ -1,3 +1,6 @@
+export PATH="/opt/homebrew/opt/pnpm@9/bin:$PATH"
+export JAVA_HOME=/Library/Java/JavaVirtualMachines/zulu-17.jdk/Contents/Home
+
 eval "$(starship init zsh)"
 eval "$(mise activate zsh)"
 
