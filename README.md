@@ -8,6 +8,8 @@
 
 ## macOS
 
+- [macOS - speed up terminal compile times](https://x.com/steipete/status/2003925293665337501/photo/1)
+
 - [macOS Security and Privacy Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide)
 
 - [macOS - Screen config](https://tonsky.me/blog/monitors/)
