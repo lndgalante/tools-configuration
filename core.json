@@ -61,10 +61,26 @@
       "The Unarchiver",
       "Transmission"
     ],
-    "raycast-extensions": ["CleanShotX", "Color Picker"],
-    "cursor-models": ["Claude 4.5 Sonnet", "Gemini 2.5 Pro", "GPT-5"],
-    "cli-tools": ["claude", "coderabbit"],
-    "mcps": ["Playwright", "Context7", "Chrome MCP"],
+    "raycast-extensions": [
+      "CleanShotX",
+      "Color Picker"
+    ],
+    "cursor-models": [
+      "Claude 4.5 Sonnet",
+      "Gemini 2.5 Pro",
+      "GPT-5"
+    ],
+    "cli-tools": [
+      "claude",
+      "coderabbit",
+      "mole"
+    ],
+    "mcps": [
+      "Claude in Chrome",
+      "Context7",
+      "Sentry",
+      "Supabase"
+    ],
     "cursor-extensions": [
       "Augment",
       "Auto Close Tag",

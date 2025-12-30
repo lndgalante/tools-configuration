@@ -15,6 +15,9 @@ cask "cursor"
 
 ## ------------ macOS Utilities ------------
 
+# Mole
+brew "tw93/tap/mole"
+
 # Raycast
 cask "raycast"
 
