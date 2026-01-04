@@ -1,12 +1,12 @@
 ## ------------ Browsers ------------
 
-# Dia
-cask "dia"
+# Helium  
+cask "helium"
 
 ## ------------ Terminal ------------
 
-# Warp
-cask "warp"
+# Ghostty
+cask "ghostty"
 
 ## ------------ Code Editors ------------
 
@@ -36,14 +36,8 @@ cask "the-unarchiver"
 # Numi
 cask "numi"
 
-# CleanMyMac
-cask "cleanmymac"
-
 # Downie
 cask "downie"
-
-# CleanMyMacX
-cask "cleanmymac"
 
 # PixelSnap2
 cask "pixelsnap"
@@ -78,9 +72,6 @@ brew "rust"
 
 # Git
 brew "git"
-
-# FNM
-brew "fnm"
 
 # RunJS
 cask "runjs"

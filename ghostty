@@ -1,17 +1,10 @@
+command = "/opt/homebrew/bin/fish"
+theme = catppuccin-mocha.conf
+
 font-family = TX-02
 font-size = 16
 font-feature = -liga
 
-cursor-style = block
-
-mouse-hide-while-typing = true
-mouse-scroll-multiplier = 2
-
-window-colorspace = "display-p3"
-window-save-state = always
 window-padding-balance = true
 window-padding-x = 6
 window-padding-y = 6
-
-background-opacity = 0.96
-shell-integration = zsh
