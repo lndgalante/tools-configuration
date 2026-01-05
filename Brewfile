@@ -45,6 +45,9 @@ cask "pixelsnap"
 # Clop
 cask "clop"
 
+# HiddenBar
+cask "hiddenbar"
+
 ## ------------ Media ------------
 
 # Tidal
