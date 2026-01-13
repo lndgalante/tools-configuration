@@ -71,7 +71,7 @@
     ],
     "cli-tools": [
       "claude",
-      "coderabbit",
+      "greptile",
       "mole"
     ],
     "mcps": [
