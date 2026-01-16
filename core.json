@@ -74,6 +74,9 @@
       "greptile",
       "mole"
     ],
+    "npx-add-skill": [
+      "vercel-labs/agent-skills"
+    ],
     "mcps": [
       "Rams",
       "Chrome",
