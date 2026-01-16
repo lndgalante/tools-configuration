@@ -75,12 +75,12 @@
       "mole"
     ],
     "npx-add-skill": [
+      "expo/skills",
       "rams",
       "ui-skills",
       "vercel-labs/agent-skills"
     ],
     "mcps": [
-      "Rams",
       "Chrome",
       "Context7",
       "Sentry",
