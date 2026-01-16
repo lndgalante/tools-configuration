@@ -75,6 +75,8 @@
       "mole"
     ],
     "npx-add-skill": [
+      "rams",
+      "ui-skills",
       "vercel-labs/agent-skills"
     ],
     "mcps": [
