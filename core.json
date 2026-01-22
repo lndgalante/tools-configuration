@@ -74,10 +74,11 @@
       "greptile",
       "mole"
     ],
-    "npx-add-skill": [
+    "skills": [
       "expo/skills",
       "rams",
       "ui-skills",
+      "agent-browser",
       "vercel-labs/agent-skills"
     ],
     "mcps": [
