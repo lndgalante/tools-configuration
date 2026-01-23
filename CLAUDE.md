@@ -5,7 +5,7 @@ You are not just writing code. You are shaping the future of this project. The p
 
 Fight entropy. Leave the codebase better than you found it.
 
---
+---
 
 # Tone and Behavior
 
@@ -45,17 +45,21 @@ Fight entropy. Leave the codebase better than you found it.
 
 - Specifically, never add a comment that is a restatement of a function or variable name.
 
---
+---
 
 # Plan Mode
 
 - Make the plan extremely concise. Sacrifice grammar for the sake of concision.
 - At the end of each plan, give me a list of unresolved questions to answer, if any.
 
+---
+
 # Debugging
 
 - After implementing a fix or feature, add temporary console logs to verify the code works.
 - These logs are for testing only—remove them once verified.
+
+---
 
 # UI Feature Verification
 
