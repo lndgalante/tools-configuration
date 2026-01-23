@@ -52,14 +52,10 @@ Fight entropy. Leave the codebase better than you found it.
 - Make the plan extremely concise. Sacrifice grammar for the sake of concision.
 - At the end of each plan, give me a list of unresolved questions to answer, if any.
 
--
-
 # Debugging
 
 - After implementing a fix or feature, add temporary console logs to verify the code works.
 - These logs are for testing only—remove them once verified.
-
--
 
 # UI Feature Verification
 
