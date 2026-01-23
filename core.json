@@ -71,21 +71,21 @@
     ],
     "cli-tools": [
       "claude",
-      "greptile",
       "mole"
     ],
-    "skills": [
+    "llm-skills": [
       "expo/skills",
       "rams",
       "ui-skills",
       "agent-browser",
+      "supabase/agent-skills",
       "vercel-labs/agent-skills"
     ],
-    "mcps": [
-      "Chrome",
+    "llm-plugins": [
       "Context7",
       "Sentry",
-      "Supabase"
+      "Supabase",
+      "Frontend-Design"
     ],
     "cursor-extensions": [
       "Augment",
