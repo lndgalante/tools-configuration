@@ -2,7 +2,7 @@
   "primary-machine": {
     "primary-dock": [
       "Helium",
-      "Zed",
+      "Cursor",
       "Ghostty",
       "Slack/Linear",
       "ChatGPT",
@@ -51,7 +51,8 @@
       "Raycast",
       "Rectangle",
       "CleanShotX",
-      "Clop"
+      "Clop",
+      "Finetune"
     ],
     "applications-folder": [
       "PixelSnap2",
@@ -65,9 +66,8 @@
       "Color Picker"
     ],
     "cursor-models": [
-      "Claude 4.5 Sonnet",
-      "Gemini 2.5 Pro",
-      "GPT-5"
+      "Claude 4.6 Sonnet",
+      "GPT-5.3"
     ],
     "cli-tools": [
       "claude",
