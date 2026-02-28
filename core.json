@@ -74,6 +74,7 @@
       "mole"
     ],
     "llm-skills": [
+      "react-doctor",
       "expo/skills",
       "rams",
       "ui-skills",
