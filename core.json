@@ -2,7 +2,7 @@
   "primary-machine": {
     "primary-dock": [
       "Helium",
-      "Cursor",
+      "Cursor/Cmux",
       "Ghostty",
       "Slack/Linear",
       "ChatGPT",
