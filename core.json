@@ -2,6 +2,7 @@
   "primary-machine": {
     "primary-dock": [
       "Helium",
+      "Conductor",
       "Cursor/Cmux",
       "Ghostty",
       "Slack/Linear",
