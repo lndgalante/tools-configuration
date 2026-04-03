@@ -91,6 +91,9 @@
       "Supabase",
       "Codex"
     ],
+    "npm-software": [
+      "npm install -g port-whisperer"
+    ],
     "cursor-extensions": [
       "Augment",
       "Auto Close Tag",
