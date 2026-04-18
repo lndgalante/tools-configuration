@@ -1,16 +1,14 @@
 {
   "primary-machine": {
     "primary-dock": [
-      "Helium",
-      "Conductor",
-      "Cursor/Cmux",
-      "Ghostty",
-      "Slack/Linear",
-      "ChatGPT",
-      "Granola"
+      "Helium/Zen",
+      "Cursor/Zed",
+      "Ghostty/Warp",
+      "Notion/Slack",
+      "ChatGPT/Claude",
     ],
     "secondary-dock": [
-      "Zed",
+      "Granola",
       "Yaak",
       "Figma",
       "Discord",
