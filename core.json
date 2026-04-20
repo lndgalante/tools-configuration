@@ -83,7 +83,7 @@
       "ui-skills",
       "agent-browser",
       "supabase/agent-skills",
-      "vercel-labs/agent-skills"
+      "make-interfaces-feel-better"
     ],
     "llm-plugins": [
       "Context7",
