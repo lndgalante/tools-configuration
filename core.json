@@ -83,7 +83,8 @@
       "ui-skills",
       "agent-browser",
       "supabase/agent-skills",
-      "make-interfaces-feel-better"
+      "make-interfaces-feel-better",
+      "taste-skill"
     ],
     "llm-plugins": [
       "Context7",
