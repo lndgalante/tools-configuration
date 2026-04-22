@@ -96,6 +96,7 @@
       "npm install -g port-whisperer"
     ],
     "cursor-extensions": [
+      "Flow Icons",
       "Augment",
       "Auto Close Tag",
       "Biome",
