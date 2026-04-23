@@ -84,7 +84,8 @@
       "agent-browser",
       "supabase/agent-skills",
       "make-interfaces-feel-better",
-      "taste-skill"
+      "taste-skill",
+      "kami"
     ],
     "llm-plugins": [
       "Context7",
