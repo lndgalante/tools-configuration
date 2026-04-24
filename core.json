@@ -87,7 +87,8 @@
       "supabase/agent-skills",
       "make-interfaces-feel-better",
       "taste-skill",
-      "kami"
+      "kami",
+      "fallow-skills"
     ],
     "llm-plugins": [
       "Context7",
