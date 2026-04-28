@@ -1,9 +1,9 @@
 {
   "primary-machine": {
     "primary-dock": [
-      "Helium/Zen",
-      "Cursor/Zed",
-      "Ghostty/Warp",
+      "Helium",
+      "Warp",
+      "Zed",
       "Notion/Slack",
       "ChatGPT/Claude",
     ],
