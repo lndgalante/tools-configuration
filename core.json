@@ -5,9 +5,10 @@
       "Warp",
       "Zed",
       "Notion/Slack",
-      "ChatGPT/Claude",
+      "ChatGPT/Claude"
     ],
     "secondary-dock": [
+      "TablePro",
       "OpenScreen",
       "Recordly",
       "Granola",
