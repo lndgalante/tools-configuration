@@ -59,6 +59,7 @@
       "Finetune"
     ],
     "applications-folder": [
+      "Nostr/vpn",
       "MacUSB",
       "PixelSnap2",
       "IINA",
