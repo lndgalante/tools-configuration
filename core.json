@@ -59,6 +59,7 @@
       "Finetune"
     ],
     "applications-folder": [
+      "Cotypist",
       "Nostr/vpn",
       "MacUSB",
       "PixelSnap2",
@@ -102,6 +103,9 @@
       "Supabase",
       "Codex"
     ],
+    "web-tools": [
+      "https://diffshub.com/",
+    ]
     "npm-software": [
       "npm install -g port-whisperer"
     ],
