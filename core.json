@@ -105,6 +105,7 @@
     ],
     "web-tools": [
       "https://diffshub.com/",
+      "https://transform.tools/"
     ]
     "npm-software": [
       "npm install -g port-whisperer"
