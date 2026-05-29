@@ -109,7 +109,8 @@
     ],
     "web-tools": [
       "https://diffshub.com/",
-      "https://transform.tools/"
+      "https://transform.tools/",
+      "https://reelcode.fayaz.workers.dev/"
     ]
     "npm-software": [
       "npm install -g port-whisperer"
