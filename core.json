@@ -116,6 +116,9 @@
     "npm-software": [
       "npm install -g port-whisperer"
     ],
+    "coding-font": [
+      "Ioskeley Mono"
+    ].
     "cursor-extensions": [
       "Flow Icons",
       "Augment",
