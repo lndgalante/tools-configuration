@@ -1,12 +1,13 @@
 {
   "primary-machine": {
-    "primary-dock": [
-      "Helium",
-      "Cmux",
-      "Zed",
-      "Notion/Slack",
-      "ChatGPT/Claude"
-    ],
+    "primary-dock": {
+        "day-to-day": ["Zen Browser",  "Slack"],
+        "front-end": ["Helium Browser", "Figma"],
+        "development": ["Zed", "Cmux"],
+        "back-end": ["Yaak", "TablePro"],
+        "ai": ["Claude", "ChatGPT"],
+        "others": ["Linear", "Granola"]
+    },
     "secondary-dock": [
       "Shotter",
       "TablePro",
