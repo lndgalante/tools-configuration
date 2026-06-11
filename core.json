@@ -72,8 +72,8 @@
       "Color Picker"
     ],
     "cursor-models": [
-      "Claude 4.6 Sonnet",
-      "GPT-5.3"
+      "Claude 5 Fable",
+      "GPT-5.5 xhigh fast"
     ],
     "cli-tools": [
       "claude",
@@ -112,14 +112,11 @@
       "https://app.superdesign.dev/",
       "https://designengineer.tools/",
       "https://reelcode.fayaz.workers.dev/",
-    ]
-    "npm-software": [
-      "npm install -g port-whisperer"
     ],
     "coding-font": [
       "Ioskeley Mono"
-    ].
-    "cursor-extensions": [
+    ],
+    "zed-extensions": [
       "Flow Icons",
       "Augment",
       "Auto Close Tag",
