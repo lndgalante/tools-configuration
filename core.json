@@ -6,7 +6,7 @@
         "development": ["Zed", "Cmux"],
         "back-end": ["Yaak", "TablePro", "Orbstack"],
         "ai": ["Claude", "ChatGPT"],
-        "others": ["Linear", "Granola"]
+        "others": ["Wispr Flow", "Linear", "Granola"]
     },
     "secondary-dock": [
       "Shotter",
