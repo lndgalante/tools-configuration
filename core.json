@@ -104,7 +104,8 @@
       "Context7",
       "Sentry",
       "Supabase",
-      "Codex"
+      "Codex",
+      "DietrichGebert/ponytail"
     ],
     "web-tools": [
       "https://svgl.app/",
