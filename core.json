@@ -2,7 +2,7 @@
   "primary-machine": {
     "primary-dock": {
         "day-to-day": ["Zen Browser",  "Slack"],
-        "development": ["Zed", "Cmux"],
+        "development": ["Zed", "Ghostty (+herdr)"],
         "front-end": ["Helium Browser", "Figma", "GatherOS"],
         "back-end": ["Yaak", "TablePro", "Orbstack"],
         "ai": ["Claude", "ChatGPT"],
