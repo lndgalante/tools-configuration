@@ -10,7 +10,6 @@
     },
     "secondary-dock": [
       "Screen Studio",
-      "Recordly",
       "LocalCan",
       "RunJS",
       "Numi",
@@ -31,11 +30,9 @@
       "Stately"
     ],
     "helium-extensions": [
-      "Sinceerly",
-      "Cursorful",
       "uBlock Origin",
       "Grammarly",
-      "JSON Formatter",
+      "JSON Alexander",
       "Web Vitals",
       "Wappalyzer",
       "Refined GitHub",
