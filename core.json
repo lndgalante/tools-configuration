@@ -75,6 +75,7 @@
       "mole"
     ],
     "llm-skills": [
+      "jamiemill/layers-skills",
       "copywriting",
       "improve-codebase-architecture",
       "ui-ux-pro-max",
