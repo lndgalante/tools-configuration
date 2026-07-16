@@ -1,9 +1,9 @@
 {
   "primary-machine": {
     "primary-dock": {
-        "day-to-day": ["Zen Browser",  "Slack"],
-        "development": ["Zed", "Ghostty (+herdr)"],
-        "front-end": ["Helium Browser", "Figma", "GatherOS"],
+        "day-to-day": ["Dia Browser",  "Slack"],
+        "development": ["Zed", "Warp"],
+        "front-end": ["Helium Browser", "Figma"],
         "back-end": ["Yaak", "TablePro", "Orbstack"],
         "ai": ["Claude", "ChatGPT"],
         "others": ["Wispr Flow", "Linear", "Granola"]
