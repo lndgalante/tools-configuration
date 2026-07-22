@@ -76,6 +76,7 @@
       "mole"
     ],
     "llm-skills": [
+      "petergyang/no-ai-slop",
       "jakubkrehel/skills",
       "jamiemill/layers-skills",
       "copywriting",
