@@ -76,6 +76,7 @@
       "mole"
     ],
     "llm-skills": [
+      "elayadesign/ai-design-skills",
       "obra/systematic-debugging",
       "petergyang/no-ai-slop",
       "jakubkrehel/skills",
