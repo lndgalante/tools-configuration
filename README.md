@@ -87,6 +87,7 @@ https://www.youtube.com/watch?v=BlB5wovFmjc
 
 ## Disable macOS animations
 
+```bash
 defaults write -g NSScrollViewRubberbanding -int 0
 defaults write -g NSAutomaticWindowAnimationsEnabled -bool false
 defaults write -g NSScrollAnimationEnabled -bool false
@@ -108,3 +109,6 @@ defaults write com.apple.Mail DisableReplyAnimations -bool true
 defaults write NSGlobalDomain NSWindowResizeTime .001
 defaults write com.apple.dock expose-animation-duration -int 0; killall Dock
 defaults write com.apple.dock expose-animation-duration -float 0.1; killall Dock
+```
+
+Ports app https://www.ports-app.com/?x=1
