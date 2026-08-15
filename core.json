@@ -76,6 +76,7 @@
       "mole"
     ],
     "llm-skills": [
+      "dmmulroy/anti-slop",
       "elayadesign/ai-design-skills",
       "obra/systematic-debugging",
       "petergyang/no-ai-slop",
