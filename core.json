@@ -75,31 +75,23 @@
       "claude",
       "mole"
     ],
-    "llm-skills": [
-      "dmmulroy/anti-slop",
+    "llm-skills": {
+        "plan": ["mattpocock"],
+        "quality": ["thermo-nuclear-code-quality-review", "dmmulroy/anti-slop", "improve-codebase-architecture"],
+        "ui": ["ui-ux-pro-max", "impeccable", "emikowalski", "jakubkrehel/skills", "shadcn/improve", "transitions.dev"]
+        "wording": ["petergyang/no-ai-slop",  "copywriting"]
+        "others": [
       "elayadesign/ai-design-skills",
       "obra/systematic-debugging",
-      "petergyang/no-ai-slop",
-      "jakubkrehel/skills",
       "jamiemill/layers-skills",
-      "copywriting",
-      "improve-codebase-architecture",
-      "ui-ux-pro-max",
-      "transitions.dev",
-      "impeccable",
-      "emikowalski",
       "react-doctor",
       "expo/skills",
-      "make-interfaces-feel-better",
       "taste-skill",
       "kami",
-      "fallow-skills",
-      "mattpocock",
       "slavingia",
-      "shadcn/improve",
-      "thermo-nuclear-code-quality-review",
       "diffusionstudio/lottie"
     ],
+    },
     "llm-plugins": [
       "Context7",
       "Sentry",
