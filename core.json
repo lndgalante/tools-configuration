@@ -84,6 +84,7 @@
         "ui": ["ui-ux-pro-max", "impeccable", "emikowalski", "jakubkrehel/skills", "shadcn/improve"],
         "wording": ["petergyang/no-ai-slop",  "copywriting"],
         "motion": ["animate-expo", "transitions.dev"],
+        "frameworks": ["tanstack-agent-skills"],
         "others": [
       "elayadesign/ai-design-skills",
       "obra/systematic-debugging",
