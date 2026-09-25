@@ -85,6 +85,7 @@
         "wording": ["petergyang/no-ai-slop",  "copywriting"],
         "motion": ["animate-expo", "transitions.dev"],
         "frameworks": ["tanstack-agent-skills"],
+        "infra": ["docker/skills"],
         "others": [
       "elayadesign/ai-design-skills",
       "obra/systematic-debugging",
