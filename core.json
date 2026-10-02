@@ -6,7 +6,7 @@
         "front-end": ["Helium Browser", "Figma"],
         "back-end": ["Yaak", "TablePro", "Orbstack"],
         "ai": ["Claude", "ChatGPT"],
-        "others": ["Wispr Flow", "Linear", "Granola", "ScreenStudio"]
+        "others": ["Handy", "Linear", "Granola", "ScreenStudio"]
     },
     "secondary-dock": [
       "Clop",
