@@ -20,7 +20,7 @@
       "Tidal",
       "Spotify",
       "Brain.fm",
-      "macUSB".
+      "macUSB",
       "BetterDisplay"
     ],
     "helium-bookmarks": [
@@ -80,7 +80,7 @@
     ],
     "llm-skills": {
         "plan": ["mattpocock"],
-        "docs": ["humanlayer/skills"],
+        "docs": ["humanlayer/skills", "ibelick/ui-skills"],
         "quality": ["thermo-nuclear-code-quality-review", "dmmulroy/anti-slop", "improve-codebase-architecture", "bholmesdev/simplify"],
         "ui": ["ui-ux-pro-max", "impeccable", "emikowalski", "jakubkrehel/skills", "shadcn/improve"],
         "wording": ["petergyang/no-ai-slop",  "copywriting"],
