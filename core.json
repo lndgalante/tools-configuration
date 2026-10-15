@@ -80,7 +80,7 @@
     ],
     "llm-skills": {
         "plan": ["mattpocock"],
-        "docs": ["humanlayer/skills", "ibelick/ui-skills"],
+        "docs": ["humanlayer/skills", "ibelick/ui-skills", "wheresryan22/anatomy"],
         "quality": ["thermo-nuclear-code-quality-review", "dmmulroy/anti-slop", "improve-codebase-architecture", "bholmesdev/simplify"],
         "ui": ["ui-ux-pro-max", "impeccable", "emikowalski", "jakubkrehel/skills", "shadcn/improve"],
         "wording": ["petergyang/no-ai-slop",  "copywriting"],
