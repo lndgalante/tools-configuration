@@ -83,6 +83,7 @@
         "docs": ["humanlayer/skills", "ibelick/ui-skills", "wheresryan22/anatomy"],
         "quality": ["thermo-nuclear-code-quality-review", "dmmulroy/anti-slop", "improve-codebase-architecture", "bholmesdev/simplify"],
         "ui": ["ui-ux-pro-max", "impeccable", "emikowalski", "jakubkrehel/skills", "shadcn/improve"],
+        "design": ["nutlope/hallmark"],
         "wording": ["petergyang/no-ai-slop",  "copywriting"],
         "motion": ["animate-expo", "transitions.dev"],
         "frameworks": ["tanstack-agent-skills"],
