@@ -5,7 +5,7 @@
         "development": ["Zed", "Warp"],
         "front-end": ["Helium Browser", "Figma"],
         "back-end": ["Yaak", "TablePro", "Orbstack"],
-        "ai": ["Claude", "ChatGPT", "Hex"],
+        "ai": ["Claude", "ChatGPT", "Whispr Flow"],
         "others": ["Handy", "Linear", "Granola", "ScreenStudio"]
     },
     "secondary-dock": [
