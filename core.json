@@ -88,6 +88,7 @@
         "motion": ["animate-expo", "transitions.dev"],
         "frameworks": ["tanstack-agent-skills"],
         "infra": ["docker/skills"],
+        "patterns": ["GoogleChrome/modern-web-guidance"],
         "others": [
       "elayadesign/ai-design-skills",
       "obra/systematic-debugging",
