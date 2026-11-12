@@ -2,7 +2,7 @@
   "primary-machine": {
     "primary-dock": {
         "day-to-day": ["Dia Browser",  "Slack"],
-        "development": ["Zed", "Rex"],
+        "development": ["Orca", "Rex"],
         "front-end": ["Helium Browser", "Figma"],
         "back-end": ["Yaak", "TablePro", "Orbstack"],
         "ai": ["Claude", "ChatGPT", "Whispr Flow"],
