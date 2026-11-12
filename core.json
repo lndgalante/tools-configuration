@@ -2,11 +2,11 @@
   "primary-machine": {
     "primary-dock": {
         "day-to-day": ["Dia Browser",  "Slack"],
-        "development": ["Zed", "Warp"],
+        "development": ["Zed", "Rex"],
         "front-end": ["Helium Browser", "Figma"],
         "back-end": ["Yaak", "TablePro", "Orbstack"],
         "ai": ["Claude", "ChatGPT", "Whispr Flow"],
-        "others": ["Handy", "Linear", "Granola", "ScreenStudio"]
+        "others": ["Linear", "Granola", "ScreenStudio"]
     },
     "secondary-dock": [
       "Clop",
